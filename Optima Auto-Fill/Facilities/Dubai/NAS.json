@@ -260,15 +260,6 @@
     ]
   },
   {
-    "PolicyGroupCode": "NAS ADAM CN",
-    "PolicyGroupDescription": "NAS - ADAMJEE INSURANCE CN",
-    "RateListCode": "NAS",
-    "PolicyGroupCustomerType": "Insurance Company",
-    "PolicGroupActiveStatus": "Active",
-    "PayerId": "INS047",
-    "Plans": []
-  },
-  {
     "PolicyGroupCode": "NAS ADAM GN",
     "PolicyGroupDescription": "NAS - ADAMJEE INSURANCE GN",
     "RateListCode": "NAS-GN",
@@ -919,33 +910,6 @@
     ]
   },
   {
-    "PolicyGroupCode": "NAS AHLI BK CN",
-    "PolicyGroupDescription": "NAS - AHLI BANK SAOG CN",
-    "RateListCode": "NAS",
-    "PolicyGroupCustomerType": "Insurance Company",
-    "PolicGroupActiveStatus": "Active",
-    "PayerId": "SP0034",
-    "Plans": []
-  },
-  {
-    "PolicyGroupCode": "NAS AHLI BK GN",
-    "PolicyGroupDescription": "NAS - AHLI BANK SAOG GN",
-    "RateListCode": "NAS-GN",
-    "PolicyGroupCustomerType": "Insurance Company",
-    "PolicGroupActiveStatus": "Active",
-    "PayerId": "SP0034",
-    "Plans": []
-  },
-  {
-    "PolicyGroupCode": "NAS AJ UNV CN",
-    "PolicyGroupDescription": "NAS - AJMAN UNIVERSITY CN",
-    "RateListCode": "NAS",
-    "PolicyGroupCustomerType": "Insurance Company",
-    "PolicGroupActiveStatus": "Active",
-    "PayerId": "SP0053",
-    "Plans": []
-  },
-  {
     "PolicyGroupCode": "NAS AJ UNV GN",
     "PolicyGroupDescription": "NAS - AJMAN UNIVERSITY GN",
     "RateListCode": "NAS-GN",
@@ -979,15 +943,6 @@
         "PlanActiveStatus": "Active"
       }
     ]
-  },
-  {
-    "PolicyGroupCode": "NAS ALKHAZ CN",
-    "PolicyGroupDescription": "NAS- AL KHAZNA INSURANCE COMPANY - CN",
-    "RateListCode": "NAS",
-    "PolicyGroupCustomerType": "Insurance Company",
-    "PolicGroupActiveStatus": "Inactive",
-    "PayerId": "INS032",
-    "Plans": []
   },
   {
     "PolicyGroupCode": "NAS ALKHAZ GN",
@@ -1535,15 +1490,6 @@
     ]
   },
   {
-    "PolicyGroupCode": "NAS ARAB GNN",
-    "PolicyGroupDescription": "NAS - ADNIC GN",
-    "RateListCode": "NAS-GN",
-    "PolicyGroupCustomerType": "Insurance Company",
-    "PolicGroupActiveStatus": "Inactive",
-    "PayerId": "INS017",
-    "Plans": []
-  },
-  {
     "PolicyGroupCode": "NAS ARB REF 1.3",
     "PolicyGroupDescription": "NAS-ARAB ORIENT INSURANCE - REFFERED CASES - 1.3 FACTOR",
     "RateListCode": "NAS",
@@ -1757,15 +1703,6 @@
         "PlanActiveStatus": "Active"
       }
     ]
-  },
-  {
-    "PolicyGroupCode": "NAS ASNIC CNN",
-    "PolicyGroupDescription": "NAS - ARABIAN SCANDINAVIAN INS CO GN",
-    "RateListCode": "NAS-GN",
-    "PolicyGroupCustomerType": "Insurance Company",
-    "PolicGroupActiveStatus": "Inactive",
-    "PayerId": "INS016",
-    "Plans": []
   },
   {
     "PolicyGroupCode": "NAS ASNIC GN",
@@ -2033,15 +1970,6 @@
     ]
   },
   {
-    "PolicyGroupCode": "NAS ASNIC GNN",
-    "PolicyGroupDescription": "NAS - ARABIAN SCANDINAVIAN INS CO GN",
-    "RateListCode": "NAS-GN",
-    "PolicyGroupCustomerType": "Insurance Company",
-    "PolicGroupActiveStatus": "Inactive",
-    "PayerId": "INS016",
-    "Plans": []
-  },
-  {
     "PolicyGroupCode": "NAS ASNIC RN",
     "PolicyGroupDescription": "NAS - AL SAGR  NATIONAL INS CO (ASNIC) - RN+SRN+WN",
     "RateListCode": "NAS - RN+SRN+WN",
@@ -2115,15 +2043,6 @@
         "PlanActiveStatus": "Active"
       }
     ]
-  },
-  {
-    "PolicyGroupCode": "NAS BKIC GN",
-    "PolicyGroupDescription": "NAS - BAHRAIN KUWAIT INSURANCE CO. - BAHRAIN  GN",
-    "RateListCode": "NAS-GN",
-    "PolicyGroupCustomerType": "Insurance Company",
-    "PolicGroupActiveStatus": "Active",
-    "PayerId": "INS056",
-    "Plans": []
   },
   {
     "PolicyGroupCode": "NAS BUHAIRA CN",
@@ -2361,15 +2280,6 @@
     ]
   },
   {
-    "PolicyGroupCode": "NAS DAMAN CNN",
-    "PolicyGroupDescription": "NAS - ARABIAN SCANDINAVIAN INS CO GN",
-    "RateListCode": "NAS-GN",
-    "PolicyGroupCustomerType": "Insurance Company",
-    "PolicGroupActiveStatus": "Inactive",
-    "PayerId": "INS016",
-    "Plans": []
-  },
-  {
     "PolicyGroupCode": "NAS DAMAN GN",
     "PolicyGroupDescription": "NAS - DAMAN - GN",
     "RateListCode": "NAS-GN",
@@ -2518,15 +2428,6 @@
         "PlanActiveStatus": "Active"
       }
     ]
-  },
-  {
-    "PolicyGroupCode": "NAS DAMAN GNN",
-    "PolicyGroupDescription": "NAS - ARABIAN SCANDINAVIAN INS CO GN",
-    "RateListCode": "NAS-GN",
-    "PolicyGroupCustomerType": "Insurance Company",
-    "PolicGroupActiveStatus": "Inactive",
-    "PayerId": "INS016",
-    "Plans": []
   },
   {
     "PolicyGroupCode": "NAS DAR TK  CN",
@@ -2692,15 +2593,6 @@
         "PlanActiveStatus": "Active"
       }
     ]
-  },
-  {
-    "PolicyGroupCode": "NAS DHAFRA CN",
-    "PolicyGroupDescription": "NAS - DEACTIVATED",
-    "RateListCode": "NAS",
-    "PolicyGroupCustomerType": "Insurance Company",
-    "PolicGroupActiveStatus": "Inactive",
-    "PayerId": "INS029",
-    "Plans": []
   },
   {
     "PolicyGroupCode": "NAS DIC CN",
@@ -3053,15 +2945,6 @@
     ]
   },
   {
-    "PolicyGroupCode": "NAS DIC GNGN",
-    "PolicyGroupDescription": "NAS - ARABIAN SCANDINAVIAN INS CO GN",
-    "RateListCode": "NAS-GN",
-    "PolicyGroupCustomerType": "Insurance Company",
-    "PolicGroupActiveStatus": "Inactive",
-    "PayerId": "INS016",
-    "Plans": []
-  },
-  {
     "PolicyGroupCode": "NAS DNIRC CN",
     "PolicyGroupDescription": "NAS - DUBAI NATIONAL INSURANCE AND REINSURANCE CO CN",
     "RateListCode": "NAS",
@@ -3212,15 +3095,6 @@
     ]
   },
   {
-    "PolicyGroupCode": "NAS EMI IC  CN",
-    "PolicyGroupDescription": "NAS - DEACTIVATED",
-    "RateListCode": "NAS",
-    "PolicyGroupCustomerType": "Insurance Company",
-    "PolicGroupActiveStatus": "Inactive",
-    "PayerId": "INS033",
-    "Plans": []
-  },
-  {
     "PolicyGroupCode": "NAS EMIC  CN",
     "PolicyGroupDescription": "NAS - EMIRATES INS CO CN",
     "RateListCode": "NAS",
@@ -3269,15 +3143,6 @@
         "PlanActiveStatus": "Active"
       }
     ]
-  },
-  {
-    "PolicyGroupCode": "NAS FUJ UNV CN",
-    "PolicyGroupDescription": "NAS - UNIVERSITY OF SCIENCE & TECHNOLOGY OF FUJAIRAH CN",
-    "RateListCode": "NAS",
-    "PolicyGroupCustomerType": "Insurance Company",
-    "PolicGroupActiveStatus": "Active",
-    "PayerId": "SP0053",
-    "Plans": []
   },
   {
     "PolicyGroupCode": "NAS FUJ UNV GN",
@@ -3388,33 +3253,6 @@
         "PlanActiveStatus": "Active"
       }
     ]
-  },
-  {
-    "PolicyGroupCode": "NAS GU LIC  CN",
-    "PolicyGroupDescription": "NAS - GULF LIFE INSURANCE CO. (K.S.C.C) CN",
-    "RateListCode": "NAS",
-    "PolicyGroupCustomerType": "Insurance Company",
-    "PolicGroupActiveStatus": "Active",
-    "PayerId": "INS100",
-    "Plans": []
-  },
-  {
-    "PolicyGroupCode": "NAS GU LIC  GN",
-    "PolicyGroupDescription": "NAS - GULF LIFE INSURANCE CO. (K.S.C.C) GN",
-    "RateListCode": "NAS-GN",
-    "PolicyGroupCustomerType": "Insurance Company",
-    "PolicGroupActiveStatus": "Active",
-    "PayerId": "INS100",
-    "Plans": []
-  },
-  {
-    "PolicyGroupCode": "NAS GULF TK CN",
-    "PolicyGroupDescription": "NAS - GULF TAKAFUL CN",
-    "RateListCode": "NAS",
-    "PolicyGroupCustomerType": "Insurance Company",
-    "PolicGroupActiveStatus": "Active",
-    "PayerId": "INS101",
-    "Plans": []
   },
   {
     "PolicyGroupCode": "NAS GULF TK GN",
@@ -4032,33 +3870,6 @@
     ]
   },
   {
-    "PolicyGroupCode": "NAS KQIC GN",
-    "PolicyGroupDescription": "NAS - QATAR INS CO  ( QIC ) - KUWAIT GN",
-    "RateListCode": "NAS-GN",
-    "PolicyGroupCustomerType": "Insurance Company",
-    "PolicGroupActiveStatus": "Active",
-    "PayerId": "INS102",
-    "Plans": []
-  },
-  {
-    "PolicyGroupCode": "NAS LEB IC  GN",
-    "PolicyGroupDescription": "NAS - LEBANESE INSURANCE COMPANY  GN",
-    "RateListCode": "NAS-GN",
-    "PolicyGroupCustomerType": "Insurance Company",
-    "PolicGroupActiveStatus": "Active",
-    "PayerId": "INS036",
-    "Plans": []
-  },
-  {
-    "PolicyGroupCode": "NAS LEB IC CN",
-    "PolicyGroupDescription": "NAS - LEBANESE INSURANCE COMPANY  CN",
-    "RateListCode": "NAS",
-    "PolicyGroupCustomerType": "Insurance Company",
-    "PolicGroupActiveStatus": "Active",
-    "PayerId": "INS036",
-    "Plans": []
-  },
-  {
     "PolicyGroupCode": "NAS MED CN",
     "PolicyGroupDescription": "NAS - MEDGULF UAE  CN",
     "RateListCode": "NAS",
@@ -4314,15 +4125,6 @@
     ]
   },
   {
-    "PolicyGroupCode": "NAS MED GNGN",
-    "PolicyGroupDescription": "NAS - AL HILAL TAKAFUL GN",
-    "RateListCode": "NAS-GN",
-    "PolicyGroupCustomerType": "Insurance Company",
-    "PolicGroupActiveStatus": "Inactive",
-    "PayerId": "INS031",
-    "Plans": []
-  },
-  {
     "PolicyGroupCode": "NAS METHAQ CN",
     "PolicyGroupDescription": "NAS - METHAQ TAKAFUL INSURANCE CN",
     "RateListCode": "NAS",
@@ -4391,42 +4193,6 @@
         "PlanActiveStatus": "Active"
       }
     ]
-  },
-  {
-    "PolicyGroupCode": "NAS MUT TAK  CN",
-    "PolicyGroupDescription": "NAS - AL MUTHANA TAKAFUL CN",
-    "RateListCode": "NAS",
-    "PolicyGroupCustomerType": "Insurance Company",
-    "PolicGroupActiveStatus": "Active",
-    "PayerId": "INS097",
-    "Plans": []
-  },
-  {
-    "PolicyGroupCode": "NAS MUT TAK  GN",
-    "PolicyGroupDescription": "NAS - AL MUTHANA TAKAFUL GN",
-    "RateListCode": "NAS-GN",
-    "PolicyGroupCustomerType": "Insurance Company",
-    "PolicGroupActiveStatus": "Active",
-    "PayerId": "INS097",
-    "Plans": []
-  },
-  {
-    "PolicyGroupCode": "NAS NB EGY CN",
-    "PolicyGroupDescription": "NAS - NATIONAL BANK OF EGYPT CN",
-    "RateListCode": "NAS",
-    "PolicyGroupCustomerType": "Insurance Company",
-    "PolicGroupActiveStatus": "Active",
-    "PayerId": "SP0033",
-    "Plans": []
-  },
-  {
-    "PolicyGroupCode": "NAS NB EGY GN",
-    "PolicyGroupDescription": "NAS - NATIONAL BANK OF EGYPT GN",
-    "RateListCode": "NAS-GN",
-    "PolicyGroupCustomerType": "Insurance Company",
-    "PolicGroupActiveStatus": "Active",
-    "PayerId": "SP0033",
-    "Plans": []
   },
   {
     "PolicyGroupCode": "NAS NGI - REF",
@@ -4934,15 +4700,6 @@
     ]
   },
   {
-    "PolicyGroupCode": "NAS QLMIC",
-    "PolicyGroupDescription": "INACTIVATED",
-    "RateListCode": "NAS",
-    "PolicyGroupCustomerType": "Insurance Company",
-    "PolicGroupActiveStatus": "Inactive",
-    "PayerId": "TPA004",
-    "Plans": []
-  },
-  {
     "PolicyGroupCode": "NAS QLMIC CN",
     "PolicyGroupDescription": "NAS - QATAR LIFE & MEDICAL INS CO LLC -CN",
     "RateListCode": "NAS",
@@ -4976,15 +4733,6 @@
         "PlanActiveStatus": "Active"
       }
     ]
-  },
-  {
-    "PolicyGroupCode": "NAS RAK BK  CN",
-    "PolicyGroupDescription": "NAS - RAK BANK- CN",
-    "RateListCode": "NAS",
-    "PolicyGroupCustomerType": "Insurance Company",
-    "PolicGroupActiveStatus": "Active",
-    "PayerId": "SP0037",
-    "Plans": []
   },
   {
     "PolicyGroupCode": "NAS RAK BK  GN",
@@ -5097,15 +4845,6 @@
     ]
   },
   {
-    "PolicyGroupCode": "NAS SL SRN-SGHN",
-    "PolicyGroupDescription": "NAS - ORIENT INSURANCE P.J.S.C GN",
-    "RateListCode": "NAS-GN",
-    "PolicyGroupCustomerType": "Insurance Company",
-    "PolicGroupActiveStatus": "Inactive",
-    "PayerId": "INS008",
-    "Plans": []
-  },
-  {
     "PolicyGroupCode": "NAS SUK TAK CN",
     "PolicyGroupDescription": "NAS - SUKOON TAKAFUL (ASCANA) CN",
     "RateListCode": "NAS",
@@ -5191,15 +4930,6 @@
     ]
   },
   {
-    "PolicyGroupCode": "NAS TAZ TAK  CN",
-    "PolicyGroupDescription": "NAS - TAZUR TAKAFUL INSURANCE C0. (K.S.C.C)  CN",
-    "RateListCode": "NAS",
-    "PolicyGroupCustomerType": "Insurance Company",
-    "PolicGroupActiveStatus": "Active",
-    "PayerId": "INS104",
-    "Plans": []
-  },
-  {
     "PolicyGroupCode": "NAS TAZ TAK GN",
     "PolicyGroupDescription": "NAS - TAZUR TAKAFUL INSURANCE C0. (K.S.C.C)  GN",
     "RateListCode": "NAS-GN",
@@ -5213,24 +4943,6 @@
         "PlanActiveStatus": "Active"
       }
     ]
-  },
-  {
-    "PolicyGroupCode": "NAS TI KUW CN",
-    "PolicyGroupDescription": "NAS - TAKAFUL INTL - KUWAITL CN",
-    "RateListCode": "NAS",
-    "PolicyGroupCustomerType": "Insurance Company",
-    "PolicGroupActiveStatus": "Active",
-    "PayerId": "INS103",
-    "Plans": []
-  },
-  {
-    "PolicyGroupCode": "NAS TI KUW GN",
-    "PolicyGroupDescription": "NAS - TAKAFUL INTL - KUWAITL GN",
-    "RateListCode": "NAS-GN",
-    "PolicyGroupCustomerType": "Insurance Company",
-    "PolicGroupActiveStatus": "Active",
-    "PayerId": "INS103",
-    "Plans": []
   },
   {
     "PolicyGroupCode": "NAS TOKIO CN",
@@ -5306,24 +5018,6 @@
         "PlanActiveStatus": "Active"
       }
     ]
-  },
-  {
-    "PolicyGroupCode": "NAS TT BAH CN",
-    "PolicyGroupDescription": "NAS - TAZUR TAKAFUL INSURANCE C0. (BAHRAIN)- CN",
-    "RateListCode": "NAS",
-    "PolicyGroupCustomerType": "Insurance Company",
-    "PolicGroupActiveStatus": "Active",
-    "PayerId": "INS091",
-    "Plans": []
-  },
-  {
-    "PolicyGroupCode": "NAS TT BAH GN",
-    "PolicyGroupDescription": "NAS - TAZUR TAKAFUL INSURANCE C0. (BAHRAIN)- GN",
-    "RateListCode": "NAS-GN",
-    "PolicyGroupCustomerType": "Insurance Company",
-    "PolicGroupActiveStatus": "Active",
-    "PayerId": "INS091",
-    "Plans": []
   },
   {
     "PolicyGroupCode": "NAS UNB CN",
@@ -5514,15 +5208,6 @@
         "PlanActiveStatus": "Active"
       }
     ]
-  },
-  {
-    "PolicyGroupCode": "NAS UNB GN-S",
-    "PolicyGroupDescription": "NAS - ORIENT INSURANCE P.J.S.C GN",
-    "RateListCode": "NAS-GN",
-    "PolicyGroupCustomerType": "Insurance Company",
-    "PolicGroupActiveStatus": "Inactive",
-    "PayerId": "INS008",
-    "Plans": []
   },
   {
     "PolicyGroupCode": "NAS UNION - REF",
@@ -6160,33 +5845,6 @@
     ]
   },
   {
-    "PolicyGroupCode": "NAS WAT TAK CN",
-    "PolicyGroupDescription": "NAS - DEACTIVATED",
-    "RateListCode": "NAS",
-    "PolicyGroupCustomerType": "Insurance Company",
-    "PolicGroupActiveStatus": "Inactive",
-    "PayerId": "INS079",
-    "Plans": []
-  },
-  {
-    "PolicyGroupCode": "NAS WAT TAK GN",
-    "PolicyGroupDescription": "NAS - DEACTIVATED",
-    "RateListCode": "NAS-GN",
-    "PolicyGroupCustomerType": "Insurance Company",
-    "PolicGroupActiveStatus": "Inactive",
-    "PayerId": "INS079",
-    "Plans": []
-  },
-  {
-    "PolicyGroupCode": "NAS WAT(N - REF",
-    "PolicyGroupDescription": "NAS -WATANIA-NOOR TAKAFUL - REF CASES - 1.3 FACTOR",
-    "RateListCode": "",
-    "PolicyGroupCustomerType": "Insurance Company",
-    "PolicGroupActiveStatus": "Active",
-    "PayerId": "INS018",
-    "Plans": []
-  },
-  {
     "PolicyGroupCode": "NAS WATANIA CN",
     "PolicyGroupDescription": "NAS - NATIONAL TAKAFUL COMPANY (WATANIA) CN",
     "RateListCode": "NAS",
@@ -6547,24 +6205,6 @@
     ]
   },
   {
-    "PolicyGroupCode": "NAS- SHJ IC GN",
-    "PolicyGroupDescription": "NAS - SHARJAH INS CO GN",
-    "RateListCode": "NAS-GN",
-    "PolicyGroupCustomerType": "Insurance Company",
-    "PolicGroupActiveStatus": "Active",
-    "PayerId": "INS021",
-    "Plans": []
-  },
-  {
-    "PolicyGroupCode": "NAS-ABU TAK CN",
-    "PolicyGroupDescription": "NAS - DEACTIVATED",
-    "RateListCode": "NAS",
-    "PolicyGroupCustomerType": "Insurance Company",
-    "PolicGroupActiveStatus": "Inactive",
-    "PayerId": "INS027",
-    "Plans": []
-  },
-  {
     "PolicyGroupCode": "NAS-ACE SHJ  CN",
     "PolicyGroupDescription": "NAS - ACE - SHARJAH CN",
     "RateListCode": "NAS",
@@ -6748,15 +6388,6 @@
         "PlanActiveStatus": "Active"
       }
     ]
-  },
-  {
-    "PolicyGroupCode": "NAS-CN",
-    "PolicyGroupDescription": "NAS - DEACTIVATED",
-    "RateListCode": "NAS",
-    "PolicyGroupCustomerType": "Insurance Company",
-    "PolicGroupActiveStatus": "Inactive",
-    "PayerId": "INS098",
-    "Plans": []
   },
   {
     "PolicyGroupCode": "NAS-CN-ABU TAK",
@@ -7924,15 +7555,6 @@
     ]
   },
   {
-    "PolicyGroupCode": "NAS-CN-RAKR",
-    "PolicyGroupDescription": "NAS - NOOR TAKAFUL CN",
-    "RateListCode": "NAS",
-    "PolicyGroupCustomerType": "Insurance Company",
-    "PolicGroupActiveStatus": "Inactive",
-    "PayerId": "INS018",
-    "Plans": []
-  },
-  {
     "PolicyGroupCode": "NAS-DAMAN- REF",
     "PolicyGroupDescription": "NAS -  DAMAN INS - 1.3 FACTOR",
     "RateListCode": "",
@@ -8241,15 +7863,6 @@
         "PlanActiveStatus": "Inactive"
       }
     ]
-  },
-  {
-    "PolicyGroupCode": "NAS-GN",
-    "PolicyGroupDescription": "NAS - DEACTIVATED",
-    "RateListCode": "NAS-GN",
-    "PolicyGroupCustomerType": "Insurance Company",
-    "PolicGroupActiveStatus": "Inactive",
-    "PayerId": "",
-    "Plans": []
   },
   {
     "PolicyGroupCode": "NAS-GN-ABU TAK",
@@ -8642,15 +8255,6 @@
     ]
   },
   {
-    "PolicyGroupCode": "NAS-GN-ACELIFE",
-    "PolicyGroupDescription": "NAS - DEACTIVATED",
-    "RateListCode": "NAS-GN",
-    "PolicyGroupCustomerType": "Insurance Company",
-    "PolicGroupActiveStatus": "Inactive",
-    "PayerId": "INS108",
-    "Plans": []
-  },
-  {
     "PolicyGroupCode": "NAS-GN-ALWATHBA",
     "PolicyGroupDescription": "NAS - AL WATHBA NATIONAL INS CO GN",
     "RateListCode": "NAS-GN",
@@ -8784,15 +8388,6 @@
         "PlanActiveStatus": "Active"
       }
     ]
-  },
-  {
-    "PolicyGroupCode": "NAS-GN-BOUBYAN",
-    "PolicyGroupDescription": "NAS - DEACTIVATED",
-    "RateListCode": "NAS-GN",
-    "PolicyGroupCustomerType": "Insurance Company",
-    "PolicGroupActiveStatus": "Inactive",
-    "PayerId": "INS098",
-    "Plans": []
   },
   {
     "PolicyGroupCode": "NAS-GN-DAFRA",
@@ -9050,24 +8645,6 @@
     ]
   },
   {
-    "PolicyGroupCode": "NAS-GN-EMARATK",
-    "PolicyGroupDescription": "NAS - ABU DHABI NATIONAL TAKAFUL CO - TAKAFUL GN",
-    "RateListCode": "NAS-GN",
-    "PolicyGroupCustomerType": "Insurance Company",
-    "PolicGroupActiveStatus": "Inactive",
-    "PayerId": "INS027",
-    "Plans": []
-  },
-  {
-    "PolicyGroupCode": "NAS-GN-EMIRATES",
-    "PolicyGroupDescription": "NAS - DEACTIVATED",
-    "RateListCode": "NAS-GN",
-    "PolicyGroupCustomerType": "Insurance Company",
-    "PolicGroupActiveStatus": "Inactive",
-    "PayerId": "INS033",
-    "Plans": []
-  },
-  {
     "PolicyGroupCode": "NAS-GN-GRNCRENT",
     "PolicyGroupDescription": "NAS - GREEN CRESCENT INS CO GN",
     "RateListCode": "NAS-GN",
@@ -9106,15 +8683,6 @@
         "PlanActiveStatus": "Active"
       }
     ]
-  },
-  {
-    "PolicyGroupCode": "NAS-GN-HILAL",
-    "PolicyGroupDescription": "NAS - AL HILAL GN- STAY INACTIVATED",
-    "RateListCode": "NAS-GN",
-    "PolicyGroupCustomerType": "Insurance Company",
-    "PolicGroupActiveStatus": "Inactive",
-    "PayerId": "INS031",
-    "Plans": []
   },
   {
     "PolicyGroupCode": "NAS-GN-INSHOUSE",
@@ -9385,15 +8953,6 @@
         "PlanActiveStatus": "Active"
       }
     ]
-  },
-  {
-    "PolicyGroupCode": "NAS-GN-ITTIHAD",
-    "PolicyGroupDescription": "NAS - AL ITIHAD AL WATANI GN",
-    "RateListCode": "NAS-GN",
-    "PolicyGroupCustomerType": "Insurance Company",
-    "PolicGroupActiveStatus": "Inactive",
-    "PayerId": "INS024",
-    "Plans": []
   },
   {
     "PolicyGroupCode": "NAS-GN-NAT LIFE",
@@ -11041,15 +10600,6 @@
     ]
   },
   {
-    "PolicyGroupCode": "NAS-GN-QIC",
-    "PolicyGroupDescription": "NAS - DEACTIVATED",
-    "RateListCode": "NAS-GN",
-    "PolicyGroupCustomerType": "Insurance Company",
-    "PolicGroupActiveStatus": "Inactive",
-    "PayerId": "INS019",
-    "Plans": []
-  },
-  {
     "PolicyGroupCode": "NAS-GN-RAK",
     "PolicyGroupDescription": "NAS - RAK INSURANCE GN",
     "RateListCode": "NAS-GN",
@@ -11740,33 +11290,6 @@
     ]
   },
   {
-    "PolicyGroupCode": "NAS-GN-SALAMAAK",
-    "PolicyGroupDescription": "NAS - NOOR TAKAFUL GN",
-    "RateListCode": "NAS-GN",
-    "PolicyGroupCustomerType": "Insurance Company",
-    "PolicGroupActiveStatus": "Inactive",
-    "PayerId": "INS018",
-    "Plans": []
-  },
-  {
-    "PolicyGroupCode": "NAS-GN-WATANI",
-    "PolicyGroupDescription": "NAS (GN GROUP)",
-    "RateListCode": "NAS-GN",
-    "PolicyGroupCustomerType": "Insurance Company",
-    "PolicGroupActiveStatus": "Active",
-    "PayerId": "INS079",
-    "Plans": []
-  },
-  {
-    "PolicyGroupCode": "NAS-GN-WATANIA",
-    "PolicyGroupDescription": "NAS - DEACTIVATED",
-    "RateListCode": "NAS-GN",
-    "PolicyGroupCustomerType": "Insurance Company",
-    "PolicGroupActiveStatus": "Inactive",
-    "PayerId": "INS079",
-    "Plans": []
-  },
-  {
     "PolicyGroupCode": "NAS-INS H- REF",
     "PolicyGroupDescription": "NAS -  INSURANCE HOUSE - 1.3 FACTOR",
     "RateListCode": "",
@@ -11862,15 +11385,6 @@
     ]
   },
   {
-    "PolicyGroupCode": "NAS-SHJ IC  CN",
-    "PolicyGroupDescription": "NAS SHARJAH  INS CO  CN",
-    "RateListCode": "NAS",
-    "PolicyGroupCustomerType": "Insurance Company",
-    "PolicGroupActiveStatus": "Active",
-    "PayerId": "INS021",
-    "Plans": []
-  },
-  {
     "PolicyGroupCode": "NAS-TAKAF - REF",
     "PolicyGroupDescription": "NAS - TAKAFUL EMARAT - REF CASES - 1.3 FACTOR",
     "RateListCode": "",
@@ -11884,33 +11398,6 @@
         "PlanActiveStatus": "Active"
       }
     ]
-  },
-  {
-    "PolicyGroupCode": "NASACE",
-    "PolicyGroupDescription": "NAS - DEACTIVATED",
-    "RateListCode": "NAS",
-    "PolicyGroupCustomerType": "Insurance Company",
-    "PolicGroupActiveStatus": "Inactive",
-    "PayerId": "INS108",
-    "Plans": []
-  },
-  {
-    "PolicyGroupCode": "NASEMARATTAKFL",
-    "PolicyGroupDescription": "NAS - DEACTIVATED",
-    "RateListCode": "NAS",
-    "PolicyGroupCustomerType": "Insurance Company",
-    "PolicGroupActiveStatus": "Inactive",
-    "PayerId": "INS022",
-    "Plans": []
-  },
-  {
-    "PolicyGroupCode": "NASGC",
-    "PolicyGroupDescription": "NAS - Green Crescent Insurance CN",
-    "RateListCode": "NAS",
-    "PolicyGroupCustomerType": "Insurance Company",
-    "PolicGroupActiveStatus": "Inactive",
-    "PayerId": "INS009",
-    "Plans": []
   },
   {
     "PolicyGroupCode": "NASGNDXBISL",
@@ -11961,15 +11448,6 @@
         "PlanActiveStatus": "Active"
       }
     ]
-  },
-  {
-    "PolicyGroupCode": "NASGNDXBISLAMIC",
-    "PolicyGroupDescription": "NAS GN DUBAI ISLAMIC BANK",
-    "RateListCode": "NAS-GN",
-    "PolicyGroupCustomerType": "Insurance Company",
-    "PolicGroupActiveStatus": "Inactive",
-    "PayerId": "SP0035",
-    "Plans": []
   },
   {
     "PolicyGroupCode": "NASIHOUSE",
@@ -12652,15 +12130,6 @@
     ]
   },
   {
-    "PolicyGroupCode": "NASITIHAD GNAA",
-    "PolicyGroupDescription": "NAS - NOOR TAKAFUL GN",
-    "RateListCode": "NAS-GN",
-    "PolicyGroupCustomerType": "Insurance Company",
-    "PolicGroupActiveStatus": "Inactive",
-    "PayerId": "INS018",
-    "Plans": []
-  },
-  {
     "PolicyGroupCode": "NASMETHAQ",
     "PolicyGroupDescription": "NAS - AL HILAL TAKAFUL V I P - DEACTIVATED",
     "RateListCode": "NAS",
@@ -12986,15 +12455,6 @@
     ]
   },
   {
-    "PolicyGroupCode": "NASQI - REF 1.3",
-    "PolicyGroupDescription": "NAS - QATAR INS CO  REFFERED CASES - 1.3 FACTOR",
-    "RateListCode": "NAS",
-    "PolicyGroupCustomerType": "Insurance Company",
-    "PolicGroupActiveStatus": "Active",
-    "PayerId": "INS019",
-    "Plans": []
-  },
-  {
     "PolicyGroupCode": "NASQIC Q CN",
     "PolicyGroupDescription": "NAS - QATAR INS CO  ( QIC ) - QATAR CN",
     "RateListCode": "NAS",
@@ -13033,24 +12493,6 @@
         "PlanActiveStatus": "Active"
       }
     ]
-  },
-  {
-    "PolicyGroupCode": "NASQICQ",
-    "PolicyGroupDescription": "NAS - DEACTIVATED",
-    "RateListCode": "NAS",
-    "PolicyGroupCustomerType": "Insurance Company",
-    "PolicGroupActiveStatus": "Inactive",
-    "PayerId": "INS019",
-    "Plans": []
-  },
-  {
-    "PolicyGroupCode": "NASQICU",
-    "PolicyGroupDescription": "NAS - DEACTIVATED",
-    "RateListCode": "NAS-GN",
-    "PolicyGroupCustomerType": "Insurance Company",
-    "PolicGroupActiveStatus": "Inactive",
-    "PayerId": "INS019",
-    "Plans": []
   },
   {
     "PolicyGroupCode": "NASQICU CN",
@@ -13596,15 +13038,6 @@
         "PlanActiveStatus": "Active"
       }
     ]
-  },
-  {
-    "PolicyGroupCode": "NASQICU CNGN",
-    "PolicyGroupDescription": "NAS - NOOR TAKAFUL GN",
-    "RateListCode": "NAS-GN",
-    "PolicyGroupCustomerType": "Insurance Company",
-    "PolicGroupActiveStatus": "Inactive",
-    "PayerId": "INS018",
-    "Plans": []
   },
   {
     "PolicyGroupCode": "NASQICU GN",
@@ -14552,15 +13985,6 @@
     ]
   },
   {
-    "PolicyGroupCode": "NASRTA",
-    "PolicyGroupDescription": "NAS - CN RTA",
-    "RateListCode": "NAS",
-    "PolicyGroupCustomerType": "Insurance Company",
-    "PolicGroupActiveStatus": "Active",
-    "PayerId": "SP0020",
-    "Plans": []
-  },
-  {
     "PolicyGroupCode": "NASSALAMA",
     "PolicyGroupDescription": "NAS - SALAMA Insurance Company CN",
     "RateListCode": "NAS",
@@ -14749,41 +14173,5 @@
         "PlanActiveStatus": "Inactive"
       }
     ]
-  },
-  {
-    "PolicyGroupCode": "NASWATHBA",
-    "PolicyGroupDescription": "NAS - DEACTIVATED",
-    "RateListCode": "NAS",
-    "PolicyGroupCustomerType": "Insurance Company",
-    "PolicGroupActiveStatus": "Inactive",
-    "PayerId": "INS023",
-    "Plans": []
-  },
-  {
-    "PolicyGroupCode": "NEU NLGI CNN",
-    "PolicyGroupDescription": "NAS - NOOR TAKAFUL GN",
-    "RateListCode": "NAS-GN",
-    "PolicyGroupCustomerType": "Insurance Company",
-    "PolicGroupActiveStatus": "Inactive",
-    "PayerId": "INS018",
-    "Plans": []
-  },
-  {
-    "PolicyGroupCode": "NEU NLGI GNN",
-    "PolicyGroupDescription": "NAS - NOOR TAKAFUL GN",
-    "RateListCode": "NAS-GN",
-    "PolicyGroupCustomerType": "Insurance Company",
-    "PolicGroupActiveStatus": "Inactive",
-    "PayerId": "INS018",
-    "Plans": []
-  },
-  {
-    "PolicyGroupCode": "NEU RAKNICNN",
-    "PolicyGroupDescription": "NAS - NOOR TAKAFUL GN",
-    "RateListCode": "NAS-GN",
-    "PolicyGroupCustomerType": "Insurance Company",
-    "PolicGroupActiveStatus": "Inactive",
-    "PayerId": "INS018",
-    "Plans": []
   }
 ]
