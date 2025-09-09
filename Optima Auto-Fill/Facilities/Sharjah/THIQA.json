@@ -1,0 +1,32 @@
+[
+  {
+    "PolicyGroupCode": "DAM - GHQ",
+    "PolicyGroupDescription": "THIQA DAMAN - GENERAL HEAD QUATERS (GHQ)",
+    "RateListCode": "DAMAN-NETWORK 2",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS201",
+    "Plans": [
+      {
+        "PlanCode": "DAM GHQ D0C0",
+        "PlanDescription": "THIQA DAMAN GHQ DED 0 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "DDAM - GHQ",
+    "PolicyGroupDescription": "THIQA DAMAN - GENERAL HEAD QUATERS (GHQ)",
+    "RateListCode": "DAMAN-NETWORK 2",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS078",
+    "Plans": [
+      {
+        "PlanCode": "D-DAM GHQ D0C0",
+        "PlanDescription": "THIQA DAMAN GHQ DED 0 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  }
+]
