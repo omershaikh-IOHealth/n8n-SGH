@@ -1,0 +1,17 @@
+[
+  {
+    "PolicyGroupCode": "IHCCO",
+    "PolicyGroupDescription": "INTERNATIONAL HOSPITAL CONSTRUCTION COMPANY",
+    "RateListCode": "",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "",
+    "Plans": [
+      {
+        "PlanCode": "IHCCO D 0 C 0",
+        "PlanDescription": "INTERNATIONAL HOSPITAL CONSTRUCTION COMPANY DED 0 CO 0",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  }
+]
