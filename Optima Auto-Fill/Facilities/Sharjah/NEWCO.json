@@ -1,0 +1,17 @@
+[
+  {
+    "PolicyGroupCode": "NEWCO-STANDARD",
+    "PolicyGroupDescription": "NewCo Standard Network",
+    "RateListCode": "NEWCO-GEN",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS999",
+    "Plans": [
+      {
+        "PlanCode": "NC-STD-A",
+        "PlanDescription": "NewCo Standard Active Plan",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  }
+]
