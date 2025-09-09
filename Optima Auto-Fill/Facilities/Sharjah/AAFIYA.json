@@ -13,40 +13,5 @@
         "PlanActiveStatus": "Active"
       }
     ]
-  },
-  {
-    "PolicyGroupCode": "AAF AL SAG APN+",
-    "PolicyGroupDescription": "AAFIYA - AL SAGR NATIONAL INSURANCE COMPA - APN PLUS NETWORK",
-    "RateListCode": "AAFIYA - PL&PR",
-    "PolicyGroupCustomerType": "Insurance Company",
-    "PolicGroupActiveStatus": "Active",
-    "PayerId": "INS011",
-    "Plans": [
-      {
-        "PlanCode": "AAF TK D",
-        "PlanDescription": "AAFIYA APN PLUS AL SAGR  DED 20%M35  COPAY 20%",
-        "PlanActiveStatus": "Active"
-      }
-    ]
-  },
-  {
-    "PolicyGroupCode": "AAF DAR APN+",
-    "PolicyGroupDescription": "AAFIYA - DAR AL TAKAFUL - APN PLUS NETWORK",
-    "RateListCode": "AAFIYA - PL&PR",
-    "PolicyGroupCustomerType": "Insurance Company",
-    "PolicGroupActiveStatus": "Active",
-    "PayerId": "INS083",
-    "Plans": [
-      {
-        "PlanCode": "AAF DAR C10%",
-        "PlanDescription": "AAFIYA APN PLUS DAR AL TAK COPAY 10% (MB PLAN)",
-        "PlanActiveStatus": "Active"
-      },
-      {
-        "PlanCode": "AAFI DAR D20%",
-        "PlanDescription": "AAFIYA APN PLUS DAR AL TAK DED 20% (MAX-50) COPAY NIL",
-        "PlanActiveStatus": "Active"
-      }
-    ]
   }
 ]
