@@ -1,0 +1,17 @@
+[
+  {
+    "PolicyGroupCode": "NLGI",
+    "PolicyGroupDescription": "NATIONAL LIFE & GENERAL INSURANCE COMPANY",
+    "RateListCode": "",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS044",
+    "Plans": [
+      {
+        "PlanCode": "NLGI D0C0",
+        "PlanDescription": "NATIONAL LIFE & GENERAL INS DED NIL COPAY NIL",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  }
+]
