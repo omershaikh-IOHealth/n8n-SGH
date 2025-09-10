@@ -1,0 +1,4992 @@
+[
+  {
+    "PolicyGroupCode": "N ENAYA REF1.3",
+    "PolicyGroupDescription": "Neuron - ENAYA (DUBAI GOVT) - REFFERED CASES - 1.3 FACTOR",
+    "RateListCode": "NEU - GOVT PL",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS001",
+    "Plans": [
+      {
+        "PlanCode": "NEU ENE REF0",
+        "PlanDescription": "NEURON ENAYA DED 0 COPAY NIL - REFERRED CASES",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "N RAK REF1.3",
+    "PolicyGroupDescription": "NEURON - RAK INSURANCE - REFFERED CASES - 1.3 FACTOR",
+    "RateListCode": "NEU - GOVT PL",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS014",
+    "Plans": [
+      {
+        "PlanCode": "NEU RAK REF0",
+        "PlanDescription": "NEURON RAK DED 0 COPAY NIL - REFERRED CASES",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "NEIRONWR",
+    "PolicyGroupDescription": "Neuron - WILLIAM RUSSEL LTD",
+    "RateListCode": "NEURON",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS005",
+    "Plans": [
+      {
+        "PlanCode": "NEU WIL D0C0",
+        "PlanDescription": "NEURON CN/GN+ WILLIAM RUSSEL DED 0 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU WIL D20%C0",
+        "PlanDescription": "NEURON CN/GN+ WILLIAM RUSSEL DED 20% COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU WIL D55C0",
+        "PlanDescription": "NEURON CN/GN+ WILLIAM RUSSEL DED 55 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "NEU ABU NAT CN",
+    "PolicyGroupDescription": "NEURON - ABU DHABI NATIONAL TAKAFUL COMPANY- CN/GN+",
+    "RateListCode": "NEURON",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS027",
+    "Plans": [
+      {
+        "PlanCode": "N ABN D20%M50P",
+        "PlanDescription": "NEURON CN/GN+ ABU NAT TAK DED 20% MAX 50 COPAY NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "NEU ADNIC GN",
+    "PolicyGroupDescription": "NEURON - ADNIC (GENERAL NETWORK)",
+    "RateListCode": "NEURON - GN PL",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS017",
+    "Plans": [
+      {
+        "PlanCode": "NEU AD C10M50",
+        "PlanDescription": "NEURON GN ADNIC COPAY 10% MAX 50 PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU AD C20%",
+        "PlanDescription": "NEURON GN ADNIC DED 20% COPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU AD D 0 CO0",
+        "PlanDescription": "NEURON GN ADNIC DED NIL COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU AD D 20 CO0",
+        "PlanDescription": "NEURON GN ADNIC DED 20 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU AD D 20% C0",
+        "PlanDescription": "NEURON GN ADNIC DED 20% COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU AD D 20%M50",
+        "PlanDescription": "NEURON GN ADNIC DED 20% M 50 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU AD D 50 CO0",
+        "PlanDescription": "NEURON GN ADNIC DED 50 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU AD D10%",
+        "PlanDescription": "NEURON GN ADNIC  DED 10% MAX 50 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU AD D20%",
+        "PlanDescription": "NEURON GN ADNIC DED 20% MAX 50 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU AD D20% C0",
+        "PlanDescription": "NEURON GN ADNIC DED 20% COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU AD D20%P10%",
+        "PlanDescription": "NEURON GN ADNIC DED 20%  COPAY NIL PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU AD D20%P20%",
+        "PlanDescription": "NEURON GN ADNIC DED 20% MAX 50 COPAY NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU AD D50 CO0",
+        "PlanDescription": "NEURON GN ADNIC DED 50 COPAY 20% PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU AD D50 P10%",
+        "PlanDescription": "NEURON GN ADNIC DED 50 COPAY NIL PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU ADN GN D50",
+        "PlanDescription": "NEURON GN ADNIC DED 50 COPAY NIL PH 10%",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "NEU AETNA AA GN",
+    "PolicyGroupDescription": "NEURON - AETNA / AL AIN AHLIA INSURANCE (GENERAL NETWORK)",
+    "RateListCode": "NEURON - GN PL",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS028",
+    "Plans": [
+      {
+        "PlanCode": "N G AET D30 X",
+        "PlanDescription": "NEURON GN AETNA DED 30 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "N G AET D50P20",
+        "PlanDescription": "NEURON GN AETNA DED 50 COPAY NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "N GAE D20%100",
+        "PlanDescription": "NEURON GN AETNA DED 20% MAX 100 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "N GAE D20%M100C",
+        "PlanDescription": "NEURON GN AETNA DED 20% MAX 100 COPAY 20% M100",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "N GAE D20M50",
+        "PlanDescription": "NEURON GN AETNA DED 20% MAX  50 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU AE C10%P20%",
+        "PlanDescription": "NEURON GN AETNA COPAY 10% PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU AETN C10%",
+        "PlanDescription": "NEURON GN AETNA DED 10% COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU AETN C10M10",
+        "PlanDescription": "NEURON GN AETNA DED 10% COPAY 10% MAX 150",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU AETN C25%",
+        "PlanDescription": "NEURON GN AETNA DED 25% COPAY 25%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU AETN D0C0",
+        "PlanDescription": "NEURON GN AETNA DED 0 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU AETN D10%",
+        "PlanDescription": "NEURON GN AETNA DED 10% OP 10% PH NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU AETN D20C0",
+        "PlanDescription": "NEURON GN AETNA DED 20% COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU AETN D20C20",
+        "PlanDescription": "NEURON GN AETNA DED 20% COPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU AETN D20P10",
+        "PlanDescription": "NEURON GN AETNA DED 20% COPAY 20% PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU AETN D50P10",
+        "PlanDescription": "NEURON GN AETNA DED 50 COPAY NIL PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU AETNA D50",
+        "PlanDescription": "NEURON GN AETNA DED 50 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU AETNA D50C0",
+        "PlanDescription": "NEURON GN AETNA DED 50 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU AETND50P10",
+        "PlanDescription": "NEURON GN AETNA DED 20% MAX 50 COPAY NIL PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU G AE D50P0",
+        "PlanDescription": "NEURON GN AETNA DED 20% MAX 50 COPAY NIL PH NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU GN A D10%C0",
+        "PlanDescription": "NEURON GN AETNA DED 10% MAX 50 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "NEU AETNA AAA",
+    "PolicyGroupDescription": "NEURON - AETNA / AL AIN AHLIA INSURANCE",
+    "RateListCode": "NEURON",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS028",
+    "Plans": [
+      {
+        "PlanCode": "NE AE D20%M100C",
+        "PlanDescription": "NEURON CN/GN+ AETNA DED 20% MAX 100 COPAY 10% M1000",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU A D15M75",
+        "PlanDescription": "NEURON CN/GN+ AETNA DED 15% MAX 75 COPAY 15%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU A D20%C20%",
+        "PlanDescription": "NEURON CN/GN+ AETNA DED 20% MAX 50 COPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU A D20%M50",
+        "PlanDescription": "NEURON CN/GN+ AETNA DED 20% MAX 50 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU A D20%P10%",
+        "PlanDescription": "NEURON CN/GN+ AETNA DED 20% MAX 50 COPAY NIL PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU A D20%P20%",
+        "PlanDescription": "NEURON CN/GN+ AETNA DED 20% MAX 50 COPAY NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU A D50PH30%",
+        "PlanDescription": "NEURON CN/GN+ AETNA DED 50 OP NIL PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU AE C 50%",
+        "PlanDescription": "NEURON CN/GN+ AETNA COPAY 50% DENTAL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU AE C10%M50",
+        "PlanDescription": "NEURON CN/GN+ AETNA COPAY 10% MAX 50",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU AE C10%M552",
+        "PlanDescription": "NEURON CN/GN+ AETNA DED 10% COPAY 10% MAX 552",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU AE C20%",
+        "PlanDescription": "NEURON CN/GN+ AETNA DED 20% COPAY 20% PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU AE C25%",
+        "PlanDescription": "NEURON CN/GN+ AETNA DED 25% COPAY 25% DN 25%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU AE C30%",
+        "PlanDescription": "NEURON CN/GN+ AETNA DED 30% CO 30% PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU AE D 100",
+        "PlanDescription": "NEURON CN/GN+ AETNA DED 100 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU AE D 20C10%",
+        "PlanDescription": "NEURON CN/GN+ AETNA DED 20% CO NIL PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU AE D 20C20%",
+        "PlanDescription": "NEURON CN/GN+ AETNA DED 20% CO NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU AE D 50C10%",
+        "PlanDescription": "NEURON CN/GN+ AETNA DED 50 CO NIL PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU AE D10%C20%",
+        "PlanDescription": "NEURON CN/GN+ AETNA DED 10% M50 COPAY NIL DN 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU AE D10%M50",
+        "PlanDescription": "NEURON CN/GN+ AETNA DED 10% M50  COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU AE D10%M50C",
+        "PlanDescription": "NEURON CN/GN+ AETNA DED 10% M50  COPAY 10% MAX 50",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU AE D15C15%",
+        "PlanDescription": "NEURON CN/GN+ AETNA DED 15% MAX 75 COPAY 15%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU AE D20%LR",
+        "PlanDescription": "NEURON CN/GN+ AETNA DED 20% LAB/RAD 20% OP NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU AED 50C20%",
+        "PlanDescription": "NEURON CN/GN+ AETNA DED 50 CO NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU AEPH",
+        "PlanDescription": "NEURON CN/GN+ AETNA DED 0 CO NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU AEPH10%",
+        "PlanDescription": "NEURON CN/GN+ AETNA DED 0 CO NIL PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU AET C0%C1P0",
+        "PlanDescription": "NEURON CN/GN+ AETNA DED 10% COPAY 10% PH NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU AET C10%P20",
+        "PlanDescription": "NEURON CN/GN+ AETNA DED 10% COPAY 10% PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU AET D0 C0",
+        "PlanDescription": "NEURON CN/GN+ AETNA DED  NIL  COPAY NIL PH NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU AET D10%PH3",
+        "PlanDescription": "NEURON CN/GN+ AETNA DED 10% OP NIL L/RAD 10% PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU AETN AD20C0",
+        "PlanDescription": "NEURON CN/GN+ AETNA DED 20% MAX 65 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU AETN D50P20",
+        "PlanDescription": "NEURON GN AETNA DED 50 COPAY NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU AETNA C10%",
+        "PlanDescription": "NEURON CN/GN+ AETNA DED 10% COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU AETNA D0C0",
+        "PlanDescription": "NEURON CN/GN+ AETNA DED NIL COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU AETNA D0C20",
+        "PlanDescription": "NEURON CN/GN+ AETNA DED NIL COPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU AETNA D0CX",
+        "PlanDescription": "NEURON CN/GN+ AETNA DED 147 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU AETNA D146",
+        "PlanDescription": "NEURON CN/GN+ AETNA DED 146  COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU AETNAC15%",
+        "PlanDescription": "NEURON CN/GN+ AETNA DED 15% COPAY 15% PH 15%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU AETNAD10%C0",
+        "PlanDescription": "NEURON CN/GN+ AETNA DED 10%  COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU AETNAD15 C0",
+        "PlanDescription": "NEURON CN/GN+ AETNA DED 15% MAX 75 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU AETNAD20%C0",
+        "PlanDescription": "NEURON CN/GN+ AETNA DED 20% COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU AETNAD20C0",
+        "PlanDescription": "NEURON CN/GN+ AETNA DED 20% MAX 75 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU AETNAD50%C0",
+        "PlanDescription": "NEURON CN/GN+ AETNA DED 50 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU AETNAD50C0",
+        "PlanDescription": "NEURON CN/GN+ AETNA DED 50  COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU AETNAD81C0",
+        "PlanDescription": "NEURON CN/GN+ AETNA DED 81  COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEUAETD20M100P1",
+        "PlanDescription": "NEURON CN/GN+ AETNA DED 20% MAX 100 COPAY NIL PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEUAETD20M100P2",
+        "PlanDescription": "NEURON CN/GN+ AETNA DED 20% MAX 100 COPAY NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEUAETD20MAX100",
+        "PlanDescription": "NEURON CN/GN+ AETNA DED 20% MAX 100 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "NEU AMA-CN",
+    "PolicyGroupDescription": "NEURON - DUBAI NATIONAL  INSURANCE & REINSURANCE CO (AMAN)",
+    "RateListCode": "NEURON",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS007",
+    "Plans": [
+      {
+        "PlanCode": "NEU DIC D",
+        "PlanDescription": "NEURON CN/GN+ DUBAI NAT. DED NIL COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU DIC D 20% 5",
+        "PlanDescription": "NEURON CN/GN+ DUBAI NAT. DED 20% 50 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU DIC D 20100",
+        "PlanDescription": "NEURON CN/GN+ DUBAI NAT. DED 20% 100 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU DIC D 20110",
+        "PlanDescription": "NEURON CN/GN+ DUBAI NAT. DED 20%M 110 OP 0 L/R 20% PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU DIC D 2030",
+        "PlanDescription": "NEURON CN/GN+ DUBAI NAT. DED 20% L/R 20% PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU DIC D 2030X",
+        "PlanDescription": "NEURON CN/GN+ DUBAI NAT. DED 20% CO 20% PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU DIC D20100",
+        "PlanDescription": "NEURON CN/GN+ DUBAI NAT. DED 20% 100 COPAY 20% PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU DIC D20110",
+        "PlanDescription": "NEURON CN/GN+ DUBAI NAT. DED 20% 110 COPAY 20% PH 20%",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "NEU CIGNA GN",
+    "PolicyGroupDescription": "NEURON - CIGNA (GENERAL NETWORK)",
+    "RateListCode": "NEURON - GN PL",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS137",
+    "Plans": [
+      {
+        "PlanCode": "NE C % D20%",
+        "PlanDescription": "NEURON GN CIGNA DED 20%M50  COPAY NIL PH 5%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NE C % D20%7",
+        "PlanDescription": "NEURON GN CIGNA DED 20%M50  COPAY NIL PH 7%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NE C % D50",
+        "PlanDescription": "NEURON GN CIGNA DED 50  COPAY NIL PH NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NE C % D50 PH10",
+        "PlanDescription": "NEURON GN CIGNA DED 50  COPAY 10% MAX 50 PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NE C % D50L/R",
+        "PlanDescription": "NEURON GN CIGNA DED 50  L/R 10% MAX 50 PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NE C %7",
+        "PlanDescription": "NEURON GN CIGNA DED 15% COPAY 15%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NE C 5%",
+        "PlanDescription": "NEURON GN CIGNA DED 5% COPAY 5% PH 5%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NE C D%M25X",
+        "PlanDescription": "NEURON GN CIGNA DED  25AED COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NE C D10%M5XX",
+        "PlanDescription": "NEURON GN CIGNA DED 10% MAX 50 COPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NE C D10%MX",
+        "PlanDescription": "NEURON GN CIGNA DED 10% MAX 50 COPAY 20% PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NE C D15M100",
+        "PlanDescription": "NEURON GN CIGNA DED 15% M100 COPAY 15%M200 PH 15%M200",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NE C D20%10100",
+        "PlanDescription": "NEURON GN CIGNA D20% M100  L/R 10%MAX 100 PH 10% 100",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NE C D20%M25X",
+        "PlanDescription": "NEURON GN CIGNA DED 20% MAX 25 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NE C D20%M5X",
+        "PlanDescription": "NEURON GN CIGNA DECOPAY 25%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NE C D30%7",
+        "PlanDescription": "NEURON GN CIGNA DED 30% MAX 75 COPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NE C GN 20%M5X",
+        "PlanDescription": "NEURON GN CIGNA DED 20% MAX 50 OP NIL L/R/ 10%PH 15%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NE C10M75",
+        "PlanDescription": "NEURON GN CIGNA DED 10% MAX 75 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NE C10M75C20",
+        "PlanDescription": "NEURON GN CIGNA DED 10% MAX 75 COPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NE C20%M75",
+        "PlanDescription": "NEURON CIGNA/ GN DED  20% M75 COPAY NIL L/R/PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NE G D20%M100P1",
+        "PlanDescription": "NEURON GN CIGNA DED 20% MAX 100  COPAY NIL PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NE G+ C 0%M10",
+        "PlanDescription": "NEURON GN CIGNA DED 10% OP NIL LAB/RAD/PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NE G+ C D1%M50",
+        "PlanDescription": "NEURON GN CIGNA DED 10% MAX 50 OP 0 LAB/RAD/PH 10% M50",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NE G+ C D10%M10",
+        "PlanDescription": "NEURON GN CIGNA DED 10% MAX 50 L/R 10% PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NE G+ C D10%M50",
+        "PlanDescription": "NEURON GN CIGNA DED 10% MAX 50 COPAY 10% MAX 50 PH 10% M50",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NE G+ C D50 P",
+        "PlanDescription": "NEURON GN CIGNA DED  50 OP 0 L/R 5%M50 PH 5%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NE G+ C D50 P5",
+        "PlanDescription": "NEURON GN CIGNA DED  50 COPAY  NIL PH 5%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NE G+C D10%M50",
+        "PlanDescription": "NEURON GN CIGNA DED COPAY5 % L/R 5% OP NIL PH 5%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NE GN C",
+        "PlanDescription": "NEURON GN CIGNA DED 5% OP/LAB/RAD/PH 5%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NE GN C D10%M50",
+        "PlanDescription": "NEURON GN CIGNA DED 10% MAX 50 COPAY 10% MAX 50",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NE GN C10%M50",
+        "PlanDescription": "NEURON GN CIGNA COPAY 10% MAX 50",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NE GN C20%D20",
+        "PlanDescription": "NEURON GN CIGNA DED 20% COPAY 20% PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NE GN C20%M50X",
+        "PlanDescription": "NEURON GN CIGNA COPAY 20% MAX 50",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NE GN C20%M75",
+        "PlanDescription": "NEURON GN CIGNA COPAY 20% MAX 75",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NE GN C20%M75X",
+        "PlanDescription": "NEURON GN CIGNA COPAY 20% MAX 50",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NE GN C20%M95",
+        "PlanDescription": "NEURON GN CIGNA COPAY 20% MAX 95",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NE GN D2",
+        "PlanDescription": "NEURON GN CIGNA DED 20% MAX 75 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NE GN D20%20",
+        "PlanDescription": "NEURON GN CIGNA DED 20% MAX 75 COPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NE GN D20%2050",
+        "PlanDescription": "NEURON GN CIGNA DED 20% MAX 75 P20% MAX 50",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NE GN D20%C100",
+        "PlanDescription": "NEURON GN CIGNA COPAY 20% MAX 100",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NE GN D20%M100",
+        "PlanDescription": "NEURON GN CIGNA DED 20% MAX 100 COPAY NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NE GN D20%M30",
+        "PlanDescription": "NEURON GN CIGNA DED 20% MAX 30 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NE GN D20%M50",
+        "PlanDescription": "NEURON GN CIGNA DED 20% M 50 OP NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NE GN D20%M75",
+        "PlanDescription": "NEURON GN CIGNA DED  10 MAX 25 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NE GN D20%P20",
+        "PlanDescription": "NEURON GN CIGNA DED 20% MAX 75 P20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NE GN D220%75",
+        "PlanDescription": "NEURON GN CIGNA DED 20% MAX 75 COPAY 20%100 PH NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NE GN D220%75X",
+        "PlanDescription": "NEURON GN CIGNA DED 20% MAX 75 COPAY 20%100",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NE GN DED30C0",
+        "PlanDescription": "NEURON GN CIGNA DED 30 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NE GN DED81C0",
+        "PlanDescription": "NEURON GN CIGNA DED 81 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NE GN OP10M100",
+        "PlanDescription": "NEURON GN CIGNA COPAY 10% MAX 100",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NE GN OP200",
+        "PlanDescription": "NEURON GN CIGNA DED 20%M1000  COPAY 20% MAX 1000 PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NE GN OP200 D",
+        "PlanDescription": "NEURON GN CIGNA DED 20%M1000  OP NIL LAB/RAD20%M1000 PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NE GN OP20M100",
+        "PlanDescription": "NEURON GN CIGNA COPAY 20% MAX 100 PH 20%M100",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NE GN OP2M100",
+        "PlanDescription": "NEURON GN CIGNA DED 20%M100  COPAY 10% MAX 100",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NE GN OPDE 1010",
+        "PlanDescription": "NEURON GN CIGNA DED 10% MAX 100 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NE GN XX20%M75",
+        "PlanDescription": "NEURON GN CIGNA DED  20% MAX 75 PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NE GNX D20%M75",
+        "PlanDescription": "NEURON GN CIGNA DED  10 MAX 25 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU CI 20%M1101",
+        "PlanDescription": "NEURON GN CIGNA DED 20% M100  COPAY 10% M100 PH 10% M100",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU CI D2",
+        "PlanDescription": "NEURON GN  CIGNA DED 15% MAX 75 COPAY 15%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU CIG D98",
+        "PlanDescription": "NEURON GN CIGNA D15% 100 OP NIL L/R 15%M200  P15%MAX200",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU G CC20%",
+        "PlanDescription": "NEURON GN CIGNA DED 20% OP NIL LAB/RAD/PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU G CIG",
+        "PlanDescription": "NEURON GN CIGNA DED 10% MAX 50 COPAY NIL PH 5%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU G CIG %X",
+        "PlanDescription": "NEURON GN CIGNA COPAY 20%MAX 200 PH 10%MAX 200",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU G CIG C0%",
+        "PlanDescription": "NEURON GN CIGNA DED NIL COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU G CIG C10%",
+        "PlanDescription": "NEURON GN CIGNA DED 10% COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU G CIG C20%",
+        "PlanDescription": "NEURON GN CIGNA DED 20% COPAY 20% PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU G CIG D10%",
+        "PlanDescription": "NEURON GN CIGNA DED 10% MAX 50 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU G CIG D10%P",
+        "PlanDescription": "NEURON GN CIGNA DED 10% MAX 50 COPAY NIL PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU G CIG D2%",
+        "PlanDescription": "NEURON GN CIGNA DED 20% MAX 100 COPAY 20%MAX 200",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU G CIG D2%X",
+        "PlanDescription": "NEURON GN CIGNA COPAY 20%MAX 200",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU G CIG D20%",
+        "PlanDescription": "NEURON GN CIGNA DED 20% MAX 100 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU G CIG D20M",
+        "PlanDescription": "NEURON GN CIGNA DED 20% MAX 100 COPAY 20% MAX 100",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU G CIG D20P",
+        "PlanDescription": "NEURON GN CIGNA DED 20% MAX 100 CO NIL PH 20% MAX 100",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU G CIG D30%C",
+        "PlanDescription": "NEURON GN CIGNA DED 30% COPAY 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU G CIG P10%",
+        "PlanDescription": "NEURON GN CIGNA DED 10% COPAY NIL PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU G CIG10%P",
+        "PlanDescription": "NEURON GN CIGNA DED  50 COPAY NIL PH 30%MAX 100",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU GN C D100C0",
+        "PlanDescription": "NEURON GN CIGNA DED 100  COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEX GNX D20%M75",
+        "PlanDescription": "NEURON GN CIGNA DED 10% MAX 25 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NR GCI D210 1",
+        "PlanDescription": "NEURON GN CIGNA DED 20% MAX 50 COPAY NIL PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NR GN CI D20%10",
+        "PlanDescription": "NEURON GN CIGNA DED 20% MAX 50 COPAY 20% M 50 P 20%100",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NR GN CI D20%50",
+        "PlanDescription": "NEURON GN CIGNA DED 20% MAX 50 COPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NR GN CI D20%M5",
+        "PlanDescription": "NEURON GN CIGNA DED 20% MAX 50 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NR GN CI D210",
+        "PlanDescription": "NEURON GN CIGNA DED 20% MAX 50 COPAY NIL PH 20%MAX 100",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NR GN CI D210 1",
+        "PlanDescription": "NEURON GN CIGNA DED 20% MAX 50 COPAY NIL PH 10%MAX 100",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NR GN CI D23010",
+        "PlanDescription": "NEURON GN CIGNA DED 20% MAX 50 COPAY NIL PH 30%MAX 100",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NR GN CI D2525",
+        "PlanDescription": "NEURON GN CIGNA DED 20% MAX 52 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NR GN CID20%M55",
+        "PlanDescription": "NEURON GN CIGNA DED 20% MAX 55 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "NEU DAR TAKAFUL",
+    "PolicyGroupDescription": "NEURON - DAR AL TAKAFUL",
+    "RateListCode": "NEURON",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS083",
+    "Plans": [
+      {
+        "PlanCode": "NEU DAK D30C0",
+        "PlanDescription": "NEURON CN/GN+ DAR AL TAKAFUL DED 20% MAX 30 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "NEU DEWA  RN",
+    "PolicyGroupDescription": "NEURON - DEWA  (RESTRICTED NETWORK) - SHJ",
+    "RateListCode": "NEURON - RN PL",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "SF0051",
+    "Plans": [
+      {
+        "PlanCode": "NEU DEWA D0C0",
+        "PlanDescription": "NEURON RN DEWA DED 0 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "NEU EMARAT GN",
+    "PolicyGroupDescription": "NEURON - EMARAT PETROLEUM (GENERAL NETWORK)",
+    "RateListCode": "NEURON - GN PL",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "SF0050",
+    "Plans": [
+      {
+        "PlanCode": "NEURONEMARAT C1",
+        "PlanDescription": "NEURON GN EMARAT PETROLEUM COPAY 15%",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "NEU EMPOWER",
+    "PolicyGroupDescription": "Neuron - EMPOWER",
+    "RateListCode": "NEURON",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "SP0014",
+    "Plans": [
+      {
+        "PlanCode": "NEU EMP D50C0",
+        "PlanDescription": "NEURON CN/GN+ EMPOWER DED 50 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "NEU EMPOWER GN",
+    "PolicyGroupDescription": "NEURON - EMPOWER (GENERAL NETWORK)",
+    "RateListCode": "NEURON - GN PL",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "SP0014",
+    "Plans": [
+      {
+        "PlanCode": "NEU EMP  D",
+        "PlanDescription": "NEURON GN EMPOWER DED 10AED COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU EMP  D10C0",
+        "PlanDescription": "NEURON GN EMPOWER DED 10 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU EMP  D50C0",
+        "PlanDescription": "NEURON GN EMPOWER DED 50 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "NEU NGI GN",
+    "PolicyGroupDescription": "NEURON - NATIONAL GENERAL INS  CO - NGI (GENERAL NETWORK)",
+    "RateListCode": "NEURON - GN PL",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS038",
+    "Plans": [
+      {
+        "PlanCode": "NEU GN NG D20%2",
+        "PlanDescription": "NEURON GN NGI DED 20% MAX 25 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU GN NGI C20%",
+        "PlanDescription": "NEURON GN NGI DED 20% COPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU GN NGI D0C0",
+        "PlanDescription": "NEURON GN NGI DED NIL COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU GN NGI D10%",
+        "PlanDescription": "NEURON GN NGI DED 10% COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU GN NGI D25",
+        "PlanDescription": "NEURON GN NGI DED 25  COPAY NIL PH 10% M25",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "NEU NLGI CN",
+    "PolicyGroupDescription": "NEURON - NATIONAL LIFE & GENERAL INSURANCE - GN+ & CN",
+    "RateListCode": "NEURON",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS044",
+    "Plans": [
+      {
+        "PlanCode": "N G NLG D",
+        "PlanDescription": "NEURON GN+ CN NLGI DED NIL COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "N G NLG D10",
+        "PlanDescription": "NEURON GN+ CN NLGI COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "N G NLG D50",
+        "PlanDescription": "NEURON GN+ CN NLGI DED 50 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "N G NLG DC",
+        "PlanDescription": "NEURON GN+ CN NLGI DED 20%M50  OP NIL LAB/RAD/PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "N G NLG DD",
+        "PlanDescription": "NEURON GN+ CN NLGI DED 20% MAX 50 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "N G NLG DD100",
+        "PlanDescription": "NEURON GN+ CN NLGI DED 20% MAX 100 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "N G NLG DD20100",
+        "PlanDescription": "NEURON GN+  NLGI DED 20% MAX 50 COPAY 10%MAX 100",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "N G NLG DD5010",
+        "PlanDescription": "NEURON GN+ CN NLGI DED 20% MAX 50 COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "N G NLG DDDS",
+        "PlanDescription": "NEURON GN+ CN NLGI DED 20% MAX 55 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "N G NLG DX",
+        "PlanDescription": "NEURON GN+ CN NLGI COPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "N G NLG DX 30",
+        "PlanDescription": "NEURON GN+ CN NLGI COPAY 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "N G NLG DX50",
+        "PlanDescription": "NEURON GN+ CN NLGI DED 20%M50  COPAY NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "NEU NLGI GN",
+    "PolicyGroupDescription": "NEURON - NATIONAL LIFE AND GENERAL INS CO  (GENERAL NETWORK)",
+    "RateListCode": "NEURON - GN PL",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS044",
+    "Plans": [
+      {
+        "PlanCode": "N G NLG C20",
+        "PlanDescription": "NEURON GN NLGI COPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "N G NLG D00",
+        "PlanDescription": "NEURON GN NLGI COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "N G NLG D0C0",
+        "PlanDescription": "NEURON GN NLGI DED 10%MAX 25 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "N G NLG D100",
+        "PlanDescription": "NEURON GN NLGI DED 20%MAX 100 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "N G NLG D200",
+        "PlanDescription": "NEURON GN NLGI DED 20%MAX 100 COPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "N G NLG D2050",
+        "PlanDescription": "NEURON GN NLGI DED 20%MAX50 COPAY 10%MAX 100",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "N G NLG D20C0",
+        "PlanDescription": "NEURON GN NLGI DED 20%MAX 50 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "N G NLG D50C0",
+        "PlanDescription": "NEURON GN NLGI DED 50 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "N G NLG DC0",
+        "PlanDescription": "NEURON GN NLGI DED NIL COPAY NIL",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "NEU NOOR GN",
+    "PolicyGroupDescription": "NEURON - NOOR TAKAFUL INS CO (GENERAL NETWORK)",
+    "RateListCode": "NEURON - GN PL",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS018",
+    "Plans": [
+      {
+        "PlanCode": "NEU MET D2X",
+        "PlanDescription": "NEURON GN NOOR TAKAFUL DED 20% MAX 50 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU MET D2X100",
+        "PlanDescription": "NEURON GN NOOR TAKAFUL DED 20% MAX 100 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "NEU ORIENT CN",
+    "PolicyGroupDescription": "NEURON - ARAB ORIENT INSURANCE PJSC - CN",
+    "RateListCode": "NEURON",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS008",
+    "Plans": [
+      {
+        "PlanCode": "NEU C D1025",
+        "PlanDescription": "NEURON CN/GN+ ARAB ORIENT DED 10%M25 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU C D20",
+        "PlanDescription": "NEURON CN/GN+ ARAB ORIENT DED 20%  OP NIL L/R20% PH20%M100",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU C D20%DDX",
+        "PlanDescription": "NEURON CN/GN+ ARAB ORIENT DED 20%M75 CO-10%M50 PH NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU C D20%M100",
+        "PlanDescription": "NEURON CN/GN+ ARAB ORIENT DED 20% M100 COPAY NIL PH 10% M100",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU C D20%M50X",
+        "PlanDescription": "NEURON CN/GN+ ARAB ORIENT DED 20%M50 COPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU C D20%M75X",
+        "PlanDescription": "NEURON CN/GN+ ARAB ORIENT DED 20%M75 COPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU C D20%MPH",
+        "PlanDescription": "NEURON CN/GN+ ARAB ORIENT DED 20% M100 CO 10% M100 PH10%M100",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU C D20%X",
+        "PlanDescription": "NEURON CN/GN+ ARAB ORIENT DED 20%M50 OP NIL L/R/PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU OR 20%C10",
+        "PlanDescription": "NEURON CN/GN+ ARAB ORIENT DED 20% M75 CO 10% M 50 P 10% M50",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU OR C20%",
+        "PlanDescription": "NEURON CN/GN+ ARAB ORIENT  DED 20% COPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU OR D%M50",
+        "PlanDescription": "NEURON GN+ ARAB ORIENT DED 20% M50 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU OR D0C0",
+        "PlanDescription": "NEURON CN/GN+ ARAB ORIENT  DED NIL COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU OR D15",
+        "PlanDescription": "NEURON CN/GN+ ARAB ORIENT  DED 15% M75  COPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU OR D15X",
+        "PlanDescription": "NEURON CN/GN+ ARAB ORIENT  DED 15% M75  OP NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU OR D20%C0",
+        "PlanDescription": "NEURON CN/GN+ ARAB ORIENT  DED 20% COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU OR D20%LR",
+        "PlanDescription": "NEURON CN/GN+ ARAB ORIENT DED 20%M50 L/R/OP 10%M25 PH 10%M25",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU OR D20%M50",
+        "PlanDescription": "NEURON CN/GN+ ARAB ORIENT DED 20% M50 COPAY NIL PH10% M50",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU OR D20C10",
+        "PlanDescription": "NEURON CN/GN+ ARAB ORIENT  DED NIL COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU OR D2X%M50",
+        "PlanDescription": "NEURON CN/GN+ ARAB ORIENT DED 20% M50 COPAY NIL PH20% M50",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU OXR D2X%",
+        "PlanDescription": "NEURON CN/GN+ ARAB ORIENT DED 20% M50 COPAY NIL PH20% M100",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU OXR D2X%M50",
+        "PlanDescription": "NEURON CN/GN+ ARAB ORIENT DED 20% M50 COPAY NIL PH20% M50",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "NEU ORIENT GN",
+    "PolicyGroupDescription": "NEURON - ARAB ORIENT INSURANCE PJSC - GN",
+    "RateListCode": "NEURON - GN PL",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS008",
+    "Plans": [
+      {
+        "PlanCode": "NEU GN D25",
+        "PlanDescription": "NEURON GN ARAB ORIENT  DED 10% MAX25  COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU GN DED0%",
+        "PlanDescription": "NEURON GN ARAB ORIENT  DED 20% OP 0 L/R 20% PH 20%M100",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU GN DED20%",
+        "PlanDescription": "NEURON GN ARAB ORIENT  DED 20%  COPAY 10% PH 20%M100",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU GN DED20M50",
+        "PlanDescription": "NEURON GN ARAB ORIENT  DED 20%  COPAY 10% PH 20%M100",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU GN OR",
+        "PlanDescription": "NEURON GN ARAB ORIENT  DED 20% MAX 100 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU GN OR C10%",
+        "PlanDescription": "NEURON GN ARAB ORIENT  DED 10%  COPAY 10% PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU GN OR D0C0",
+        "PlanDescription": "NEURON GN ARAB ORIENT  DED NIL COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU GN OR D10%",
+        "PlanDescription": "NEURON GN ARAB ORIENT  DED 10% MAX 50 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU GN OR D20%",
+        "PlanDescription": "NEURON GN ARAB ORIENT  DED 20% MAX 50 COPAY NIL PH 10% M50",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU GN OR D25",
+        "PlanDescription": "NEURON GN ARAB ORIENT  DED 20% MAX 25 COPAY NIL PH 10% M25",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU GN OR DMC0",
+        "PlanDescription": "NEURON GN ARAB ORIENT  DED 20% MAX 50 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU GN ORX",
+        "PlanDescription": "NEURON GN ARAB ORIENT  DED 20% MAX 100 COPAY 10%M100",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU GNDED20PH10",
+        "PlanDescription": "NEURON GN ARAB ORIENT  DED 20% M 50 PH 10%M100",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEUGNOR D20",
+        "PlanDescription": "NEURON GN ARAB ORIENT  DED 20%MAX40 OP NIL L/R/ PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEUGNOR D20C20",
+        "PlanDescription": "NEURON GN ARAB ORIENT  DED 20%MAX50 PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEUGNOXR D20C20",
+        "PlanDescription": "NEURON GN ARAB ORIENT  DED 20%MAX50 PH 20% M 100",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEUGNOXR D20M50",
+        "PlanDescription": "NEURON GN ARAB ORIENT  DED 20%MAX50 PH 20% M 100 L/R20%",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "NEU RAK NIC GN",
+    "PolicyGroupDescription": "NEURON - RAK INSURANCE INS CO (GENERAL NETWORK)",
+    "RateListCode": "NEURON - GN PL",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS014",
+    "Plans": [
+      {
+        "PlanCode": "N RA GN D20%0",
+        "PlanDescription": "NEURON GN RAK INSURANCE DED 20%M50 OP 0 L/R/PH10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "N RA GN D20%M30",
+        "PlanDescription": "NEURON GN RAK INSURANCE DED 20% MAX 30 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "N RA GN D20%M50",
+        "PlanDescription": "NEURON GN RAK INSURANCE DED 20% MAX 50 COPAY 10%PH10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "N RA GN D20M50",
+        "PlanDescription": "NEURON GN RAK INSURANCE DED 20%M50 OP 0 L/R/PH20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NE G R D10%C0",
+        "PlanDescription": "NEURON GN RAK DED 10%M50  LAB/RAD 10%M50 OP/PH NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NE GNRAK D10%C0",
+        "PlanDescription": "NEURON GN RAK INSURANCE DED 10% MAX 50  COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NE R G D20%M100",
+        "PlanDescription": "NEURON GN RAK INSURANCE DED 20% MAX 100 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NE R G D20%P10",
+        "PlanDescription": "NEURON GN RAK INSURANCE DED 20% MAX 100 COPAY NIL PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NE R GN C20%",
+        "PlanDescription": "NEURON GN RAK INSURANCE DED 20% COPAY 20% PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NE R GN D",
+        "PlanDescription": "NEURON GN RAK INSURANCE DED 50 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NE R GN D0 C0",
+        "PlanDescription": "NEURON GN RAK INSURANCE DED 0  COPAY NIL PH NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NE R GN D10%C0",
+        "PlanDescription": "NEURON GN RAK INSURANCE DED 10% COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NE R GN D10%M50",
+        "PlanDescription": "NEURON GN RAK INSURANCE COPAY 10% M 50",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NE R GN D10%P20",
+        "PlanDescription": "NEURON GN RAK INSURANCE DED 10% COPAY NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NE R GN D20%C10",
+        "PlanDescription": "NEURON GN RAK INSURANCE DED 20% COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NE R GN D20%C15",
+        "PlanDescription": "NEURON GN RAK INSURANCE DED 20% MAX 50 COPAY 15%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NE R GN D20%M50",
+        "PlanDescription": "NEURON GN RAK INSURANCE DED 20% MAX 50 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NE R GN D20%P10",
+        "PlanDescription": "NEURON GN RAK INSURANCE DED 20% MAX 50 COPAY NIL PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NE R GN D20%P20",
+        "PlanDescription": "NEURON GN RAK INSURANCE DED 20% MAX  50 COPAY NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NE R GN D20%P25",
+        "PlanDescription": "NEURON GN RAK INSURANCE DED 20% MAX 50 COPAY NIL PH 25%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NE R GN D20%P30",
+        "PlanDescription": "NEURON GN RAK INSURANCE DED 20% MAX 50 COPAY NIL PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NE R GN D50P20",
+        "PlanDescription": "NEURON GN RAK INSURANCE DED 50 COPAY NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NE RA GN C10%",
+        "PlanDescription": "NEURON GN RAK INSURANCE DED 10% COPAY 10% PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NE RA GN D30",
+        "PlanDescription": "NEURON GN RAK INSURANCE DED 30 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NE RA GN D50C10",
+        "PlanDescription": "NEURON GN RAK INSURANCE DED 50 COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NE RA GN D50C20",
+        "PlanDescription": "NEURON GN RAK INSURANCE DED 50 COPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NE RA GN D50P10",
+        "PlanDescription": "NEURON GN RAK INSURANCE DED 50 COPAY NIL PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NE RGN D20%M50P",
+        "PlanDescription": "NEURON GN RAK INSURANCE DED 20% MAX 50 COPAY NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "NEU RAK RN",
+    "PolicyGroupDescription": "NEURON - RAK INSURANCE INS CO (RESTRICTED NETWORK) - SHJ",
+    "RateListCode": "NEURON - RN PL",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS014",
+    "Plans": [
+      {
+        "PlanCode": "NEU RK D0C0",
+        "PlanDescription": "NEURON RN RAK INSURANCE DED 0 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU RK D20%C0",
+        "PlanDescription": "NEURON RN RAK INSURANCE DED 20% MAX 50 COPAY NIL PH 10%",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "NEU RAKNIC",
+    "PolicyGroupDescription": "NEURON - RAK INSURANCE INS CO",
+    "RateListCode": "NEURON",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS014",
+    "Plans": [
+      {
+        "PlanCode": "N R GN+D20%",
+        "PlanDescription": "NEURON CN/GN+ RAK INSURANCE DED 20% MAX 50 OP NIL L/R/PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "N R GN+D20%M0",
+        "PlanDescription": "NEURON CN/GN+ RAK INSURANCE DED 20% MAX 50 OP 0 L/R/PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "N R GN+D20%M50",
+        "PlanDescription": "NEURON CN/GN+ RAK INSURANCE DED 20% MAX 50 COPAY NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NE G RA C",
+        "PlanDescription": "NEURON CN/GN+ RAK INSURANCE COPAY 20% MAX 300",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NE G RA C PH 20",
+        "PlanDescription": "NEURON CN/GN+ RAK INSURANCE COPAY 20% MAX 300 PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NE G RA C10%M50",
+        "PlanDescription": "NEURON CN/GN+ RAK INSURANCE COPAY 10% MAX 50",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NE G RA C20 M",
+        "PlanDescription": "NEURON CN/GN+ RAK INSURANCE COPAY 20% MAX 200 PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NE G RA D20",
+        "PlanDescription": "NEURON CN/GN+ RAK INSURANCE DED20%M300 COPAY 15%M200 PH20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NE G RA D20C",
+        "PlanDescription": "NEURON CN/GN+ RAK INSURANCE DED/L/R 20%M300 OP15%M200  PH20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NE G+ R D10%C0",
+        "PlanDescription": "NEURON CN/GN+ RAK DED 10%M50  LAB/RAD 10%M50 OP/PH NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NE R CN C20",
+        "PlanDescription": "NEURON CN/GN+ RAK INSURANCE DED 20%MAX 100 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NE R CN C20M",
+        "PlanDescription": "NEURON CN/GN+ RAK INS DED20%M200 OP15%M100 L/R 20%M200 PH20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NE R CN C20M100",
+        "PlanDescription": "NEURON CN/GN+ RAK INSURANCE DED 20%M100 COPAY 20%M100 PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NE R CN C20M20",
+        "PlanDescription": "NEURON CN/GN+ RAK INS DED 20%M200 OP 0 L/R20%M200 PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NE R CN C20M200",
+        "PlanDescription": "NEURON CN/GN+ RAK INSURANCE DED 20%M200 COPAY 20%M200 PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NE R CN C20M75",
+        "PlanDescription": "NEURON CN/GN+ RAK INSURANCE DED 20% M 75 OP 20% M100 PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NE R CN C20P30%",
+        "PlanDescription": "NEURON CN/GN+ RAK INSURANCE DED 20% COPAY 20% PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NE R CN D20%M50",
+        "PlanDescription": "NEURON CN/GN+ RAK INSURANCE DED 20% MAX 50 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NE R G+ D",
+        "PlanDescription": "NEURON CN/GN+ RAK INS DED 50 COPAY NIL PH 15%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NE R G+ D20%M50",
+        "PlanDescription": "NEURON CN/GN+ RAK INS DED 20% MAX 50 COPAY NIL PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU RA D10%P10%",
+        "PlanDescription": "NEURON CN/GN+ RAK INSURANCE DED 10% COPAY NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU RAK C10%",
+        "PlanDescription": "NEURON CN/GN+ RAK INSURANCE DED 10% COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU RAK C10%M50",
+        "PlanDescription": "NEURON CN/GN+ RAK INSURANCE DED 10% COPAY 10% MAX 50",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU RAK C15%",
+        "PlanDescription": "NEURON CN/GN+ RAK INSURANCE DED 15% COPAY 15%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU RAK C20%",
+        "PlanDescription": "NEURON CN/GN+ RAK INSURANCE DED 20% COPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU RAK C30%",
+        "PlanDescription": "NEURON CN/GN+ RAK INSURANCE DED 30% COPAY 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU RAK D0",
+        "PlanDescription": "NEURON CN/GN+ RAK INSURANCE DED NIL COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU RAK D10%",
+        "PlanDescription": "NEURON CN/GN+ RAK INSURANCE DED 10% COPAY NIL DN 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU RAK D10%C0",
+        "PlanDescription": "NEURON CN/GN+ RAK INSURANCE DED 10% MAX 50  COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU RAK D15100",
+        "PlanDescription": "NEURON CN/GN+ RAK DED 15% 100 CO 15% 100 MAX  PH 15%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU RAK D15M75",
+        "PlanDescription": "NEURON CN/GN+ RAK DED 15% MAX 75 COPAY 15% MAX 100 PH 15%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU RAK D20%",
+        "PlanDescription": "NEURON CN/GN+ RAK INSURANCE DED 20% COPAY NIL DN 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU RAK D20%C5%",
+        "PlanDescription": "NEURON CN/GN+ RAK INSURANCE DED 20% COPAY 5%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU RAK D20C0",
+        "PlanDescription": "NEURON CN/GN+ RAK INSURANCE DED 20 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU RAK D25",
+        "PlanDescription": "NEURON CN/GN+ RAK INSURANCE DED 25 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU RAK D30",
+        "PlanDescription": "NEURON CN/GN+ RAK INSURANCE DED 30 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU RAK D50",
+        "PlanDescription": "NEURON CN/GN+ RAK INSURANCE DED 50 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU RAK D50C10%",
+        "PlanDescription": "NEURON CN/GN+ RAK INSURANCE DED 50 COPAY 10% PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU RAK D50C20%",
+        "PlanDescription": "NEURON CN/GN+ RAK INSURANCE DED 50 COPAY 20% PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU RAK D50P10%",
+        "PlanDescription": "NEURON CN/GN+ RAK INSURANCE DED 50 COPAY NIL PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU RAK D50P20%",
+        "PlanDescription": "NEURON CN/GN+ RAK INSURANCE DED 50 COPAY NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU RAK D50P25%",
+        "PlanDescription": "NEURON CN/GN+ RAK INSURANCE DED 50 COPAY NIL PH 25%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU RAK D50P30%",
+        "PlanDescription": "NEURON CN/GN+ RAK INSURANCE DED 50 COPAY NIL PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU RAK D75",
+        "PlanDescription": "NEURON CN/GN+ RAK INSURANCE DED 75 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU RAK D75C5%",
+        "PlanDescription": "NEURON CN/GN+ RAK INSURANCE DED 75 COPAY 5%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU RAKD20%C0",
+        "PlanDescription": "NEURON CN/GN+ RAK INSURANCE DED 20% COPAY NILPH NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU RAKD20%C20%",
+        "PlanDescription": "NEURON CN/GN+ RAK INSURANCE DED 20% COPAY 20% PH 20%",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "NEU RTA CN",
+    "PolicyGroupDescription": "NEURON - ROAD & TRANSPORT AUTHORITY (RTA)",
+    "RateListCode": "NEU GOVT 2022",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "SP0020",
+    "Plans": [
+      {
+        "PlanCode": "NE RTA  C10%",
+        "PlanDescription": "NEURON CN/GN+ RTA COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NE RTA  C10%M1",
+        "PlanDescription": "NEURON CN/GN+ RTA COPAY 10% MAX 1000",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NE RTA  C20%M1",
+        "PlanDescription": "NEURON CN/GN+ RTA COPAY 20% MAX 1000",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NE RTA C10M350",
+        "PlanDescription": "NEURON CN/GN+ RTA COPAY 10% MAX 350",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NE RTA C10M500",
+        "PlanDescription": "NEURON CN/GN+ RTA COPAY 10% MAX 500",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NE RTA C20M100",
+        "PlanDescription": "NEURON CN/GN+ RTA COPAY 20% MAX 1000",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NE RTA C20M350",
+        "PlanDescription": "NEURON CN/GN+ RTA COPAY 20% MAX 350",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NE RTA C20M500",
+        "PlanDescription": "NEURON CN/GN+ RTA COPAY 20% MAX 500",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NE RTA DED 10%M",
+        "PlanDescription": "NEURON CN/GN+ RTA DED 10% MAX 500",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NE RTA DED C20%",
+        "PlanDescription": "NEURON CN/GN+ RTA DED 20% COPAY 20%",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "NEU SALAMA GN",
+    "PolicyGroupDescription": "NEURON - SALAMA (GENERAL NETWORK)",
+    "RateListCode": "NEURON - GN PL",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS035",
+    "Plans": [
+      {
+        "PlanCode": "NEU GN 20% M30",
+        "PlanDescription": "NEURON GN SALAMA Ded 20% M 30",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU GN SA C20%",
+        "PlanDescription": "NEURON GN SALAMA COPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU GN SAL D0C0",
+        "PlanDescription": "NEURON GN SALAMA DED NIL COPAY NIL",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "NEU UNION GN",
+    "PolicyGroupDescription": "NEURON - UNION INSURANCE COMPANY  (GENERAL NETWORK)",
+    "RateListCode": "NEURON - GN PL",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS040",
+    "Plans": [
+      {
+        "PlanCode": "NEU UNI D20%M50",
+        "PlanDescription": "NEURON GN UNION DED 20% MAX 50 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "NEU WAT GN",
+    "PolicyGroupDescription": "Neuron - NATIONAL TAKAFUL CO (WATANIA) - MORGAN PRICE - GN",
+    "RateListCode": "NEURON - GN PL",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS079",
+    "Plans": [
+      {
+        "PlanCode": "NE G WT D20%M50",
+        "PlanDescription": "NEURON GN NAT. TAK. (WATANIA) DED 20% MAX 50 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEGWTD20C10P20",
+        "PlanDescription": "NEURON GN NAT. TAK. (WATANIA) DED 20% MAX 50 COPAY 10% PH 20",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "NEUR OR INS CN",
+    "PolicyGroupDescription": "NEURON - ORIENTAL INSURANCE COMPANY  CN",
+    "RateListCode": "NEURON",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS128",
+    "Plans": [
+      {
+        "PlanCode": "NEU G OR D0",
+        "PlanDescription": "NEURON  CN ORIENTAL INS COMP DED 10% COPAY 10%",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "NEUR OR INS GN",
+    "PolicyGroupDescription": "NEURON - ORIENTAL INSURANCE COMPANY  GN",
+    "RateListCode": "NEURON - GN PL",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS128",
+    "Plans": [
+      {
+        "PlanCode": "NEU G OR D0C0",
+        "PlanDescription": "NEURON  GN ORIENTAL INS COMP DED 10% COPAY 10%",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "NEUR-CN-ITTIHAD",
+    "PolicyGroupDescription": "NEURON - AL ITIHAD AL WATANI CN",
+    "RateListCode": "NEURON",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS024",
+    "Plans": [
+      {
+        "PlanCode": "NEUITHD D20%M75",
+        "PlanDescription": "NEURON CN AL ITT AL WAT DED 20% MAX 75  COPAY NIL",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "NEUR-GN-ITTIHAD",
+    "PolicyGroupDescription": "NEURON - AL ITIHAD AL WATANI GN",
+    "RateListCode": "NEURON - GN PL",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS024",
+    "Plans": [
+      {
+        "PlanCode": "NEU ITHD DC10%",
+        "PlanDescription": "NEURON GN AL ITT AL WAT DED 10%  COPAY 10% PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEUITHD D20%",
+        "PlanDescription": "NEURON GN AL ITT AL WAT DED 20% MAX 25  COPAY 0",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEUITHD D20%M25",
+        "PlanDescription": "NEURON GN AL ITT AL WAT DED 20% MAX 25  COPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEUITHD D20%M50",
+        "PlanDescription": "NEURON GN AL ITT AL WAT DED 20% MAX 50 PH 20%",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "NEURON - CIGNA",
+    "PolicyGroupDescription": "NEURON - CIGNA",
+    "RateListCode": "NEURON",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS137",
+    "Plans": [
+      {
+        "PlanCode": "N CI C20%M100",
+        "PlanDescription": "NEURON CN/GN+ CIGNA COPAY 20% MAX 100 PH 20%M100",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "N CI C20%M100P",
+        "PlanDescription": "NEURON CN/GN+ CIGNA COPAY 20% MAX 100 PH 20%M50",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "N CI C20%M100XX",
+        "PlanDescription": "NEURON CN/GN+ CIGNA DED 20% MAX 103 CO NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "N CI C20%M70P30",
+        "PlanDescription": "NEURON CN/GN+ CIGNA COPAY 20% MAX 70 PH 20%M30",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "N CI C50%",
+        "PlanDescription": "NEURON CN/GN+ CIGNA COPAY 50% (DENTAL)",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NE  C20%M50",
+        "PlanDescription": "NEURON CIGNA COPAY 20% MAX 50",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NE  C20%M50PH",
+        "PlanDescription": "NEURON CIGNA DED50 L/R 5%M 50 PH NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NE  C20%M50PH20",
+        "PlanDescription": "NEURON CIGNA COPAY 20% MAX 50 PHARMACY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NE  C20%M50X",
+        "PlanDescription": "NEURON CIGNA/ GN COPAY 20% MAX 50",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NE  C20%M95",
+        "PlanDescription": "NEURON CIGNA COPAY 20% MAX 95",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NE C D10%",
+        "PlanDescription": "NEURON CN/GN+ CIGNA DED / OP/ PH 10% LAB / RAD 10% MAX 50",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NE C D10%75X",
+        "PlanDescription": "NEURON CN/GN+ CIGNA DED 10% MAX 75  COPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NE C D10%M50",
+        "PlanDescription": "NEURON CN/GN+ CIGNA DED 10% MAX 50 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NE C D10%M50X",
+        "PlanDescription": "NEURON CN/GN+ CIGNA DED 10% MAX 50 COPAY 10 %M50 PH NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NE C D10%M50XX",
+        "PlanDescription": "NEURON CN/GN+ CIGNA DED 10% MAX 50 COPAY 20% PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NE C D1050XX",
+        "PlanDescription": "NEURON CN/GN+ CIGNA DED 10% OP/PH  10% L/R 10%M 367",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NE C D13",
+        "PlanDescription": "NEURON CN/GN+ CIGNA DED 13 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NE C D2 29",
+        "PlanDescription": "NEURON CN/GN+ CIGNA DED 20%M 85.48 COPAY 0 PH 20%M 29.38",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NE C D20%",
+        "PlanDescription": "NEURON CN/GN+ CIGNA DED 20% MAX 183.61 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NE C D20%10P10",
+        "PlanDescription": "NEURON CN/GN+ CIGNA D20% M100  CO L/R 10% PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NE C D20%26",
+        "PlanDescription": "NEURON CN/GN+ CIGNA DED 20% MAX 26 COPAY NIL PH 20%M26",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NE C D20%26D",
+        "PlanDescription": "NEURON CN/GN+ CIGNA DED 20% MAX 26 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NE C D20%26X",
+        "PlanDescription": "NEURON CN/GN+ CIGNA DED 20% MAX 26 COPAY 20% MAX 26",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NE C D20%75C10",
+        "PlanDescription": "NEURON CN/GN+ CIGNA DED 20% MAX 75 COPAY / PH 10% M500",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NE C D20%M PH20",
+        "PlanDescription": "NEURON CN/GN+ CIGNA DED 20% MAX 75 OP NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NE C D20%M100P1",
+        "PlanDescription": "NEURON CN/GN+ CIGNA DED 20% MAX 100  COPAY NIL PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NE C D20%M25",
+        "PlanDescription": "NEURON CN/GN+ CIGNA DED 20% MAX 25 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NE C D20%M37",
+        "PlanDescription": "NEURON CN/GN+ CIGNA DED 20% M37 LAB/RAD 20% PH 10% OP NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NE C D20%M47.75",
+        "PlanDescription": "NEURON CN/GN+ CIGNA DED 20% MAX 47.75 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NE C D20%M5220",
+        "PlanDescription": "NEURON CN/GN+ CIGNA DED 20% MAX 52 CO 20%M52",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NE C D20%M75",
+        "PlanDescription": "NEURON CN/GN+ CIGNA DED 20% MAX 75 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NE C D20%M7520",
+        "PlanDescription": "NEURON CN/GN+ CIGNA DED 20% MAX 75 CO 20%M75",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NE C D20%M75PH",
+        "PlanDescription": "NEURON CN/GN+ CIGNA DED 20% MAX 75 COPAY NIL PH 20% M75",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NE C D20%M75X",
+        "PlanDescription": "NEURON CN/GN+ CIGNA DED 20% MAX 75 OP NIL L/R/PH 20% M75",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NE C D20%M75XDD",
+        "PlanDescription": "NEURON CN/GN+ CIGNA DED 20% MAX 75 OP NIL L/R- 20% PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NE C D20%M90",
+        "PlanDescription": "NEURON CN/GN+ CIGNA DED 20% MAX 90 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NE C D20%M95",
+        "PlanDescription": "NEURON CN/GN+ CIGNA DED 20% MAX 95 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NE C D20%M95.50",
+        "PlanDescription": "NEURON CN/GN+ CIGNA DED 20% MAX 95.50 COPAY NIL PH 20%95.50",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NE C D20%P20",
+        "PlanDescription": "NEURON CN/GN+ CIGNA D20% M100  CO L/R 20% M 100 PH 20% M100",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NE C D20100",
+        "PlanDescription": "NEURON CN/GN+ CIGNA DED 20% MAX  100 COPAY NIL PH 5%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NE C D2075",
+        "PlanDescription": "NEURON CN/GN+ CIGNA DED 20% MAX 75 COPAY NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NE C D30",
+        "PlanDescription": "NEURON CN/GN+ CIGNA DED 30 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NE C D30%75",
+        "PlanDescription": "NEURON CN/GN+ CIGNA DED 30% MAX 75 COPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NE C D50%C20%",
+        "PlanDescription": "NEURON CN/GN+ CIGNA DED 50%  COPAY 20% PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NE C D50X",
+        "PlanDescription": "NEURON CN/GN+ CIGNA DED 50 COPAY 10 %M50 PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NE C DED 0%MX",
+        "PlanDescription": "NEURON CN/GN+ CIGNA DED 20% MAX 50 OP 0 L/R/PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NE C DED 20%M50",
+        "PlanDescription": "NEURON CN/GN+ CIGNA DED 20% MAX 50 OP NIL L/R/PH 15%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NE C DED 20%M5X",
+        "PlanDescription": "NEURON CN/GN+ CIGNA DED 20% MAX 50 OP NIL L/R/ 10%PH 15%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NE C DED 20%MX",
+        "PlanDescription": "NEURON CN/GN+ CIGNA DED 20% MAX 50 OP 10% L/R/PH 20%M50",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NE C20%M50X",
+        "PlanDescription": "NEURON CIGNA/ GN DED  10% MAX 50 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NE C20%XM50X",
+        "PlanDescription": "NEURON CIGNA   DED 10% MAX25 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NE C20%XXM50X",
+        "PlanDescription": "NEURON CIGNA DED 10% MAX25 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NE CN C10",
+        "PlanDescription": "NEURON CN/GN+  CIGNA COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NE CN C10%M50",
+        "PlanDescription": "NEURON CN/GN+  CIGNA COPAY 10% MAX 50",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NE CN C10X",
+        "PlanDescription": "NEURON CN/GN+  CIGNA COPAY 10%MAX 25",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NE CN C15",
+        "PlanDescription": "NEURON CN/GN+  CIGNA COPAY 15% MAX 50",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NE CN C150",
+        "PlanDescription": "NEURON CN/GN+  CIGNA COPAY 50%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NE CN D2",
+        "PlanDescription": "NEURON CN/GN+ CIGNA DED 20% MAX 50  COPAY NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NE CN D2 50",
+        "PlanDescription": "NEURON CN/GN+ CIGNA DED 20% MAX 50  COPAY 20% PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NE CN D20%",
+        "PlanDescription": "NEURON CN/GN+ CIGNA DED 20% MAX 100 OP NIL PH 20% MAX 100",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NE CN D20%100P",
+        "PlanDescription": "NEURON CN/GN+ CIGNA DED 20% MAX 100 OP NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NE CN D20%C%",
+        "PlanDescription": "NEURON CN/GN+ CIGNA DED 20% MAX 100  COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NE CN D20%C10",
+        "PlanDescription": "NEURON CN/GN+  CIGNA DED 20% COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NE CN D20%C10%X",
+        "PlanDescription": "NEURON CN/GN+ CIGNA DED 20% MAX 50  COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NE CN D20%M3",
+        "PlanDescription": "NEURON CN/GN+ CIGNA DED 20% MAX 30  COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NE CN D20%M30",
+        "PlanDescription": "NEURON CN/GN+ CIGNA DED 20% MAX 30  COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NE CN D20%M37",
+        "PlanDescription": "NEURON CN/GN+ CIGNA DED 20% MAX 37  OP NIL PH 10% LAB/RAD20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NE CN D20%P10%",
+        "PlanDescription": "NEURON CN/GN+ CIGNA DED 20% MAX 50  COPAY NIL PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NE CN D20%P10M%",
+        "PlanDescription": "NEURON CN/GN+ CIGNA DED 20% MAX 50  COPAY 20% MAX PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NE CN D20%P20%",
+        "PlanDescription": "NEURON CN/GN+ CIGNA DED 20% MAX 100  COPAY 10% PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NE CN D20%P20M%",
+        "PlanDescription": "NEURON CN/GN+ CIGNA DED 20% MAX 50  COPAY 20% MAX PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NE CN D37",
+        "PlanDescription": "NEURON CN/GN+ CIGNA DED 20% MAX 37 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NE CO D7",
+        "PlanDescription": "NEURON CN/GN+ CIGNA DED 7 AED",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NE CO10 D10M75",
+        "PlanDescription": "NEURON CN/GN+ CIGNA DED 10% MAX 75 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NE CO10 D20%M72",
+        "PlanDescription": "NEURON CN/GN+ CIGNA DED20% M 73 L/R /PH 20%73",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NE CO10 D20%M73",
+        "PlanDescription": "NEURON CN/GN+ CIGNA COPAY 20% 73",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NE CO10 D20%M75",
+        "PlanDescription": "NEURON CN/GN+ CIGNA COPAY 10 MAX496 DED 20% MAX 75",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NE CO10 D2075",
+        "PlanDescription": "NEURON CN/GN+ CIGNA COPAY 20%75",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NE CO10%D20%M75",
+        "PlanDescription": "NEURON CN/GN+ CIGNA COPAY 10% MAX 496  DED 20% MAX 75",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NE D20% M100",
+        "PlanDescription": "NEURON CIGNA/ CN DED 20% M 100 L/R/PH 5%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NE D20M50C20P20",
+        "PlanDescription": "NEURON CIGNA/ CN DED 20% M 50 COPAY 20% M 50 PH 20% M 100",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NE D20M50C20PD",
+        "PlanDescription": "NEURON CIGNA/ CN DED 20% M 50 COPAY 20% M 50 PH 20% M 50",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NE D20M73",
+        "PlanDescription": "NEURON CIGNA/ CN DED 20% M 73COPAY 20%M73  L/R PH 20% M 73",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NE D25.71AED",
+        "PlanDescription": "NEURON CIGNA/ CN DED25.71AED COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NE D50",
+        "PlanDescription": "NEURON CIGNA/ CN DED50 L/R 10%M50 PH0% COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NE G+ C D10M50",
+        "PlanDescription": "NEURON CN/GN+ CIGNA DED 10% MAX 50 COPAY 10% M50 PH 10% M50",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU CI 20%M100A",
+        "PlanDescription": "NEURON CN/GN+ CIGNA DED 20% M100  COPAY 20% M100 PH 20% M100",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU CI 20%M100B",
+        "PlanDescription": "NEURON CN/GN+ CIGNA DED 20% M100  COPAY 20% PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU CI C20%M50P",
+        "PlanDescription": "NEURON CN/GN+ CIGNA DED 20% M50 COPAY NIL PH 20% M100",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU CI C2050",
+        "PlanDescription": "NEURON CN/GN+ CIGNA COPYA 20% MAX 50",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU CI D0",
+        "PlanDescription": "NEURON CN/GN+ CIGNA DED NIL COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU CI D0%P10%M",
+        "PlanDescription": "NEURON CN/GN+ CIGNA DED NIL COPAY NIL PH 10% MAX 100",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU CI D0%P20%M",
+        "PlanDescription": "NEURON CN/GN+ CIGNA DED NIL COPAY NIL PH 20% MAX 100",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU CI D0000%",
+        "PlanDescription": "NEURON CN/GN+ CIGNA DED 0% COPAY 0% PH 10% 100",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU CI D10%C10%",
+        "PlanDescription": "NEURON CN/GN+ CIGNA DED 10% COPAY 20% PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU CI D20",
+        "PlanDescription": "NEURON CN/GN+ CIGNA DED 5% COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU CI D20%M100",
+        "PlanDescription": "NEURON CN/GN+ CIGNA DED 20% MAX 100  COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU CI D20%M15",
+        "PlanDescription": "NEURON CN/GN+ CIGNA DED 20% MAX 15 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU CI D20%M150",
+        "PlanDescription": "NEURON CN/GN+ CIGNA DED 20% MAX 150 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU CI D20%M151",
+        "PlanDescription": "NEURON CN/GN+ CIGNA DED 20% MAX 151 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU CI D20%M55",
+        "PlanDescription": "NEURON CN/GN+ CIGNA DED 20% MAX 55  COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU CI D20%P100",
+        "PlanDescription": "NEURON CN/GN+ CIGNA DED 20% COPAY NIL PH 20% MAX 100",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU CI D2M15",
+        "PlanDescription": "NEURON CN/GN+ CIGNA DED 15% MAX 75 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU CI D50M75",
+        "PlanDescription": "NEURON CN/GN+ CIGNA DED 50 COPAY NIL PH 20% M75",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU CI OP20%M",
+        "PlanDescription": "NEURON CN/GN+ CIGNA DED 20%M50 LAB/RAD/OP SERV/PH 20%M50",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU CID020100",
+        "PlanDescription": "NEURON CN/GN+ CIGNA 0 COPAY 20% MAX 100",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU CID20%M100",
+        "PlanDescription": "NEURON CN/GN+ CIGNA DED 20% MAX 100  COPAY 20% MAX 100",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU CID20%M50",
+        "PlanDescription": "NEURON CN/GN+ CIGNA DED 20% MAX50  COPAY 50% PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU CID20100",
+        "PlanDescription": "NEURON CN/GN+ CIGNA DED 20% MAX 100 COPAY NIL PH 20%MAX 50",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU CIG",
+        "PlanDescription": "NEURON CN/GN+ CIGNA DED 30%M75 COPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU CIG 5198X",
+        "PlanDescription": "NEURON CN/GN+ CIGNA D15%M 100 COPAY 15%M198  P15%M198",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU CIG C0P20%",
+        "PlanDescription": "NEURON CN/GN+ CIGNA DED 0 COPAY NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU CIG C10%",
+        "PlanDescription": "NEURON CN/GN+ CIGNA COPAY 10% (IP & OP)",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU CIG C10%COP",
+        "PlanDescription": "NEURON CN/GN+ CIGNA DED 10% LAB/RAD/PH 10% OP NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU CIG C10%P30",
+        "PlanDescription": "NEURON CN/GN+ CIGNA DED 10% COPAY 10% MAX 50 PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU CIG C15",
+        "PlanDescription": "NEURON CN/GN+ CIGNA DED 5% OP 0% PH 5%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU CIG C15%",
+        "PlanDescription": "NEURON CN/GN+ CIGNA DED 15% COPAY 15% PH 15%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU CIG C1D",
+        "PlanDescription": "NEURON CN/GN+ CIGNA DED 5% OP 0%L/R 5% PH 5%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU CIG C2",
+        "PlanDescription": "NEURON CN/GN+ CIGNA DED 20% OP NIL LAB/RAD/ PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU CIG C20%",
+        "PlanDescription": "NEURON CN/GN+ CIGNA COPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU CIG C20%P10",
+        "PlanDescription": "NEURON CN/GN+ CIGNA DED 20% COPAY 20% PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU CIG C20%P20",
+        "PlanDescription": "NEURON CN/GN+ CIGNA DED 20% COPAY 20% PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU CIG C20%P30",
+        "PlanDescription": "NEURON CN/GN+ CIGNA DED 20% COPAY 20% PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU CIG C20%X",
+        "PlanDescription": "NEURON CN/GN+ CIGNA DED 20% OP NIL L/R/PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU CIG C25%",
+        "PlanDescription": "NEURON CN/GN+ CIGNA COPAY 25%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU CIG C30%P30",
+        "PlanDescription": "NEURON CN/GN+ CIGNA DED 30% COPAY 30%PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU CIG C5%",
+        "PlanDescription": "NEURON CN/GN+ CIGNA COPAY 5%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU CIG CP20%",
+        "PlanDescription": "NEURON CN/GN+ CIGNA DED 20% M50  COPAY 20% M50 PH 20%M100",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU CIG D%",
+        "PlanDescription": "NEURON CN/GN+ CIGNA DED 15% COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU CIG D1",
+        "PlanDescription": "NEURON CN/GN+ CIGNA D10%M50 OP NIL LAB/RAD 10%PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU CIG D1 50",
+        "PlanDescription": "NEURON CN/GN+ CIGNA D10% OP NIL LAB/RAD 10%PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU CIG D10%",
+        "PlanDescription": "NEURON CN/GN+ CIGNA D10%M50 LAB/RAD/OP 10%M50 PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU CIG D10%50",
+        "PlanDescription": "NEURON CN/GN+ CIGNA D10%M50 LAB/RAD/PH 10% OP NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU CIG D10%C0",
+        "PlanDescription": "NEURON CN/GN+ CIGNA DED 10% COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU CIG D10%C10",
+        "PlanDescription": "NEURON CN/GN+ CIGNA DED 10% COPAY 10% PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU CIG D10%P0",
+        "PlanDescription": "NEURON CN/GN+ CIGNA D10%M50 LAB/RAD 10%M50 OP/PH NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU CIG D10%PH",
+        "PlanDescription": "NEURON CN/GN+ CIGNA D10%M50 LAB/RAD/OP/PH 10%M50",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU CIG D100C0",
+        "PlanDescription": "NEURON CN/GN+ CIGNA DED 100  COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU CIG D15",
+        "PlanDescription": "NEURON CN/GN+ CIGNA DED 15% OP NIL LAB/RAD 15% PH 15%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU CIG D15%",
+        "PlanDescription": "NEURON CN/GN+ CIGNA DED 15% COPAY NIL PH 15%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU CIG D15%M50",
+        "PlanDescription": "NEURON CN/GN+ CIGNA DED 15% MAX 50 COPAY NIL PH NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU CIG D15%P15",
+        "PlanDescription": "NEURON CN/GN+ CIGNA DED 15% COPAY 15% L/R PH 15%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU CIG D15198",
+        "PlanDescription": "NEURON CN/GN+ CIGNA D15% 100 OP NIL L/R 15%198  P15%198",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU CIG D151988",
+        "PlanDescription": "NEURON CN/GN+ CIGNA D 19 AED PH 8 AED",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU CIG D15198X",
+        "PlanDescription": "NEURON CN/GN+ CIGNA D15% 100 OP 15%198  P15%198",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU CIG D2",
+        "PlanDescription": "NEURON CN/GN+ CIGNA DED 20% MAX 75 COPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU CIG D20% 50",
+        "PlanDescription": "NEURON CN/GN+ CIGNA DED 20% MAX50 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU CIG D20% C0",
+        "PlanDescription": "NEURON CN/GN+ CIGNA DED 20% COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU CIG D20%75C",
+        "PlanDescription": "NEURON CN/GN+ CIGNA DED 20% MAX 75 COPAY 10% MAX 496",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU CIG D20%C0",
+        "PlanDescription": "NEURON CN/GN+ CIGNA DED 20% COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU CIG D20%C10",
+        "PlanDescription": "NEURON CN/GN+ CIGNA DED 20% COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU CIG D20%C20",
+        "PlanDescription": "NEURON CN/GN+ CIGNA DED 50 LAB&RAD 20% M50 PH 20% M50",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU CIG D20%C50",
+        "PlanDescription": "NEURON CN/GN+ CIGNA DED 50 LAB&RAD 50 PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU CIG D20%M75",
+        "PlanDescription": "NEURON CN/GN+ CIGNA DED 20% MAX 75 COPAY 20% PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU CIG D20%P10",
+        "PlanDescription": "NEURON CN/GN+ CIGNA DED 20% COPAY NIL PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU CIG D20%P15",
+        "PlanDescription": "NEURON CN/GN+ CIGNA DED 20% COPAY NIL PH 15%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU CIG D20%P20",
+        "PlanDescription": "NEURON CN/GN+ CIGNA DED 20% COPAY NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU CIG D20%P30",
+        "PlanDescription": "NEURON CN/GN+ CIGNA DED 20% COPAY NIL PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU CIG D20368",
+        "PlanDescription": "NEURON CN/GN+ CIGNA DED 20% 368  COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU CIG D20C10",
+        "PlanDescription": "NEURON CN/GN+ CIGNA DED 20% MAX 75 COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU CIG D20C10M",
+        "PlanDescription": "NEURON CN/GN+ CIGNA DED 20% MAX 75 LAB/RAD/OP/PH 10% M500",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU CIG D20P20",
+        "PlanDescription": "NEURON CN/GN+ CIGNA DED 20% MAX 50  COPAY NIL PH 20% MAX 100",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU CIG D25",
+        "PlanDescription": "NEURON CN/GN+ CIGNA DED 25 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU CIG D48P10%",
+        "PlanDescription": "NEURON CN/GN+ CIGNA DED 48 COPAY NIL PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU CIG D48P30",
+        "PlanDescription": "NEURON CN/GN+ CIGNA DED 48 COPAY NIL PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU CIG D5%C0",
+        "PlanDescription": "NEURON CN/GN+ CIGNA DED 5% COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU CIG D50P30",
+        "PlanDescription": "NEURON CN/GN+ CIGNA D 50 LAB/RAD/OP 10%M50 PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU CIG D55",
+        "PlanDescription": "NEURON CN/GN+ CIGNA DED 55 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU CIG D55C20%",
+        "PlanDescription": "NEURON CN/GN+ CIGNA DED 55 COPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU CIG D75C10%",
+        "PlanDescription": "NEURON CN/GN+ CIGNA DED 75 COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU CIG D75P10%",
+        "PlanDescription": "NEURON CN/GN+ CIGNA DED 75 COPAY NIL PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU CIG D81C0",
+        "PlanDescription": "NEURON CN/GN+ CIGNA DED 81  COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU CIG DC0",
+        "PlanDescription": "NEURON CN/GN+ CIGNA DED 0 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU CIG DC0P10",
+        "PlanDescription": "NEURON CN/GN+ CIGNA DED 0 COPAY NIL PH 10% MAX 50",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU CIG DN25%",
+        "PlanDescription": "NEURON CN/GN+ CIGNA DENTAL 25%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU CIGD10%P10%",
+        "PlanDescription": "NEURON CN/GN+ CIGNA DED 10% COPAY NIL PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU CIGD10%P20%",
+        "PlanDescription": "NEURON CN/GN+ CIGNA DED 10% COPAY NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU CIGD20%C100",
+        "PlanDescription": "NEURON CN/GN+ CIGNA COPAY 20% MAX 100",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU CIGD202.5C0",
+        "PlanDescription": "NEURON CN/GN+ CIGNA DED 202.50 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU CIGD2050",
+        "PlanDescription": "NEURON CN/GN+ CIGNA COPAY 20% MAX56",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU CIGOP1010P3",
+        "PlanDescription": "NEURON CN/GN+ CIGNA DED 10% CO10% PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU CIGOP1050P3",
+        "PlanDescription": "NEURON CN/GN+ CIGNA DED 50 CO 10%  PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU D10M10",
+        "PlanDescription": "NEURON CN/GN+ CIGNA COPAY 10% L/R 10% M50",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU D10M50P10",
+        "PlanDescription": "NEURON CN/GN+ CIGNA D10%M50 LAB/RAD 10%M50 PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU G CG C20%",
+        "PlanDescription": "NEURON CIGNA DED 20% OP NIL LAB/RAD/PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEUCIGD37C20P10",
+        "PlanDescription": "NEURON CN/GN+ CIGNA DED 37  COPAY 20% PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEUX CIG C0P20%",
+        "PlanDescription": "NEURON CN/GN+ CIGNA DED 0 COPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEUXCID20%M100",
+        "PlanDescription": "NEURON CN/GN+ CIGNA DED 20% MAX 100  COPAY 20% MAX 200",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NRN CI D",
+        "PlanDescription": "NEURON CN/GN+ CIGNA DED 50 OP NIL L/R 5%MAX 50 PH 5%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NRN CI D50M50",
+        "PlanDescription": "NEURON CN/GN+ CIGNA DED 20% MAX 50 COPAY 20% M50",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NRN CI D50MLR",
+        "PlanDescription": "NEURON CN/GN+ CIGNA DED 20% MAX 50 LAB/RAD 20% M50 OP NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NRN CI D50MLRX",
+        "PlanDescription": "NEURON CN/GN+ CIGNA DED 20% MAX 50 LAB/RAD/PH 20% M50 OP NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NRN CIG D0C20%",
+        "PlanDescription": "NEURON CN/GN+ CIGNA DED NIL COPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NRN CIG D50C10%",
+        "PlanDescription": "NEURON CN/GN+ CIGNA DED 50 COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NRN CIG D50C20%",
+        "PlanDescription": "NEURON CN/GN+ CIGNA DED 50 COPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NRN CIG D50M50",
+        "PlanDescription": "NEURON CN/GN+ CIGNA DED 20% MAX 50 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NRN CIG D50P10%",
+        "PlanDescription": "NEURON CN/GN+ CIGNA DED 50 COPAY NIL PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NRN CIG D75C0",
+        "PlanDescription": "NEURON CN/GN+ CIGNA DED 75 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NRN CIGD20X",
+        "PlanDescription": "NEURON CN/GN+ CIGNA DED20%MAX 50 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NRN CIGD50P20%",
+        "PlanDescription": "NEURON CN/GN+ CIGNA DED 50 COPAY NIL PH20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NRN CIGD50P30%",
+        "PlanDescription": "NEURON CN/GN+ CIGNA DED 50 COPAY NIL PH30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NRN CIGNA C50%",
+        "PlanDescription": "NEURON CN/GN+ CIGNA DED 50% COPAY 50%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NRN CIGNA D47",
+        "PlanDescription": "NEURON CN/GN+ CIGNA DED 47 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NRN CIGNA D47.",
+        "PlanDescription": "NEURON CN/GN+ CIGNA DED 20%MAX47.74 COPAY 0 PH 20%M47.74",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NRN CIGNA D48",
+        "PlanDescription": "NEURON CN/GN+ CIGNA DED 48 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NRN CIGNA D50",
+        "PlanDescription": "NEURON CN/GN+ CIGNA DED 50 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NRN CIGNA D52",
+        "PlanDescription": "NEURON CN/GN+ CIGNA DED 52 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "NEURON - GOP",
+    "PolicyGroupDescription": "NEURON - GOP BASED PAPER CLAIM",
+    "RateListCode": "NEURON - GN PL",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "",
+    "Plans": [
+      {
+        "PlanCode": "NEU GOP C20%",
+        "PlanDescription": "NEURON GOP BASED DED 20% COPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU GOP D0C0",
+        "PlanDescription": "NEURON GOP BASED DED 0 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU GOP D50C0",
+        "PlanDescription": "NEURON GOP BASED DED 50 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU GOP D75P10%",
+        "PlanDescription": "NEURON GOP BASED DED 75 COPAY NIL PH 10%",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "NEURON - UNION",
+    "PolicyGroupDescription": "NEURON - UNION INSURANCE COMPANY",
+    "RateListCode": "NEURON",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS040",
+    "Plans": [
+      {
+        "PlanCode": "NE UN D",
+        "PlanDescription": "NEURON CN/GN+ UNION COPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NE UN D20%M50",
+        "PlanDescription": "NEURON CN/GN+ UNION DED 20% MAX 50 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "NEURON ADNIC",
+    "PolicyGroupDescription": "NEURON - ADNIC",
+    "RateListCode": "NEURON",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS017",
+    "Plans": [
+      {
+        "PlanCode": "N ADN D20%M50P",
+        "PlanDescription": "NEURON CN/GN+ ADNIC DED 20% MAX 50 COPAY NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU AD D20%M100",
+        "PlanDescription": "NEURON CN/GN+ ADNIC DED 20% MAX 100 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU ADN C20%",
+        "PlanDescription": "NEURON CN/GN+ ADNIC COPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU ADN D0C0",
+        "PlanDescription": "NEURON CN/GN+ ADNIC COPAY DED NIL COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU ADN D20",
+        "PlanDescription": "NEURON CN/GN+ ADNIC COPAY DED 20",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU ADN D20%M50",
+        "PlanDescription": "NEURON CN/GN+ ADNIC DED 20% MAX 50 COPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU ADN D50",
+        "PlanDescription": "NEURON CN/GN+ ADNIC DED 50 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU ADN D50P10",
+        "PlanDescription": "NEURON CN/GN+ ADNIC DED 50 COPAY NIL PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU ADN D50P20",
+        "PlanDescription": "NEURON CN/GN+ ADNIC DED 50 COPAY NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "NEURON DEWA",
+    "PolicyGroupDescription": "NEURON - DUBAI ELECTRICITY & WATER AUTHORITY (DEWA)",
+    "RateListCode": "NEU GOVT 2022",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "SF0051",
+    "Plans": [
+      {
+        "PlanCode": "NEURON DE",
+        "PlanDescription": "NEURON DEWA COPAY 20%MAX 500AED",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEURON DEWA 30",
+        "PlanDescription": "NEURON DEWA DED 30 COPAY NIL DN 20% OP 50%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEURON DEWA D0",
+        "PlanDescription": "NEURON DEWA DED 0 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEURON DEWA D30",
+        "PlanDescription": "NEURON DEWA DED 30 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEURON DEWA20",
+        "PlanDescription": "NEURON DEWA DED 20 COPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEURON DEWA30",
+        "PlanDescription": "NEURON DEWA DED 30 COPAY NIL DN DED 30 AED OP 50%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEURONDEW  C10%",
+        "PlanDescription": "NEURON DEWA DED 10% COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEURONDEW  C20%",
+        "PlanDescription": "NEURON DEWA DED20% COPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NRN DEWA C20%",
+        "PlanDescription": "NEURON DEWA COPAY 20% PH 20% DN 20% OP 50%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NRN DEWA D0C20%",
+        "PlanDescription": "NEURON DEWA DED 0 COPAY 20% PH 20% DN 30% OP 50%",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "NEURON DXB POL",
+    "PolicyGroupDescription": "NEURON - DUBAI POLICE",
+    "RateListCode": "ENAYADG",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS136",
+    "Plans": [
+      {
+        "PlanCode": "NEU DP C10%",
+        "PlanDescription": "NEURON CN/GN+ DUBAI POLICE COPAY 10%",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "NEURON EMARAT",
+    "PolicyGroupDescription": "NEURON - EMARAT PETROLEUM",
+    "RateListCode": "NEURON",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "SF0050",
+    "Plans": [
+      {
+        "PlanCode": "NEU EMR C15%",
+        "PlanDescription": "NEURON CN/GN+ EMARAT PETROLEUM DED 15% COPAY 15%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEURONEMARAT 0",
+        "PlanDescription": "NEURON CN/GN+ EMARAT PETROLEUM DED 0 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "NEURON JUM GOLF",
+    "PolicyGroupDescription": "NEURON - JUMEIRAH GOLF ESTATE",
+    "RateListCode": "NEURON",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "SP0056",
+    "Plans": [
+      {
+        "PlanCode": "NEU JES C20%",
+        "PlanDescription": "NEURON CN/GN+ JUM GOLF EST DED 20% COPAY 20% PH20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU JES D0C0",
+        "PlanDescription": "NEURON CN/GN+ JUM GOLF EST DED NIL COPAY NIL DB NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU JES D50C0",
+        "PlanDescription": "NEURON CN/GN+ JUM GOLF EST DED 50 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "NEURON NGI",
+    "PolicyGroupDescription": "NEURON - NATIONAL GENERAL INS  CO - NGI",
+    "RateListCode": "NEURON",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS038",
+    "Plans": [
+      {
+        "PlanCode": "NEU NGI C20%",
+        "PlanDescription": "NEURON CN/GN+ NGI DED 20% COPAY 20% DB 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU NGI C20%P10",
+        "PlanDescription": "NEURON CN/GN+ NGI DED 20% COPAY 20% PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU NGI CO10%",
+        "PlanDescription": "NEURON CN/GN+ NGI COPAY 10% ALL OP",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU NGI CO20%",
+        "PlanDescription": "NEURON CN/GN+ NGI COPAY 20% ALL OP",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU NGI D0C0",
+        "PlanDescription": "NEURON CN/GN+ NGI DED 0 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU NGI D10%",
+        "PlanDescription": "NEURON CN/GN+ NGI DED 10% COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU NGI D100",
+        "PlanDescription": "NEURON CN/GN+ NGI DED 100 COPAY NIL PH 10% DN 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU NGI D100C0",
+        "PlanDescription": "NEURON CN/GN+ NGI DED 100 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU NGI D20%",
+        "PlanDescription": "NEURON CN/GN+ NGI DED 20% COPAY NIL PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU NGI D20% C0",
+        "PlanDescription": "NEURON CN/GN+ NGI DED 20% COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU NGI D25",
+        "PlanDescription": "NEURON CN/GN+ NGI DED 25 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU NGI D25P10%",
+        "PlanDescription": "NEURON CN/GN+ NGI DED 25 COPAY NIL PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU NGI D50",
+        "PlanDescription": "NEURON CN/GN+ NGI DED 50 COPAY NIL DN 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU NGI D50C0",
+        "PlanDescription": "NEURON CN/GN+ NGI DED 50 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU NGI D50P10%",
+        "PlanDescription": "NEURON CN/GN+ NGI DED 50 COPAY NIL PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU NGI DN20%",
+        "PlanDescription": "NEURON CN/GN+ NGI DED 25 COPAY NIL DN 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU NGIDC10%M50",
+        "PlanDescription": "NEURON CN/GN+ NGI COPAYMENT 10% MAX 50",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "NEURON NOOR",
+    "PolicyGroupDescription": "NEURON - NOOR TAKAFUL INS CO",
+    "RateListCode": "NEURON",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS018",
+    "Plans": [
+      {
+        "PlanCode": "NE G/C NT D20%M",
+        "PlanDescription": "NEURON CN/GN+ NOOR TAKAFUL DED 20% MAX 100 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU MET D2",
+        "PlanDescription": "NEURON CN/GN+ NOOR TAKAFUL DED 20% MAX 50 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU MET D2100",
+        "PlanDescription": "NEURON CN/GN+ NOOR TAKAFUL DED 20% MAX 100 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU NOO D25P20%",
+        "PlanDescription": "NEURON CN/GN+ NOOR TAKAFUL DED 25 COPAY NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU NOO D25P25%",
+        "PlanDescription": "NEURON CN/GN+ NOOR TAKAFUL DED 25 COPAY NIL PH 25%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU NOOR D0C0",
+        "PlanDescription": "NEURON CN/GN+ NOOR TAKAFUL DED 0 COPAY NIL PH NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU NOOR D25",
+        "PlanDescription": "NEURON CN/GN+ NOOR TAKAFUL DED 25 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU NOOR D50",
+        "PlanDescription": "NEURON CN/GN+ NOOR TAKAFUL DED 50 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU NOOR D50C0",
+        "PlanDescription": "NEURON CN/GN+ NOOR TAKAFUL DED 50 COPAY NIL PH 20% DN 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU NOOR DN20%",
+        "PlanDescription": "NEURON CN/GN+ NOOR TAKAFUL 20 CO-PAY DN 20%",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "NEURON QIC GN",
+    "PolicyGroupDescription": "Neuron - QIC ( GENERAL NETWORK)",
+    "RateListCode": "NEURON - GN PL",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS019",
+    "Plans": [
+      {
+        "PlanCode": "NEU G QC D%M",
+        "PlanDescription": "NEURON GN QIC DED 20% COPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU G QIC D%M",
+        "PlanDescription": "NEURON GN QIC DED 20%M50 COPAY 20% PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU G QIC D%M75",
+        "PlanDescription": "NEURON GN QIC DED 20%M75 COPAY 20% PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU G QIC D0C0",
+        "PlanDescription": "NEURON GN QIC DED 0 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU G QIC D20",
+        "PlanDescription": "NEURON GN QIC DED 20%M25  COPAY NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU G QIC D20%M",
+        "PlanDescription": "NEURON GN QIC DED 20%M50 COPAY 20% M50",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU G QIC D2M",
+        "PlanDescription": "NEURON GN QIC DED 20%M50 COPAY 10% PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU G QIC NIL",
+        "PlanDescription": "NEURON GN QIC DED 20%M50 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU G QIC NIL 3",
+        "PlanDescription": "NEURON GN QIC DED 20%M30 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU G QIXD%M",
+        "PlanDescription": "NEURON GN QIC COPAY 10% PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU G QIXD20%M",
+        "PlanDescription": "NEURON GN QIC DED 20%M50 COPAY NIL PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU G QIXD2M",
+        "PlanDescription": "NEURON GN QIC DED 10%  OP 0 L/R 20%  PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU G QIXDD10",
+        "PlanDescription": "NEURON GN QIC COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU G QIXDD20",
+        "PlanDescription": "NEURON GN QIC COPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU G QIXM",
+        "PlanDescription": "NEURON GN QIC DED 10% COPAY 20% PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEURONQIC C2",
+        "PlanDescription": "NEURON GN QIC DED 20% M50% OP NIL PH/L/R 10%",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "NEURON SALAMA",
+    "PolicyGroupDescription": "NEURON - SALAMA",
+    "RateListCode": "NEURON",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS035",
+    "Plans": [
+      {
+        "PlanCode": "NEU C10%",
+        "PlanDescription": "NEURON CN/GN+ SALAMA COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU C15%",
+        "PlanDescription": "NEURON CN/GN+ SALAMA COPAY 15%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU C20%",
+        "PlanDescription": "NEURON CN/GN+ SALAMA COPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU D20%PH20%",
+        "PlanDescription": "NEURON CN/GN+ SALAMA DED 20% COPAY NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU D50C0",
+        "PlanDescription": "NEURON CN/GN+ SALAMA DED 50 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU D50C15",
+        "PlanDescription": "NEURON CN/GN+ SALAMA DED 50 COPAY 15% DN 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU D75C0",
+        "PlanDescription": "NEURON CN/GN+ SALAMA DED 75 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU SA D20%P20%",
+        "PlanDescription": "NEURON CN/GN+ SALAMA DED 20% COPAY 15% PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU SAL C30%",
+        "PlanDescription": "NEURON CN/GN+ SALAMA DED 30% COPAY 30% PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU SAL D0C0",
+        "PlanDescription": "NEURON CN/GN+ SALAMA DED NIL COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU SAL D20%",
+        "PlanDescription": "NEURON CN/GN+ SALAMA DED 20% COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU SAL D20%M75",
+        "PlanDescription": "NEURON CN/GN+ SALAMA DED 20% MAX 75 COPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU SAL D2050",
+        "PlanDescription": "NEURON CN/GN+ SALAMA DED 20% MAX 50 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU SAL D25P15%",
+        "PlanDescription": "NEURON CN/GN+ SALAMA DED 25 COPAY NIL PH 15%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU SAL D50P20%",
+        "PlanDescription": "NEURON CN/GN+ SALAMA DED 50 COPAY 15% PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU SAL D75P20%",
+        "PlanDescription": "NEURON CN/GN+ SALAMA DED 75 COPAY NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "NEURONALAIN",
+    "PolicyGroupDescription": "Neuron - AL AIN AHLIA CO/ GLOBAL HEALTH INS",
+    "RateListCode": "NEURON",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS028",
+    "Plans": [
+      {
+        "PlanCode": "NEU AAA D50C0",
+        "PlanDescription": "NEURON AL AIN AHLIA DED 50 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEURON ALAIN 50",
+        "PlanDescription": "NEURON CN/GN+ AL AIN AHLIA DED 50 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEURON ALAIND0",
+        "PlanDescription": "NEURON CN/GN+ AL AIN AHLIA DED 0 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEURON ALAIND25",
+        "PlanDescription": "NEURON CN/GN+ AL AIN AHLIA DED 25 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEURON ALAIND50",
+        "PlanDescription": "NEURON CN/GN+ AL AIN AHLIA DED 50 COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEURON ALAIND75",
+        "PlanDescription": "NEURON CN/GN+ AL AIN AHLIA DED 75 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEURON LAIN 50",
+        "PlanDescription": "NEURON CN/GN+ AL AIN AHLIA DED 50 COPAY NIL PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEURONAIN50C20",
+        "PlanDescription": "NEURON CN/GN+ AL AIN AHLIA DED 50 COPAY 20%",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "NEURONDPW",
+    "PolicyGroupDescription": "Neuron - DP WORLD",
+    "RateListCode": "NEURON",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "SP0026",
+    "Plans": [
+      {
+        "PlanCode": "NEURON DP C10%",
+        "PlanDescription": "NEURON CN/GN+ DP WORLD INSURANCE COPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEURONDPWD0C0",
+        "PlanDescription": "NEURON CN/GN+ DP WORLD INSURANCE DED 0 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEURONDPWD25C0",
+        "PlanDescription": "NEURON CN/GN+ DP WORLD INSURANCE DED 25 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEURONDPWD50C0",
+        "PlanDescription": "NEURON CN/GN+ DP WORLD INSURANCE DED 50 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "NEURONDUBAIN GN",
+    "PolicyGroupDescription": "Neuron - DUBAI INSURANCE (GENERAL NETWORK)",
+    "RateListCode": "NEURON - GN PL",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS005",
+    "Plans": [
+      {
+        "PlanCode": "N GN DIC",
+        "PlanDescription": "NEURON GN DUBAI INS DED 20%M50 COPAY NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "N GN DIC 0%",
+        "PlanDescription": "NEURON GN DUBAI INS DED 0% CO 0%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "N GN DIC 10%",
+        "PlanDescription": "NEURON GN DUBAI INS DED 20%M 100 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "N GN DIC 2",
+        "PlanDescription": "NEURON GN DUBAI INS DED 20%M50 COPAY 20%MAX 100",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "N GN DIC 2050",
+        "PlanDescription": "NEURON GN DUBAI INS DED 20%M50 COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "N GN DIC 2051",
+        "PlanDescription": "NEURON GN DUBAI INS DED 20%M51 COPAY 10%M51",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "N GN DIC 2110%",
+        "PlanDescription": "NEURON GN DUBAI INS DED 20%M 100 COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "N GN DIC 220501",
+        "PlanDescription": "NEURON GN DUBAI INS DED 20%M50 COPAY 10%MAX 100 PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "N GN DIC D",
+        "PlanDescription": "NEURON GN DUBAI INS DED 25AED  COPAY 10AED PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "N GN DIC D20%C2",
+        "PlanDescription": "NEURON GN DUBAI INS DED 20% MAX 50 COPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "N GN DIC D50PH",
+        "PlanDescription": "NEURON GN DUBAI INS DED 50 OP NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "N GN DIC DED20",
+        "PlanDescription": "NEURON GN DUBAI INS DED 20%M50 COPAY 20% PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "N GN DIC050",
+        "PlanDescription": "NEURON GN DUBAI INS DED 20%M50 L/R/P 20%50 OP 0%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "N GN DICX",
+        "PlanDescription": "NEURON GN DUBAI INS DED 10% COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "N GNDIC D50PH10",
+        "PlanDescription": "NEURON GN DUBAI INS DED 50 OP NIL PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NE GN D25C0",
+        "PlanDescription": "NEURON GN DUBAI INS DED 25 COPAY NIL PH  20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NE GN D25C0P10",
+        "PlanDescription": "NEURON GN DUBAI INS DED 25 COPAY NIL PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NE GN D25C10",
+        "PlanDescription": "NEURON GN DUBAI INS DED 25 COPAY 10 LAB/RAD/PH 10",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NE GN DIC D20%C",
+        "PlanDescription": "NEURON GN DUBAI INS DED 20% MAX 50 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU DI GN D20M",
+        "PlanDescription": "NEURON GN DUBAI INSURANCE DED 20%M 100 COPAY 10% M100 PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU GN DIC D20%",
+        "PlanDescription": "NEURON GN DUBAI INS DED 20% MAX 50 COPAY NIL PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU GN DIC D25",
+        "PlanDescription": "NEURON GN DUBAI INS DED 25 LAB/RAD AED 10 PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU GN DIC D50",
+        "PlanDescription": "NEURON GN DUBAI INS DED50 AED COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEUROND2",
+        "PlanDescription": "NEURON GN DUBAI INSURANCE DED 20%M100 COPAY20%M100",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEURONDIC0%",
+        "PlanDescription": "NEURON GN DUBAI INSURANCE DED 20%M50 OP 0 L/R/PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEURONDIC20%",
+        "PlanDescription": "NEURON GN DUBAI INSURANCE COPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEURONDIC2075",
+        "PlanDescription": "NEURON GN DUBAI INSURANCE DED 20%MAX 73 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEURONDIC73995",
+        "PlanDescription": "NEURON GN DUBAI INSURANCE DED 20%MAX 73 COPAY 20% MAX 99",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEURONDICC20%",
+        "PlanDescription": "NEURON CN/GN+ DUBAI INSURANCE COPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEURONDICGN",
+        "PlanDescription": "NEURON GN DUBAI INSURANCE DED 20%M50 COPAY 15% PH 15%",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "NEURONDUBAINSUR",
+    "PolicyGroupDescription": "Neuron - DUBAI INSURANCE",
+    "RateListCode": "NEURON",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS005",
+    "Plans": [
+      {
+        "PlanCode": "N GN DIC 199",
+        "PlanDescription": "NEURON CN DUBAI INS DED 20%M 99 COPAY NIL PH 15%M150",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "N GN+ DIC050",
+        "PlanDescription": "NEURON DUBAI INS DED 20%M50 L/R/P 20%50 OP 0%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NE C DI D100",
+        "PlanDescription": "NEURON CN/GN+ DUBAI INS COPAY 20%MAX M100",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NE C DI D20",
+        "PlanDescription": "NEURON CN/GN+ DUBAI INS DED 20% M100 COPAY 0 PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NE C DI D20 C0",
+        "PlanDescription": "NEURON CN/GN+ DUBAI INS DED 20% M100 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NE C DI D20%100",
+        "PlanDescription": "NEURON CN/GN+ DUBAI INS DED20% M100 COPAY 10% M100 PH10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NE C DI D20%50",
+        "PlanDescription": "NEURON CN/GN+ DUBAI INS DED 20% M50 COPAY 10% M100",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NE C DI D20%M50",
+        "PlanDescription": "NEURON CN/GN+ DUBAI INS DED 20% M50 COPAY 0% PH10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NE C DI D2010",
+        "PlanDescription": "NEURON CN/GN+ DUBAI INS DED 20% M100 COPAY10% PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NE C DI D2010P2",
+        "PlanDescription": "NEURON CN/GN+ DUBAI INS DED 20% M100 COPAY 20%100 PH20%100",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU DIC C20%50",
+        "PlanDescription": "NEURON CN/GN+ DUBAI INS COPAY 20% MAX50 PH 20%50",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU DIC D20",
+        "PlanDescription": "NEURON CN/GN+ DUBAI INS DED 20% M50COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU DIC D20%",
+        "PlanDescription": "NEURON CN/GN+ DUBAI INS DED 20% COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU DIC D20%C20",
+        "PlanDescription": "NEURON CN/GN+ DUBAI INS DED 20% COPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU DIC D2051",
+        "PlanDescription": "NEURON CN/GN+ DUBAI INS DED 20% M51 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU DIC D207",
+        "PlanDescription": "NEURON CN/GN+ DUBAI INS DED 20%MAX73 COPAY 20%MAX 99",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU DIC D2073",
+        "PlanDescription": "NEURON CN/GN+ DUBAI INS DED 20%MAX73 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU DIC D20C20",
+        "PlanDescription": "NEURON CN/GN+ DUBAI INS DED 20% M50COPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU DIC D20C2X",
+        "PlanDescription": "NEURON CN/GN+ DUBAI INS DED 20% M50COPAY 20% PH NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU DIC D55C0",
+        "PlanDescription": "NEURON CN/GN+ DUBAI INSURANCE  DED 55 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEUDICD55C20%MB",
+        "PlanDescription": "NEURON CN/GN+ DUBAI INSURANCE  COPAY 20%(MB)",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEUROCN73995",
+        "PlanDescription": "NEURON CN/GN+ DUBAI INSURANCE DED 20%MAX 73 COPAY 20% MAX 99",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEUROND20%",
+        "PlanDescription": "NEURON CN/GN+ DUBAI INSURANCE DED 20%MAX 50 COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEUROND20%201",
+        "PlanDescription": "NEURON CN/GN+ DUBAI INSURANCE DED 20%M50 COPAY 0 PH20%M50",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEUROND20%M75",
+        "PlanDescription": "NEURON CN/GN+ DUBAI INSURANCE DED 20%MAX 75 COPAYNIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEUROND2075",
+        "PlanDescription": "NEURON CN/GN+ DUBAI INSURANCE DED 20%M75 COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEURONDI C10%",
+        "PlanDescription": "NEURON CN/GN+ DUBAI INS DED 10% COPAY 10% PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEURONDI C10%P0",
+        "PlanDescription": "NEURON CN/GN+ DUBAI INS DED 10% COPAY 10% PH NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEURONDI D10%",
+        "PlanDescription": "NEURON CN/GN+ DUBAI INS DED 10% COPAY 10% PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEURONDIC",
+        "PlanDescription": "NEURON CN/GN+ DUBAI INSURANCE DED 20%M50 COPAY 10% PH 15%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEURONDIC0",
+        "PlanDescription": "NEURON CN/GN+ DUBAI INSURANCE D 20%M50 CO10% 100 P 0%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEURONDIC15",
+        "PlanDescription": "NEURON CN/GN+ DUBAI INSURANCE DED 15% 75 CO 0%% PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEURONDIC2099",
+        "PlanDescription": "NEURON CN/GN+ DUBAI INSURANCE DED 20%M99  PH 15%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEURONDICCO20%",
+        "PlanDescription": "NEURON CN/GN+ DUBAI INSURANCE COPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEURONDICD0C0",
+        "PlanDescription": "NEURON CN/GN+ DUBAI INSURANCE DED 0 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEURONDICD100C0",
+        "PlanDescription": "NEURON CN/GN+ DUBAI INS DED 100 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEURONDICD110C0",
+        "PlanDescription": "NEURON CN/GN+ DUBAI INS DED 110 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEURONDICD20%",
+        "PlanDescription": "NEURON CN/GN+ DUBAI INS DED 20% COPAY NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEURONDICD25C0",
+        "PlanDescription": "NEURON CN/GN+ DUBAI INS DED 25 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEURONDICD50C0",
+        "PlanDescription": "NEURON CN/GN+ DUBAI INS DED 50 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEURONDICD55C0",
+        "PlanDescription": "NEURON CN/GN+ DUBAI INS DED 55 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEURONDICD75C0",
+        "PlanDescription": "NEURON CN/GN+ DUBAI INS DED 75 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEURONDICD75C20",
+        "PlanDescription": "NEURON CN/GN+ DUBAI INS DED 75 COPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEURONDICDP10",
+        "PlanDescription": "NEURON CN/GN+ DUBAI INSURANCE DED 0 COPAY NIL PH 10%",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "NEURONDUBAIW GN",
+    "PolicyGroupDescription": "NEURON - DUBAI WORLD - PCFC - (GENERAL NETWORK)",
+    "RateListCode": "NEURON - GN PL",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "SP0066",
+    "Plans": [
+      {
+        "PlanCode": "NEU G DW C50%",
+        "PlanDescription": "NEURON GN DUBAI WORLD PCFC DED 50 COPAY 50% PH NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU G DW D0C0",
+        "PlanDescription": "NEURON GN DUBAI WORLD PCFC DED NIL  COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU G DW D25",
+        "PlanDescription": "NEURON GN DUBAI WORLD PCFC DED 25 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU G DW D50",
+        "PlanDescription": "NEURON GN DUBAI WORLD PCFC DED 50 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU G DW D50C20",
+        "PlanDescription": "NEURON GN DUBAI WORLD PCFC DED 50 COPAY 20%",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "NEURONDUBAIWD",
+    "PolicyGroupDescription": "NEURON - DUBAI WORLD - PCFC - CN&GN+",
+    "RateListCode": "NEURON",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "SP0066",
+    "Plans": [
+      {
+        "PlanCode": "NEURONDWC10%",
+        "PlanDescription": "NEURON CN/GN+ DUBAI WORLD PCFC COPAY 10% PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEURONDWD0C0",
+        "PlanDescription": "NEURON CN/GN+ DUBAI WORLD PCFC DED 0 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEURONDWD0C20",
+        "PlanDescription": "NEURON CN/GN+ DUBAI WORLD PCFC DED 0 COPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEURONDWD0C20%",
+        "PlanDescription": "NEURON CN/GN+ DUBAI WORLD PCFC COPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEURONDWD25C0",
+        "PlanDescription": "NEURON CN/GN+ DUBAI WORLD PCFC DED 25 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEURONDWD30C0",
+        "PlanDescription": "NEURON CN/GN+ DUBAI WORLD PCFC DED 30 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEURONDWD50C0",
+        "PlanDescription": "NEURON CN/GN+ DUBAI WORLD PCFC DED 50 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "NEURONEMIRA GN",
+    "PolicyGroupDescription": "Neuron - EMIRATES INS CO (PSC) (AVIVA) (GENERAL NETWORK)",
+    "RateListCode": "NEURON - GN PL",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS033",
+    "Plans": [
+      {
+        "PlanCode": "N GN EI D25C0",
+        "PlanDescription": "NEURON GN EMIRATES INSURANCE DED 25 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU EI C20%",
+        "PlanDescription": "NEURON GN EMIRATES INSURANCE COPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU EI C20%MAX7",
+        "PlanDescription": "NEURON GN EMIRATES INSURANCE DED 20% MAX 75 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU EI D0C0",
+        "PlanDescription": "NEURON GN EMIRATES INSURANCE DED 0 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU EI D10C10",
+        "PlanDescription": "NEURON GN EMIRATES INSURANCE DED 10% COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU EI D20%100",
+        "PlanDescription": "NEURON GN EMIRATES INSURANCE DED 20%100 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU EI D20%C0",
+        "PlanDescription": "NEURON GN EMIRATES INSURANCE DED 20% COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU EI D20%M50",
+        "PlanDescription": "NEURON GN EMIRATES INSURANCE DED 20% M 50 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU EI D20%M50X",
+        "PlanDescription": "NEURON GN EMIRATES INSURANCE DED 20% M 50 COPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU EI D30C0",
+        "PlanDescription": "NEURON GN EMIRATES INSURANCE DED 30 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU EI D50 C0",
+        "PlanDescription": "NEURON GN EMIRATES INSURANCE DED 50 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU EI D50C0P15",
+        "PlanDescription": "NEURON GN EMIRATES INSURANCE DED 50 COPAY NIL PH 15%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU EI D50C0P20",
+        "PlanDescription": "NEURON GN EMIRATES INSURANCE DED 50 COPAY NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "NEURONEMIRATES",
+    "PolicyGroupDescription": "Neuron - EMIRATES INS CO (PSC) (AVIVA)",
+    "RateListCode": "NEURON",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS033",
+    "Plans": [
+      {
+        "PlanCode": "NEU EID D50",
+        "PlanDescription": "NEURON CN/GN+ EMIRATES INSURANCE DED 50 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU EID D50C0",
+        "PlanDescription": "NEURON CN/GN+ EMIRATES INSURANCE DED 50 COPAY NIL DN 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU EID D50C10%",
+        "PlanDescription": "NEURON CN/GN+ EMIRATES INSURANCE DED 50 COPAY 10% PH NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU EID20M50C10",
+        "PlanDescription": "NEURON CN/GN+ EMIRATES INSDED 20% MAX 50 COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU EM D20%C10%",
+        "PlanDescription": "NEURON CN/GN+ EMIRATES INS DED 20% COPAY 10% PH NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEURON EI C10",
+        "PlanDescription": "NEURON CN/GN+ EMIRATES INSURANCE COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEURON EID37C0",
+        "PlanDescription": "NEURON CN/GN+ EMIRATES INSURANCE DED 37 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEURON EID75C0",
+        "PlanDescription": "NEURON CN/GN+ EMIRATES INSURANCE DED 75 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEURONALAIND0C0",
+        "PlanDescription": "NEURON CN/GN+ EMIRATES INSURANCE DED 0 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEURONDICD75C10",
+        "PlanDescription": "NEURON CN/GN+ EMIRATES INSURANCE DED 75 COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEURONEI C15%",
+        "PlanDescription": "NEURON CN/GN+ EMIRATES INSURANCE DED 15% COPAY 15%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEURONEI D125",
+        "PlanDescription": "NEURON CN/GN+ EMIRATES INSURANCE DED 125 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEURONEI D20%",
+        "PlanDescription": "NEURON CN/GN+ EMIRATES INS DED 20% COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEURONEID0%",
+        "PlanDescription": "NEURON CN/GN+ EMIRATES INSURANCE DED20%M 50 COPAY NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEURONEID0C0",
+        "PlanDescription": "NEURON CN/GN+ EMIRATES INSURANCE DED 0 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEURONEID0C10",
+        "PlanDescription": "NEURON CN/GN+ EMIRATES INSURANCE DED 0 COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEURONEID0C20",
+        "PlanDescription": "NEURON CN/GN+ EMIRATES INSURANCE COPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEURONEID100C0",
+        "PlanDescription": "NEURON CN/GN+ EMIRATES INSURANCE DED 100 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEURONEID20M50",
+        "PlanDescription": "NEURON CN/GN+ EMIRATES INSDED 20% MAX 50 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEURONEID20M75",
+        "PlanDescription": "NEURON CN/GN+ EMIRATES INSDED 20% MAX 75 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEURONEID25C0",
+        "PlanDescription": "NEURON CN/GN+ EMIRATES INSURANCE DED 25 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEURONEID30C0",
+        "PlanDescription": "NEURON CN/GN+ EMIRATES INSURANCE DED 30 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEURONEID50C0",
+        "PlanDescription": "NEURON CN/GN+ EMIRATES INSURANCE DED 50 COPAY NIL DN 25%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEURONEID50P10&",
+        "PlanDescription": "NEURON CN/GN+ EMIRATES INSURANCE DED 50 COPAY NIL PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEURONEID50P20%",
+        "PlanDescription": "NEURON CN/GN+ EMIRATES INSURANCE DED 50 COPAY NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEURONEIDED2%",
+        "PlanDescription": "NEURON CN/GN+ EMIRATES INSDED 20% MAX 100 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEURONEIDED20%",
+        "PlanDescription": "NEURON CN/GN+ EMIRATES INSDED 20% MAX 100 COPAY NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "NEURONENAYA",
+    "PolicyGroupDescription": "Neuron - ENAYA (DUBAI GOVT)",
+    "RateListCode": "NEU GOVT 2022",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS001",
+    "Plans": [
+      {
+        "PlanCode": "NEURON CO10%",
+        "PlanDescription": "NEURON ENAYA COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEURON CO10%X",
+        "PlanDescription": "NEURON ENAYA  COPAY 10% PH 5%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEURON CO10XX",
+        "PlanDescription": "NEURON ENAYA  COPAY 10% PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEURON CO20%",
+        "PlanDescription": "NEURON ENAYA COPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEURON CO20%P10",
+        "PlanDescription": "NEURON ENAYA COPAY 20% PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEURON CO50%",
+        "PlanDescription": "NEURON ENAYA COPAY 50%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEURON DED 30",
+        "PlanDescription": "NEURON ENAYA DED 30 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEURON DED 50",
+        "PlanDescription": "NEURON ENAYA DED 50 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEURON PH 5%",
+        "PlanDescription": "NEURON ENAYA  DED 0 COPAY NIL PH 5%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEURONCO20%",
+        "PlanDescription": "NEURON ENAYA COPAY 20%(OP&IP) DN 30% OPT 50%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEURONCO30%",
+        "PlanDescription": "NEURON ENAYA COPAY 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEUROND CO20%",
+        "PlanDescription": "NEURON ENAYA COPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEUROND CO35%",
+        "PlanDescription": "NEURON ENAYA COPAY 35%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEURONVIPD0CO0",
+        "PlanDescription": "NEURON ENAYA DED 0 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NRN ENAYA CO20%",
+        "PlanDescription": "NEURON ENAYA COPAY 20% DN 20% OPT 50%",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "NEURONMETHAQ",
+    "PolicyGroupDescription": "Neuron - Helathcare International Methaq and Noor Takaful",
+    "RateListCode": "NEURON",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS037",
+    "Plans": [
+      {
+        "PlanCode": "NEU MET D20%C0",
+        "PlanDescription": "NEURON CN/GN+ NOOR TAKAFUL DED 20% MAX 75 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEURONMETQD0C0",
+        "PlanDescription": "NEURON CN/GN+ METHAQ DED 0 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEURONMETQD25C0",
+        "PlanDescription": "NEURON CN/GN+ METHAQ DED 25 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEURONMETQD50C0",
+        "PlanDescription": "NEURON CN/GN+ METHAQ DED 50 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEURONNTD0C0",
+        "PlanDescription": "NEURON CN/GN+ NOOR TAKAFUL DED 0 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEURONNTD20%C0",
+        "PlanDescription": "NEURON CN/GN+ NOOR TAKAFUL DED 20%(GP & SP) COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEURONNTD20C20",
+        "PlanDescription": "NEURON CN/GN+ NOOR TAKAFUL DED 20% COPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEURONNTD20PH20",
+        "PlanDescription": "NEURON CN/GN+ NOOR TAKAFUL DED 20% COPAY NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEURONNTD25C0",
+        "PlanDescription": "NEURON CN/GN+ NOOR TAKAFUL DED 25 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEURONNTD50C0",
+        "PlanDescription": "NEURON CN/GN+ NOOR TAKAFUL DED 50 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEURONNTD50P10%",
+        "PlanDescription": "NEURON CN/GN+ NOOR TAKAFUL DED 50 COPAY NIL PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEURONNTD50P20%",
+        "PlanDescription": "NEURON CN/GN+ NOOR TAKAFUL DED 50 COPAY NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEURONNTD55C0",
+        "PlanDescription": "NEURON CN/GN+ NOOR TAKAFUL DED 55 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "NEURONMORGAN",
+    "PolicyGroupDescription": "Neuron - NATIONAL TAKAFUL CO (WATANIA) - MORGAN PRICE",
+    "RateListCode": "NEURON",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS079",
+    "Plans": [
+      {
+        "PlanCode": "NEU MP D20%M50",
+        "PlanDescription": "NEURON CN/GN+ NAT.TAK. (WATANIA) DED 20%M50 COPAY 10% PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEURON MP CO20%",
+        "PlanDescription": "NEURON CN/GN+ NAT.TAK. (WATANIA) COPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEURON MP D 100",
+        "PlanDescription": "NEURON CN/GN+ NAT. TAK. (WATANIA) DED 100 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEURON MP D0C0",
+        "PlanDescription": "NEURON CN/GN+ NAT. TAK. (WATANIA) DED NIL COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEURON MP D20%",
+        "PlanDescription": "NEURON CN/GN+ NAT. TAK. (WATANIA) DED 20% COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEURON MP DE50X",
+        "PlanDescription": "NEURON CN/GN+ NAT.TAK. (WATANIA) DED 20%M50 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEURON MP DED 0",
+        "PlanDescription": "NEURON CN/GNNAT. TAK.(WATANIA) DED 0 COPAY NIL DN 20% MB 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEURON MP DED20",
+        "PlanDescription": "NEURON CN/GN+ NAT.TAK. (WATANIA) DED 20%M75 COPAY NIL DN 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEURON MP DED25",
+        "PlanDescription": "NEURON CN/GN+ NAT. TAK. (WATANIA) DED 25 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEURON MP DED2X",
+        "PlanDescription": "NEURON CN/GN+ NAT.TAK. (WATANIA) DED 20%M75 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEURON MP DED50",
+        "PlanDescription": "NEURON CN/GN+ NAT. TAK. (WATANIA) DED 50 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEURON MP DED55",
+        "PlanDescription": "NEURON CN/GN+ NAT. TAK. (WATANIA) DED 55 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEURON MP DED75",
+        "PlanDescription": "NEURON CN/GN+ NAT. TAK. (WATANIA) DED 75 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEURON MPC10%",
+        "PlanDescription": "NEURON CN/GN+ NAT. TAK. (WATANIA) DED 10% COPAY 10% PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEURON MPDED50C",
+        "PlanDescription": "NEURON CN/GN+ NAT. TAK. (WATANIA) DED 50 COPAY 10% PH 20%",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "NEURONNEWIN GN",
+    "PolicyGroupDescription": "Neuron - NEW INDIA ASSU CO. LTD ( GENERAL NETWORK)",
+    "RateListCode": "NEURON - GN PL",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS046",
+    "Plans": [
+      {
+        "PlanCode": "NEU NE D20%M50",
+        "PlanDescription": "NEURON GN NEW INDIA ASSURANCE DED 20% M50 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU NE D20%M75",
+        "PlanDescription": "NEURON GN NEW INDIA ASSURANCE DED 20% M75 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU NE D25C0%",
+        "PlanDescription": "NEURON GN NEW INDIA ASSURANCE DED 25 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU NE D25C20%",
+        "PlanDescription": "NEURON GN NEW INDIA ASSURANCE DED 25 COPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU NEW D20%M40",
+        "PlanDescription": "NEURON GN NEW INDIA ASSURANCE DED 20% MAX40 COPAY NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU NEWIN",
+        "PlanDescription": "NEURON GN NEW INDIA ASSURANCE DED 20% COPAY20% PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU NEWIN C10%",
+        "PlanDescription": "NEURON GN NEW INDIA ASSURANCE DED 10% COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU NEWIN C20%",
+        "PlanDescription": "NEURON GN NEW INDIA ASSURANCE DED 20% COPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU NEWIN D20%",
+        "PlanDescription": "NEURON GN NEW INDIA ASSURANCE DED 20% COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU NI D0C0",
+        "PlanDescription": "NEURON GN NEW INDIA ASSURANCE DED NIL COPAY NIL",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "NEURONNEWINDIA",
+    "PolicyGroupDescription": "Neuron - NEW INDIA ASSU CO. LTD",
+    "RateListCode": "NEURON",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS046",
+    "Plans": [
+      {
+        "PlanCode": "NE NEW 20%M50",
+        "PlanDescription": "NEURON CN/GN+ NEW INDIA ASSU DED 20%M50 COPAY NIL PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU NEW C20%",
+        "PlanDescription": "NEURON CN/GN+ NEW INDIA ASSURANCE DED 20% COPAY 20% PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU NIA D0C0",
+        "PlanDescription": "NEURON CN/GN+ NEW INDIA ASSURANCE DED NIL COPY NIL DN 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEURONNIAC10%",
+        "PlanDescription": "NEURON CN/GN+ NEW INDIA ASSURANCE COPAY MB 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEURONNIAD0C0",
+        "PlanDescription": "NEURON CN/GN+ NEW INDIA ASSURANCE DED 0 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEURONNIAD10C10",
+        "PlanDescription": "NEURON CN/GN+ NEW INDIA ASSURANCE DED 10% COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEURONNIAD20%",
+        "PlanDescription": "NEURON CN/GN+ NEW INDIA ASSURANCE DED 20% MAX 50 CO 0 PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEURONNIAD20%C0",
+        "PlanDescription": "NEURON CN/GN+ NEW INDIA ASSURANCE DED 20% MAX 75 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEURONNIAD20%D",
+        "PlanDescription": "NEURON CN/GN+ NEW INDIA ASSURANCE DED 20% MAX 50 CO20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEURONNIAD20%M",
+        "PlanDescription": "NEURON CN/GN+ NEW INDIA ASSURANCE DED 20% MAX 50 CO 0 PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEURONNIAD25C0",
+        "PlanDescription": "NEURON CN/GN+ NEW INDIA ASSURANCE DED 25 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEURONNIAD40C1",
+        "PlanDescription": "NEURON CN/GN+ NEW INDIA ASSURANCE DED 40 COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEURONNIAD40C2",
+        "PlanDescription": "NEURON CN/GN+ NEW INDIA ASSURANCE DED 40 COPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEURONNIAD50C0",
+        "PlanDescription": "NEURON CN/GN+ NEW INDIA ASSURANCE DED 50 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEURONNIAD5C5",
+        "PlanDescription": "NEURON CN/GN+ NEW INDIA ASSURANCE DED 5% COPAY 5%",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "NEURONQIC",
+    "PolicyGroupDescription": "Neuron  - QIC Healthcare (CN)",
+    "RateListCode": "NEURON",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS019",
+    "Plans": [
+      {
+        "PlanCode": "NEQIC D50",
+        "PlanDescription": "NEURON QIC DED 50 COPAY 20% MAT 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEQIC D50 C0",
+        "PlanDescription": "NEURON QIC DED 50 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU QIC D100C0",
+        "PlanDescription": "NEURON CN/GN+ QIC DED 100 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU QIC D25P15%",
+        "PlanDescription": "NEURON CN/GN+ QIC DED 25 COPAY NIL PH 15%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU QIC D50C0",
+        "PlanDescription": "NEURON CN/GN+ QIC DED 50 COPAY NIL DN 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEURONQIC C10%",
+        "PlanDescription": "NEURON CN/GN+ QIC COPAY10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEURONQIC C20%",
+        "PlanDescription": "NEURON CN/GN+ QIC COPAY20% COPAY10% (MAT)",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEURONQIC C20%X",
+        "PlanDescription": "NEURON CN/GN+ QIC DED 20% M50% OP/PH/L/R 20% M50",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEURONQIC D10C0",
+        "PlanDescription": "NEURON CN/GN+ QIC DED 10% COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEURONQIC D20",
+        "PlanDescription": "NEURON CN/GN+ QIC DED 20% COPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEURONQIC D20C0",
+        "PlanDescription": "NEURON CN/GN+ QIC DED 20% COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEURONQIC D50",
+        "PlanDescription": "NEURON CN/GN+ QIC DED 50 COPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEURONQIC15",
+        "PlanDescription": "NEURON CN/GN+ QATAR INS DED 15% 75 CO 0%% PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEURONQIC2075",
+        "PlanDescription": "NEURON CN/GN+ QATAR INS DED 20% 75 CO 20% PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEURONQICD01050",
+        "PlanDescription": "NEURON CN/GN+ QIC COPAY 10%500",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEURONQICD02050",
+        "PlanDescription": "NEURON CN/GN+ QIC COPAY 20%500",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEURONQICD0C0",
+        "PlanDescription": "NEURON CN/GN+ QIC DED 0 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEURONQICD0C20",
+        "PlanDescription": "NEURON CN/GN+ QIC COPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEURONQICD2030",
+        "PlanDescription": "NEURON CN/GN+ QIC DED 20% M30 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEURONQICD20C0",
+        "PlanDescription": "NEURON CN/GN+ QIC DED 20% M50 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEURONQICD20P10",
+        "PlanDescription": "NEURON CN/GN+ QIC DED 20% M50 COPAY NIL L/R/ PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEURONQICD20X0",
+        "PlanDescription": "NEURON CN/GN+ QIC DED 20% M50 COPAY NIL PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEURONQICD25C0",
+        "PlanDescription": "NEURON CN/GN+ QIC DED 25 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEURONQICD2C0",
+        "PlanDescription": "NEURON CN/GN+ QIC DED 20% M50 COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEURONQICD50C0",
+        "PlanDescription": "NEURON CN/GN+ QIC DED 50 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEURONQICD75C0",
+        "PlanDescription": "NEURON CN/GN+ QIC DED 75 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  }
+]
