@@ -1,0 +1,537 @@
+[
+  {
+    "PolicyGroupCode": "FMC ADNIC GN1",
+    "PolicyGroupDescription": "FMC - ADNIC - FARID GN1 (GN)",
+    "RateListCode": "FMC FARID GN1",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS017",
+    "Plans": [
+      {
+        "PlanCode": "FMC ADNIC D50C0",
+        "PlanDescription": "FMC FARID GN1 ADNIC DED 50 COPAY NIL PH NIL",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "FMC AL SAGR",
+    "PolicyGroupDescription": "FMC - AL SAGR  NATIONAL INS CO (ASNIC) - FARID GN1 (GN)",
+    "RateListCode": "FMC FARID GN1",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS011",
+    "Plans": [
+      {
+        "PlanCode": "FMC ALS D",
+        "PlanDescription": "FMC FARID GN 1 AL SAGR DED 20%M100 OP 20%M100 L/R 15% PH15%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "FMC ALS D010",
+        "PlanDescription": "FMC FARID GN 1 AL SAGR COPAY 15%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "FMC ALS D1010",
+        "PlanDescription": "FMC FARID GN 1 AL SAGR DED 10%  COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "FMC ALS D10M25",
+        "PlanDescription": "FMC FARID GN 1 AL SAGR DED 10% M 25 COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "FMC ALS D20%M50",
+        "PlanDescription": "FMC FARID GN 1 AL SAGR DED 20% M50  L/R/PH 10% OP 20%M50",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "FMC ALS D20M50",
+        "PlanDescription": "FMC FARID GN 1 AL SAGR DED 20% M50  L/R/ NILPH 30% OP 20%M50",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "FMC MET C10%M50",
+        "PlanDescription": "FMC FARID GN 1 AL SAGR COPAY 10% MAX 50",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "FMC MET D20%M50",
+        "PlanDescription": "FMC FARID GN 1 AL SAGR DED 20% M50  COPAY NIL PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "FMC MET D50 PH3",
+        "PlanDescription": "FMC FARID GN 1 AL SAGR DED 50 COPAY NIL PH 30%",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "FMC ALB REF 1.3",
+    "PolicyGroupDescription": "FMC - AL BUHAIRA - REFFERED CASES - 1.3 FACTOR",
+    "RateListCode": "FMC FARID GN1",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS020",
+    "Plans": [
+      {
+        "PlanCode": "FMC ALB REF 1.3",
+        "PlanDescription": "FMC AL BUHAIRA INS DED 0 COPAY NIL - REFERRED CASES",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "FMC DIC GN1",
+    "PolicyGroupDescription": "FMC - DUBAI INSURANCE - FARID GN1 (GN)",
+    "RateListCode": "FMC FARID GN1",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS005",
+    "Plans": [
+      {
+        "PlanCode": "FMC F DIC D50C0",
+        "PlanDescription": "FMC FARID GN1 DUBAI INS DED 50 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "FMC GOI",
+    "PolicyGroupDescription": "FMC - GOVERNMENT OF DUBAI PURCHASE AND SUPPLY COMPANY",
+    "RateListCode": "FMC NETWORK",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "SF0055",
+    "Plans": [
+      {
+        "PlanCode": "FMC GOI D0C0",
+        "PlanDescription": "FMC GOI PURCHASE DED 0 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "FMC METLIFE GN1",
+    "PolicyGroupDescription": "FMC - METLIFE ALICO - FARID GN1 (GN)",
+    "RateListCode": "FMC FARID GN1",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS013",
+    "Plans": [
+      {
+        "PlanCode": "FMC F ME C20%",
+        "PlanDescription": "FMC FARID GN1 METLIFE DED 20% COPAY 20% PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "FMC F ME D50P20",
+        "PlanDescription": "FMC FARID GN1 METLIFE DED 50 COPAY NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "FMC F MET D50C0",
+        "PlanDescription": "FMC FARID GN1 METLIFE DED 50 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "FMC ME D20%M100",
+        "PlanDescription": "FMC FARID GN1 METLIFE COPAY 20% M100 L&R NIL PH NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "FMC MED10%C10",
+        "PlanDescription": "FMC FARID GN1 METLIFE DED10% M 50 COPAY 10% PH 10% M 50",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "FMC MED10%CM",
+        "PlanDescription": "FMC FARID GN1 METLIFE DED10% M 50 COPAY 10% M50  PH 10% M 50",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "FMC MET C20%",
+        "PlanDescription": "FMC FARID GN1 METLIFE DED 20% COPAY 20% PH NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "FMC MET D100",
+        "PlanDescription": "FMC FARID GN1 METLIFE DED 100 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "FMC MET D20%",
+        "PlanDescription": "FMC FARID GN1 METLIFE DED 20% COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "FMC MET D20%C0",
+        "PlanDescription": "FMC FARID GN1 METLIFE DED 20% M 25 COPAY NIL PH NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "FMC MET D20%M75",
+        "PlanDescription": "FMC FARID GN 1 METLIFE DED 20% MAX 75 COPAY NIL PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "FMC MET D20%P20",
+        "PlanDescription": "FMC FARID GN1 METLIFE DED 20% COPAY NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "FMC MET D50C0",
+        "PlanDescription": "FMC FARID GN1 METLIFE DED 50 COPAY NIL DN 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "FMC MET D50C20%",
+        "PlanDescription": "FMC FARID GN1 METLIFE DED 50 COPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "FMC MET D75P10%",
+        "PlanDescription": "FMC FARID GN1 METLIFE DED 75 COPAY NIL PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "FMC METD10%C10%",
+        "PlanDescription": "FMC FARID GN1 METLIFE DED 10% COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "FMC ML D20%M50",
+        "PlanDescription": "FMC FARID GN 1 METLIFE DED 20% MAX 50 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "FMC ML D20%P30",
+        "PlanDescription": "FMC FARID GN 1 METLIFE DED 20% MAX 50 COPAY NIL PH 30%",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "FMC NETWORK",
+    "PolicyGroupDescription": "FMC NETWORK",
+    "RateListCode": "FMC NETWORK",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "TPA010",
+    "Plans": [
+      {
+        "PlanCode": "FMC D30C0",
+        "PlanDescription": "FMC GOLD DED 30 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "FMC DED 0",
+        "PlanDescription": "FMC GOLD DED 0 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "FMC NGI FREE",
+    "PolicyGroupDescription": "FMC - NATIONAL GENERAL INSURANCE - FIRSTCARE FREEDOM",
+    "RateListCode": "FMC FARID GN1",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS038",
+    "Plans": [
+      {
+        "PlanCode": "FMC NGI FRE 205",
+        "PlanDescription": "FMC NGI FIRSTCARE FREEDOM  DED 20% 50 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "FMC NGI FREEDOM",
+        "PlanDescription": "FMC NGI FIRSTCARE FREEDOM  DED NIL COPAY NIL",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "FMC NGI GN1",
+    "PolicyGroupDescription": "FMC - NATIONAL GENERAL INSURANCE - FARID GN1 (GN)",
+    "RateListCode": "FMC FARID GN1",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS038",
+    "Plans": [
+      {
+        "PlanCode": "FMC NGI 0",
+        "PlanDescription": "FMC FARID GN1 NGI DED NIL COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "FMC NGI 20",
+        "PlanDescription": "FMC FARID GN1 NGI COPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "FMC NGI 2010",
+        "PlanDescription": "FMC FARID GN1 NGI DED 20%M50 OP 20%M50 PH 20% L/R NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "FMC NGI 75",
+        "PlanDescription": "FMC FARID GN1 NGI COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "FMC NGI D0C0",
+        "PlanDescription": "FMC FARID GN1 NGI DED 20%M50  COPAY 20%M50 PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "FMC NGI D0C010",
+        "PlanDescription": "FMC FARID GN1 NGI DED 20%M50  COPAY 20%M50 PH 10%M50",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "FMC NGI D100",
+        "PlanDescription": "FMC FARID GN1 NGI DED 10%M50 CO 10%50 L/R 10%50 PH 10%M 50",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "FMC NGI D20%75",
+        "PlanDescription": "FMC FARID GN1 NGI DED 20%M75 COPAY 20%M75 PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "FMC NGI D2000",
+        "PlanDescription": "FMC FARID GN1 NGI DED 20%M50 OP NIL L & R 10%100 PH 0%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "FMC NGI D20010",
+        "PlanDescription": "FMC FARID GN1 NGI DED 20%M50 CO 20%M50 L & R 10%100 PH 0%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "FMC NGI D2010",
+        "PlanDescription": "FMC FARID GN1 NGI DED 20%M50 COPAY NIL PH 10%MAX 50",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "FMC NGI D20100",
+        "PlanDescription": "FMC FARID GN1 NGI DED 20%M50 CO L/R 10%100 PH 0%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "FMC NGI D2050 N",
+        "PlanDescription": "FMC FARID GN1 NGI DED 20%M50 CO NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "FMC NGI D205010",
+        "PlanDescription": "FMC FARID GN1 NGI DED 20%M50 CO 20%M50 L/R 10%100 PH 0%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "FMC NGI F",
+        "PlanDescription": "FMC NGI   DED NIL COPAY NIL",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "FMC NGI REF 1.3",
+    "PolicyGroupDescription": "FMC - NGI  INS - REFFERED CASES - 1.3 FACTOR",
+    "RateListCode": "FMC FARID GN1",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS038",
+    "Plans": [
+      {
+        "PlanCode": "FMC 1.3 NIL NGI",
+        "PlanDescription": "FMC NGI 1.3 REF CASES DED 0 CO NIL",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "FMC NLGI GN1",
+    "PolicyGroupDescription": "FMC - NLGI - FARID GN1 (GN)",
+    "RateListCode": "FMC FARID GN1",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS044",
+    "Plans": [
+      {
+        "PlanCode": "FMC NL D0C0",
+        "PlanDescription": "FMC FARID GN1 NLGI DED 0 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "FMC NL D50C0",
+        "PlanDescription": "FMC FARID GN1 NLGI DED 50 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "FMC NL D50C20%",
+        "PlanDescription": "FMC FARID GN1 NLGI DED 50 COPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "FMC NL D50P20%",
+        "PlanDescription": "FMC FARID GN1 NLGI DED 50 COPAY NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "FMC QIC REF 1.3",
+    "PolicyGroupDescription": "FMC - QIC INS - REFFERED CASES - 1.3 FACTOR",
+    "RateListCode": "FMC FARID GN1",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS019",
+    "Plans": [
+      {
+        "PlanCode": "FMC 1.3 NIL",
+        "PlanDescription": "FMC QIC 1.3 REF CASES DED 0 CO NIL",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "FMC RAK REF 1.3",
+    "PolicyGroupDescription": "FMC - RAK INSURANCE - REFFERED CASES - 1.3 FACTOR",
+    "RateListCode": "FMC FARID GN1",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS014",
+    "Plans": [
+      {
+        "PlanCode": "FMC RAK REF 1.3",
+        "PlanDescription": "FMC RAK INS DED 0 COPAY NIL - REFERRED CASES",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "FMC TAK REF 1.3",
+    "PolicyGroupDescription": "FMC - TAKAFUL EMARAT - REFFERED CASES - 1.3 FACTOR",
+    "RateListCode": "FMC FARID GN1",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS022",
+    "Plans": [
+      {
+        "PlanCode": "FMC TAK REF 1.3",
+        "PlanDescription": "FMC TAKAFUL EMARAT INS DED 0 COPAY NIL - REFERRED CASES",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "FMC UNION GN1",
+    "PolicyGroupDescription": "FMC - UNION INSURANCE - FARID GN1 (GN)",
+    "RateListCode": "FMC FARID GN1",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS040",
+    "Plans": [
+      {
+        "PlanCode": "FMC UN C20%M100",
+        "PlanDescription": "FMC FARID GN1 UNION COPAY 20% MAX100",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "FMC UN C20%ML",
+        "PlanDescription": "FMC FARID GN1 UNION DED 20% MAX 100 LAB 20% MAX100",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "FMC UN D10% C10",
+        "PlanDescription": "FMC FARID GN1 UNION COPAY 10% (METERNITY)",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "FMC UN D20%",
+        "PlanDescription": "FMC FARID GN1 UNION DED 20% COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "FMC UN D20% C20",
+        "PlanDescription": "FMC FARID GN1 UNION DED 20% COPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "FMC UN D20%M100",
+        "PlanDescription": "FMC FARID GN1 UNION DED/LAB/RAD/PH 20% MAX 100 OP NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "FMC UN D50C50",
+        "PlanDescription": "FMC FARID GN1 UNION DED 50 COPAY 50 PH 50",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "FMC UN D50LR30",
+        "PlanDescription": "FMC FARID GN1 UNION DED 50 COPAY LAB/RAD 30 PH 20%M100",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "FMC UN D50PH20",
+        "PlanDescription": "FMC FARID GN1 UNION DED 50 COPAY LAB 30 RAD 30 PH 20%",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "FMC- DUBREF 1.3",
+    "PolicyGroupDescription": "FMC- DUBAI INS. - REFFERED CASES - 1.3 FACTOR",
+    "RateListCode": "",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS005",
+    "Plans": [
+      {
+        "PlanCode": "FMC DXB INSD0C0",
+        "PlanDescription": "FMS -1.3 DXB INS DED 0 COPAY NIL PH 0",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "FMC- REF 1.3",
+    "PolicyGroupDescription": "FMC- AL SAGR NATIONAL INS. - REFFERED CASES - 1.3 FACTOR",
+    "RateListCode": "",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS011",
+    "Plans": [
+      {
+        "PlanCode": "FMC ALS REF 1.3",
+        "PlanDescription": "FMC AL SAGR INS DED 0 COPAY NIL - REFERRED CASES",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "FMCQICU GN1",
+    "PolicyGroupDescription": "FMC  - QATAR INS CO  ( QIC ) - FARID  GN 1 NETWORK - (GN)",
+    "RateListCode": "FMC FARID GN1",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS019",
+    "Plans": [
+      {
+        "PlanCode": "FMC QIC 10",
+        "PlanDescription": "FMC QIC FARID GN1 COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "FMC QIC D10C10%",
+        "PlanDescription": "FMC QIC FARID GN1 DED 10% COPAY 10% PH 10%",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  }
+]
