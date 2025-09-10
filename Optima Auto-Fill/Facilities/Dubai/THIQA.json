@@ -1,0 +1,22 @@
+[
+  {
+    "PolicyGroupCode": "DAMAN - GHQ",
+    "PolicyGroupDescription": "DAMAN - GENERAL HEAD QUATERS (GHQ)",
+    "RateListCode": "DAMAN-NETWORK 2",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS201",
+    "Plans": [
+      {
+        "PlanCode": "DAM 2 GHQ D0C0",
+        "PlanDescription": "DAMAN NET-2 GHQ DED 0 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM GHQ D0C0",
+        "PlanDescription": "DAMAN NET-1 GHQ DED 0 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  }
+]
