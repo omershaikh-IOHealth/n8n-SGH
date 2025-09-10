@@ -1,0 +1,27 @@
+[
+  {
+    "PolicyGroupCode": "DHA",
+    "PolicyGroupDescription": "DUBAI HEALTH AUTHORITY (DHA)",
+    "RateListCode": "",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INSCOVID19",
+    "Plans": [
+      {
+        "PlanCode": "DHA",
+        "PlanDescription": "DHA POLICY 100% Copay",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DHA 2021 D0C0",
+        "PlanDescription": "DUBAI HEALTH AUTHORITY DED NIL COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DHA D0C0",
+        "PlanDescription": "DUBAI HEALTH AUTHORITY DED 0 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  }
+]
