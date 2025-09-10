@@ -1,0 +1,17 @@
+[
+  {
+    "PolicyGroupCode": "ARMADA HEALTH C",
+    "PolicyGroupDescription": "ARMADA HEALTH CARE",
+    "RateListCode": "",
+    "PolicyGroupCustomerType": "Corporate Client",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "",
+    "Plans": [
+      {
+        "PlanCode": "ARMADA HEALTH C",
+        "PlanDescription": "ARMADA HEALTHCARE DED 0 COPAY 0",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  }
+]
