@@ -1,0 +1,3537 @@
+[
+  {
+    "PolicyGroupCode": "DOMA BUPA - SIG",
+    "PolicyGroupDescription": "OMAN INSURANCE INSURANCE - BUPA - SIGNATURE NETWORK",
+    "RateListCode": "OMAN",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS012",
+    "Plans": [
+      {
+        "PlanCode": "D-OM BUP X D0C0",
+        "PlanDescription": "OMAN BUPA SIGNATURE DED20% MAX100 CO NILL PH 20% MAX 100",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OMAN BUP D0C0",
+        "PlanDescription": "OMAN BUPA SIGNATURE DED NIL COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OMAN BUP D50",
+        "PlanDescription": "OMAN BUPA SIGNATURE DED 20% 50 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "DOMAN ADVANCE",
+    "PolicyGroupDescription": "OMAN INSURANCE - ADVANCE NETWORK",
+    "RateListCode": "OMAN ADV-VITAL",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS012",
+    "Plans": [
+      {
+        "PlanCode": "D-OM COPAY 10%",
+        "PlanDescription": "OMAN INSURANCE ADVANCE COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OM COPAY 25",
+        "PlanDescription": "OMAN INSURANCE ADVANCE DED 10%MAX 25 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OM D20%  C",
+        "PlanDescription": "OMAN INSURANCE ADVANCE DED10%  COPAY  10% PH10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OM D20%  C 0",
+        "PlanDescription": "OMAN INSURANCE ADVANCE DED 20% (MAX30) COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OM D20%  C D0",
+        "PlanDescription": "OMAN INSURANCE ADVANCE DED 20% (MAX35) CO 10% PH10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OM D20%  C20%",
+        "PlanDescription": "OMAN INSURANCE ADVANCE DED 20% COPAY 20% PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OM D20%  CDD0",
+        "PlanDescription": "OMAN INSURANCE ADVANCE DED 20% (MAX35) CO 10%  PH NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OM D20% P15",
+        "PlanDescription": "OMAN INSURANCE ADVANCE DED 20% COPAY NIL  PH 15%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OM D20%LR10%",
+        "PlanDescription": "OMAN  ADVANCE DED 20% (MAX25) LAB/RAD/PH 10% OP NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OM D20%LR20%",
+        "PlanDescription": "OMAN  ADVANCE DED 20% (MAX25) OP/LAB/RAD/PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OM D30 C30",
+        "PlanDescription": "OMAN INSURANCE ADVANCE DED30% CO 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OM DED 25 PH",
+        "PlanDescription": "OMAN INSURANCE ADVANCE DED 25AED  COPAY NIL PH 15%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OMAN C20%",
+        "PlanDescription": "OMAN INSURANCE ADVANCE DED 20% COPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OMAN C20%M20",
+        "PlanDescription": "OMAN INSURANCE ADVANCE DED 20%MAX 20 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OMAN C20%M75",
+        "PlanDescription": "OMAN INSURANCE ADVANCE DED 20%MAX 75AED COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OMAN D",
+        "PlanDescription": "OMAN INSURANCE ADVANCE DED 50 OP NIL L/R 30AED PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OMAN D  C0",
+        "PlanDescription": "OMAN INSURANCE ADVANCE DED 50AED  COPAY NIL PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OMAN D0  C0",
+        "PlanDescription": "OMAN INSURANCE ADVANCE DED NIL COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OMAN D101%M50",
+        "PlanDescription": "OMAN INSURANCE ADVANCE DED 10% (MAX50) COPAY NIL (MB)",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OMAN D15",
+        "PlanDescription": "OMAN INSURANCE ADVANCE DED 15% OP/LAB/RAD/PH 15%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OMAN D15 10",
+        "PlanDescription": "OMAN INSURANCE ADVANCE DED 15% OP/LAB/RAD 15% PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OMAN D15 1510",
+        "PlanDescription": "OMAN INSURANCE ADVANCE DED 15% LAB/RAD 15% PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OMAN D150",
+        "PlanDescription": "OMAN INS.  ADVANCE DED 10%M50 OP/LAB/RAD/PH 10%M50",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OMAN D1525",
+        "PlanDescription": "OMAN INSURANCE ADVANCE DED 15%M25 OP/LAB/RAD/PH 15%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OMAN D20%  C0",
+        "PlanDescription": "OMAN INSURANCE ADVANCE DED 20% (MAX50) COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OMAN D20%50",
+        "PlanDescription": "OMAN INSURANCE ADVANCE DED 20%M50 COPAY NIL PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OMAN D20%50D",
+        "PlanDescription": "OMAN INSURANCE ADVANCE DED20%M50 OP20% L/R 20%M50PH30%M100",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OMAN D20%50X",
+        "PlanDescription": "OMAN INSURANCE ADVANCE DED 20%M50 COPAY NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OMAN D20%50XX",
+        "PlanDescription": "OMAN INSURANCE ADVANCE DED 20%M50 LAB/RAD 10% PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OMAN D20%P10%",
+        "PlanDescription": "OMAN INSURANCE ADVANCE DED 20% (MAX25) COPAY NIL PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OMAN D2010",
+        "PlanDescription": "OMAN INSURANCE ADVANCE DED 20%M50 COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OMAN D201X",
+        "PlanDescription": "OMAN INSURANCE ADVANCE DED 20%M50 COPAY NIL PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OMAN D5",
+        "PlanDescription": "OMAN INSURANCE ADVANCE DED 50 COPAY NIL PH NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OMAN D50",
+        "PlanDescription": "OMAN INSURANCE ADVANCE DED 50 OP 15% PH 15%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OMAN D50  C0",
+        "PlanDescription": "OMAN INSURANCE ADVANCE DED 50 COPAY NIL PH 5%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OMAN D50  C0D",
+        "PlanDescription": "OMAN INSURANCE ADVANCE DED 50 COPAY NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OMAN D50  P10",
+        "PlanDescription": "OMAN INSURANCE ADVANCE DED 50 COPAY NIL PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OMAN D500%",
+        "PlanDescription": "OMAN INSURANCE ADVANCE DED 50 OP NIL  PH 15%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OMAN D50LR10%",
+        "PlanDescription": "OMAN  ADVANCE DED 20%M50 LAB/RAD/PH 10% OP NIL",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "DOMAN BUPA",
+    "PolicyGroupDescription": "OMAN INSURANCE INSURANCE - BUPA PREMIUM NETWORK",
+    "RateListCode": "OMAN",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS012",
+    "Plans": [
+      {
+        "PlanCode": "D-OM B D20P20",
+        "PlanDescription": "OMAN INSURANCE BUPA DED 20% L/R PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OM B D50  C0",
+        "PlanDescription": "OMAN INSURANCE BUPA DED 50 COPAY NIL PH 15%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OM B D50  C15",
+        "PlanDescription": "OMAN INSURANCE BUPA DED 50  LAB 15% PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OM B D50  C5",
+        "PlanDescription": "OMAN INSURANCE BUPA DED 5% L/R/P 5%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OM B D50  C50",
+        "PlanDescription": "OMAN INSURANCE BUPA DED 50 COPAY 50 PH 15%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OM BU D10%0C0",
+        "PlanDescription": "OMAN INSURANCE BUPA DED10% COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OM BU D10C0",
+        "PlanDescription": "OMAN INSURANCE BUPA COPAY 10%MAX 50",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OM BU D15% C0",
+        "PlanDescription": "OMAN INSURANCE BUPA DED 15%(MAX50) COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OM BU D15%C 0",
+        "PlanDescription": "OMAN INSURANCE BUPA PRN DED 15%(MAX-75) COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OM BU D15%C0",
+        "PlanDescription": "OMAN INSURANCE BUPA DED 15% COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OM BU D15%C15",
+        "PlanDescription": "OMAN INSURANCE BUPA DED 15% COPAY 15% PH 15%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OM BU D20%C 0",
+        "PlanDescription": "OMAN INSURANCE BUPA PRN DED 20%(MAX-75) COPAY NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OM BU D20%C0",
+        "PlanDescription": "OMAN INSURANCE BUPA PRN DED 20%(MAX-75) CO & PH- 20% (75)",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OM BU D20%PH",
+        "PlanDescription": "OMAN INSURANCE BUPA PRN DED 20%(MAX-75) COPAY NIL PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OM P D20% C0",
+        "PlanDescription": "OMAN INSURANCE BUPA PRN DED 20%(MAX100) COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OM P D20%100",
+        "PlanDescription": "OMAN INSURANCE BUPA PREM DED20%M100 OP 0 L/R/PH 20%MAX 100",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OMAN B C10%",
+        "PlanDescription": "OMAN INSURANCE BUPA  COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OMAN B D  0%",
+        "PlanDescription": "OMAN INSURANCE BUPA DED 10%M50 OP/L/R/PH 10%M50",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OMAN B D  10%",
+        "PlanDescription": "OMAN INSURANCE BUPA  DED 10% ( MAX 50 ) L& R 10%(MAX 50)",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OMAN B D D10%",
+        "PlanDescription": "OMAN INSURANCE BUPA  DED 10% OP NIL  L& R 10% PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OMAN B D0%",
+        "PlanDescription": "OMAN INSURANCE BUPA  DED 10% COPAY NIL PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OMAN B D0C0",
+        "PlanDescription": "OMAN INSURANCE BUPA DED NIL COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OMAN B D1",
+        "PlanDescription": "OMAN INSURANCE BUPA  COPAY 10% MAX 50",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OMAN B D10%C0",
+        "PlanDescription": "OMAN INSURANCE BUPA  DED 10 % ( MAX 50 ) COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OMAN B D100",
+        "PlanDescription": "OMAN INSURANCE BUPA  DED 10%M50 OP10%M50 L/R 50AED PH25%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OMAN B D50",
+        "PlanDescription": "OMAN INSURANCE BUPA  DED 20% ( MAX 50 ) L& R 20%(MAX 50)",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OMAN B D50C0",
+        "PlanDescription": "OMAN INSURANCE BUPA DED 50 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OMAN BU C20%",
+        "PlanDescription": "OMAN INSURANCE BUPA  COPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OMAN BU D 20%",
+        "PlanDescription": "OMAN INSURANCE BUPA DED 20% COPAY 0",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OMAN BU D 80%",
+        "PlanDescription": "OMAN INSURANCE BUPA DED 20% MAX 80AED  COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OMAN P D2",
+        "PlanDescription": "OMAN INSURANCE BUPA PREM  DED 20% OP/R NIL LAB 15% PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OMAN P D2 X",
+        "PlanDescription": "OMAN INSURANCE BUPA PREM  DED 50 OP/R NIL LAB 15%M50 PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OMAN P D20%",
+        "PlanDescription": "OMAN INSURANCE BUPA PRN DED 20%(MAX50) COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OMAN P D20%30",
+        "PlanDescription": "OMAN INSURANCE BUPA PRN DED 20%300  L/R 10% PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OMAN P D20%C0",
+        "PlanDescription": "OMAN INSURANCE BUPA PRN DED 20%(MAX100) COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OMAN P D25%",
+        "PlanDescription": "OMAN INSURANCE BUPA PRNCOPAY 25% (DENTAL)",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OMAN PD20% C0",
+        "PlanDescription": "OMAN INSURANCE BUPA PRN DED 20%(MAX100) COPAY 5% PH 5%",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "DOMAN CN",
+    "PolicyGroupDescription": "OMAN INSURANCE INSURANCE - COMPREHENSIVE NETWORK",
+    "RateListCode": "OMAN",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS012",
+    "Plans": [
+      {
+        "PlanCode": "D-OM  C D10%C10",
+        "PlanDescription": "OMAN INSURANCE CN D10%(MAX50) LAB/RD 10%(MAX50) PH10%(MAX50",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OM C  D10%C10",
+        "PlanDescription": "OMAN INSURANCE CN DED 10% (MAX50 ) COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OM C  D20% CO",
+        "PlanDescription": "OMAN INSURANCE CN DED 20% (MAX-20 ) COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OM C  D20%C10",
+        "PlanDescription": "OMAN INSURANCE CN DED 20% (MAX50 ) COPAY  NIL PH20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OM C  D20%CO",
+        "PlanDescription": "OMAN INSURANCE CN DED 20% (MAX50 ) COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OM C  MB 10%",
+        "PlanDescription": "OMAN INSURANCE CN MB DED10%(MAX-50) COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OM C D20% C0",
+        "PlanDescription": "OMAN INSURANCE CN DED 20% (MAX-50) CO 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OM C D20% C10",
+        "PlanDescription": "OMAN INSURANCE CN DED 20% (MAX50 ) COPAY  NIL PH10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OM C D20%C10",
+        "PlanDescription": "OMAN INSURANCE CN DED 20% (MAX100 ) COPAY  NIL PH10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OM C D20%C15",
+        "PlanDescription": "OMAN INSURANCE CN DED 20% (MAX100 ) COPAY  NIL PH15%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OM CN  D35C0",
+        "PlanDescription": "OMAN INSURANCE CN DED 35 COPAY  NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OM CN D20% C0",
+        "PlanDescription": "OMAN INSURANCE CN DED 20% (MAX100) COPAY NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OM CN D20%C0",
+        "PlanDescription": "OMAN INSURANCE CN DED 20% (MAX-75) COPAY NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OMAN  C15",
+        "PlanDescription": "OMAN INSURANCE CN DED 15% COPAY 15%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OMAN C D 20%",
+        "PlanDescription": "OMAN INSURANCE CN COIN 20% PH 20%(MAX 100AED)",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OMAN C D50 C0",
+        "PlanDescription": "OMAN INSURANCE CN DED 50 COPAY NIL PH 30%(MAX100)",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OMAN C D50C0",
+        "PlanDescription": "OMAN INSURANCE CN DED 50 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OMAN CN C10%",
+        "PlanDescription": "OMAN INSURANCE CN COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OMAN CN C5%",
+        "PlanDescription": "OMAN INSURANCE CN COPAY 5%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OMAN COM C20%",
+        "PlanDescription": "OMAN INSURANCE CN COPAY 20% ON ALL SERVICES",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "DOMAN CN+",
+    "PolicyGroupDescription": "OMAN INSURANCE INSURANCE - COMPREHENSIVE PLUS NETWORK",
+    "RateListCode": "OMAN",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS012",
+    "Plans": [
+      {
+        "PlanCode": "D-OM C   D20%C0",
+        "PlanDescription": "OMAN INSURANCE CN+ DED 20% (MAX50 ) CO NIL PH 10%(50)",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OM C  D10%C0",
+        "PlanDescription": "OMAN INSURANCE CN+ DED 10% (MAX50 ) COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OM C  D20",
+        "PlanDescription": "OMAN INSURANCE CN+ DED 20% L/R 20% PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OM C  D20% 15",
+        "PlanDescription": "OMAN INSURANCE CN+ DED 20% (MAX150) COPAY NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OM C  D20% 25",
+        "PlanDescription": "OMAN INSURANCE CN+ DED 25 COPAY 0 PH 0",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OM C  D20% C",
+        "PlanDescription": "OMAN INSURANCE CN+ DED 20% (MAX100 ) COPAY NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OM C  D20% C0",
+        "PlanDescription": "OMAN INSURANCE CN+ DED 20% (MAX30 ) COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OM C  D20%20",
+        "PlanDescription": "OMAN INSURANCE CN+ DED 20% (MAX 20 ) COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OM C  D20%C 0",
+        "PlanDescription": "OMAN INSURANCE CN+ DED 20% (MAX100) COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OM C  D20%C0",
+        "PlanDescription": "OMAN INSURANCE CN+ DED 20% (MAX50 ) COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OM C  D202020",
+        "PlanDescription": "OMAN INSURANCE CN+ DED 20% (MAX75 ) L/R 20% PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OM C  D20M75",
+        "PlanDescription": "OMAN INSURANCE CN+ DED 20% (MAX75 ) OP 20% PH NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OM C  D50PH 1",
+        "PlanDescription": "OMAN INSURANCE CN+ DED 50 AED COPAY NIL PH 20% M 100",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OM C D25C30%",
+        "PlanDescription": "OMAN INSURANCE CN+ DED 25 AED CO 30% PH NILL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OM C+  D0%C0",
+        "PlanDescription": "OMAN INSURANCE CN+ DED 20% (MAX-50) COPAY 10%MAX 25",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OM C+  D20%C0",
+        "PlanDescription": "OMAN INSURANCE CN+ DED 20% (MAX-50) COPAY NIL PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OM C+ D10% C0",
+        "PlanDescription": "OMAN INSURANCE CN+ D 10% COINS 0",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OM C+ D10%C 0",
+        "PlanDescription": "OMAN INSURANCE CN+ D 10%(50) C 10%(50) L&R 10%(50) PH10%(50)",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OM C+ D15%50",
+        "PlanDescription": "OMAN INSURANCE CN+ DED 15% M 50 COPAY 15%M50  PH 10%50",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OM C+ D15%C15",
+        "PlanDescription": "OMAN INSURANCE CN+ DED 15% COPAY 15% PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OM C+ D20% C0",
+        "PlanDescription": "OMAN INSURANCE CN+ DED 20% (MAX-50) COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OM C+ D20%C 0",
+        "PlanDescription": "OMAN INSURANCE CN+ DED 20% (MAX-75) COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OM C+ D20%C0",
+        "PlanDescription": "OMAN INSURANCE CN+ DED 20% (max-75) COPAY NIL PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OM C+D20%C 0",
+        "PlanDescription": "OMAN INSURANCE CN+ DED 20% (MAX-25) COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OM CN+20%50OP",
+        "PlanDescription": "OMAN INSURANCE CN+ D20%M50 OP NIL L/R 15% P20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OM CN+20%M50",
+        "PlanDescription": "OMAN INSURANCE CN+ D20%M50CO L/R 10%M25P10%M25",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OM CN+20M50",
+        "PlanDescription": "OMAN INSURANCE CN+ D20%M50CONIL  L/R 20%M50 P20%M50",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OMAN C  D0C0",
+        "PlanDescription": "OMAN INSURANCE CN+ DED NIL COPAY NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OMAN C  D20%",
+        "PlanDescription": "OMAN INSURANCE CN+ DED 20% (MAX-50 ) COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OMAN C  D50",
+        "PlanDescription": "OMAN INSURANCE CN+ DED 50 AED COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OMAN C  D5010",
+        "PlanDescription": "OMAN INSURANCE CN+ DED 50  COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OMAN C  MB10%",
+        "PlanDescription": "OMAN INSURANCE CN+ MB DED10%(MAX25) COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OMAN C D0 C0",
+        "PlanDescription": "OMAN INSURANCE CN PLUS DED 0 COPAY NIL DN 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OMAN C D0C0",
+        "PlanDescription": "OMAN INSURANCE CN+ DED 0 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OMAN C D2",
+        "PlanDescription": "OMAN INSURANCE CN+ DED 20%M100 OP/L/R/PH 10%MAX 100",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OMAN C D20% C",
+        "PlanDescription": "OMAN INSURANCE CN+ DED 20% (MAX100 ) COPAY NIL PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OMAN C D20%C0",
+        "PlanDescription": "OMAN INSURANCE CN PLUS DED 20% CO 10% PH NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OMAN C+  D",
+        "PlanDescription": "OMAN INSURANCE CN+ DED 20%M50 OP NIL LAB/RAD/PH 10%MAX25",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OMAN C+ C10%",
+        "PlanDescription": "OMAN INSURANCE CN+ COPAY 10% ON ALL SERVICES",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OMAN C+ C20%",
+        "PlanDescription": "OMAN INSURANCE CN+ COPAY 20% ON ALL SERVICES",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OMAN C+ D020",
+        "PlanDescription": "OMAN INSURANCE CN+ DED 0 COPAY NIL PH 20%M 100",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OMAN C+ D0C0",
+        "PlanDescription": "OMAN INSURANCE CN+ DED 0 COPAY NIL DENTAL 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OMAN C+ D50C0",
+        "PlanDescription": "OMAN INSURANCE CN+ DED 50 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OMAN C+ DN20%",
+        "PlanDescription": "OMAN INSURANCE CN+ DENTAL 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OMAN DED92",
+        "PlanDescription": "OMAN INSURANCE CN+ DED 20% (MAX-92) COPAY NIL DENTAL 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OMAN DN 10%",
+        "PlanDescription": "OMAN INSURANCE CN+  DENTAL 10%",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "DOMAN DHA PLUS",
+    "PolicyGroupDescription": "OMAN INSURANCE INSURANCE - DHA PLUS NETWORK - GOP CASES",
+    "RateListCode": "OMAN",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS012",
+    "Plans": [
+      {
+        "PlanCode": "D-OMAN DHA+D0C0",
+        "PlanDescription": "OMAN INSURANCE DHA PLUS (GOP BASIS) DED 0 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "DOMAN EDGE",
+    "PolicyGroupDescription": "OMAN INSURANCE INSURANCE - EDGE NETWORK",
+    "RateListCode": "OMAN",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS012",
+    "Plans": [
+      {
+        "PlanCode": "D-OM E D15%",
+        "PlanDescription": "OMAN INSURANCE EDGE DED 15% COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OM E D150",
+        "PlanDescription": "OMAN INSURANCE EDGE DED 20%M 50  COPAY 10% PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OM E D20% M50",
+        "PlanDescription": "OMAN INSURANCE EDGE DED 20% M50 L/R 10% PH 10% OP 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OM E D20%0",
+        "PlanDescription": "OMAN INSURANCE EDGE DED 20% M50 L/R/PH 10% OP NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OM E D20%150",
+        "PlanDescription": "OMAN INSURANCE EDGE DED 20%M 150  COPAY NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OM E D20%C0",
+        "PlanDescription": "OMAN INSURANCE EDGE DED 20% OP NIL L/R/PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OM E D20%C20",
+        "PlanDescription": "OMAN INSURANCE EDGE DED 20% COPAY L/R/PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OM E D20%M50",
+        "PlanDescription": "OMAN INSURANCE EDGE DED 20% M50 L/R/PH 10% OP 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OM E D20%M75",
+        "PlanDescription": "OMAN INSURANCE EDGE DED 20%M 75 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OM E D20%P10",
+        "PlanDescription": "OMAN INSURANCE EDGE DED 20%M75 COPAY 15%L/R10M25 PH10%M25",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OM E D200",
+        "PlanDescription": "OMAN INSURANCE EDGE DED 20%M50  COPAY NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OM E D20100",
+        "PlanDescription": "OMAN INSURANCE EDGE DED 20% M50 OP/L/R/PH 10%M100 PH NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OM E D2020AED",
+        "PlanDescription": "OMAN INSURANCE EDGE DED 20%MAX 20AED  COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OM EDG20%50OP",
+        "PlanDescription": "OMAN INSURANC EDGE/ CN+ D20%M50 OP NIL L/R 15% P20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OMAN E D",
+        "PlanDescription": "OMAN INSURANCE EDGE DED 50AED  COPAY NIL PH 15%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OMAN E D0",
+        "PlanDescription": "OMAN INSURANCE EDGE DED NIL COPAY NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OMAN E D10",
+        "PlanDescription": "OMAN INSURANCE EDGE DED 10% COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OMAN E D100",
+        "PlanDescription": "OMAN INSURANCE EDGE DED 20%M 100  COPAY 20%M100 PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OMAN E D15",
+        "PlanDescription": "OMAN INSURANCE EDGE COPAY 15%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OMAN E D15%",
+        "PlanDescription": "OMAN INSURANCE EDGE DED 15% COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OMAN E D2",
+        "PlanDescription": "OMAN INSURANCE EDGE COPAY 20%MAX 50 PH 20%MAX 300",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OMAN E D20",
+        "PlanDescription": "OMAN INSURANCE EDGE COPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OMAN E D20%",
+        "PlanDescription": "OMAN INSURANCE EDGE DED 20%M40 COPAY L/R/PH 20% M40",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OMAN E D20%5",
+        "PlanDescription": "OMAN INSURANCE EDGE DED 20%M 50 OP/L/R 10%M25 PH 10%M25",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OMAN E D20%LR",
+        "PlanDescription": "OMAN INSURANCE EDGE DED 20%M100  OP/LAB/RAD/PH 10% M100",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OMAN E D20%M5",
+        "PlanDescription": "OMAN INSURANCE EDGE DED 20%M 50 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OMAN E D20100",
+        "PlanDescription": "OMAN INSURANCE EDGE DED 20%M 100  COPAY NIL PH 20%M100",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OMAN E D20M50",
+        "PlanDescription": "OMAN INSURANCE EDGE COPAY 10%MAX 50",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OMAN E D20X",
+        "PlanDescription": "OMAN INSURANCE EDGE DED 10%MAX 50 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OMAN E D2X",
+        "PlanDescription": "OMAN INSURANCE EDGE DED20%M50 OP 0 L/R/PH 20%M50",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OMAN E D50",
+        "PlanDescription": "OMAN INSURANCE EDGE DED 50AED  COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OMAN E D5030",
+        "PlanDescription": "OMAN INSURANCE EDGE DED 50 L/R 30",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OMAN E DD",
+        "PlanDescription": "OMAN INSURANCE EDGE DED 50AED L/R 10% PH10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OMAN E DED15%",
+        "PlanDescription": "OMAN INSURANCE EDGE DED 15% COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OMAN E DN0",
+        "PlanDescription": "OMAN INSURANCE EDGE DED NIL COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OMAN ED20%100",
+        "PlanDescription": "OMAN INSURANCE EDGE DED 20%M 100  COPAY NIL PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OMAN P D10M",
+        "PlanDescription": "OMAN EDGE  DED 20%M100  COPAY 15%M50 PH 10%M50",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OMAN P D15",
+        "PlanDescription": "OMAN EDGE  DED 15%M50  COPAY 15%M50 PH 10%M50",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "DOMAN INS CLS",
+    "PolicyGroupDescription": "OMAN INSURANCE INSURANCE - CLASSIC NETWORK (GOP BASED)",
+    "RateListCode": "OMAN",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS012",
+    "Plans": [
+      {
+        "PlanCode": "D-OM CL D10%C10",
+        "PlanDescription": "OMAN INSURANCE CLASSIC DED 10% COPAY 10% (GOP BASED) PH30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OMAN CL D0C0",
+        "PlanDescription": "OMAN INSURANCE CLASSIC DED 0 COPAY NIL (GOP BASED)",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "DOMAN PREMIUM",
+    "PolicyGroupDescription": "OMAN INSURANCE INSURANCE - PREMIUM NETWORK",
+    "RateListCode": "OMAN",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS012",
+    "Plans": [
+      {
+        "PlanCode": "D-OM C 0%C15",
+        "PlanDescription": "OMAN  INSURANCE PREMIUM  DED 20% OP/RAD NIL LAB 15% PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OM C 20%C0",
+        "PlanDescription": "OMAN INSURANCE PREMIUM DED 20% (MAX50 ) COPAY NIL PH 20%M50",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OM C0",
+        "PlanDescription": "OMAN INSURANCE PREMIUM DED NIL COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OM P  D   20%",
+        "PlanDescription": "OMAN INSURANCE  PRN DED 20%(MAX50) COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OM P  D15%C0",
+        "PlanDescription": "OMAN INSURANCE  PRN DED 15%(MAX-75) COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OM P D 50 C0",
+        "PlanDescription": "OMAN INSURANCE  PRN DED 50 COPAY NIL L&R AED50 PH 25%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OM P D15% C0",
+        "PlanDescription": "OMAN INSURANCE PRM DED 15%(MAX50) COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OM P D20%  C0",
+        "PlanDescription": "OMAN INSURANCE PRN DED 20% COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OM P D20% CX",
+        "PlanDescription": "OMAN INSURANCE  PRN DED/LAB/RAD 20%M 100 PH 20%M100 OP NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OM P D20%C20",
+        "PlanDescription": "OMAN INSURANCE PRM DED 20%(MAX50) COPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OM PR D 10%C0",
+        "PlanDescription": "OMAN INSURANCE PRN DED 10%(MAX-30) COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OM PR D 20%C0",
+        "PlanDescription": "OMAN INSURANCE PRN DED 20%(MAX-75) COPAY NIL PH NILL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OM PR D0%C10",
+        "PlanDescription": "OMAN INSURANCE PRN DED 10%M50 OP/L/R/PH 10%MAX 50",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OM PR D10%C0",
+        "PlanDescription": "OMAN INSURANCE PRN DED 10%(MAX-50) COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OM PR D10%C10",
+        "PlanDescription": "OMAN INSURANCE PRN DED 10%(MAX-50) COPAY 10%(MAX50AED)",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OM ST D%C0",
+        "PlanDescription": "OMAN INSURANCE DED 20% (MAX- 50) COPAY 0 PH 20% (MAX-100)",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OMAN  D15%",
+        "PlanDescription": "OMAN INSURANCE DED 15%MAX 75 COPAY NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OMAN  D15%C15",
+        "PlanDescription": "OMAN INSURANCE DED 15% COPAY 15% PH 15%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OMAN P",
+        "PlanDescription": "OMAN INSURANCE  PRN DED 20%M50 OP NIL LAB/RAD/PH10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OMAN P  D",
+        "PlanDescription": "OMAN INSURANCE  PRN DED 20%(MAX50) COPAY NIL PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OMAN P  D 20%",
+        "PlanDescription": "OMAN INSURANCE  PRN DED 20%(MAX30) COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OMAN P  D20%",
+        "PlanDescription": "OMAN INSURANCE  PRN DED20%(MAX 25) COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OMAN P C 10%",
+        "PlanDescription": "OMAN INSURANCE  PRN DED10%(MAX 25) COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OMAN P C10%",
+        "PlanDescription": "OMAN INSURANCE  PRN COINS 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OMAN P C130",
+        "PlanDescription": "OMAN INSURANCE  PRN COPAY 30% (DENTAL)",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OMAN P C20%",
+        "PlanDescription": "OMAN INSURANCE  PRN COINS 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OMAN P D0 C0",
+        "PlanDescription": "OMAN INSURANCE PRN DED 0 COPAY NIL PH 20% (MAX75AED)",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OMAN P D0C0",
+        "PlanDescription": "OMAN INSURANCE PRN DED 0 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OMAN P D10%C0",
+        "PlanDescription": "OMAN INSURANCE PRN DED10% C0",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OMAN P D15%C0",
+        "PlanDescription": "OMAN INSURANCE PRM DED 15%(MAX50) COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OMAN P D150",
+        "PlanDescription": "OMAN INSURANCE PRM DED 15 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OMAN P D20",
+        "PlanDescription": "OMAN INSURANCE PRN DED 20%M520 OP NIL PH 20% M520",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OMAN P D20% C",
+        "PlanDescription": "OMAN INSURANCE  PRN DED 20%(MAX100) COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OMAN P D25 C0",
+        "PlanDescription": "OMAN INSURANCE  PRN DED 25 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OMAN P D50 C0",
+        "PlanDescription": "OMAN INSURANCE  PRN DED 50 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OMAN PR D 20%",
+        "PlanDescription": "OMAN INSURANCE PRN DED 20%(MAX-75) COPAY 75 PH 75",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN  PREMD 10%",
+        "PlanDescription": "OMAN INSURANCE PREM DED 20%M 50 OP 0 L/R 20%M50 PH 20%M50",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "DOMAN SIG ATG",
+    "PolicyGroupDescription": "D-OMAN INSURANCE - SIGATURE ATG NETWORK",
+    "RateListCode": "OMAN",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS012",
+    "Plans": [
+      {
+        "PlanCode": "D-OM SI C1ATG15",
+        "PlanDescription": "OMAN INSURANCE SIGNATURE VITAL ATG DED  15% CO 15%",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "DOMAN SN",
+    "PolicyGroupDescription": "OMAN INSURANCE INSURANCE - STANDARD NETWORK",
+    "RateListCode": "OMAN",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS012",
+    "Plans": [
+      {
+        "PlanCode": "D-OM  STN D10%",
+        "PlanDescription": "OMAN INSURANCE STN DED 10%(MAX65AED) COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OM  STN D20%",
+        "PlanDescription": "OMAN INSURANCE STN DED 20%(MAX65AED) COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OM  STN D20M4",
+        "PlanDescription": "OMAN INSURANCE STN DED 20% MAX 40 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OM 0C S20",
+        "PlanDescription": "OMAN SIGNATURE DED 20%M75 COPAY NIL PH 10%MAX 35",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OM 0C0",
+        "PlanDescription": "OMAN SIGNATURE DED 15% OP NIL L/R/PH 15%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OM 0C0 10",
+        "PlanDescription": "OMAN SIGNATURE DED 10% COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OM 0C0 100",
+        "PlanDescription": "OMAN SIGNATURE COPAY 15%MAX 100 PH 15%MAX 100",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OM 0C0 2010",
+        "PlanDescription": "OMAN SIGNATURE DED 20%M100 OP/LAB/RAD/PH 20%MAX 100",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OM 0C0 20100",
+        "PlanDescription": "OMAN SIGNATURE DED 20%M100 OP/LAB/RAD/PH 20%MAX 100",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OM BU D20C10",
+        "PlanDescription": "OMAN INSURANCE BUPA STANDARD DED 20% M75  CO 10% L/R P 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OM BUD20%M50",
+        "PlanDescription": "OMAN INSURANCE BUPA STANDARD D20%M50CO L/R 10%M25P10%M25",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OM D15%",
+        "PlanDescription": "OMAN SIGNATURE DED 15% COPAY 15%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OM P D   20%",
+        "PlanDescription": "OMAN INSURANCE STN DED 20%(50) COPAY 10% PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OM P D20%C10",
+        "PlanDescription": "OMAN INSURANCE STN DED 20%(50) COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OM P D20%CNIL",
+        "PlanDescription": "OMAN INSURANCE STN DED 20%(MAX20AED) COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OM S  D50 C0",
+        "PlanDescription": "OMAN INSURANCE SN DED 50 COPAY NIL PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OM S D30C10%",
+        "PlanDescription": "OMAN INSURANCE SN DED 30AED COPAY  10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OM S D50C20%",
+        "PlanDescription": "OMAN INSURANCE SN DED 50 COPAY  20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OM SN D50C15%",
+        "PlanDescription": "OMAN INSURANCE SN DED 50 COPAY 15%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OM ST   D 10%",
+        "PlanDescription": "OMAN INSURANCE SN DED 10% (MAX50) COINS 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OM ST  D 10%",
+        "PlanDescription": "OMAN INSURANCE SN DED 10% (MAX10) COINS NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OM ST  D0C10%",
+        "PlanDescription": "OMAN INSURANCE SN DED NIL  COPAY  10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OM ST  D20% C",
+        "PlanDescription": "OMAN INSURANCE SN DED 20% (MAX- 50) COPAY 5%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OM ST  D20%C",
+        "PlanDescription": "OMAN INSURANCE SN  DED 20% ( MAX- 75 ) COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OM ST  D20%C0",
+        "PlanDescription": "OMAN INSURANCE SN  DED 20% ( MAX- 25 ) COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OM ST  D20%M1",
+        "PlanDescription": "OMAN INSURANCE SN DED 20% (MAX- 100) COPAY 10% M 50",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OM ST 20",
+        "PlanDescription": "OMAN STANDARD DED 20%M50 COPAY NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OM ST 20 1",
+        "PlanDescription": "OMAN STANDARD DED 20%M50 COPAY 10% PH 10%MAX 200",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OM ST 20 10%",
+        "PlanDescription": "OMAN STANDARD DED 20%M50 COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OM ST 20 NIL",
+        "PlanDescription": "OMAN STANDARD DED 20%M50 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OM ST 20%30 C",
+        "PlanDescription": "OMAN STANDARD DED 20%M30 COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OM ST 20%LR10",
+        "PlanDescription": "OMAN STANDARD DED 20%M50 LAB/RAD/10% OP/PH  NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OM ST 20%LR50",
+        "PlanDescription": "OMAN STANDARD DED 20%M50 LAB/RAD/PH 20% OP NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OM ST 2010",
+        "PlanDescription": "OMAN STANDARD DED 50  LAB/RAD 10AED OP 0 PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OM ST 2010505",
+        "PlanDescription": "OMAN STANDARD DED 50  LAB/RAD 50 AED OP 50  PH 20% MAX50",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OM ST 2015",
+        "PlanDescription": "OMAN STANDARD DED 20%M50 COPAY NIL PH 15%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OM ST 2020",
+        "PlanDescription": "OMAN STANDARD DED 20%M50 COPAY NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OM ST 2020 PH",
+        "PlanDescription": "OMAN STANDARD DED 20%M50 COPAY NIL PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OM ST 20AED",
+        "PlanDescription": "OMAN STANDARD DED 50  LAB/RAD20%M20  OP 20 PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OM ST C15",
+        "PlanDescription": "OMAN STANDARD COPAY 15%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OM ST D  20%C",
+        "PlanDescription": "OMAN INSURANCE SN DED 20% (MAX- 50) COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OM ST D 20% C",
+        "PlanDescription": "OMAN INSURANCE SN DED 20% (MAX- 100) COPAY NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OM ST D 20%C",
+        "PlanDescription": "OMAN INSURANCE SN DED 20% (MAX- 100) COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OM ST D 20%C0",
+        "PlanDescription": "OMAN INSURANCE SN DED 20% (MAX- 30) COPAY 0 PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OM ST D10%C10",
+        "PlanDescription": "OMAN INSURANCE SN DED 10% (MAX- 50) COPAY 10% (50)PH 10%(50)",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OM ST D15 P 2",
+        "PlanDescription": "OMAN STANDARD DED 15% PH 20% 100",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OM ST D15 P2M",
+        "PlanDescription": "OMAN STANDARD DED 15% PH 20% M50",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OM ST D20 %C0",
+        "PlanDescription": "OMAN INSURANCE SN DED 20% (MAX- 30) COPAY 0 PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OM ST D20% C",
+        "PlanDescription": "OMAN INSURANCE SN DED 20% (MAX- 50) COPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OM ST D20% C0",
+        "PlanDescription": "OMAN INSURANCE SN DED 20% (MAX- 50) COPAY 0 PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OM ST D20%C 0",
+        "PlanDescription": "OMAN INSURANCE SN DED 20% (MAX- 50) COPAY 0 PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OM ST D20%C0",
+        "PlanDescription": "OMAN INSURANCE SN DED 20% (MAX- 50) COPAY 0 PH 20% (MAX-100)",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OM ST D20%C10",
+        "PlanDescription": "OMAN INSURANCE SN DED 20% (MAX- 50) COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OM ST D20%C20",
+        "PlanDescription": "OMAN INSURANCE SN DED 20% (MAX- 70)COPAY 20% PH NILL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OM ST MATC10%",
+        "PlanDescription": "OMAN INSURANCE SN  D10% (MAX25AED) CO 0% PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OM ST P 2",
+        "PlanDescription": "OMAN STANDARD DED 15% PH 20% 100",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OM ST R10",
+        "PlanDescription": "OMAN STANDARD DED NIL LAB/RAD 10% M50 PH NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OM STB 20%",
+        "PlanDescription": "OMAN INSURANCE STANDARD DED 20% M75  CO 10% L/R P 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OM STB 20%150",
+        "PlanDescription": "OMAN INSURANCE STANDARD DED 20% 150  CO NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OM STB 20%30",
+        "PlanDescription": "OMAN INSURANCE STANDARD DED 20% M75  CO 20% PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OM STB 20%75",
+        "PlanDescription": "OMAN INSURANCE STANDARD DED 20% M75  CO NIL PH 20% 100",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OM STB 205",
+        "PlanDescription": "OMAN INSURANCE STANDARD DED 20% M75  CO NIL PH 20%M50",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OM STN D20%C0",
+        "PlanDescription": "OMAN INSURANCE SN DED 20% (30) L&R 20% (MAX-10) PH 20%(100)",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OMAN  STN D35",
+        "PlanDescription": "OMAN INSURANCE STN DED 35 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OMAN BU D0C0",
+        "PlanDescription": "OMAN INSURANCE BUPA STANDARD DED 0 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OMAN D 25",
+        "PlanDescription": "OMAN INSURANCE STN DED 25 AED  COPAY NIL PH NILL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OMAN D10M50",
+        "PlanDescription": "OMAN INSURANCE STN DED 10% MAX 50 OP NIL PH 10% (MB)",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OMAN D50C10%",
+        "PlanDescription": "OMAN INSURANCE STN DED 50AED COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OMAN P D  10%",
+        "PlanDescription": "OMAN INSURANCE STN MAT DED 10%(30) COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OMAN P D60C0",
+        "PlanDescription": "OMAN INSURANCE STN DED 60AED COPAY NIL PH 10% (MAX 100)",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OMAN PD30C0",
+        "PlanDescription": "OMAN INSURANCE STN DED 30AED COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OMAN S",
+        "PlanDescription": "OMAN STANDARD DED 20%M50 OP/LAB/RAD/PH 20%MAX 50",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OMAN S D20C10",
+        "PlanDescription": "OMAN INSURANCE SN DED 20 LAB&RAD 10AED PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OMAN S D30C0",
+        "PlanDescription": "OMAN INSURANCE SN DED 30 COPAY  NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OMAN S D50 C0",
+        "PlanDescription": "OMAN INSURANCE SN DED 50 COPAY NIL PH 30%(MAX 100AED)",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OMAN S D50C0",
+        "PlanDescription": "OMAN INSURANCE SN DED 0 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OMAN S D50CC0",
+        "PlanDescription": "OMAN INSURANCE SN DED 50 COPAY NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OMAN S1025",
+        "PlanDescription": "OMAN STANDARD DED 10%M25 OP/LAB/RAD/PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OMAN S205020",
+        "PlanDescription": "OMAN STANDARD DED 20% LAB/RAD/PH 20% OP 0%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OMAN SIG 40",
+        "PlanDescription": "OMAN SIGNATURE COPAY 40%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OMAN SN D50C0",
+        "PlanDescription": "OMAN INSURANCE SN DED 50 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OMAN ST",
+        "PlanDescription": "OMAN STANDARD DED 10%M25 LAB/RAD/20%M10PH 20%M100 OP NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OMAN ST  C10%",
+        "PlanDescription": "OMAN INSURANCE SN  COPAY  10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OMAN ST  C20%",
+        "PlanDescription": "OMAN INSURANCE SN  COPAY  20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OMAN ST  D20%",
+        "PlanDescription": "OMAN INSURANCE SN  DED 20% ( MAX- 75 ) COPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OMAN ST  D50",
+        "PlanDescription": "OMAN INSURANCE SN DED 20% (MAX- 50) PH 20% (MAX 200)",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OMAN ST 20",
+        "PlanDescription": "OMAN SIGNATURE DED 20%MAX 100 COPAY NIL PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OMAN ST 20%",
+        "PlanDescription": "OMAN STANDARD COPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OMAN ST 50LR",
+        "PlanDescription": "OMAN STANDARD DED 50 LAB/RAD AED 20 PH 20% OP NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OMAN ST D 10%",
+        "PlanDescription": "OMAN INSURANCE SN DED 20% (50) COPAY 0 PH 20%(50)",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OMAN ST D10%",
+        "PlanDescription": "OMAN INSURANCE SN DED 10% (MAX- 50) COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OMAN ST D10%C",
+        "PlanDescription": "OMAN INSURANCE SN DED 10% (MAX- 30) COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OMAN ST D20%",
+        "PlanDescription": "OMAN INSURANCE SN DED 20% (MAX- 50) COPAY NIL PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OMAN ST D20%C",
+        "PlanDescription": "OMAN INSURANCE SN DED 20% (MAX- 30) COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OMAN ST30",
+        "PlanDescription": "OMAN STANDARD DED 30% COPAY 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OMAN STD",
+        "PlanDescription": "OMAN STANDARD DED 50 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OMAN STD 15",
+        "PlanDescription": "OMAN STANDARD DED 15AED COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OMAN STD1050",
+        "PlanDescription": "OMAN STANDARD DED 10% MAX 50",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OMAN STD1060",
+        "PlanDescription": "OMAN STANDARD DED 10% MAX 60",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OMAN STD10C10",
+        "PlanDescription": "OMAN STANDARD DED 10% COPAY 10% PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OMAN STX",
+        "PlanDescription": "OMAN STANDARD DED 20% COPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OSTND20M50",
+        "PlanDescription": "OMAN INSURANCE STN DED 20%M50  COPAY 20% L/R PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DOMAN STD 15P20",
+        "PlanDescription": "OMAN STANDARD DED 15AED PH 20% 100",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "DOMAN VITAL",
+    "PolicyGroupDescription": "OMAN INSURANCE - VITAL EMAAR NETWORK",
+    "RateListCode": "OMAN ADV-VITAL",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS012",
+    "Plans": [
+      {
+        "PlanCode": "D-OM 20%50 COX",
+        "PlanDescription": "OMAN INSURANCE VITAL DED 20%(MAX 30) COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OM V C 10%P30",
+        "PlanDescription": "OMAN INSURANCE VITAL COPAY 10% L&R 10% PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OM V C 10%PH3",
+        "PlanDescription": "OMAN INSURANCE VITAL COPAY 10% PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OM V C10%0%",
+        "PlanDescription": "OMAN INSURANCE VITAL CONS 10% COPAY 10% PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OM V C10%P20%",
+        "PlanDescription": "OMAN INSURANCE VITAL CONS 10% COPAY 10% PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OM V D0C 10%",
+        "PlanDescription": "OMAN INSURANCE VITAL DED NIL  COPAY 10% PH10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OM VIT C  20%",
+        "PlanDescription": "OMAN INSURANCE VITAL DED 20% COPAY 20% PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OM VIT C 2070",
+        "PlanDescription": "OMAN INSURANCE VITAL DED 20%M70 OP NIL L/R 20% PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OM VIT C 2075",
+        "PlanDescription": "OMAN INSURANCE VITAL DED 20%M75 OP NIL L/R 10% PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OM VIT D20AED",
+        "PlanDescription": "OMAN INSURANCE VITAL DED 20AED LAB/RAD 10% PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OM VIT X 2%",
+        "PlanDescription": "OMAN INSURANCE VITAL DED 40 OP NIL L/R 10AED PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OM VIT X 20%",
+        "PlanDescription": "OMAN INSURANCE VITAL DED 20%MAX 40 OP NIL PH 10% MAX 20",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OM VIT X1020",
+        "PlanDescription": "OMAN INSURANCE VITAL DED 20%MAX 20AED COPAY NIL DENTAL 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OM VITAL C10%",
+        "PlanDescription": "OMAN INSURANCE VITAL COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OM VITAL CO20",
+        "PlanDescription": "OMAN INSURANCE VITAL COPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OM VITAL D10",
+        "PlanDescription": "OMAN INSURANCE VITAL DED 10AED OP NIL L&R 10AED PH 30% (GP)",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OM VITAL D10X",
+        "PlanDescription": "OMAN INSURANCE VITAL DED 10AED OP NIL L&R 10AED PH 30% (SP)",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OM VITAL MB10",
+        "PlanDescription": "OMAN INSURANCE VITAL MB 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OM VITALDE",
+        "PlanDescription": "OMAN INSURANCE VITAL DED 50 COPAY NIL  PH 30%MAX 100",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OM VITALDED50",
+        "PlanDescription": "OMAN INSURANCE VITAL DED 50 L&R 10% PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OMAN 20%25 C",
+        "PlanDescription": "OMAN INSURANCE VITAL DED 20%(MAX 25) COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OMAN 20%25 CO",
+        "PlanDescription": "OMAN INSURANCE VITAL DED 20%(MAX 25) COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OMAN 20%35 C",
+        "PlanDescription": "OMAN INSURANCE VITAL DED 20%(MAX 35) COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OMAN 20%50",
+        "PlanDescription": "OMAN INSURANCE VITAL 20%(MAX 50) CO 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OMAN 20%50 CO",
+        "PlanDescription": "OMAN INSURANCE VITAL DED 20%(MAX 50) COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OMAN 20%50 P1",
+        "PlanDescription": "OMAN INSURANCE VITAL DED 20%(MAX 50) COPAY NIL PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OMAN 20%50 P2",
+        "PlanDescription": "OMAN INSURANCE VITAL DED 20%(MAX 50) COPAY NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OMAN V",
+        "PlanDescription": "OMAN INSURANCE VITAL 10%(MAX 25) COPAY NIL PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OMAN V 10%5",
+        "PlanDescription": "OMAN INSURANCE VITAL DED 10%MAX 50 COPAY 10% PH 10%MAX 10AED",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OMAN V C 10%",
+        "PlanDescription": "OMAN INSURANCE VITAL COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OMAN V C 10%5",
+        "PlanDescription": "OMAN INSURANCE VITAL COPAY 10%50 PH 10%10AED",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OMAN V C 20%",
+        "PlanDescription": "OMAN INSURANCE VITAL COPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OMAN V C0",
+        "PlanDescription": "OMAN INSURANCE VITAL 10%(MAX 25) CO NILL PH NILL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OMAN V C15%",
+        "PlanDescription": "OMAN INSURANCE VITAL DED 15% OP 15% PH 15%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OMAN V COPAY0",
+        "PlanDescription": "OMAN INSURANCE VITAL COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OMAN V D10",
+        "PlanDescription": "OMAN INSURANCE DED 10 % ( MAX 25) COPAY 10% PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OMAN V D50P20",
+        "PlanDescription": "OMAN INSURANCE VITAL DED 50 COPAY NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OMAN VD50P20",
+        "PlanDescription": "OMAN INSURANCE VITAL DED 50 L/R 50 OP NIL PH 30%MAX 100",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OMAN VIT",
+        "PlanDescription": "OMAN INSURANCE VITAL DED 10%MAX 20 OP 10%M 20 L/R NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OMAN VIT C",
+        "PlanDescription": "OMAN INSURANCE VITAL DED 20%M20 OP NIL L/R 10%M20 PH NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OMAN VIT C20%",
+        "PlanDescription": "OMAN INSURANCE VITAL DED 20% COPAY 20% PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OMAN VIT CO N",
+        "PlanDescription": "OMAN INSURANCE VITAL DED 10%MAX 20 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OMAN VIT CP10",
+        "PlanDescription": "OMAN INSURANCE VITAL DED 20%M10 OP NIL L/R 10%M10 PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OMAN VIT CP30",
+        "PlanDescription": "OMAN INSURANCE VITAL DED 20%M20 OP NIL L/R 10%M10 PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OMAN VIT D20X",
+        "PlanDescription": "OMAN INSURANCE VITAL DED 20AED LAB/RAD 10AED PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OMAN VIT D2X",
+        "PlanDescription": "OMAN INSURANCE VITAL DED 20AED LAB 10AED RAD 10AED PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OMAN VIT D30X",
+        "PlanDescription": "OMAN INSURANCE VITAL DED 30AED LAB/RAD 10AED PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OMAN VITD20%1",
+        "PlanDescription": "OMAN INSURANCE VITAL DED 20% OP 10% PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DOMANVIT CD2020",
+        "PlanDescription": "OMAN INSURANCE VITAL DED 20%M20 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "DOMAN VITAL ATG",
+    "PolicyGroupDescription": "OMAN INSURANCE - VITAL ATG NETWORK",
+    "RateListCode": "OMAN ADV-VITAL",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS012",
+    "Plans": [
+      {
+        "PlanCode": "D-OM SI C1",
+        "PlanDescription": "OMAN INSURANCE VITAL ATG DED 35AED COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OM V C1ATG",
+        "PlanDescription": "OMAN INSURANCE VITAL ATG DED  10% COPAY 10% PH 10%",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "DOMAN VITAL-SE",
+    "PolicyGroupDescription": "OMAN INSURANCE - SECURE NETWORK",
+    "RateListCode": "OMAN ADV-VITAL",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS012",
+    "Plans": [
+      {
+        "PlanCode": "D-OMAN SECURE",
+        "PlanDescription": "OMAN INSURANCE SECURE NET DED 20% COPAY 20%",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "OMAN ADVANCE",
+    "PolicyGroupDescription": "OMAN INSURANCE - ADVANCE NETWORK",
+    "RateListCode": "OMAN ADV-VITAL",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS012",
+    "Plans": [
+      {
+        "PlanCode": "OMAN C20%",
+        "PlanDescription": "OMAN INSURANCE ADVANCE DED 20% COPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN C20%M20",
+        "PlanDescription": "OMAN INSURANCE ADVANCE DED 20%MAX 20 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN COPAY 10%",
+        "PlanDescription": "OMAN INSURANCE ADVANCE COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN D0  C0",
+        "PlanDescription": "OMAN INSURANCE ADVANCE DED NIL COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN D101%M50",
+        "PlanDescription": "OMAN INSURANCE ADVANCE DED 10% (MAX50) COPAY NIL (MB)",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN D15",
+        "PlanDescription": "OMAN INSURANCE ADVANCE DED 15% OP/LAB/RAD/PH 15%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN D1525",
+        "PlanDescription": "OMAN INSURANCE ADVANCE DED 15%M25 OP/LAB/RAD/PH 15%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN D2",
+        "PlanDescription": "OMAN INSURANCE ADVANCE DED 50 OP 0 L/R 30AED PH30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN D20%  C 0",
+        "PlanDescription": "OMAN INSURANCE ADVANCE DED 20% (MAX30) COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN D20%  C D0",
+        "PlanDescription": "OMAN INSURANCE ADVANCE DED 20% (MAX35) CO 10% PH10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN D20%  C0",
+        "PlanDescription": "OMAN INSURANCE ADVANCE DED 20% (MAX50) COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN D20%  C20%",
+        "PlanDescription": "OMAN INSURANCE ADVANCE DED 20% COPAY 20% PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN D20%  CDD0",
+        "PlanDescription": "OMAN INSURANCE ADVANCE DED 20% (MAX35) CO 10%  PH NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN D20%50",
+        "PlanDescription": "OMAN INSURANCE ADVANCE DED 20%M50 COPAY NIL PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN D20%50D",
+        "PlanDescription": "OMAN INSURANCE ADVANCE DED20%M50 OP20% L/R 20%M50PH30%M100",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN D20%50X",
+        "PlanDescription": "OMAN INSURANCE ADVANCE DED 20%M50 COPAY NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN D20%50XX",
+        "PlanDescription": "OMAN INSURANCE ADVANCE DED 20%M50 LAB/RAD 10% PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN D20%LR10%",
+        "PlanDescription": "OMAN  ADVANCE DED 20% (MAX25) LAB/RAD/PH 10% OP NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN D20%P10%",
+        "PlanDescription": "OMAN INSURANCE ADVANCE DED 20% (MAX25) COPAY NIL PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN D25 PH 15",
+        "PlanDescription": "OMAN  ADVANCE DED 25AED COPAY NIL PH 15%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN D5",
+        "PlanDescription": "OMAN INSURANCE ADVANCE DED 50 COPAY NIL PH NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN D50",
+        "PlanDescription": "OMAN INSURANCE ADVANCE DED 50 OP 15% PH 15%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN D50  C0",
+        "PlanDescription": "OMAN INSURANCE ADVANCE DED 50 COPAY NIL PH 5%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN D50  C0D",
+        "PlanDescription": "OMAN INSURANCE ADVANCE DED 50 COPAY NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN D50LR10%",
+        "PlanDescription": "OMAN  ADVANCE DED 20%M50 LAB/RAD/PH 10% OP NIL",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "OMAN BUPA",
+    "PolicyGroupDescription": "OMAN INSURANCE INSURANCE - BUPA PREMIUM NETWORK",
+    "RateListCode": "OMAN",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS012",
+    "Plans": [
+      {
+        "PlanCode": "OM B D50  C15",
+        "PlanDescription": "OMAN INSURANCE BUPA DED 50  LAB 15% PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN B C10%",
+        "PlanDescription": "OMAN INSURANCE BUPA  COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN B D  10%",
+        "PlanDescription": "OMAN INSURANCE BUPA  DED 10% ( MAX 50 ) L& R 10%(MAX 50)",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN B D0C0",
+        "PlanDescription": "OMAN INSURANCE BUPA DED NIL COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN B D10%0",
+        "PlanDescription": "OMAN INSURANCE BUPA DED10%M50 OP 10%M50 PH 25% L/R 50AED",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN B D10%C0",
+        "PlanDescription": "OMAN INSURANCE BUPA  DED 10 % ( MAX 50 ) COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN B D50",
+        "PlanDescription": "OMAN INSURANCE BUPA  DED 20% ( MAX 50 ) L& R 20%(MAX 50)",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN B D50  C0",
+        "PlanDescription": "OMAN INSURANCE BUPA DED 50 COPAY NIL PH 15%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN B D50  C50",
+        "PlanDescription": "OMAN INSURANCE BUPA DED 50 COPAY 50 PH 15%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN B D50C0",
+        "PlanDescription": "OMAN INSURANCE BUPA DED 50 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN BU C20%",
+        "PlanDescription": "OMAN INSURANCE BUPA  COPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN BU D 20%",
+        "PlanDescription": "OMAN INSURANCE BUPA DED 20% COPAY 0",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN BU D10%0C0",
+        "PlanDescription": "OMAN INSURANCE BUPA DED10% COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN BU D15% C0",
+        "PlanDescription": "OMAN INSURANCE BUPA DED 15%(MAX50) COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN BU D15%C 0",
+        "PlanDescription": "OMAN INSURANCE BUPA PRN DED 15%(MAX-75) COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN BU D15%C0",
+        "PlanDescription": "OMAN INSURANCE BUPA DED 15% COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN BU D15%C15",
+        "PlanDescription": "OMAN INSURANCE BUPA DED 15% COPAY 15% PH 15%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN BU D20%C 0",
+        "PlanDescription": "OMAN INSURANCE BUPA PRN DED 20%(MAX-75) COPAY NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN BU D20%C0",
+        "PlanDescription": "OMAN INSURANCE BUPA PRN DED 20%(MAX-75) CO & PH- 20% (75)",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN BU D20%PH",
+        "PlanDescription": "OMAN INSURANCE BUPA PRN DED 20%(MAX-75) COPAY NIL PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN P D20%",
+        "PlanDescription": "OMAN INSURANCE BUPA PRN DED 20%(MAX50) COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN P D20% C0",
+        "PlanDescription": "OMAN INSURANCE BUPA PRN DED 20%(MAX100) COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN P D20%C0",
+        "PlanDescription": "OMAN INSURANCE BUPA PRN DED 20%(MAX100) COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN P D25%",
+        "PlanDescription": "OMAN INSURANCE BUPA PRNCOPAY 25% (DENTAL)",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN PD20% C0",
+        "PlanDescription": "OMAN INSURANCE BUPA PRN DED 20%(MAX100) COPAY 5% PH 5%",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "OMAN BUPA - SIG",
+    "PolicyGroupDescription": "OMAN INSURANCE INSURANCE - BUPA - SIGNATURE NETWORK",
+    "RateListCode": "OMAN",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS012",
+    "Plans": [
+      {
+        "PlanCode": "OMAN BUP D0C0",
+        "PlanDescription": "OMAN BUPA SIGNATURE DED NIL COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN BUP X D0C0",
+        "PlanDescription": "OMAN BUPA SIGNATURE DED20% MAX100 CO NILL PH 20% MAX 100",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "OMAN CN",
+    "PolicyGroupDescription": "OMAN INSURANCE INSURANCE - COMPREHENSIVE NETWORK",
+    "RateListCode": "OMAN",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS012",
+    "Plans": [
+      {
+        "PlanCode": "OMAN  C D10%C10",
+        "PlanDescription": "OMAN INSURANCE CN D10%(MAX50) LAB/RD 10%(MAX50) PH10%(MAX50",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN  C15",
+        "PlanDescription": "OMAN INSURANCE CN DED 15% COPAY 15%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN C  D10%C10",
+        "PlanDescription": "OMAN INSURANCE CN DED 10% (MAX50 ) COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN C  D20% CO",
+        "PlanDescription": "OMAN INSURANCE CN DED 20% (MAX-20 ) COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN C  D20%C10",
+        "PlanDescription": "OMAN INSURANCE CN DED 20% (MAX50 ) COPAY  NIL PH20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN C  D20%CO",
+        "PlanDescription": "OMAN INSURANCE CN DED 20% (MAX50 ) COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN C  MB 10%",
+        "PlanDescription": "OMAN INSURANCE CN MB DED10%(MAX-50) COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN C D 20%",
+        "PlanDescription": "OMAN INSURANCE CN COIN 20% PH 20%(MAX 100AED)",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN C D20% C0",
+        "PlanDescription": "OMAN INSURANCE CN DED 20% (MAX-50) CO 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN C D20% C10",
+        "PlanDescription": "OMAN INSURANCE CN DED 20% (MAX50 ) COPAY  NIL PH10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN C D20%C10",
+        "PlanDescription": "OMAN INSURANCE CN DED 20% (MAX100 ) COPAY  NIL PH10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN C D20%C15",
+        "PlanDescription": "OMAN INSURANCE CN DED 20% (MAX100 ) COPAY  NIL PH15%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN C D50 C0",
+        "PlanDescription": "OMAN INSURANCE CN DED 50 COPAY NIL PH 30%(MAX100)",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN C D50C0",
+        "PlanDescription": "OMAN INSURANCE CN DED 50 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN CN  D35C0",
+        "PlanDescription": "OMAN INSURANCE CN DED 35 COPAY  NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN CN C10%",
+        "PlanDescription": "OMAN INSURANCE CN COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN CN C5%",
+        "PlanDescription": "OMAN INSURANCE CN COPAY 5%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN CN D20% C0",
+        "PlanDescription": "OMAN INSURANCE CN DED 20% (MAX100) COPAY NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN CN D20%C0",
+        "PlanDescription": "OMAN INSURANCE CN DED 20% (MAX-75) COPAY NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN COM C20%",
+        "PlanDescription": "OMAN INSURANCE CN COPAY 20% ON ALL SERVICES",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "OMAN CN+",
+    "PolicyGroupDescription": "OMAN INSURANCE INSURANCE - COMPREHENSIVE PLUS NETWORK",
+    "RateListCode": "OMAN",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS012",
+    "Plans": [
+      {
+        "PlanCode": "OMAN C   D20%C0",
+        "PlanDescription": "OMAN INSURANCE CN+ DED 20% (MAX50 ) CO NIL PH 10%(50)",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN C  D0C0",
+        "PlanDescription": "OMAN INSURANCE CN+ DED NIL COPAY NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN C  D10%C0",
+        "PlanDescription": "OMAN INSURANCE CN+ DED 10% (MAX50 ) COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN C  D20%",
+        "PlanDescription": "OMAN INSURANCE CN+ DED 20% (MAX-50 ) COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN C  D20% 25",
+        "PlanDescription": "OMAN INSURANCE CN+ DED 25 COPAY 0 PH 0",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN C  D20% C",
+        "PlanDescription": "OMAN INSURANCE CN+ DED 20% (MAX100 ) COPAY NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN C  D20% C0",
+        "PlanDescription": "OMAN INSURANCE CN+ DED 20% (MAX30 ) COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN C  D20%C 0",
+        "PlanDescription": "OMAN INSURANCE CN+ DED 20% (MAX100) COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN C  D20%C0",
+        "PlanDescription": "OMAN INSURANCE CN+ DED 20% (MAX50 ) COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN C  D202020",
+        "PlanDescription": "OMAN INSURANCE CN+ DED 20% (MAX75 ) L/R 20% PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN C  D20M75",
+        "PlanDescription": "OMAN INSURANCE CN+ DED 20% (MAX75 ) OP 20% PH NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN C  D50",
+        "PlanDescription": "OMAN INSURANCE CN+ DED 50 AED COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN C  D50PH 1",
+        "PlanDescription": "OMAN INSURANCE CN+ DED 50 AED COPAY NIL PH 20% M 100",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN C  MB10%",
+        "PlanDescription": "OMAN INSURANCE CN+ MB DED10%(MAX25) COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN C D0 C0",
+        "PlanDescription": "OMAN INSURANCE CN PLUS DED 0 COPAY NIL DN 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN C D0C0",
+        "PlanDescription": "OMAN INSURANCE CN+ DED 0 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN C D2",
+        "PlanDescription": "OMAN INSURANCE CN+ DED 20%M100 OP/L/R/PH 10%MAX 100",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN C D20% C",
+        "PlanDescription": "OMAN INSURANCE CN+ DED 20% (MAX100 ) COPAY NIL PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN C D20%C0",
+        "PlanDescription": "OMAN INSURANCE CN PLUS DED 20% CO 10% PH NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN C D25C30%",
+        "PlanDescription": "OMAN INSURANCE CN+ DED 25 AED CO 30% PH NILL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN C+  D",
+        "PlanDescription": "OMAN INSURANCE CN+ DED 20%M50 OP NIL LAB/RAD/PH 10%MAX25",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN C+  D0%C0",
+        "PlanDescription": "OMAN INSURANCE CN+ DED 20% (MAX-50) COPAY 10%MAX 25",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN C+  D20%C0",
+        "PlanDescription": "OMAN INSURANCE CN+ DED 20% (MAX-50) COPAY NIL PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN C+ C10%",
+        "PlanDescription": "OMAN INSURANCE CN+ COPAY 10% ON ALL SERVICES",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN C+ C20%",
+        "PlanDescription": "OMAN INSURANCE CN+ COPAY 20% ON ALL SERVICES",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN C+ D0C0",
+        "PlanDescription": "OMAN INSURANCE CN+ DED 0 COPAY NIL DENTAL 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN C+ D10% C0",
+        "PlanDescription": "OMAN INSURANCE CN+ D 10% COINS 0",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN C+ D10%C 0",
+        "PlanDescription": "OMAN INSURANCE CN+ D 10%(50) C 10%(50) L&R 10%(50) PH10%(50)",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN C+ D15%C15",
+        "PlanDescription": "OMAN INSURANCE CN+ DED 15% COPAY 15% PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN C+ D20% C0",
+        "PlanDescription": "OMAN INSURANCE CN+ DED 20% (MAX-50) COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN C+ D20%C 0",
+        "PlanDescription": "OMAN INSURANCE CN+ DED 20% (MAX-75) COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN C+ D20%C0",
+        "PlanDescription": "OMAN INSURANCE CN+ DED 20% (max-75) COPAY NIL PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN C+ D50C0",
+        "PlanDescription": "OMAN INSURANCE CN+ DED 50 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN C+ DN20%",
+        "PlanDescription": "OMAN INSURANCE CN+ DENTAL 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN C+D20%C 0",
+        "PlanDescription": "OMAN INSURANCE CN+ DED 20% (MAX-25) COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN CN+20%M50",
+        "PlanDescription": "OMAN INSURANCE CN+ D20%M50CO L/R 10%M25P10%M25",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN DED92",
+        "PlanDescription": "OMAN INSURANCE CN+ DED 20% (MAX-92) COPAY NIL DENTAL 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN DN 10%",
+        "PlanDescription": "OMAN INSURANCE CN+  DENTAL 10%",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "OMAN DHA PLUS",
+    "PolicyGroupDescription": "OMAN INSURANCE INSURANCE - DHA PLUS NETWORK - GOP CASES",
+    "RateListCode": "OMAN",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS012",
+    "Plans": [
+      {
+        "PlanCode": "OMAN DHA+D0C0",
+        "PlanDescription": "OMAN INSURANCE DHA PLUS (GOP BASIS) DED 0 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "OMAN EDGE",
+    "PolicyGroupDescription": "OMAN INSURANCE INSURANCE - EDGE NETWORK",
+    "RateListCode": "OMAN",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS012",
+    "Plans": [
+      {
+        "PlanCode": "OMAN E D",
+        "PlanDescription": "OMAN INSURANCE EDGE DED 50AED  COPAY NIL PH 15%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN E D0",
+        "PlanDescription": "OMAN INSURANCE EDGE DED NIL COPAY NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN E D10",
+        "PlanDescription": "OMAN INSURANCE EDGE DED 10% COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN E D15",
+        "PlanDescription": "OMAN INSURANCE EDGE COPAY 15%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN E D20%",
+        "PlanDescription": "OMAN INSURANCE EDGE DED 20%M40 COPAY L/R/PH 20% M40",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN E D20%100",
+        "PlanDescription": "OMAN INSURANCE EDGE DED 20%M 100  COPAY NIL PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN E D20%C20",
+        "PlanDescription": "OMAN INSURANCE EDGE DED 20% COPAY L/R/PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN E D20%LR",
+        "PlanDescription": "OMAN INSURANCE EDGE DED 20%M100  OP/LAB/RAD/PH 10% M100",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN E D20%M5",
+        "PlanDescription": "OMAN INSURANCE EDGE DED 20%M 50 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN E D20%M75",
+        "PlanDescription": "OMAN INSURANCE EDGE DED 20%M 75 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN E D20%P10",
+        "PlanDescription": "OMAN INSURANCE EDGE DED 20%M75 COPAY 15%L/R10M25 PH10%M25",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN E D2010",
+        "PlanDescription": "OMAN INSURANCE EDGE DED 25AED COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN E D20100",
+        "PlanDescription": "OMAN INSURANCE EDGE DED 20%M 100  COPAY NIL PH 20%M100",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN E D5030",
+        "PlanDescription": "OMAN INSURANCE EDGE DED 50 L/R 30",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN E DD",
+        "PlanDescription": "OMAN INSURANCE EDGE DED 50AED L/R 10% PH10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN E DD50",
+        "PlanDescription": "OMAN INSURANCE EDGE DED 50AED COPAY NIL PH 20%MAX 100",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "OMAN INS CLS",
+    "PolicyGroupDescription": "OMAN INSURANCE INSURANCE - CLASSIC NETWORK (GOP BASED)",
+    "RateListCode": "OMAN",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS012",
+    "Plans": [
+      {
+        "PlanCode": "OMAN CL D0C0",
+        "PlanDescription": "OMAN INSURANCE CLASSIC DED 0 COPAY NIL (GOP BASED)",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN CL D10%C10",
+        "PlanDescription": "OMAN INSURANCE CLASSIC DED 10% COPAY 10% (GOP BASED) PH30%",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "OMAN PREMIUM",
+    "PolicyGroupDescription": "OMAN INSURANCE INSURANCE - PREMIUM NETWORK",
+    "RateListCode": "OMAN",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS012",
+    "Plans": [
+      {
+        "PlanCode": "OMAN  D15%",
+        "PlanDescription": "OMAN INSURANCE DED 15%MAX 75 COPAY NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN  D15%C15",
+        "PlanDescription": "OMAN INSURANCE DED 15% COPAY 15% PH 15%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN E D50",
+        "PlanDescription": "OMAN INSURANCE DED 50 OP/RAD NIL LAB 15%M50 PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN P",
+        "PlanDescription": "OMAN INSURANCE  PRN DED 20%M50 OP NIL LAB/RAD/PH10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN P  D",
+        "PlanDescription": "OMAN INSURANCE  PRN DED 20%(MAX50) COPAY NIL PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN P  D   20%",
+        "PlanDescription": "OMAN INSURANCE  PRN DED 20%(MAX50) COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN P  D 20%",
+        "PlanDescription": "OMAN INSURANCE  PRN DED 20%(MAX30) COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN P  D15%C0",
+        "PlanDescription": "OMAN INSURANCE  PRN DED 15%(MAX-75) COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN P  D20%",
+        "PlanDescription": "OMAN INSURANCE  PRN DED20%(MAX 25) COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN P C 10%",
+        "PlanDescription": "OMAN INSURANCE  PRN DED10%(MAX 25) COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN P C10%",
+        "PlanDescription": "OMAN INSURANCE  PRN COINS 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN P C130",
+        "PlanDescription": "OMAN INSURANCE  PRN COPAY 30% (DENTAL)",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN P C20%",
+        "PlanDescription": "OMAN INSURANCE  PRN COINS 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN P D 50 C0",
+        "PlanDescription": "OMAN INSURANCE  PRN DED 50 COPAY NIL L&R AED50 PH 25%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN P D0 C0",
+        "PlanDescription": "OMAN INSURANCE PRN DED 0 COPAY NIL PH 20% (MAX75AED)",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN P D0C0",
+        "PlanDescription": "OMAN INSURANCE PRN DED 0 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN P D10%C0",
+        "PlanDescription": "OMAN INSURANCE PRN DED10% C0",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN P D15% C0",
+        "PlanDescription": "OMAN INSURANCE PRM DED 15%(MAX50) COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN P D15%C0",
+        "PlanDescription": "OMAN INSURANCE PRM DED 15%(MAX50) COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN P D150",
+        "PlanDescription": "OMAN INSURANCE PRM DED 15 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN P D2% C",
+        "PlanDescription": "OMAN INSURANCE  PRM DED 20%(MAX100) COPAY NIL  PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN P D20",
+        "PlanDescription": "OMAN INSURANCE PRN DED 20%M520 OP NIL PH 20% M520",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN P D20%  C0",
+        "PlanDescription": "OMAN INSURANCE PRN DED 20% COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN P D20% C",
+        "PlanDescription": "OMAN INSURANCE  PRN DED 20%(MAX100) COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN P D20% CX",
+        "PlanDescription": "OMAN INSURANCE  PRN DED/LAB/RAD 20%M 100 PH 20%M100 OP NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN P D20%C20",
+        "PlanDescription": "OMAN INSURANCE PRM DED 20%(MAX50) COPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN P D25 C0",
+        "PlanDescription": "OMAN INSURANCE  PRN DED 25 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN P D50 C0",
+        "PlanDescription": "OMAN INSURANCE  PRN DED 50 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN PR D 10%C0",
+        "PlanDescription": "OMAN INSURANCE PRN DED 10%(MAX-30) COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN PR D 20%",
+        "PlanDescription": "OMAN INSURANCE PRN DED 20%(MAX-75) COPAY 75 PH 75",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN PR D 20%C0",
+        "PlanDescription": "OMAN INSURANCE PRN DED 20%(MAX-75) COPAY NIL PH NILL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN PR D10%C0",
+        "PlanDescription": "OMAN INSURANCE PRN DED 10%(MAX-50) COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN PR D10%C10",
+        "PlanDescription": "OMAN INSURANCE PRN DED 10%(MAX-50) COPAY 10%(MAX50AED)",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "OMAN SIG ATG",
+    "PolicyGroupDescription": "OMAN INSURANCE - SIGATURE ATG NETWORK",
+    "RateListCode": "OMAN",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS012",
+    "Plans": [
+      {
+        "PlanCode": "OM SI C1ATG15",
+        "PlanDescription": "OMAN INSURANCE SIGNATURE VITAL ATG DED  15% CO 15%",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "OMAN SN",
+    "PolicyGroupDescription": "OMAN INSURANCE INSURANCE - STANDARD NETWORK",
+    "RateListCode": "OMAN",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS012",
+    "Plans": [
+      {
+        "PlanCode": "OM SI C150",
+        "PlanDescription": "OMAN INSURANCE SIGNATURE  DED 50 OP/L/R 50 PH20%M50",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OM ST 2010505",
+        "PlanDescription": "OMAN STANDARD DED 50  LAB/RAD 50 AED OP 50  PH 20% MAX50",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN  STN D10%",
+        "PlanDescription": "OMAN INSURANCE STN DED 10%(MAX65AED) COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN  STN D20%",
+        "PlanDescription": "OMAN INSURANCE STN DED 20%(MAX65AED) COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN  STN D20M4",
+        "PlanDescription": "OMAN INSURANCE STN DED 20% MAX 40 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN  STN D35",
+        "PlanDescription": "OMAN INSURANCE STN DED 35 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN BU D0C0",
+        "PlanDescription": "OMAN INSURANCE BUPA STANDARD DED 0 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN BU D20C10",
+        "PlanDescription": "OMAN INSURANCE BUPA STANDARD DED 20% M75  CO 10% L/R P 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN BUD20%M50",
+        "PlanDescription": "OMAN INSURANCE BUPA STANDARD D20%M50CO L/R 10%M25P10%M25",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN BUP D50",
+        "PlanDescription": "OMANSIGNATURE DED 50AED COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN D 25",
+        "PlanDescription": "OMAN INSURANCE STN DED 25 AED  COPAY NIL PH NILL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN D10M50",
+        "PlanDescription": "OMAN INSURANCE STN DED 10% MAX 50 OP NIL PH 10% (MB)",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN D50C10%",
+        "PlanDescription": "OMAN INSURANCE STN DED 50AED COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN P D   20%",
+        "PlanDescription": "OMAN INSURANCE STN DED 20%(50) COPAY 10% PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN P D  10%",
+        "PlanDescription": "OMAN INSURANCE STN MAT DED 10%(30) COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN P D20%C10",
+        "PlanDescription": "OMAN INSURANCE STN DED 20%(50) COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN P D20%CNIL",
+        "PlanDescription": "OMAN INSURANCE STN DED 20%(MAX20AED) COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN P D60C0",
+        "PlanDescription": "OMAN INSURANCE STN DED 60AED COPAY NIL PH 10% (MAX 100)",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN PD30C0",
+        "PlanDescription": "OMAN INSURANCE STN DED 30AED COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN S",
+        "PlanDescription": "OMAN STANDARD DED 20%M50 OP/LAB/RAD/PH 20%MAX 50",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN S  D50 C0",
+        "PlanDescription": "OMAN INSURANCE SN DED 50 COPAY NIL PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN S D20C10",
+        "PlanDescription": "OMAN INSURANCE SN DED 20 LAB&RAD 10AED PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN S D30C0",
+        "PlanDescription": "OMAN INSURANCE SN DED 30 COPAY  NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN S D30C10%",
+        "PlanDescription": "OMAN INSURANCE SN DED 30AED COPAY  10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN S D50 C0",
+        "PlanDescription": "OMAN INSURANCE SN DED 50 COPAY NIL PH 30%(MAX 100AED)",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN S D50C0",
+        "PlanDescription": "OMAN INSURANCE SN DED 0 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN S D50C20%",
+        "PlanDescription": "OMAN INSURANCE SN DED 50 COPAY  20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN S D50CC0",
+        "PlanDescription": "OMAN INSURANCE SN DED 50 COPAY NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN SD20",
+        "PlanDescription": "OMAN STANDARD DED 20%M100 COPAY 10% PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN SN D50C0",
+        "PlanDescription": "OMAN INSURANCE SN DED 50 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN SN D50C15%",
+        "PlanDescription": "OMAN INSURANCE SN DED 50 COPAY 15%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN ST",
+        "PlanDescription": "OMAN STANDARD DED 10%M25 LAB/RAD/20%M10PH 20%M100 OP NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN ST   D 10%",
+        "PlanDescription": "OMAN INSURANCE SN DED 10% (MAX50) COINS 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN ST  C10%",
+        "PlanDescription": "OMAN INSURANCE SN  COPAY  10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN ST  C20%",
+        "PlanDescription": "OMAN INSURANCE SN  COPAY  20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN ST  D 10%",
+        "PlanDescription": "OMAN INSURANCE SN DED 10% (MAX10) COINS NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN ST  D0C10%",
+        "PlanDescription": "OMAN INSURANCE SN DED NIL  COPAY  10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN ST  D20%",
+        "PlanDescription": "OMAN INSURANCE SN  DED 20% ( MAX- 75 ) COPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN ST  D20% C",
+        "PlanDescription": "OMAN INSURANCE SN DED 20% (MAX- 50) COPAY 5%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN ST  D20%C",
+        "PlanDescription": "OMAN INSURANCE SN  DED 20% ( MAX- 75 ) COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN ST  D20%C0",
+        "PlanDescription": "OMAN INSURANCE SN  DED 20% ( MAX- 25 ) COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN ST  D50",
+        "PlanDescription": "OMAN INSURANCE SN DED 20% (MAX- 50) PH 20% (MAX 200)",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN ST 20%",
+        "PlanDescription": "OMAN STANDARDCOPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN ST 20%10",
+        "PlanDescription": "OMAN STANDARD DED 10%M25  OP/LAB/RAD/PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN ST 20%25",
+        "PlanDescription": "OMAN STANDARD DED 10%M25 COPAY 10% 25 PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN ST 20%50",
+        "PlanDescription": "OMAN STANDARD DED 20%M75  LAB/RAD 20% PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN ST 20%LR10",
+        "PlanDescription": "OMAN STANDARD DED 20%M50 LAB/RAD/10% OP/PH  NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN ST 20%LR50",
+        "PlanDescription": "OMAN STANDARD DED 20%M50 LAB/RAD/PH 20% OP NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN ST 50LR",
+        "PlanDescription": "OMAN STANDARD DED 50 LAB/RAD AED 20 PH 20% OP NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN ST D  20%C",
+        "PlanDescription": "OMAN INSURANCE SN DED 20% (MAX- 50) COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN ST D 10%",
+        "PlanDescription": "OMAN INSURANCE SN DED 20% (50) COPAY 0 PH 20%(50)",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN ST D 20% C",
+        "PlanDescription": "OMAN INSURANCE SN DED 20% (MAX- 100) COPAY NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN ST D 20%C",
+        "PlanDescription": "OMAN INSURANCE SN DED 20% (MAX- 100) COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN ST D 20%C0",
+        "PlanDescription": "OMAN INSURANCE SN DED 20% (MAX- 30) COPAY 0 PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN ST D10%",
+        "PlanDescription": "OMAN INSURANCE SN DED 10% (MAX- 50) COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN ST D10%C",
+        "PlanDescription": "OMAN INSURANCE SN DED 10% (MAX- 30) COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN ST D10%C10",
+        "PlanDescription": "OMAN INSURANCE SN DED 10% (MAX- 50) COPAY 10% (50)PH 10%(50)",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN ST D20 %C0",
+        "PlanDescription": "OMAN INSURANCE SN DED 20% (MAX- 30) COPAY 0 PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN ST D20%",
+        "PlanDescription": "OMAN INSURANCE SN DED 20% (MAX- 50) COPAY NIL PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN ST D20% C",
+        "PlanDescription": "OMAN INSURANCE SN DED 20% (MAX- 50) COPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN ST D20% C0",
+        "PlanDescription": "OMAN INSURANCE SN DED 20% (MAX- 50) COPAY 0 PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN ST D20%C",
+        "PlanDescription": "OMAN INSURANCE SN DED 20% (MAX- 30) COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN ST D20%C 0",
+        "PlanDescription": "OMAN INSURANCE SN DED 20% (MAX- 50) COPAY 0 PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN ST D20%C0",
+        "PlanDescription": "OMAN INSURANCE SN DED 20% (MAX- 50) COPAY 0 PH 20% (MAX-100)",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN ST D20%C10",
+        "PlanDescription": "OMAN INSURANCE SN DED 20% (MAX- 50) COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN ST D20%C20",
+        "PlanDescription": "OMAN INSURANCE SN DED 20% (MAX- 70)COPAY 20% PH NILL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN ST MATC10%",
+        "PlanDescription": "OMAN INSURANCE SN  D10% (MAX25AED) CO 0% PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN ST20 25",
+        "PlanDescription": "OMAN STANDARD DED 20%M25 COPAY NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN ST30",
+        "PlanDescription": "OMAN STANDARD DED 30% COPAY 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN STD",
+        "PlanDescription": "OMAN STANDARD DED 50 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN STD 15",
+        "PlanDescription": "OMAN STANDARD DED 15AED COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN STD 15P20",
+        "PlanDescription": "OMAN STANDARD DED 15AED PH 20% 100",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN STD CO15",
+        "PlanDescription": "OMAN STANDARD COPAY 15%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN STD10C10",
+        "PlanDescription": "OMAN STANDARD DED 10% COPAY 10% PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN STN D20%C0",
+        "PlanDescription": "OMAN INSURANCE SN DED 20% (30) L&R 20% (MAX-10) PH 20%(100)",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN STX",
+        "PlanDescription": "OMAN STANDARD DED 20% COPAY 20%",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "OMAN VI*SE",
+    "PolicyGroupDescription": "OMAN INSURANCE - SECURE NETWORK",
+    "RateListCode": "OMAN ADV-VITAL",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS012",
+    "Plans": [
+      {
+        "PlanCode": "OMAN C20%X",
+        "PlanDescription": "OMAN INSURANCE SECURE NETWORK DED 20% COPAY 20%",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "OMAN VITAL",
+    "PolicyGroupDescription": "OMAN INSURANCE - VITAL ATG NETWORK",
+    "RateListCode": "OMAN ADV-VITAL",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS012",
+    "Plans": [
+      {
+        "PlanCode": "OM SI C1A5",
+        "PlanDescription": "OMAN INSURANCE VITAL ATG DED 35  COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN 20%25 C",
+        "PlanDescription": "OMAN INSURANCE VITAL DED 20%(MAX 25) COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN 20%25 CO",
+        "PlanDescription": "OMAN INSURANCE VITAL DED 20%(MAX 25) COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN 20%50",
+        "PlanDescription": "OMAN INSURANCE VITAL 20%(MAX 50) CO 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN 20%50 CO",
+        "PlanDescription": "OMAN INSURANCE VITAL DED 20%(MAX 50) COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN 20%50 COX",
+        "PlanDescription": "OMAN INSURANCE VITAL DED 20%(MAX 30) COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN 20%50 P1",
+        "PlanDescription": "OMAN INSURANCE VITAL DED 20%(MAX 50) COPAY NIL PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN V C 10%",
+        "PlanDescription": "OMAN INSURANCE VITAL COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN V C 10%P30",
+        "PlanDescription": "OMAN INSURANCE VITAL COPAY 10% L&R 10% PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN V C 10%PH3",
+        "PlanDescription": "OMAN INSURANCE VITAL COPAY 10% PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN V C 20%",
+        "PlanDescription": "OMAN INSURANCE VITAL COPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN V C0",
+        "PlanDescription": "OMAN INSURANCE VITAL 10%(MAX 25) CO NILL PH NILL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN V C10%P20%",
+        "PlanDescription": "OMAN INSURANCE VITAL CONS 10% COPAY 10% PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN V C15%",
+        "PlanDescription": "OMAN INSURANCE VITAL DED 15% OP 15% PH 15%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN V COPAY0",
+        "PlanDescription": "OMAN INSURANCE VITAL COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN V D0C 10%",
+        "PlanDescription": "OMAN INSURANCE VITAL DED NIL  COPAY 10% PH10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN V D10",
+        "PlanDescription": "OMAN INSURANCE DED 10 % ( MAX 25) COPAY 10% PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN V D50P20",
+        "PlanDescription": "OMAN INSURANCE VITAL DED 50 COPAY NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN VD50P20",
+        "PlanDescription": "OMAN INSURANCE VITAL DED 50 L/R 50 OP NIL PH 30%MAX 100",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN VIT",
+        "PlanDescription": "OMAN INSURANCE VITAL DED 10%MAX 20 OP 10%M 20 L/R NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN VIT C",
+        "PlanDescription": "OMAN INSURANCE VITAL DED 20%M20 OP NIL L/R 10%M20 PH NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN VIT C  20%",
+        "PlanDescription": "OMAN INSURANCE VITAL DED 20% COPAY 20% PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN VIT C 2070",
+        "PlanDescription": "OMAN INSURANCE VITAL DED 20%M70 OP NIL L/R 20% PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN VIT C20%",
+        "PlanDescription": "OMAN INSURANCE VITAL DED 20% COPAY 20% PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN VIT CD2020",
+        "PlanDescription": "OMAN INSURANCE VITAL DED 20%M20 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN VIT D20AED",
+        "PlanDescription": "OMAN INSURANCE VITAL DED 20AED LAB/RAD 10% PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN VIT D20X",
+        "PlanDescription": "OMAN INSURANCE VITAL DED 20AED LAB/RAD 10AED PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN VIT D30X",
+        "PlanDescription": "OMAN INSURANCE VITAL DED 30AED LAB/RAD 10AED PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN VIT X 20%",
+        "PlanDescription": "OMAN INSURANCE VITAL DED 20%MAX 40 OP NIL PH 10% MAX 20",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN VITAL CO20",
+        "PlanDescription": "OMAN INSURANCE VITAL COPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN VITAL D10",
+        "PlanDescription": "OMAN INSURANCE VITAL DED 10AED OP NIL L&R 10AED PH 30% (GP)",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN VITAL D10X",
+        "PlanDescription": "OMAN INSURANCE VITAL DED 10AED OP NIL L&R 10AED PH 30% (SP)",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN VITAL MB10",
+        "PlanDescription": "OMAN INSURANCE VITAL MB 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN VITALDED50",
+        "PlanDescription": "OMAN INSURANCE VITAL DED 50 L&R 10% PH 30%",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  }
+]
