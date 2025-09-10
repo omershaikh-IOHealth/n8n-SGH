@@ -1,0 +1,62 @@
+[
+  {
+    "PolicyGroupCode": "IRIS  ZABEEL EO",
+    "PolicyGroupDescription": "IRIS - ZABEEL EQUESTRIAN OFFICE",
+    "RateListCode": "IRIS",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "SP0042",
+    "Plans": [
+      {
+        "PlanCode": "IRIS ZAB C40%",
+        "PlanDescription": "IRIS ZABEEL EQUESTRIAN OFFICE  DED 40% COPAY 40% PH 40%",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "IRIS - RAK INS",
+    "PolicyGroupDescription": "IRIS - RAK INSURANCE",
+    "RateListCode": "IRIS",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS014",
+    "Plans": [
+      {
+        "PlanCode": "IRIS RAK C10%",
+        "PlanDescription": "IRIS RAK INS DED 10% COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "IRIS RAK D&C NI",
+        "PlanDescription": "IRIS RAK INS DED NIL COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "IRIS RAK D50C0",
+        "PlanDescription": "IRIS RAK INS DED 50 COPAY NIL DN 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "IRIS RAK D50P10",
+        "PlanDescription": "IRIS RAK INS DED 50 COPAY NIL PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "IRIS RAK D50P20",
+        "PlanDescription": "IRIS RAK INS DED 50 COPAY NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "IRIS RAK D50P25",
+        "PlanDescription": "IRIS RAK INS DED 50 COPAY NIL PH 25%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "IRIS RAKD20%C20",
+        "PlanDescription": "IRIS RAK INS DED 20% COPAY 20%",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  }
+]
