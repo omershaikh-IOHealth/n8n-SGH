@@ -1,0 +1,1272 @@
+[
+  {
+    "PolicyGroupCode": "AL BUH-STD&LTD",
+    "PolicyGroupDescription": "AL-BUHAIRA NATIONAL INSURANCE COMPANY - STANDARD & LIMITED",
+    "RateListCode": "ALBUHAIRA-ST&LT",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS020",
+    "Plans": [
+      {
+        "PlanCode": "ALB    C  20%",
+        "PlanDescription": "AL BUHAIRA STD&LTD DED 20% (MAX-30) COPAY 20% PH 30% IP 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ALB    C20%",
+        "PlanDescription": "AL BUHAIRA STD&LTD DED 20% (MAX-30) COPAY 20% PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ALB    D20%",
+        "PlanDescription": "AL BUHAIRA STD&LTD DED 20% (MAX-30) COPAY 20% PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ALB    D20%M25",
+        "PlanDescription": "AL BUHAIRA STD&LTD DED 20% MAX 25 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ALB   C20%",
+        "PlanDescription": "AL BUHAIRA STD&LTD DED 20% (MAX-50) COPAY 20% PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ALB   D 20% C0",
+        "PlanDescription": "AL BUHAIRA STANDARD DED 20% (MAX-25) COPAY NIL PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ALB   D 20% C10",
+        "PlanDescription": "AL BUHAIRA STANDARD DED 20% COPAY 10% PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ALB   D 20% MAX",
+        "PlanDescription": "AL BUHAIRA STANDARD DED 20% MAX  50 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ALB   D20% C0",
+        "PlanDescription": "AL BUHAIRA STANDARD DED 20% (MAX-50) COPAY NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ALB   D20%30",
+        "PlanDescription": "AL BUHAIRA STANDARD DED 20% (MAX-30) COPAY NIL PH NILL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ALB   D50 LR 8%",
+        "PlanDescription": "AL BUHAIRA STD&LTD DED 50 L&R 8% COPAY NILL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ALB   D50C0",
+        "PlanDescription": "AL BUHAIRA STD&LTD DED 50 LAB/RAD10% PH15%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ALB  C10%",
+        "PlanDescription": "AL BUHAIRA STD&LTD COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ALB  C20%",
+        "PlanDescription": "AL BUHAIRA STD&LTD DED 20% COPAY 20% PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ALB  CC 20%",
+        "PlanDescription": "AL BUHAIRA STD&LTD  DED 20% COPAY 20% PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ALB  CO 10%",
+        "PlanDescription": "AL BUHAIRA STD&LTD L&R 10% COPAY 10%  CONS 20% PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ALB  CO10%",
+        "PlanDescription": "AL BUHAIRA STD&LTD L&R 10% COPAY 10%  CONS 20% PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ALB  D0C0",
+        "PlanDescription": "AL BUHAIRA STD&LTD DED NIL COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ALB  D20% 50",
+        "PlanDescription": "AL BUHAIRA STD&LTD DED 100AED COPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ALB  D20% C0",
+        "PlanDescription": "AL BUHAIRA STD&LTD DED 20%(MAX-50) COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ALB  D20%C0",
+        "PlanDescription": "AL BUHAIRA STD&LTD DED 20%(MAX-50) COPAY NIL PH 15%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ALB  D20%C0 PH",
+        "PlanDescription": "AL BUHAIRA STD&LTD DED 20%(MAX-50) COPAY NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ALB  D20%C10%",
+        "PlanDescription": "AL BUHAIRA STD&LTD DED 20%  COPAY 10% PH 15%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ALB  D20%C25",
+        "PlanDescription": "AL BUHAIRA STD&LTD DED 10%M25 COPAY NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ALB  D25 C0",
+        "PlanDescription": "AL BUHAIRA STD&LTD DED 25 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ALB  D25C0",
+        "PlanDescription": "AL BUHAIRA STD&LTD DED 25 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ALB  D40 C15%",
+        "PlanDescription": "AL BUHAIRA STD&LTD DED 40 COPAY 15% PH15%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ALB  D50 C20%",
+        "PlanDescription": "AL BUHAIRA STD&LTD DED 50 COPAY 20% ON L&R PHAR 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ALB  D50C0",
+        "PlanDescription": "AL BUHAIRA STD&LTD DED 50 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ALB  D50C0X",
+        "PlanDescription": "AL BUHAIRA STD&LTD DED 50 COPAY 7.5%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ALB  DED20%C20%",
+        "PlanDescription": "AL BUHAIRA STD&LTD DED 20% (MAX-50) COPAY 20% PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ALB  DED20%L%",
+        "PlanDescription": "AL BUHAIRA STD&LTD DED 20% (MAX-50) L/R  20% PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ALB  MB10%",
+        "PlanDescription": "AL BUHAIRA STD&LTD MB 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ALB C30%",
+        "PlanDescription": "AL BUHAIRA STD&LTD DB PLAN COPAY 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ALB CO20%",
+        "PlanDescription": "AL BUHAIRA STANDARD & LIMITED COPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ALB D 20%  C 0",
+        "PlanDescription": "AL BUHAIRA STD&LTD DED 20%(MAX-50) COPAY NIL PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ALB D20% C 20",
+        "PlanDescription": "AL BUHAIRA STD&LTD DED 20% (MAX-75) COPAY 20% PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ALB D20% C20",
+        "PlanDescription": "AL BUHAIRA STD&LTD DED 20% (MAX-50) COPAY 20% PH 15%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ALB D20% C20%",
+        "PlanDescription": "AL BUHAIRA STD&LTD DED 20% (MAX-50) COPAY 20% DN 30% IP 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ALB D20%C20",
+        "PlanDescription": "AL BUHAIRA STD&LTD DED 20% (MAX-75) COPAY 20% PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ALB D20%C20%",
+        "PlanDescription": "AL BUHAIRA STD&LTD DED 20% (MAX-30) COPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ALB D20%C20PH20",
+        "PlanDescription": "AL BUHAIRA STD&LTD DED 20% (MAX-50) COPAY 20% PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ALB D20C10P20",
+        "PlanDescription": "AL BUHAIRA STD&LTD DED 20%  COPAY 10% PH20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ALB D30%",
+        "PlanDescription": "AL BUHAIRA STD&LTD DB PLAN COPAY 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ALB D50",
+        "PlanDescription": "AL BUHAIRA STANDARD & LIMITED DED 50 CO NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ALB D50 C7.5",
+        "PlanDescription": "AL BUHAIRA STANDARD & LIMITED DED 50 COPAY 7.5%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ALB D50C20%",
+        "PlanDescription": "AL BUHAIRA STANDARD & LIMITED DED 50 CO 20% PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ALBC10%",
+        "PlanDescription": "AL BUHAIRA STD&LTD COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ALBU C10%",
+        "PlanDescription": "AL BUHAIRA STD&LTD COPAY 10%",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "ALBUHAIRA - CN",
+    "PolicyGroupDescription": "AL-BUHAIRA NATIONAL INSURANCE COMPANY - CN+ & CN",
+    "RateListCode": "ALBUHAIRA - CN",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS020",
+    "Plans": [
+      {
+        "PlanCode": "ALB      D100",
+        "PlanDescription": "AL BUHAIRA CN DED 100 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ALB      D25",
+        "PlanDescription": "AL BUHAIRA CN DED 25 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ALB      D80",
+        "PlanDescription": "AL BUHAIRA CN DED 100 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ALB    D20%100",
+        "PlanDescription": "AL BUHAIRA COMPREHENSIVE  DED 100AED COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ALB    D20%C20%",
+        "PlanDescription": "AL BUHAIRA COMPREHENSIVE  DED 20% (MAX-30) COPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ALB    DED80",
+        "PlanDescription": "AL BUHAIRA CN DED 80AED  COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ALB   C10%",
+        "PlanDescription": "AL BUHAIRA CN MB PLAN DED 10%(MAX-25 ) COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ALB   D 50",
+        "PlanDescription": "AL BUHAIRA STANDARD DED 50",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ALB   D 70C0",
+        "PlanDescription": "AL BUHAIRA CN DED 70 COPAY NIL PH 15%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ALB   D20%C0",
+        "PlanDescription": "AL BUHAIRA CN DED 20% (MAX-50) COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ALB   D20%C10%",
+        "PlanDescription": "AL BUHAIRA CN DED 20% COPAY 10% PH 15%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ALB   D20%C20%",
+        "PlanDescription": "AL BUHAIRA COMPREHENSIVE  DED 20% (MAX-30) COPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ALB   D20100",
+        "PlanDescription": "AL BUHAIRA CN DED 20% M100 COPAY 20%M100",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ALB   D25 C0",
+        "PlanDescription": "AL BUHAIRA CN DED 25 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ALB   D25C0",
+        "PlanDescription": "AL BUHAIRA CN DED 25 COPAY NIL DN 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ALB   D2CPA",
+        "PlanDescription": "AL BUHAIRA CN DED 100AED  COPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ALB   D50C10%",
+        "PlanDescription": "AL BUHAIRA CN DED 50 COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ALB   D50C15%",
+        "PlanDescription": "AL BUHAIRA CN DED 50 COPAY 15%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ALB   D60C0",
+        "PlanDescription": "AL BUHAIRA CN DED 60 COPAY NIL PH 15%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ALB   D80 C0",
+        "PlanDescription": "AL BUHAIRA CN DED 25 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ALB   D825C10",
+        "PlanDescription": "AL BUHAIRA CN DED 25 COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ALB  C 10%",
+        "PlanDescription": "AL BUHAIRA CN  COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ALB  C 20%",
+        "PlanDescription": "AL BUHAIRA CN DED 20%(MAX 100) COPAY 20% PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ALB  DED   20%",
+        "PlanDescription": "AL BUHAIRA CN DED 20%(MAX 50AED) COPAY 10% PH NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ALB  DN30%",
+        "PlanDescription": "AL BUHAIRA CN DN 30% (DENTAL PLAN)",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ALB C 10%",
+        "PlanDescription": "AL BUHAIRA CN MB PLAN  COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ALB C10%",
+        "PlanDescription": "AL BUHAIRA CN DED 10%(MAX-30) COPAY 10% PH NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ALB C20%",
+        "PlanDescription": "AL BUHAIRA CN COPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ALB C20%PH10%",
+        "PlanDescription": "AL BUHAIRA CN COPAY 20% PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ALB CN D   50",
+        "PlanDescription": "AL BUHAIRA CN DED 50 LAB&RAD 20% PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ALB CN D 50",
+        "PlanDescription": "AL BUHAIRA CN DED 50 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ALB CN D20%C10%",
+        "PlanDescription": "AL BUHAIRA CN DED 20% COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ALB CN D25",
+        "PlanDescription": "AL BUHAIRA CN DED 25 L&R&PH 8%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ALB CND20%C10%",
+        "PlanDescription": "AL BUHAIRA CN DED 50 COPAY 20% PH15%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ALB CND50X",
+        "PlanDescription": "AL BUHAIRA CN DED 50 COPAY 25% PH 25%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ALB CND50XX",
+        "PlanDescription": "AL BUHAIRA CN DED 50  OP 5%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ALB CO10%",
+        "PlanDescription": "AL BUHAIRA CN COPAY 10% IP 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ALB CO15%",
+        "PlanDescription": "AL BUHAIRA CN COPAY 15%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ALB CO5%",
+        "PlanDescription": "AL BUHAIRA CN COPAY 5%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ALB D0C0",
+        "PlanDescription": "AL BUHAIRA CN DED 0 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ALB D10%",
+        "PlanDescription": "AL BUHAIRA CN DED 10%(MAX-30) COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ALB D10% C 10%",
+        "PlanDescription": "AL BUHAIRA CN DED 10%(MAX-30) COPAY 10% PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ALB D10% C0",
+        "PlanDescription": "AL BUHAIRA CN DED 10% COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ALB D10% C10%",
+        "PlanDescription": "AL BUHAIRA CN DED 10% COPAY 10% PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ALB D10%C10%",
+        "PlanDescription": "AL BUHAIRA CN DED 10% (MAX-30) COPAY 10% PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ALB D100 PH20%",
+        "PlanDescription": "AL BUHAIRA CN DED 100 COPAY NIL PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ALB D100C0",
+        "PlanDescription": "AL BUHAIRA CN DED 100  COPAY NIL PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ALB D15% C0",
+        "PlanDescription": "AL BUHAIRA CN DED 15% COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ALB D20% C 0",
+        "PlanDescription": "AL BUHAIRA CN DED 20%(MAX-100) COPAY NIL PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ALB D20% C 20%",
+        "PlanDescription": "AL BUHAIRA CN DED 20% (MAX-100) COPAY 20% PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ALB D20% C0",
+        "PlanDescription": "AL BUHAIRA CN DED 20% COPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ALB D20% C10%",
+        "PlanDescription": "AL BUHAIRA CN DED 20% ( MAX-100)  COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ALB D20%C 0%",
+        "PlanDescription": "AL BUHAIRA CN DED 20% (MAX-50) COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ALB D20%C0",
+        "PlanDescription": "AL BUHAIRA CN DED 20% COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ALB D20%C0 25",
+        "PlanDescription": "AL BUHAIRA CN DED 20%MAX 25 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ALB D20%C10%",
+        "PlanDescription": "AL BUHAIRA CN DED 20% ( MAX-100)  COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ALB D20%C20%C0",
+        "PlanDescription": "AL BUHAIRA CN DED 20% COPAY 10% PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ALB D20%C5%",
+        "PlanDescription": "AL BUHAIRA CN DED 20% COPAY 05% PH 05%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ALB D20%CO20%",
+        "PlanDescription": "AL BUHAIRA CN DED 20% COPAY 20% PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ALB D20%PH10%",
+        "PlanDescription": "AL BUHAIRA CN DED 20% COPAY 0 PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ALB D20%PH20%",
+        "PlanDescription": "AL BUHAIRA CN DED 20% (MAX-50) COPAY NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ALB D20(MAX 75)",
+        "PlanDescription": "AL BUHAIRA CN DED 20%(MAX-75) COPAY NIL PH NILL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ALB D20PH10%",
+        "PlanDescription": "AL BUHAIRA CN DED 20% OP NIL LAB/RAD/PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ALB D25C0",
+        "PlanDescription": "AL BUHAIRA CN DED 25 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ALB D30C0",
+        "PlanDescription": "AL BUHAIRA CN DED 30 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ALB D30C0PH10%",
+        "PlanDescription": "AL BUHAIRA CN DED 30 COPAY NIL PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ALB D30C20%",
+        "PlanDescription": "AL BUHAIRA CN DED 30 COPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ALB D30DN30%",
+        "PlanDescription": "AL BUHAIRA CN DED 30 COPAY 10% PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ALB D50 C0",
+        "PlanDescription": "AL BUHAIRA CN DED 50 COPAY NIL PH 15%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ALB D5050",
+        "PlanDescription": "AL BUHAIRA CN DED 50 COPAY 5%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ALB D50C0",
+        "PlanDescription": "AL BUHAIRA CN DED 50 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ALB D50C0PH10%",
+        "PlanDescription": "AL BUHAIRA CN DED 50 COPAY NIL PH10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ALB D50C0PH15%",
+        "PlanDescription": "AL BUHAIRA CN DED 50 COPAY NIL PH 15%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ALB D50C10%",
+        "PlanDescription": "AL BUHAIRA CN DED 50 COPAY 10% PH 15%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ALB D50C15",
+        "PlanDescription": "AL BUHAIRA CN DED 50 COPAY 15%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ALB D80C0",
+        "PlanDescription": "AL BUHAIRA CN DED 80 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "DAL BUH-STD&LTD",
+    "PolicyGroupDescription": "AL-BUHAIRA NATIONAL INSURANCE COMPANY - STANDARD & LIMITED",
+    "RateListCode": "ALBUHAIRA-ST&LT",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS020",
+    "Plans": [
+      {
+        "PlanCode": "D-AL   D20%M25",
+        "PlanDescription": "AL BUHAIRA STD&LTD DED 20% MAX 25 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-AL  D 20% C0",
+        "PlanDescription": "AL BUHAIRA STANDARD DED 20% (MAX-25) COPAY NIL PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-AL  D 20% C10",
+        "PlanDescription": "AL BUHAIRA STANDARD DED 20% COPAY 10% PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-AL  D 20% MAX",
+        "PlanDescription": "AL BUHAIRA STANDARD DED 20% MAX  50 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-AL  D50 LR 8%",
+        "PlanDescription": "AL BUHAIRA STD&LTD DED 50 L&R 8% COPAY NILL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-AL DED20%C20%",
+        "PlanDescription": "AL BUHAIRA STD&LTD DED 20% (MAX-50) COPAY 20% PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-AL DED20%CL%",
+        "PlanDescription": "AL BUHAIRA STD&LTD DED 20% (MAX-50) L/R 20% PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-ALB    C  20%",
+        "PlanDescription": "AL BUHAIRA STD&LTD DED 20% (MAX-30) COPAY 20% PH 30% IP 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-ALB    C20%",
+        "PlanDescription": "AL BUHAIRA STD&LTD DED 20% (MAX-30) COPAY 20% PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-ALB    D20%",
+        "PlanDescription": "AL BUHAIRA STD&LTD DED 20% (MAX-30) COPAY 20% PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-ALB   C20%",
+        "PlanDescription": "AL BUHAIRA STD&LTD DED 20% (MAX-50) COPAY 20% PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-ALB   D20% C0",
+        "PlanDescription": "AL BUHAIRA STANDARD DED 20% (MAX-50) COPAY NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-ALB   D20%30",
+        "PlanDescription": "AL BUHAIRA STANDARD DED 20% (MAX-30) COPAY NIL PH NILL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-ALB   D50C0",
+        "PlanDescription": "AL BUHAIRA STD&LTD DED 50 LAB/RAD10% PH15%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-ALB  C10%",
+        "PlanDescription": "AL BUHAIRA STD&LTD COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-ALB  C20%",
+        "PlanDescription": "AL BUHAIRA STD&LTD DED 20% COPAY 20% PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-ALB  CC 20%",
+        "PlanDescription": "AL BUHAIRA STD&LTD  DED 20% COPAY 20% PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-ALB  CO 10%",
+        "PlanDescription": "AL BUHAIRA STD&LTD L&R 10% COPAY 10%  CONS 20% PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-ALB  CO10%",
+        "PlanDescription": "AL BUHAIRA STD&LTD L&R 10% COPAY 10%  CONS 20% PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-ALB  D0C0",
+        "PlanDescription": "AL BUHAIRA STD&LTD DED NIL COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-ALB  D20% C0",
+        "PlanDescription": "AL BUHAIRA STD&LTD DED 20%(MAX-50) COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-ALB  D20%C0",
+        "PlanDescription": "AL BUHAIRA STD&LTD DED 20%(MAX-50) COPAY NIL PH 15%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-ALB  D20%C10%",
+        "PlanDescription": "AL BUHAIRA STD&LTD DED 20%  COPAY 10% PH 15%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-ALB  D20%PH",
+        "PlanDescription": "AL BUHAIRA STD&LTD DED 20%(MAX-50) COPAY NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-ALB  D25 C0",
+        "PlanDescription": "AL BUHAIRA STD&LTD DED 25 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-ALB  D25C0",
+        "PlanDescription": "AL BUHAIRA STD&LTD DED 25 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-ALB  D40 C15%",
+        "PlanDescription": "AL BUHAIRA STD&LTD DED 40 COPAY 15% PH15%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-ALB  D50 C20%",
+        "PlanDescription": "AL BUHAIRA STD&LTD DED 50 COPAY 20% ON L&R PHAR 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-ALB  D50C0",
+        "PlanDescription": "AL BUHAIRA STD&LTD DED 50 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-ALB  D50C0X",
+        "PlanDescription": "AL BUHAIRA STD&LTD DED 50 COPAY 7.5%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-ALB  MB10%",
+        "PlanDescription": "AL BUHAIRA STD&LTD MB 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-ALB C30%",
+        "PlanDescription": "AL BUHAIRA STD&LTD DB PLAN COPAY 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-ALB CO20%",
+        "PlanDescription": "AL BUHAIRA STANDARD & LIMITED COPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-ALB D20% C 20",
+        "PlanDescription": "AL BUHAIRA STD&LTD DED 20% (MAX-75) COPAY 20% PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-ALB D20% C20",
+        "PlanDescription": "AL BUHAIRA STD&LTD DED 20% (MAX-50) COPAY 20% PH 15%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-ALB D20% C20%",
+        "PlanDescription": "AL BUHAIRA STD&LTD DED 20% (MAX-50) COPAY 20% DN 30% IP 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-ALB D20%C20",
+        "PlanDescription": "AL BUHAIRA STD&LTD DED 20% (MAX-75) COPAY 20% PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-ALB D20%C20%",
+        "PlanDescription": "AL BUHAIRA STD&LTD DED 20% (MAX-30) COPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-ALB D20C10P20",
+        "PlanDescription": "AL BUHAIRA STD&LTD DED 20%  COPAY 10% PH20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-ALB D20CP20",
+        "PlanDescription": "AL BUHAIRA STD&LTD DED 20% OP NIL L/R 10% PH 15%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-ALB D30%",
+        "PlanDescription": "AL BUHAIRA STD&LTD DB PLAN COPAY 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-ALB D50",
+        "PlanDescription": "AL BUHAIRA STANDARD & LIMITED DED 50 CO NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-ALB D50C20%",
+        "PlanDescription": "AL BUHAIRA STANDARD & LIMITED DED 50 CO 20% PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-ALBC10%",
+        "PlanDescription": "AL BUHAIRA STD&LTD COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-ALBU C10%",
+        "PlanDescription": "AL BUHAIRA STD&LTD COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-ALD 20%  C 0",
+        "PlanDescription": "AL BUHAIRA STD&LTD DED 20%(MAX-50) COPAY NIL PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-ALD 20%  C10",
+        "PlanDescription": "AL BUHAIRA STD&LTD DED 10%(MAX-25) COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-ALD20%C20PH20",
+        "PlanDescription": "AL BUHAIRA STD&LTD DED 20% (MAX-50) COPAY 20% PH 20%",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "DALBUHAIRA - CN",
+    "PolicyGroupDescription": "AL-BUHAIRA NATIONAL INSURANCE COMPANY - CN+ & CN",
+    "RateListCode": "ALBUHAIRA - CN",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS020",
+    "Plans": [
+      {
+        "PlanCode": "ALB CND50XXX",
+        "PlanDescription": "AL BUHAIRA CN DED 50  OP 5%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-AL   D20%C20%",
+        "PlanDescription": "AL BUHAIRA COMPREHENSIVE  DED 20% (MAX-30) COPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-AL  D20%C10%",
+        "PlanDescription": "AL BUHAIRA CN DED 20% COPAY 10% PH 15%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-AL  D20%C20%",
+        "PlanDescription": "AL BUHAIRA COMPREHENSIVE  DED 20% (MAX-30) COPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-AL DED   20%",
+        "PlanDescription": "AL BUHAIRA CN DED 20%(MAX 50AED) COPAY 10% PH NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-ALB      D100",
+        "PlanDescription": "AL BUHAIRA CN DED 100 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-ALB      D25",
+        "PlanDescription": "AL BUHAIRA CN DED 25 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-ALB      D80",
+        "PlanDescription": "AL BUHAIRA CN DED 100 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-ALB    DED80",
+        "PlanDescription": "AL BUHAIRA CN DED 80AED  COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-ALB   C10%",
+        "PlanDescription": "AL BUHAIRA CN MB PLAN DED 10%(MAX-25 ) COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-ALB   D 50",
+        "PlanDescription": "AL BUHAIRA STANDARD DED 50",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-ALB   D 70C0",
+        "PlanDescription": "AL BUHAIRA CN DED 70 COPAY NIL PH 15%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-ALB   D20%C0",
+        "PlanDescription": "AL BUHAIRA CN DED 20% (MAX-50) COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-ALB   D20100",
+        "PlanDescription": "AL BUHAIRA CN DED 20% M100 COPAY 20%M100",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-ALB   D25 C0",
+        "PlanDescription": "AL BUHAIRA CN DED 25 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-ALB   D25C0",
+        "PlanDescription": "AL BUHAIRA CN DED 25 COPAY NIL DN 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-ALB   D50C10%",
+        "PlanDescription": "AL BUHAIRA CN DED 50 COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-ALB   D50C15%",
+        "PlanDescription": "AL BUHAIRA CN DED 50 COPAY 15%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-ALB   D60C0",
+        "PlanDescription": "AL BUHAIRA CN DED 60 COPAY NIL PH 15%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-ALB   D80 C0",
+        "PlanDescription": "AL BUHAIRA CN DED 25 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-ALB   D825C10",
+        "PlanDescription": "AL BUHAIRA CN DED 25 COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-ALB  C 10%",
+        "PlanDescription": "AL BUHAIRA CN  COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-ALB  C 20%",
+        "PlanDescription": "AL BUHAIRA CN DED 20%(MAX 100) COPAY 20% PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-ALB  DN30%",
+        "PlanDescription": "AL BUHAIRA CN DN 30% (DENTAL PLAN)",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-ALB C 10%",
+        "PlanDescription": "AL BUHAIRA CN MB PLAN  COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-ALB C10%",
+        "PlanDescription": "AL BUHAIRA CN DED 10%(MAX-30) COPAY 10% PH NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-ALB C20%",
+        "PlanDescription": "AL BUHAIRA CN COPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-ALB C20%PH10%",
+        "PlanDescription": "AL BUHAIRA CN COPAY 20% PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-ALB CN D   50",
+        "PlanDescription": "AL BUHAIRA CN DED 50 LAB&RAD 20% PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-ALB CN D 50",
+        "PlanDescription": "AL BUHAIRA CN DED 50 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-ALB CN D25",
+        "PlanDescription": "AL BUHAIRA CN DED 25 L&R&PH 8%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-ALB CND50X",
+        "PlanDescription": "AL BUHAIRA CN DED 50 COPAY 25% PH 25%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-ALB CO 5%",
+        "PlanDescription": "AL BUHAIRA CN COPAY 5%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-ALB CO10%",
+        "PlanDescription": "AL BUHAIRA CN COPAY 10% IP 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-ALB CO15%",
+        "PlanDescription": "AL BUHAIRA CN COPAY 15%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-ALB D0C0",
+        "PlanDescription": "AL BUHAIRA CN DED 0 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-ALB D10%",
+        "PlanDescription": "AL BUHAIRA CN DED 10%(MAX-30) COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-ALB D10% C0",
+        "PlanDescription": "AL BUHAIRA CN DED 10% COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-ALB D10% C10%",
+        "PlanDescription": "AL BUHAIRA CN DED 10% COPAY 10% PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-ALB D10%C10%",
+        "PlanDescription": "AL BUHAIRA CN DED 10% (MAX-30) COPAY 10% PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-ALB D100C0",
+        "PlanDescription": "AL BUHAIRA CN DED 100  COPAY NIL PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-ALB D15% C0",
+        "PlanDescription": "AL BUHAIRA CN DED 15% COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-ALB D20% C 0",
+        "PlanDescription": "AL BUHAIRA CN DED 20%(MAX-100) COPAY NIL PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-ALB D20% C0",
+        "PlanDescription": "AL BUHAIRA CN DED 20% COPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-ALB D20% C10%",
+        "PlanDescription": "AL BUHAIRA CN DED 20% ( MAX-100)  COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-ALB D20%C 0%",
+        "PlanDescription": "AL BUHAIRA CN DED 20% (MAX-50) COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-ALB D20%C0",
+        "PlanDescription": "AL BUHAIRA CN DED 20% COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-ALB D20%C10%",
+        "PlanDescription": "AL BUHAIRA CN DED 20% ( MAX-100)  COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-ALB D20%C5%",
+        "PlanDescription": "AL BUHAIRA CN DED 20% COPAY 05% PH 05%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-ALB D20%CO20%",
+        "PlanDescription": "AL BUHAIRA CN DED 20% COPAY 20% PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-ALB D20%PH10%",
+        "PlanDescription": "AL BUHAIRA CN DED 20% COPAY 0 PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-ALB D20%PH20%",
+        "PlanDescription": "AL BUHAIRA CN DED 20% (MAX-50) COPAY NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-ALB D2025",
+        "PlanDescription": "AL BUHAIRA CN DED 20%MAX 25 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-ALB D20PH10%",
+        "PlanDescription": "AL BUHAIRA CN DED 20% OP NIL LAB/RAD/PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-ALB D25C0",
+        "PlanDescription": "AL BUHAIRA CN DED 25 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-ALB D30C0",
+        "PlanDescription": "AL BUHAIRA CN DED 30 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-ALB D30C20%",
+        "PlanDescription": "AL BUHAIRA CN DED 30 COPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-ALB D30DN30%",
+        "PlanDescription": "AL BUHAIRA CN DED 30 COPAY 10% PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-ALB D50 C0",
+        "PlanDescription": "AL BUHAIRA CN DED 50 COPAY NIL PH 15%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-ALB D50C0",
+        "PlanDescription": "AL BUHAIRA CN DED 50 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-ALB D50C10%",
+        "PlanDescription": "AL BUHAIRA CN DED 50 COPAY 10% PH 15%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-ALB D50C15",
+        "PlanDescription": "AL BUHAIRA CN DED 50 COPAY 15%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-ALB D80C0",
+        "PlanDescription": "AL BUHAIRA CN DED 80 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-ALCN D20%C10%",
+        "PlanDescription": "AL BUHAIRA CN DED 20% COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-ALCND20%C10%",
+        "PlanDescription": "AL BUHAIRA CN DED 50 COPAY 20% PH15%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-ALD10% C 10%",
+        "PlanDescription": "AL BUHAIRA CN DED 10%(MAX-30) COPAY 10% PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-ALD100 PH20%",
+        "PlanDescription": "AL BUHAIRA CN DED 100 COPAY NIL PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-ALD20% C 20%",
+        "PlanDescription": "AL BUHAIRA CN DED 20% (MAX-100) COPAY 20% PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-ALD20%C20%C0",
+        "PlanDescription": "AL BUHAIRA CN DED 20% COPAY 10% PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-ALD20(MAX 75)",
+        "PlanDescription": "AL BUHAIRA CN DED 20%(MAX-75) COPAY NIL PH NILL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-ALD30C0PH10%",
+        "PlanDescription": "AL BUHAIRA CN DED 30 COPAY NIL PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-ALD50C0PH10%",
+        "PlanDescription": "AL BUHAIRA CN DED 50 COPAY NIL PH10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-ALD50C0PH15%",
+        "PlanDescription": "AL BUHAIRA CN DED 50 COPAY NIL PH 15%",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  }
+]
