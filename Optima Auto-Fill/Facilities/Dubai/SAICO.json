@@ -1,0 +1,567 @@
+[
+  {
+    "PolicyGroupCode": "SAICO",
+    "PolicyGroupDescription": "SAICO - Saudi Arabia Insurance Company",
+    "RateListCode": "SAICO",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS015",
+    "Plans": [
+      {
+        "PlanCode": "SAI G D20C10%",
+        "PlanDescription": "SAICO  DED 20% MAX 50 COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "SAIC A D10%P10%",
+        "PlanDescription": "SAICO INSURANCE DED 10% COPAY NIL PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "SAIC A D2075%",
+        "PlanDescription": "SAICO INSURANCE DED 20%MAX75 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "SAICO  D200",
+        "PlanDescription": "SAICO INSURANCE DED 200 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "SAICO  D41C0",
+        "PlanDescription": "SAICO INSURANCE DED 41 COPAY NIL PH  0",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "SAICO  D50C0",
+        "PlanDescription": "SAICO INSURANCE DED 50 COPAY NIL PH  30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "SAICO  D50C10%",
+        "PlanDescription": "SAICO INSURANCE DED 50 COPAY 10% PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "SAICO  D50C5",
+        "PlanDescription": "SAICO INSURANCE DED 50 COPAY 5% PH 5%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "SAICO AM D20%C0",
+        "PlanDescription": "SAICO INSURANCE DED 20% COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "SAICO C20%",
+        "PlanDescription": "SAICO INSURANCE DED 20% COPAY 20% PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "SAICO C20%M35X",
+        "PlanDescription": "SAICO INSURANCE COPAY 20% MAX 35",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "SAICO C20%M50",
+        "PlanDescription": "SAICO INSURANCE COPAY 20% MAX 50",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "SAICO C20%M97",
+        "PlanDescription": "SAICO INSURANCE COPAY 20% MAX 97",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "SAICO C30%",
+        "PlanDescription": "SAICO INSURANCE DED 30% COPAY 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "SAICO C50%",
+        "PlanDescription": "SAICO INSURANCE DED 50% COPAY 50%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "SAICO CO 10",
+        "PlanDescription": "SAICO INSURANCE COPAY 10% (MB PLAN)",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "SAICO CO20",
+        "PlanDescription": "SAICO INSURANCE COMPANY CO 20",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "SAICO CO20%",
+        "PlanDescription": "SAICO INSURANCE DED 20% COPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "SAICO CO20PH10",
+        "PlanDescription": "SAICO INSURANCE COMPANY COPAY 20% PH10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "SAICO CO75",
+        "PlanDescription": "SAICO INSURANCE COPAY 75%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "SAICO D PH 15",
+        "PlanDescription": "SAICO INSURANCE DED NIL COPAY NIL PH 15%MAX 100",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "SAICO D0C0",
+        "PlanDescription": "SAICO INSURANCE DED O COPAY NIL DN 50%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "SAICO D0C020%",
+        "PlanDescription": "SAICO INSURANCE DED NIL COPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "SAICO D0C20%",
+        "PlanDescription": "SAICO INSURANCE DED O COPAY NIL DN 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "SAICO D10%50P20",
+        "PlanDescription": "SAICO INSURANCE DED 10%MAX50 COPAY NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "SAICO D10%C0",
+        "PlanDescription": "SAICO INSURANCE DED 10% COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "SAICO D10%C050",
+        "PlanDescription": "SAICO INSURANCE DED 10%MAX50 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "SAICO D10%C10",
+        "PlanDescription": "SAICO INSURANCE DED 10% COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "SAICO D10%C10%",
+        "PlanDescription": "SAICO INSURANCE DED 10% COPAY 10% PH 20%(MATERNITY PLAN)",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "SAICO D20%30",
+        "PlanDescription": "SAICO INSURANCE DED 20%MAX35  OP NIL  L/R 20%M15 PH 20%M15",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "SAICO D20%C0",
+        "PlanDescription": "SAICO INSURANCE DED 20% COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "SAICO D20%C10%P",
+        "PlanDescription": "SAICO INSURANCE DED 20% COPAY 10% PH NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "SAICO D20%CO10%",
+        "PlanDescription": "SAICO INSURANCE DED 20% COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "SAICO D20%M100",
+        "PlanDescription": "SAICO INSURANCE DED 20% MAX100 NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "SAICO D20%MX50",
+        "PlanDescription": "SAICO INSURANCE DED 20% MAX50 NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "SAICO D20%MX92",
+        "PlanDescription": "SAICO INSURANCE DED 20% MAX92 NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "SAICO D20%PH10%",
+        "PlanDescription": "SAICO INSURANCE DED 20% COPAY NIL PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "SAICO D20%PH20%",
+        "PlanDescription": "SAICO INSURANCE DED 20% COPAY NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "SAICO D2035X",
+        "PlanDescription": "SAICO INSURANCE DED 20% MAX 35 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "SAICO D25%C25%",
+        "PlanDescription": "SAICO INSURANCE DED 25% COPAY 25% DN 25%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "SAICO D25C0",
+        "PlanDescription": "SAICO INSURANCE DED 25 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "SAICO D25C10",
+        "PlanDescription": "SAICO INSURANCE DED 25 COPAY 10% PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "SAICO D26C0",
+        "PlanDescription": "SAICO INSURANCE DED 20%(MAX-AED 26) COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "SAICO D30C0",
+        "PlanDescription": "SAICO INSURANCE DED 30 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "SAICO D48C0",
+        "PlanDescription": "SAICO INSURANCE DED 48 COPAY NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "SAICO D48C10%",
+        "PlanDescription": "SAICO INSURANCE DED 48 COPAY10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "SAICO D48C20%",
+        "PlanDescription": "SAICO INSURANCE DED 48 COPAY 20% PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "SAICO D50P20%",
+        "PlanDescription": "SAICO INSURANCE DED 50 COPAY 10% PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "SAICO DED 50",
+        "PlanDescription": "SAICO INSURANCE DED 50 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "SAICO DED0 CO0",
+        "PlanDescription": "SAICO INSURANCE COMPANY DED 0 CO 0",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "SAICO DED50C0",
+        "PlanDescription": "SAICO INSURANCE DED 50 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "SAICO GOP",
+        "PlanDescription": "SAICO GOP SILVER DED 50 PHARMACY 15%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "SAICO UAE D0C0",
+        "PlanDescription": "SAICO INSURANCE DED 0 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "SAICO UAE D48C0",
+        "PlanDescription": "SAICO INSURANCE DED 48 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "SAICOCO20100 20",
+        "PlanDescription": "SAICO INSURANCE COMPANY DED 20%100 CO 20%100",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "SAICO - EM&JD",
+    "PolicyGroupDescription": "SAICO - EMERALD & JADE",
+    "RateListCode": "SAICO-EM&JD-SHJ",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS015",
+    "Plans": [
+      {
+        "PlanCode": "SAICO JD D0C0",
+        "PlanDescription": "SAICO EMERALD & JADE DED 0 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "SAICO JD D20%C0",
+        "PlanDescription": "SAICO EMERALD & JADE DED 20% MAX 50 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "SAICO AMBER",
+    "PolicyGroupDescription": "SAICO - Saudi Arabia Insurance Company - AMBER/AMBER+",
+    "RateListCode": "SAICO",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS015",
+    "Plans": [
+      {
+        "PlanCode": "SAI A+ 0%M75",
+        "PlanDescription": "SAICO AMBER/GOLD DED 20% MAX 50 COPAY NIL PH 20%M300",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "SAI A+ C20M100",
+        "PlanDescription": "SAICO AMBER COPAY  20% MAX 100",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "SAI A+ CD0%MP1",
+        "PlanDescription": "SAICO AMBER DED 0% NIL PH 15%M100",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "SAI A+ D0%MP1",
+        "PlanDescription": "SAICO AMBER DED 0% NIL PH 15%M100",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "SAI A+ D20",
+        "PlanDescription": "SAICO AMBER DED 20% MAX 100 COPAY 20%MAX 100",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "SAI A+ D20%C20%",
+        "PlanDescription": "SAICO AMBER DED 20% COPAY 20% PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "SAI A+ D20%M0",
+        "PlanDescription": "SAICO AMBER DED 20% MAX 50 COPAY 20%M 50 PH 20%M50",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "SAI A+ D20%M50",
+        "PlanDescription": "SAICO AMBER DED 20% MAX 50 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "SAI A+ D20%M50X",
+        "PlanDescription": "SAICO AMBER DED 20% MAX 50 COPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "SAI A+ D20%M5X",
+        "PlanDescription": "SAICO AMBER DED 20% MAX 50 COPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "SAI A+ D20%M75",
+        "PlanDescription": "SAICO AMBER/GOLD DED 20% MAX 75 COPAY NIL PH 20%M100",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "SAI A+ D20%MP1",
+        "PlanDescription": "SAICO AMBER DED 20% MAX 50 COPAY NIL PH 15%M100",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "SAI A+ D20%MP10",
+        "PlanDescription": "SAICO AMBER DED 20% MAX 50 COPAY NIL PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "SAI A+ D20%MP15",
+        "PlanDescription": "SAICO AMBER DED 20% MAX 50 COPAY NIL PH 15%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "SAI A+ D20%MP20",
+        "PlanDescription": "SAICO AMBER DED 20% MAX 50 COPAY NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "SAI A+ D20%MW0",
+        "PlanDescription": "SAICO AMBER DED 20% MAX 50 COPAY 10% PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "SAI A+ D20%P0",
+        "PlanDescription": "SAICO AMBER DED 20% MAX 25 COPAY NIL PH NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "SAI A+ D20%P10",
+        "PlanDescription": "SAICO AMBER DED 20% MAX 25 COPAY NIL PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "SAI A+ D20%PH",
+        "PlanDescription": "SAICO AMBER DED 20% COPAY NIL PH NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "SAI A+ D20100",
+        "PlanDescription": "SAICO AMBER DED 20% MAX 100  L/ R 20%MAX 100 PH 20%100",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "SAI A+ D20100X",
+        "PlanDescription": "SAICO AMBER DED 20% MAX 100  OP/L/ R 20%MAX 100 PH 20%100",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "SAI A+ D20C10%",
+        "PlanDescription": "SAICO AMBER DED 20% MAX 50 COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "SAI A+ D20M100",
+        "PlanDescription": "SAICO AMBER DED 20% MAX 100 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "SAI A+ D20M100X",
+        "PlanDescription": "SAICO AMBER DED 20% MAX 100 COPAY 15%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "SAI A+ D25C10%",
+        "PlanDescription": "SAICO AMBER DED 20% MAX 25 COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "SAI A+ DP 15100",
+        "PlanDescription": "SAICO AMBER DED0 CO 0 PH 15%M100",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "SAI A+ DP10",
+        "PlanDescription": "SAICO AMBER DED 20% MAX 75 COPAY 10%MAX 100",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "SAI A+ DP20%75",
+        "PlanDescription": "SAICO AMBER DED 20% MAX 75 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "SAIA+ D20%C20%",
+        "PlanDescription": "SAICO AMBER DED 15% COPAY 15%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "SAICO A C10%",
+        "PlanDescription": "SAICO AMBER COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "SAICO A C10%X",
+        "PlanDescription": "SAICO AMBER MAT COPAY 10%MAX 50",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "SAICO A D0C0",
+        "PlanDescription": "SAICO AMBER DED NIL COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "SAICO A D10%C0",
+        "PlanDescription": "SAICO AMBER DED 10% COPAY  NIL PH NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "SAICO A D105",
+        "PlanDescription": "SAICO AMBER DED 10% M25 COPAY  10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "SAICO A D105X",
+        "PlanDescription": "SAICO AMBER DED 20%MAX 100 OP/LAB/RAD/PH 20%MAX 100",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "SAICO A D10M25",
+        "PlanDescription": "SAICO AMBER DED 10% M25 COPAY  NIL PH NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "SAICO A D20%M50",
+        "PlanDescription": "SAICO AMBER DED 20% MAX 50 LAB/RX 10% RAD/OP NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "SAICO A D20M100",
+        "PlanDescription": "SAICO AMBER DED 20%M100 PH 20%M100  COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "SAICO A D30C0",
+        "PlanDescription": "SAICO AMBER DED 30 COPAY  NIL PH NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "SAICO A D50C0",
+        "PlanDescription": "SAICO AMBER DED 50 COPAY  NIL PH NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "SAICO A D50CP10",
+        "PlanDescription": "SAICO AMBER DED 50 COPAY  NIL PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "SAICO A D50P20",
+        "PlanDescription": "SAICO AMBER DED 50 COPAY  NIL PH 20% MAX 100",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "SAICO AD20%M50",
+        "PlanDescription": "SAICO AMBER DED 20% MAX 50 LAB/RX/ RAD 10%/OP NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "SAICO AM D100",
+        "PlanDescription": "SAICO INSURANCE COPAY 20%MAX 100",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "SAICO AM D20",
+        "PlanDescription": "SAICO INSURANCE AMBER DED 20%M75  COPAY 10%MAX 100",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "SAICO AM D20101",
+        "PlanDescription": "SAICO INSURANCE AMBER DED 20%M75  COPAY 20% PH 20% 100",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "SAICO AM D20PH",
+        "PlanDescription": "SAICO INSURANCE AMBER DED 20%M75  COPAY 20%MAX 100 PH 10%",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "SAICOI- REF 1.3",
+    "PolicyGroupDescription": "SAICO-SAUDI ARABIAN INSURANCE CO REFFERED CASES - 1.3 FACTOR",
+    "RateListCode": "",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS015",
+    "Plans": [
+      {
+        "PlanCode": "SAICO REF 1.",
+        "PlanDescription": "SAICO  REF 1.3 FACTOR   DED NIL COPAY NIL",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  }
+]
