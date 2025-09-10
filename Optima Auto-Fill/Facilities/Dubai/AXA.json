@@ -1,0 +1,2972 @@
+[
+  {
+    "PolicyGroupCode": "AXA",
+    "PolicyGroupDescription": "AXA Gulf Direct Billing",
+    "RateListCode": "AXA",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS010",
+    "Plans": [
+      {
+        "PlanCode": "AXA   D155.40",
+        "PlanDescription": "AXA STAR & PLUS DED 155.40 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA   D161",
+        "PlanDescription": "AXA STAR & PLUS DED 161 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA   D20%C0",
+        "PlanDescription": "AXA STAR & PLUS DED 20% COPAY NIL PH 30% DN 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA   D92",
+        "PlanDescription": "AXA STAR & PLUS DED 92 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA   D94",
+        "PlanDescription": "AXA STAR & PLUS DED 94 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA  C15%P10%",
+        "PlanDescription": "AXA STAR & PLUS DED 15% COPAY 15% PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA  C20%",
+        "PlanDescription": "AXA STAR & PLUS COPAY 20% PH NIL DN 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA  C20% PH30%",
+        "PlanDescription": "AXA STAR & PLUS DED 20% COPAY 20% PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA  C27%",
+        "PlanDescription": "AXA STAR & PLUS DED 27% COPAY 27%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA  C40%",
+        "PlanDescription": "AXA STAR & PLUS COPAY 40%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA  D0C0",
+        "PlanDescription": "AXA STAR & PLUS DED NIL  COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA  D0C0PH20%",
+        "PlanDescription": "AXA STAR & PLUS DED NIL  COPAY NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA  D10%C7%",
+        "PlanDescription": "AXA STAR & PLUS DED 10% COPAY 7% PH 7%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA  D120C0",
+        "PlanDescription": "AXA STAR & PLUS DED 120 COPAY NIL DN 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA  D125C0",
+        "PlanDescription": "AXA STAR & PLUS DED 125 COPAY NIL DN 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA  D143",
+        "PlanDescription": "AXA STAR & PLUS DED143 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA  D155C0",
+        "PlanDescription": "AXA STAR & PLUS DED 155 COPAY NIL PH NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA  D168",
+        "PlanDescription": "AXA STAR & PLUS DED168 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA  D185",
+        "PlanDescription": "AXA STAR & PLUS DED185 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA  D20%",
+        "PlanDescription": "AXA STAR & PLUS DED20% COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA  D20% MAX60",
+        "PlanDescription": "AXA STAR & PLUS DED20% MAX 60 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA  D20% MAX75",
+        "PlanDescription": "AXA STAR & PLUS DED 20% MAX 75 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA  D20% P20%",
+        "PlanDescription": "AXA STAR & PLUS DED 20% MAX 100 COPAY NIL PH 20% MAX 100",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA  D20% PH30%",
+        "PlanDescription": "AXA STAR & PLUS DED 20% COPAY NIL PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA  D20%C0",
+        "PlanDescription": "AXA STAR & PLUS DED 20% COPAY NIL PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA  D20%C20%",
+        "PlanDescription": "AXA STAR & PLUS DED 20% COPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA  D20%M45",
+        "PlanDescription": "AXA STAR & PLUS DED 20% MAX 45 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA  D20%P20%",
+        "PlanDescription": "AXA STAR & PLUS DED 20% COPAY NIL PH 20% MAX 500",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA  D20%PH20%",
+        "PlanDescription": "AXA STAR & PLUS DED 20% COPAY NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA  D26",
+        "PlanDescription": "AXA STAR & PLUS DED 26 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA  D26P10%",
+        "PlanDescription": "AXA STAR & PLUS DED 26 COPAY NIL PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA  D37%",
+        "PlanDescription": "AXA STAR & PLUS DED% COPAY 37% (PSYCHATRIC PLAN)",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA  D37%C7%",
+        "PlanDescription": "AXA STAR & PLUS DED 37% COPAY 7%(PSYCHATRIC PLAN)",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA  D40",
+        "PlanDescription": "AXA STAR & PLUS DED 40 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA  D47C0",
+        "PlanDescription": "AXA STAR & PLUS DED 47 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA  D50C0",
+        "PlanDescription": "AXA STAR & PLUS DED 50 COPAY NIL DN 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA  D84",
+        "PlanDescription": "AXA STAR & PLUS DED 84 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA  D97",
+        "PlanDescription": "AXA STAR & PLUS DED 97AED COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA C10%PH20%",
+        "PlanDescription": "AXA STAR & PLUS DED 10% COPAY 10% PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA C20%",
+        "PlanDescription": "AXA STAR & PLUS COPAY 20% DN 50%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA C30%",
+        "PlanDescription": "AXA STAR & PLUS COPAY 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA C7%",
+        "PlanDescription": "AXA STAR & STAR PLUS COPAY 7%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA CO10% IP0",
+        "PlanDescription": "AXA STAR & PLUS DED 10% COPAY 10% (IP & OP)",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA CO7%",
+        "PlanDescription": "AXA STAR & PLUS DED 7% COPAY 7%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA D0C0",
+        "PlanDescription": "AXA STAR & PLUS DED 0 COPAY NIL DN 50%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA D0C0PH10%",
+        "PlanDescription": "AXA STAR & PLUS DED 0 COPAY NIL PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA D0C0PH20%",
+        "PlanDescription": "AXA STAR & PLUS DED 0 COPAY NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA D10%",
+        "PlanDescription": "AXA STAR & PLUS DED 10% COPAY 10% PH NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA D10%C10%",
+        "PlanDescription": "AXA STAR & PLUS COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA D10%C30%",
+        "PlanDescription": "AXA STAR & PLUS DED 10% COPAY 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA D10%C7%",
+        "PlanDescription": "AXA STAR & PLUS DED 10% COPAY 7% PH 7%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA D10%CO",
+        "PlanDescription": "AXA STAR & PLUS DED 10% COPAY NIL PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA D10%CO10%",
+        "PlanDescription": "AXA STAR & PLUS DED 10% COPAY 10% PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA D10%DN20%",
+        "PlanDescription": "AXA STAR & PLUS DED 10% COPAY 10% DN 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA D10%P20%",
+        "PlanDescription": "AXA STAR & PLUS DED 10% COPAY NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA D100C0",
+        "PlanDescription": "AXA STAR & PLUS DED 100 COPAY NIL DN 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA D100C20%",
+        "PlanDescription": "AXA STAR & PLUS DED 100 COPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA D20% C5%",
+        "PlanDescription": "AXA STAR & PLUS DED 20% COPAY 5%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA D20%C0",
+        "PlanDescription": "AXA STAR & PLUS DED 20% COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA D20%C20%",
+        "PlanDescription": "AXA STAR & PLUS DED 20% COPAY 20% PH 30% DN 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA D210C0",
+        "PlanDescription": "AXA STAR & PLUS DED 210 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA D25%C0",
+        "PlanDescription": "AXA STAR & PLUS DED 25% COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA D25P10%",
+        "PlanDescription": "AXA STAR & PLUS DED 25 COPAY NIL PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA D25P20%",
+        "PlanDescription": "AXA STAR & PLUS DED 25 COPAY NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA D50C0",
+        "PlanDescription": "AXA STAR & PLUS DED 50 COPAY NIL DN 15%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA D50C0PH10%",
+        "PlanDescription": "AXA STAR & PLUS DED 50 COPAY NIL PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA D50C10%",
+        "PlanDescription": "AXA STAR & PLUS DED 50 COPAY 10% PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA D75 C10%",
+        "PlanDescription": "AXA STAR & PLUS DED 75 COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA D75 C20%PH0",
+        "PlanDescription": "AXA STAR & PLUS DED 75 COPAY 20% PH 0",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA D75 DN 20%",
+        "PlanDescription": "AXA STAR & PLUS DED 75 COPAY NIL DN 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA D75PH20%",
+        "PlanDescription": "AXA STAR & PLUS DED 75 COPAY NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA DB50%",
+        "PlanDescription": "AXA STAR & PLUS COPAY 50% DENTAL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA DED 0",
+        "PlanDescription": "AXA STAR & PLUS DED 0 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA DED 10",
+        "PlanDescription": "AXA STAR & PLUS DED 10 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA DED 100",
+        "PlanDescription": "AXA STAR & PLUS DED 100 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA DED 130",
+        "PlanDescription": "AXA STAR & PLUS DED 130 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA DED 15",
+        "PlanDescription": "AXA STAR & PLUS DED 15 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA DED 15%",
+        "PlanDescription": "AXA STAR & PLUS DED 15% COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA DED 15%C15%",
+        "PlanDescription": "AXA STAR & PLUS DED 15% COPAY 15%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA DED 15%P25%",
+        "PlanDescription": "AXA STAR & PLUS DED 15% COPAY 15% PH 25%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA DED 150",
+        "PlanDescription": "AXA STAR & PLUS DED 150 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA DED 20",
+        "PlanDescription": "AXA STAR & PLUS DED 20 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA DED 200",
+        "PlanDescription": "AXA STAR & PLUS DED 200 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA DED 25",
+        "PlanDescription": "AXA STAR & PLUS DED 25 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA DED 25 20%D",
+        "PlanDescription": "AXA STAR & PLUS DED 25 COPAY NIL DN 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA DED 30",
+        "PlanDescription": "AXA STAR & PLUS DED 30 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA DED 50",
+        "PlanDescription": "AXA STAR & PLUS DED 50 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA DED 65",
+        "PlanDescription": "AXA STAR & PLUS DED 65 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA DED 75",
+        "PlanDescription": "AXA STAR & PLUS DED 75 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA DED 80",
+        "PlanDescription": "AXA STAR & PLUS DED 80 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA DED 85",
+        "PlanDescription": "AXA STAR & PLUS DED 85 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA DED 90",
+        "PlanDescription": "AXA STAR & PLUS DED 90 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA DED0CO10%",
+        "PlanDescription": "AXA STAR & PLUS DED 0 COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA DED0CO20%",
+        "PlanDescription": "AXA STAR & PLUS DED 0 COPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA DED0CO30%",
+        "PlanDescription": "AXA STAR & PLUS DED 0 COPAY 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA DED10%C0",
+        "PlanDescription": "AXA STAR & PLUS DED 10% COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA DED20%C0",
+        "PlanDescription": "AXA STAR & PLUS DED 20% COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA DED20%C20%",
+        "PlanDescription": "AXA STAR & PLUS DED 20% COPAY 20% PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA DED20%CO20%",
+        "PlanDescription": "AXA STAR & PLUS DED 20% COPAY 20% DN & OPT 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA DED20PH20%",
+        "PlanDescription": "AXA STAR & PLUS DED 20 COPAY NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA DED25 CO25%",
+        "PlanDescription": "AXA STAR & PLUS DED 25 COPAY 25%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA DED25%CO25%",
+        "PlanDescription": "AXA STAR & PLUS COPAY 25%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA DED30%C0",
+        "PlanDescription": "AXA STAR & PLUS DED 30% COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA DED30PH20%",
+        "PlanDescription": "AXA STAR & PLUS DED 30 COPAY NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA DED50C0",
+        "PlanDescription": "AXA STAR & PLUS DED 50 COPAY NIL PH 20%(MAX-AED 100)",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA DED50C20P",
+        "PlanDescription": "AXA STAR & PLUS DED 50 COPAY NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA DED50C20P&S",
+        "PlanDescription": "AXA STAR & PLUS DED 50 COPAY 20% PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA DED50C30%",
+        "PlanDescription": "AXA STAR & PLUS DED 50 COPAY 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA DED75 PH10%",
+        "PlanDescription": "AXA STAR & PLUS DED75 COPAY NIL PH10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA DN20%",
+        "PlanDescription": "AXA STAR & PLUS DED 0  COPAY NIL DN 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA GOP D0C0",
+        "PlanDescription": "AXA GULF (GOP BASED) DED 0 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA GOP D20%C0",
+        "PlanDescription": "AXA GULF (GOP BASED) DED 20%  MAX 100   COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA GOP D20%M10",
+        "PlanDescription": "AXA GULF (GOP BASED) DED 20% MAX 100 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA GULF D0C0",
+        "PlanDescription": "AXA GULF (GOP BASED) DED 0 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA ST C10%",
+        "PlanDescription": "AXA STAR & PLUS DED 10% COPAY LAB & RAD 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA ST C20%M100",
+        "PlanDescription": "AXA STAR & PLUS COPAY 20% MAX 100",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA ST C20%M300",
+        "PlanDescription": "AXA STAR & PLUS COPAY 20% MAX 300",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA ST D10%M50",
+        "PlanDescription": "AXA STAR & PLUS DED 10% MAX 50 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA ST D176C0",
+        "PlanDescription": "AXA STAR & PLUS DED176  COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA ST D20%C20%",
+        "PlanDescription": "AXA STAR & PLUS DED 20% COPAY 20% PH 20% LAB/RAD NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA ST D20%M50",
+        "PlanDescription": "AXA STAR & PLUS DED 20% MAX 50 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXAD20%C20%PH0",
+        "PlanDescription": "AXA STAR & PLUS DED 20% COPAY 20% PH0%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXAD20%M100P10%",
+        "PlanDescription": "AXA STAR & PLUS DED 20%(MAX-AED100) COPAY NIL PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXAD20%M100P20%",
+        "PlanDescription": "AXA STAR & PLUS DED 20%MAX 100 COPAY NIL PH 20% M100",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXADED50C20%P30",
+        "PlanDescription": "AXA STAR & PLUS DED 50 COPAY 20% PH 30%",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "AXA - AXA-1",
+    "PolicyGroupDescription": "AXA GULF - AXA-1 NETWORK",
+    "RateListCode": "AXA",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS010",
+    "Plans": [
+      {
+        "PlanCode": "AX 1 D20%M50P5",
+        "PlanDescription": "AXA 1 DED 20% MAX 50 PH 5%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AX 1 D20%MAX110",
+        "PlanDescription": "AXA 1 DED 20% MAX 110 COPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AX 1 D20%MAX50",
+        "PlanDescription": "AXA 1 DED 20% MAX 50 COPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AX 1C10%MAX50X",
+        "PlanDescription": "AXA 1 COPAY 10% MAX 50 PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AX 1D0 C0",
+        "PlanDescription": "AXA 1 DED NIL COPAY NIL PH NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AX 1D0 C0 DN20",
+        "PlanDescription": "AXA 1 DED NIL COPAY NIL PH NIL DN20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AX 1D10%M50C10%",
+        "PlanDescription": "AXA 1 DED 10% MAX 50 COPAY L/R 10% PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AX 1D10%M50CP0",
+        "PlanDescription": "AXA 1 DED 10% MAX 50 COPAY L/R 10% PH NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AX 1D10%M50P10%",
+        "PlanDescription": "AXA 1 DED 10% MAX 50 COPAY NIL PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AX 1D10%M50P20%",
+        "PlanDescription": "AXA 1 DED 10% MAX 50 COPAY 10% PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AX 1D10%M50P30",
+        "PlanDescription": "AXA 1 DED 10% MAX 50 COPAY NIL PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AX 1D10%M50P5%",
+        "PlanDescription": "AXA 1 DED 10% MAX 50 COPAY NIL PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AX 1D10%M51010%",
+        "PlanDescription": "AXA 1 DED 10% MAX 50 L/R 10%100 OP NIL PH NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AX 1D10%M510OP",
+        "PlanDescription": "AXA 1 DED 10% 50 MAX OP 10%100 PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AX 1D10%M520%",
+        "PlanDescription": "AXA 1 DED 10% COPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AX 1D10%M65P0",
+        "PlanDescription": "AXA 1 DED 10% MAX 65 COPAY NIL PH NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AX 1D10%M75",
+        "PlanDescription": "AXA 1 DED 10% MAX 75 COPAY 0  L/R 10%M75  PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AX 1D10%M75100",
+        "PlanDescription": "AXA 1 DED 10% MAX 75 COPAY 0  L/R 20%M100  PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AX 1D10%MAX100",
+        "PlanDescription": "AXA 1 DED 10%MAX 100  COPAY 10%M100 PH 10%M100",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AX 1D10%MAX50",
+        "PlanDescription": "AXA 1 DED 10%MAX 50 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AX 1D15%",
+        "PlanDescription": "AXA 1 DED 15% COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AX 1D20%",
+        "PlanDescription": "AXA 1 DED 20M25% COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AX 1D20% PH 10",
+        "PlanDescription": "AXA 1 DED 20% MAX 100 COPAY 10% PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AX 1D20%C0",
+        "PlanDescription": "AXA 1 DED 20% MAX 95 COPAY NIL PH NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AX 1D20%C20%",
+        "PlanDescription": "AXA 1 DED 20% COPAY 20% PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AX 1D20%M1",
+        "PlanDescription": "AXA 1 DED 20% MAX 100 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AX 1D20%M100",
+        "PlanDescription": "AXA 1 DED 20% MAX 100 COPAY NIL PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AX 1D20%M100C5%",
+        "PlanDescription": "AXA 1 DED 20% MAX 100  LAB/RAD 5% PH 5% OP NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AX 1D20%M100L/R",
+        "PlanDescription": "AXA 1 DED 20% MAX 100 COPAY NIL L/R 10%  PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AX 1D20%M100P5%",
+        "PlanDescription": "AXA 1 DED 20% MAX 100 COPAY NIL PH 5%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AX 1D20%M100X",
+        "PlanDescription": "AXA 1 DED 20% MAX 100 COPAY NIL PH 20%M100",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AX 1D20%M100XX",
+        "PlanDescription": "AXA 1 DED 20% MAX 100 COPAY 20% 100 PH 20%M100",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AX 1D20%M125C0%",
+        "PlanDescription": "AXA 1 DED 20% MAX 125 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AX 1D20%M150C0%",
+        "PlanDescription": "AXA 1 DED 20% MAX 150 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AX 1D20%M150C5%",
+        "PlanDescription": "AXA 1 DED 20% MAX 150 COPAY 5% PH 5%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AX 1D20%M150PH%",
+        "PlanDescription": "AXA 1 DED 20% MAX 150  PH LAB RAD 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AX 1D20%M1S",
+        "PlanDescription": "AXA 1 DED AED 147.00 COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AX 1D20%M502",
+        "PlanDescription": "AXA 1 DED 20% MAX 50 COPAY NIL PH 20%MAX 50",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AX 1D20%M5020",
+        "PlanDescription": "AXA 1 DED 20% MAX 50 COPAY NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AX 1D20%M50C10",
+        "PlanDescription": "AXA 1 DED 20% MAX 50 COPAY L/R 10%  PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AX 1D20%M50P20",
+        "PlanDescription": "AXA 1 DED 20% MAX 50 COPAY L/R 10%  PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AX 1D20%M50P30",
+        "PlanDescription": "AXA 1 DED 20% MAX 50 COPAY NIL PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AX 1D20%M50P5",
+        "PlanDescription": "AXA 1 DED 20% MAX 50 COPAY NIL PH 5%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AX 1D20%M85P10%",
+        "PlanDescription": "AXA 1 DED 20% M85 COPAY NIL PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AX 1D20%P",
+        "PlanDescription": "AXA 1 COPAY 20% PH NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AX 1D20%P20%",
+        "PlanDescription": "AXA 1 DED 20% COPAY NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AX 1D20%X",
+        "PlanDescription": "AXA 1 DED 20%M50 OP/LAB/RAD 20%50 PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AX 1D20%XX",
+        "PlanDescription": "AXA 1 DED 20%M50 OP/LAB/RAD/PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AX 1D20%XXX",
+        "PlanDescription": "AXA 1 DED 20%M50 LAB/RAD/PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AX 1D20M35",
+        "PlanDescription": "AXA 1 DED 20% MAX 35  COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AX 1D20M85",
+        "PlanDescription": "AXA 1 DED 20% MAX 85  COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AX 1D50",
+        "PlanDescription": "AXA 1 DED 50 AED OP/LAB/RAD 20%50 PH NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AX 1D5052",
+        "PlanDescription": "AXA 1 DED OP/LAB/RAD 20%50 PH 7%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AX 1P D20%M50L",
+        "PlanDescription": "AXA 1 PRIVILEGE  DED 20% MAX 50 LAB/RAD 10% PH 20% OP NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AX 1P D20M",
+        "PlanDescription": "AXA 1 PRIVILEGE  DED 10% MAX 75 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AX 1P D20M75",
+        "PlanDescription": "AXA 1 PRIVILEGE  DED 20% MAX 75 OP NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AX 1P DED 10%M2",
+        "PlanDescription": "AXA 1 PRIVILEGE  DED 10% MAX 25 OP10% LAB/RAD 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AX 1P DED 10%MX",
+        "PlanDescription": "AXA 1 PRIVILEGE  DED 10% MAX 25 OP NIL LAB/RAD 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AX 1XD20%M50P30",
+        "PlanDescription": "AXA 1 DED 20% MAX 50 COPAY NIL PH 30% MAX 100",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AX1D20%M100C5%",
+        "PlanDescription": "AXA 1 DED 20% MAX 100  LAB/PH 5% RAD/OP NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AX1D20%M100L/R",
+        "PlanDescription": "AXA 1 DED 20% MAX 100 COPAY NIL L/R 10%  PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 1 C15%",
+        "PlanDescription": "AXA 1 DED15%  COPAY 15% PH 15%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 1 C15%P10%",
+        "PlanDescription": "AXA 1 DED 15%  COPAY 15% PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 1 C20%",
+        "PlanDescription": "AXA 1 COPAY 20% MAX 50",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 1 C20M95",
+        "PlanDescription": "AXA 1 COPAY 20% MAX 95",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 1 C20P30",
+        "PlanDescription": "AXA 1 COPAY 20% PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 1 C25%",
+        "PlanDescription": "AXA 1 DED 25% COPAY 25%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 1 C30%",
+        "PlanDescription": "AXA 1 COPAY 30% PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 1 C50%",
+        "PlanDescription": "AXA 1 COPAY 50%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 1 D0C0",
+        "PlanDescription": "AXA 1 DED NIL  COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 1 D0P10%",
+        "PlanDescription": "AXA 1 DED NIL  COPAY NIL PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 1 D10  PH 1",
+        "PlanDescription": "AXA 1 DED 10% PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 1 D10 C0 7",
+        "PlanDescription": "AXA 1 DED 10% COPAY 7%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 1 D10% C0",
+        "PlanDescription": "AXA 1 DED 10% COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 1 D10% P0",
+        "PlanDescription": "AXA 1 DED 10% LAB & RAD 10% OP/PH NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 1 D10% P10%",
+        "PlanDescription": "AXA 1 DED 10% COPAY NIL PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 1 D10%C0",
+        "PlanDescription": "AXA 1 DED 10% LAB/RAD/OP 10% PH NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 1 D10%C10%",
+        "PlanDescription": "AXA 1 DED 10% COPAY 10% PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 1 D100P10",
+        "PlanDescription": "AXA 1 DED 100 COPAY NIL PH 10% MAX 100",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 1 D107.5 C0",
+        "PlanDescription": "AXA 1 DED 107.52 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 1 D10C10",
+        "PlanDescription": "AXA 1 DED10% COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 1 D155.40C0",
+        "PlanDescription": "AXA 1 DED155.40  COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 1 D20 C0",
+        "PlanDescription": "AXA 1 DED 20 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 1 D20 C0 P1",
+        "PlanDescription": "AXA 1 DED 20% COPAY NIL PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 1 D20 P10",
+        "PlanDescription": "AXA 1 DED 20% COPAY NIL PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 1 D20% C0",
+        "PlanDescription": "AXA 1 DED 20% MAX 80 COPAY NIL PH NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 1 D20% C20%",
+        "PlanDescription": "AXA 1 DED 20% MAX 150 COPAY 20% (LAB/RAD) PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 1 D20%50 C0",
+        "PlanDescription": "AXA 1 DED 20% MAX 50 COPAY NIL (1000AED)",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 1 D20%50P10",
+        "PlanDescription": "AXA 1 DED 20% MAX 50 COPAY NIL PH 10% M100",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 1 D20%50PH1",
+        "PlanDescription": "AXA 1 DED 20% MAX 50 COPAY NIL PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 1 D20%50PH2",
+        "PlanDescription": "AXA 1 DED 20% MAX 50 COPAY 10% PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 1 D20%75 C0",
+        "PlanDescription": "AXA 1 DED 20% MAX 75 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 1 D20%75C0",
+        "PlanDescription": "AXA 1 DED 75 COPAY NIL PH 10% MAX 100",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 1 D20%75CM",
+        "PlanDescription": "AXA 1 DED 20% MAX 75 COPAY 20% PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 1 D20%75CP",
+        "PlanDescription": "AXA 1 DED 20% MAX 75 COPAY NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 1 D20%75P10",
+        "PlanDescription": "AXA 1 DED 20% MAX 75 COPAY NIL PH 10% MAX 100",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 1 D20%M100",
+        "PlanDescription": "AXA 1 DED 20% MAX 100 COPAY NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 1 D20%M10X",
+        "PlanDescription": "AXA 1 DED 20% MAX 100 OP 10% MAX 1000  PH NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 1 D20%OP0",
+        "PlanDescription": "AXA 1 DED/LAB/RAD/PH 20% OP NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 1 D20C20",
+        "PlanDescription": "AXA 1 DED 20% COPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 1 D20L/R",
+        "PlanDescription": "AXA 1 DED 20% OP 20% LAB/RAD NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 1 D20M95C",
+        "PlanDescription": "AXA 1 DED 20% MAX 95 COPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 1 D25 C0 P0",
+        "PlanDescription": "AXA 1 DED 25 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 1 D25 C0 P1",
+        "PlanDescription": "AXA 1 DED 25 COPAY NIL PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 1 D50 C0",
+        "PlanDescription": "AXA 1 DED 50 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 1 D50 C0P10",
+        "PlanDescription": "AXA 1 DED 50 COPAY NIL PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 1 D50 C0P5",
+        "PlanDescription": "AXA 1 DED 50 COPAY NIL PH 5%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 1 D50 C10",
+        "PlanDescription": "AXA 1 DED 50 COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 1 D50P20%",
+        "PlanDescription": "AXA 1 DED 50 COPAY NIL PH 20% MAX 100",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 1 D50P20%C",
+        "PlanDescription": "AXA 1 DED 50 COPAY NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 1 D50P30%",
+        "PlanDescription": "AXA 1 DED 50 COPAY NIL PH 30% MAX 100",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 1 D55 C10%",
+        "PlanDescription": "AXA 1 DED 55 COPAY 10% MAX 1000 PH NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 1 D7 C0 7",
+        "PlanDescription": "AXA 1 DED 7% COPAY 7%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 1 D75 C0",
+        "PlanDescription": "AXA 1 DED 75 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 1 P D0C",
+        "PlanDescription": "AXA 1 PRIVILEGE  DED 0 COPAY NIL (1000 LIMIT)",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 1 P D0C 20",
+        "PlanDescription": "AXA 1 PRIVILEGE  DED 0 COPAY NIL (2000 LIMIT)",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 1 P D0C 3",
+        "PlanDescription": "AXA 1 PRIVILEGE  DED 0 COPAY NIL (3000 LIMIT)",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 1 P D0C0",
+        "PlanDescription": "AXA 1 PRIVILEGE  DED 0 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 1 P D0C0P20",
+        "PlanDescription": "AXA 1 PRIVILEGE  DED NIL COPAY NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 1 P D10 M50",
+        "PlanDescription": "AXA 1 PRIVILEGE  DED 10% M 50 OP/LAB/RAD 10% M50 PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 1 P D10%",
+        "PlanDescription": "AXA 1 PRIVILEGE  DED 10% COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 1 P D10%C10",
+        "PlanDescription": "AXA 1 PRIVILEGE  DED 10% COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 1 P D10%M25",
+        "PlanDescription": "AXA 1 PRIVILEGE  DED 10% MAX 25 COPAY 10% PH NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 1 P D10%M50",
+        "PlanDescription": "AXA 1 PRIVILEGE  DED 10% MAX 50 COPAY NIL PH 5%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 1 P D10%M5X",
+        "PlanDescription": "AXA 1 PRIVILEGE  DED 50 OP/L/R/PH 10% M50",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 1 P D10%MX",
+        "PlanDescription": "AXA 1 PRIVILEGE  DED 10% MAX 25 COPAY 10% PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 1 P D10%P10",
+        "PlanDescription": "AXA 1 PRIVILEGE  DED 10% COPAY NIL PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 1 P D124C0",
+        "PlanDescription": "AXA 1 PRIVILEGE  DED 124 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 1 P D20 M50",
+        "PlanDescription": "AXA 1 PRIVILEGE  DED 10% M 50 OP/LAB/RAD 10% M50 PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 1 P D20 M5X",
+        "PlanDescription": "AXA 1 PRIVILEGE  DED 20% M 50 OP/LAB/RAD 20% M50 PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 1 P D20%",
+        "PlanDescription": "AXA 1 PRIVILEGE  DED 20% M 50 COPAY NIL PH NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 1 P D20%50",
+        "PlanDescription": "AXA 1 PRIVILEGE  DED 20%50 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 1 P D20%C0",
+        "PlanDescription": "AXA 1 PRIVILEGE  DED 20% COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 1 P D20%M20",
+        "PlanDescription": "AXA 1 PRIVILEGE  DED 20% MAX 95 COPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 1 P D20%M50",
+        "PlanDescription": "AXA 1 PRIVILEGE  DED 20% MAX 50 COPAY 10% PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 1 P D20%M85",
+        "PlanDescription": "AXA 1 PRIVILEGE  DED 20% MAX 85 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 1 P D20%M95",
+        "PlanDescription": "AXA 1 PRIVILEGE  DED 20% MAX 95 COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 1 P D20%MC0",
+        "PlanDescription": "AXA 1 PRIVILEGE  DED 20% MAX 95 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 1 P D20%S",
+        "PlanDescription": "AXA 1 PRIVILEGE  DED 20% MAX  50 COPAY 10% (2000 LIMIT)",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 1 P D2020",
+        "PlanDescription": "AXA 1 PRIVILEGE  DED 20% COPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 1 P D2M5X",
+        "PlanDescription": "AXA 1 PRIVILEGE  DED 20% M 50 OP/LAB/RAD 20% M50 PH 7%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 1 P D2M5X7%",
+        "PlanDescription": "AXA 1 PRIVILEGE  DED 20% M 50  PH 7%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 1 P D30C0",
+        "PlanDescription": "AXA 1 PRIVILEGE  DED 30AED COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 1 P D5",
+        "PlanDescription": "AXA 1 PRIVILEGE  DED 50 OP/LAB/RAD/ PH 20% M50",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 1 P D5 D50",
+        "PlanDescription": "AXA 1 PRIVILEGE  DED 50 COPAY NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 1 P D50",
+        "PlanDescription": "AXA 1 PRIVILEGE  DED 50 OP/LAB/RAD 20% M50 PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 1 P D50 C10",
+        "PlanDescription": "AXA 1 PRIVILEGE  DED 50 COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 1 P D50 CP",
+        "PlanDescription": "AXA 1 PRIVILEGE  DED 50 COPAY 10% PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 1 P D50C0",
+        "PlanDescription": "AXA 1 PRIVILEGE  DED 50AED COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 1 P D50DG",
+        "PlanDescription": "AXA 1 PRIVILEGE  DED 50 D/G 10% MAX 50 PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 1 P D50P30",
+        "PlanDescription": "AXA 1 PRIVILEGE  DED 50 OP/LAB/RAD 10% M50 PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 1 P D80C0",
+        "PlanDescription": "AXA 1 PRIVILEGE  DED 80 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 1D10%",
+        "PlanDescription": "AXA 1 DED 10% L/R 15% PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 1D10%30",
+        "PlanDescription": "AXA 1 DED 10% M 50  L/R 15% PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 1P D20%M50L",
+        "PlanDescription": "AXA 1 PRIVILEGE  DED 20% MAX 50 LAB/RAD/PH 10% OP NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 1PD20%M100",
+        "PlanDescription": "AXA 1 PRIVILEGE  DED 20% MAX 100 COPAY NIL PH NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 1PD20%M1000",
+        "PlanDescription": "AXA 1 PRIVILEGE  DED 20% MAX 100 COPAY 10%M1000 PH NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 1PD20%M50",
+        "PlanDescription": "AXA 1 PRIVILEGE  DED 20% MAX 50 COPAY NIL PH NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 1PD20%MP5",
+        "PlanDescription": "AXA 1 PRIVILEGE  DED 20% MAX 100 COPAY NIL PH 5%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 1PD2050",
+        "PlanDescription": "AXA 1 PRIVILEGE  DED 20% MAX 50 COPAY NIL PH 5% (2000LIMIT)",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 1PD20C20",
+        "PlanDescription": "AXA 1 PRIVILEGE  DED 20% COPAY 20%M1000 PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA1 D20%C0",
+        "PlanDescription": "AXA 1 DED 20% COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA1 D50C0P10",
+        "PlanDescription": "AXA 1 DED 50  COPAY NIL PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA1 D50C10%",
+        "PlanDescription": "AXA 1 DED 50  COPAY (LAB&RAD&PH) 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA1 P C10%P30",
+        "PlanDescription": "AXA 1 PRIVILEGE COPAY 10% MAX 50 PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA1 P C15%P0",
+        "PlanDescription": "AXA 1 PRIVILEGE COPAY 15% PH NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA1 P C15%P10",
+        "PlanDescription": "AXA 1 PRIVILEGE COPAY 15% PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA1 P C15%P15",
+        "PlanDescription": "AXA 1 PRIVILEGE COPAY 15% PH 15%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA1 P C20%",
+        "PlanDescription": "AXA 1 PRIVILEGE COPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA1 P C7%",
+        "PlanDescription": "AXA 1 PRIVILEGE COPAY 7%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA1 P D",
+        "PlanDescription": "AXA 1 PRIVILEGE  COPAY 25%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA1 P D15%C0",
+        "PlanDescription": "AXA 1 PRIVILEGE DED 15% COPAY NIL PH NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA1 P D25 P20",
+        "PlanDescription": "AXA 1 PRIVILEGE  DED 25 COPAY NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA1B D20%50 0",
+        "PlanDescription": "AXA 1 DED 20% MAX 50 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA1B D20%60 0",
+        "PlanDescription": "AXA 1 DED 20% MAX 60 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA1B D20%60P10",
+        "PlanDescription": "AXA 1 DED 20% MAX 60 COPAY NIL PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA1D20%C0",
+        "PlanDescription": "AXA 1 DED 20% MAX 100  COPAY NIL (AED 1000.00 LIMIT)",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA1D20%M150C5%",
+        "PlanDescription": "AXA 1 DED 20% MAX 150 COPAY 5% (LAB / RAD) PH 5%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXX 1D20%M50P20",
+        "PlanDescription": "AXA 1 DED 20%COPAY 20% L/R 0%  PH 20%",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "AXA - AXA-1-XP",
+    "PolicyGroupDescription": "AXA GULF - AXA-1 NETWORK- (XP & XI POLICY)",
+    "RateListCode": "AXA",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS010",
+    "Plans": [
+      {
+        "PlanCode": "AX 10 C0 XP",
+        "PlanDescription": "AXA 1 (XP & XI) DED 20%MAX 50 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AX 10 C0 XP10",
+        "PlanDescription": "AXA 1 (XP & XI) COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AX 10 C0 XP20",
+        "PlanDescription": "AXA 1 (XP & XI) COPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AX 1D0 C0 XP",
+        "PlanDescription": "AXA 1 (XP & XI) DED NIL COPAY NIL PH NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AX 1D20%M",
+        "PlanDescription": "AXA 1 (XP &XI)  DED AED 147.00 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AX 1D20%M 150",
+        "PlanDescription": "AXA 1 (XP &XI)  DED AED 150.00 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AX 1D20%M 95.42",
+        "PlanDescription": "AXA 1 (XP &XI)  DED AED 95.42 00 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "AXA - AXA-2",
+    "PolicyGroupDescription": "AXA GULF - AXA-2 NETWORK",
+    "RateListCode": "AXA",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS010",
+    "Plans": [
+      {
+        "PlanCode": "AX 2P D2 NIL",
+        "PlanDescription": "AXA 2 PRIVILEGE  DED NIL COPAY NIL ( 1000 LIMIT)",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AX 2P D2 NIL 2",
+        "PlanDescription": "AXA 2 PRIVILEGE  DED NIL COPAY NIL ( 2000 LIMIT)",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AX 2P D20% M50",
+        "PlanDescription": "AXA 2 PRIVILEGE  DED 20% M50 PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AX 2P D20%M50L",
+        "PlanDescription": "AXA 2 PRIVILEGE  DED 20% M100 COPAY 10%M1000 PH NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 2 C20M50PH",
+        "PlanDescription": "AXA - 2 COPAY 20% MAX 50 PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 2 D",
+        "PlanDescription": "AXA - 2 DED 20% MAX 95 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 2 D 20 C0",
+        "PlanDescription": "AXA - 2 DED 20 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 2 D 25% C25",
+        "PlanDescription": "AXA - 2 DED 25%  COPAY 25%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 2 D 30% C30",
+        "PlanDescription": "AXA - 2 DED 30%  COPAY 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 2 D 50 C0",
+        "PlanDescription": "AXA - 2 DED 50  COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 2 D 50 C10",
+        "PlanDescription": "AXA - 2 DED 50  COPAY NIL L/R 10% M50 PH  NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 2 D10%M50",
+        "PlanDescription": "AXA - 2 DED 10% MAX 50  COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 2 D100C0",
+        "PlanDescription": "AXA - 2 DED 100  COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 2 D155.4 C0",
+        "PlanDescription": "AXA - 2 DED 155.40  COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 2 D161C0",
+        "PlanDescription": "AXA - 2 DED 161 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 2 D20 0C0",
+        "PlanDescription": "AXA - 2 DED 20% MAX 100  COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 2 D20%",
+        "PlanDescription": "AXA - 2 DED 20% MAX 95 COPAY 20%  PH NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 2 D20%C0",
+        "PlanDescription": "AXA - 2 DED 20% COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 2 D2050P10%",
+        "PlanDescription": "AXA 2 DED 20% MAX 50 COPAY NIL PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 2 D20C20",
+        "PlanDescription": "AXA - 2 DED 20% COPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 2 D20M",
+        "PlanDescription": "AXA - 2 DED 20% MAX 100  COPAY NIL PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 2 D20M100P",
+        "PlanDescription": "AXA - 2 DED 20% MAX 100  COPAY NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 2 D20M50",
+        "PlanDescription": "AXA - 2 DED 20% MAX 50 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 2 D20M50X",
+        "PlanDescription": "AXA - 2 DED 20% MAX 50 COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 2 D64C0",
+        "PlanDescription": "AXA - 2 DED 64  COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 2P D1",
+        "PlanDescription": "AXA 2   DED 20%MAX50  COPAY NIL PH20%M150 (1000 LIMIT)",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 2P D10B",
+        "PlanDescription": "AXA 2 PRIVILEGE  DED 20%MAX95 AED COPAY NIL (5000 LIMIT)",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 2P D150",
+        "PlanDescription": "AXA 2 PRIVILEGE  DED 20%MAX50  COPAY NIL PH20% (5000 LIMIT)",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA262C0",
+        "PlanDescription": "AXA 2 DED 62 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA2D0C0",
+        "PlanDescription": "AXA 2 DED NIL COPAY NIL  PH NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA2D10C10",
+        "PlanDescription": "AXA 2 DED 10%  COPAY 10 %  PH 10%",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "AXA - AXA-2- XP",
+    "PolicyGroupDescription": "AXA GULF - AXA-2 NETWORK-  (XP & XI POLICY)",
+    "RateListCode": "AXA",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS010",
+    "Plans": [
+      {
+        "PlanCode": "AXA2D0C0 50",
+        "PlanDescription": "AXA 2 (XP & XI) DED 50AED  COPAY NIL  PH NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA2D0C0 X10",
+        "PlanDescription": "AXA 2 (XP & XI) COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA2D0C0 XP",
+        "PlanDescription": "AXA 2 (XP & XI) DED NIL COPAY NIL  PH NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA2D0CX10",
+        "PlanDescription": "AXA 2 (XP & XI) DED 20%MAX 50 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA2D20%",
+        "PlanDescription": "AXA 2 (XP & XI) COPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA2D25%",
+        "PlanDescription": "AXA 2 (XP & XI) COPAY 25%",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "AXA - AXA-3",
+    "PolicyGroupDescription": "AXA GULF - AXA-3 NETWORK",
+    "RateListCode": "AXA",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS010",
+    "Plans": [
+      {
+        "PlanCode": "AXA 3  62C0",
+        "PlanDescription": "AXA 3 DED 62AED  COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 3 C20%",
+        "PlanDescription": "AXA 3 COPAY 25%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 3 D0 C0",
+        "PlanDescription": "AXA 3 DED NIL COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 3 D0C0",
+        "PlanDescription": "AXA 3 DED 20% COPAY 20% (AED 1000) LIMIT",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 3 D10% C0",
+        "PlanDescription": "AXA 3 DED 10% COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 3 D10%C10%",
+        "PlanDescription": "AXA 3 DED 10% COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 3 D10%C10%P",
+        "PlanDescription": "AXA 3 DED 10% COPAY 10% PH NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 3 D10%M25C0",
+        "PlanDescription": "AXA 3 DED 10% MAX 25 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 3 D10%M50",
+        "PlanDescription": "AXA 3 DED 10% MAX 50 OP 10% PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 3 D10%M60",
+        "PlanDescription": "AXA 3 DED 10% MAX 60 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 3 D10%PH10%",
+        "PlanDescription": "AXA 3 DED 10%PH10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 3 D100",
+        "PlanDescription": "AXA 3 DED 10%MAX 100  COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 3 D1000",
+        "PlanDescription": "AXA 3 DED 100  COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 3 D10M75",
+        "PlanDescription": "AXA 3 DED 10%M75 COPAY20%M100   PH10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 3 D118 C0",
+        "PlanDescription": "AXA 3 DED 118 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 3 D15%C10%",
+        "PlanDescription": "AXA 3 DED 15% COPAY 15%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 3 D155.4 C0",
+        "PlanDescription": "AXA 3 DED 155.40 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 3 D161 C0",
+        "PlanDescription": "AXA 3 DED 161 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 3 D20%",
+        "PlanDescription": "AXA 3 DED 20% M 40 COPAY L/R 10% PH NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 3 D20%10010",
+        "PlanDescription": "AXA 3 DED 20% MAX 100 DG 10% PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 3 D20%C20%",
+        "PlanDescription": "AXA 3 DED 20% COPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 3 D20%LR5",
+        "PlanDescription": "AXA 3 DED 20% MAX 100 LAB/PH 5% OP/RAD NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 3 D20%M",
+        "PlanDescription": "AXA 3 DED 20% MAX 100 COPAY 10%M100 PH NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 3 D20%M100",
+        "PlanDescription": "AXA 3 DED 20% MAX 100 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 3 D20%M25C0",
+        "PlanDescription": "AXA 3 DED 20% MAX 25 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 3 D20%M40",
+        "PlanDescription": "AXA 3 DED 20% M 40 OP/LAB/RAD 10% PH NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 3 D20%M40 P",
+        "PlanDescription": "AXA 3 DED 20% MAX 40 LAB/RAD/PH 10% OP NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 3 D20%M50 P",
+        "PlanDescription": "AXA 3 DED 20% MAX 50 COPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 3 D20%M5010",
+        "PlanDescription": "AXA 3 DED 20% MAX 50 COPAY NIL PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 3 D20%M5020",
+        "PlanDescription": "AXA 3 DED 20% MAX 50 COPAY NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 3 D20%M50C0",
+        "PlanDescription": "AXA 3 DED 20% MAX 50 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 3 D20%M50L",
+        "PlanDescription": "AXA 3 DED 20% MAX 50 LAB/RAD/PH 10% OP NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 3 D20%M50X",
+        "PlanDescription": "AXA 3 DED 20% MAX 50 OP NIL PH 30% MAX 100",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 3 D20%M60",
+        "PlanDescription": "AXA 3 DED 20% MAX 60 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 3 D20%M75",
+        "PlanDescription": "AXA 3 DED 20% MAX 75 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 3 D20%M75 P",
+        "PlanDescription": "AXA 3 DED 20% MAX 75 COPAY NIL PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 3 D20%MX",
+        "PlanDescription": "AXA 3 DED 20% MAX 100 COPAY 10%M1000",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 3 D20%P",
+        "PlanDescription": "AXA 3 DED 20% MAX 100 COPAY 10% PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 3 D20%P20",
+        "PlanDescription": "AXA 3 DED 20% MAX 100 COPAY NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 3 D20%P20%",
+        "PlanDescription": "AXA 3 DED 20% MAX 100 COPAY NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 3 D20%S",
+        "PlanDescription": "AXA 3 COPAY 20% PH NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 3 D20C20P30",
+        "PlanDescription": "AXA 3 DED 20% COPAY 20% PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 3 D20M50 P",
+        "PlanDescription": "AXA 3 DED 20% MAX 50 COPAY 20%MAX 50",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 3 D25P10%",
+        "PlanDescription": "AXA 3 DED 25 COPAY NIL PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 3 D25P20%",
+        "PlanDescription": "AXA 3 DED 25 COPAY NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 3 D30AED",
+        "PlanDescription": "AXA 3 DED 30AED COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 3 D30C30",
+        "PlanDescription": "AXA 3 DED 30% COPAY 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 3 D40 C10",
+        "PlanDescription": "AXA 3 DED 40 COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 3 D47",
+        "PlanDescription": "AXA 3 DED 47 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 3 D50 C",
+        "PlanDescription": "AXA 3 DED 50 COPAY 20%MAX 50",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 3 D50 C0",
+        "PlanDescription": "AXA 3 DED 50 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 3 D50 C0 5%",
+        "PlanDescription": "AXA 3 DED 50 COPAY NIL PH 5% (2000AED LIMIT)",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 3 D50P10%",
+        "PlanDescription": "AXA 3 DED 50 COPAY NIL PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 3 D50P20%",
+        "PlanDescription": "AXA 3 DED 50 COPAY NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 3 D50P30%",
+        "PlanDescription": "AXA 3 DED 50 COPAY NIL PH 30% MAX 100",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 3 D9.4",
+        "PlanDescription": "AXA 3 DED 9.4 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 3 D94",
+        "PlanDescription": "AXA 3 DED 94 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 3 D95.54",
+        "PlanDescription": "AXA 3 DED 95.54 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 3 P C10%M50",
+        "PlanDescription": "AXA 3 PRIVILEGE COPAY 10% MAX 50 PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 3 P C10%MX",
+        "PlanDescription": "AXA 3 PRIVILEGE DED 10% MAX 50 OP NIL PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 3 P C10M50",
+        "PlanDescription": "AXA 3 PRIVILEGE DED 10% MAX 50 COPAY 10% MAX 50 PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 3 P C20%M50",
+        "PlanDescription": "AXA 3 PRIVILEGE COPAY 20% MAX 50",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 3 P C20%MX",
+        "PlanDescription": "AXA 3 PRIVILEGE COPAY 20% MAX 50 PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 3 P D10%M50",
+        "PlanDescription": "AXA 3 PRIVILEGE DED 10% MAX 50 OP/LAB/RAD10% MAX 50 PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 3 P D20%M50",
+        "PlanDescription": "AXA 3 PRIVILEGE DED 20% MAX 50 OP/LAB/RAD20% MAX 50 PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 3 P D50",
+        "PlanDescription": "AXA 3 PRIVILEGE DED 50 LAB/RAD20%OP 0% MAX 50 PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 3 P D50 C10",
+        "PlanDescription": "AXA 3 PRIVILEGE  DED 50 DG 10% PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 3 P D50 DM5",
+        "PlanDescription": "AXA 3 PRIVILEGE  DED 50 DG 10% MAX 50 PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 3 PC1",
+        "PlanDescription": "AXA 3 PRIVILEGE DED NIL COPAY NIL ( 1000 LIMIT)",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 3 PC1 2",
+        "PlanDescription": "AXA 3 PRIVILEGE DED NIL COPAY NIL ( 2000 LIMIT)",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 3 PC10%M50X",
+        "PlanDescription": "AXA 3 PRIVILEGE COPAY 10% MAX 50 PH 30% MAT NIL INCL PH",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 3 PC10%MX",
+        "PlanDescription": "AXA 3 PRIVILEGE COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 3 PD10%M50",
+        "PlanDescription": "AXA 3 PRIVILEGE DED 20% MAX 50 OP/LAB/RAD10% MAX 50 PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 3D20%M50C10",
+        "PlanDescription": "AXA 3 DED 20% MAX 50 COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA X3 PD10%M50",
+        "PlanDescription": "AXA 3 PRIVILEGE DED 20% MAX 50 OP/LAB/RAD20% MAX 50 PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXAX 3 D10% C0",
+        "PlanDescription": "AXA 3 DED 10% COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NAX 3 D20%M50C0",
+        "PlanDescription": "AXA 3 DED 20% MAX 50 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "AXA - AXA-3-XP",
+    "PolicyGroupDescription": "AXA GULF - AXA-3 NETWORK-  (XP & XI POLICY)",
+    "RateListCode": "AXA",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS010",
+    "Plans": [
+      {
+        "PlanCode": "AX 3D20%M 95.42",
+        "PlanDescription": "AXA 3 (XP &XI)  DED AED 95.42 00 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 3 D0 C0 P",
+        "PlanDescription": "AXA 3 ( XP & XI) COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 3 D0 C0 P20",
+        "PlanDescription": "AXA 3 ( XP & XI) COPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 3 D0 C0 XP",
+        "PlanDescription": "AXA 3 ( XP & XI) DED NIL COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 3 D0 C0 XP1",
+        "PlanDescription": "AXA 3 ( XP & XI) DED 100 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 3 D0 C0 XP5",
+        "PlanDescription": "AXA 3 ( XP & XI) DED 20% 50 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 3 D0 C0P5",
+        "PlanDescription": "AXA 3 ( XP & XI) DED50  COPAY NIL",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "AXA - AXA-4",
+    "PolicyGroupDescription": "AXA GULF - AXA-4 NETWORK",
+    "RateListCode": "AXA - DIAMOND",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS010",
+    "Plans": [
+      {
+        "PlanCode": "AXA 4 C0P30%",
+        "PlanDescription": "AXA 4 DED NIL  COPAY NIL PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 4 C20%P30%",
+        "PlanDescription": "AXA 4 DED 20% COPAY 20% PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 4 C30%",
+        "PlanDescription": "AXA 4 COPAY 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 4 D0C0",
+        "PlanDescription": "AXA 4 DED NIL  COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 4 D10%C0",
+        "PlanDescription": "AXA 4 DED 10%  COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 4 D10%M25",
+        "PlanDescription": "AXA 4 DED 10% M25  COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 4 D10%M25P",
+        "PlanDescription": "AXA 4 DED 10% M25  COPAY 10% PH NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 4 D10%M25X",
+        "PlanDescription": "AXA 4 DED 10% MAX 25  COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 4 D138.75C0",
+        "PlanDescription": "AXA 4 DED 138.75  COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 4 D20 MAX25",
+        "PlanDescription": "AXA 4 DED 20%MAX25 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 4 D20 N",
+        "PlanDescription": "AXA 4 PRIVILEGE  DED NIL   COPAY NIL (1000AED LIMIT)",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 4 D20 N 5",
+        "PlanDescription": "AXA 4 PRIVILEGE  DED NIL   COPAY NIL (2000AED LIMIT)",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 4 D20 PH10%",
+        "PlanDescription": "AXA 4 DED 20% LAB/RAD 10% PH  10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 4 D20%C20%",
+        "PlanDescription": "AXA 4 DED 20% COPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 4 D2050",
+        "PlanDescription": "AXA 4 DED 20%MAX 50  COPAY NIL PH 10% MAX 50",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 4 D2050X",
+        "PlanDescription": "AXA 4 DED 20% M50 OP NIL LAB/RAD 20% PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 4 D2085XX",
+        "PlanDescription": "AXA 4 COMPANY DED 20%M85  COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 4 D2085XXXX",
+        "PlanDescription": "AXA 4 COMPANY DED 20%M85  COPAY NIL PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 4 D2095",
+        "PlanDescription": "AXA 4 PRIVILEGE  DED 20%M95  COPAY NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 4 D20C0",
+        "PlanDescription": "AXA 4 DED 20% MAX 75  COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 4 D25%C25%",
+        "PlanDescription": "AXA 4 DED 25% COPAY 25%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 4 D28",
+        "PlanDescription": "AXA 4 DED 28",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 4 D50C0",
+        "PlanDescription": "AXA 4 DED 50  COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 4 D50P10%",
+        "PlanDescription": "AXA 4 DED 50  COPAY NIL PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 4 D50P20%",
+        "PlanDescription": "AXA 4 DED 50  COPAY NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 4 DP10%",
+        "PlanDescription": "AXA 4 DED 10AED   COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA4 D C0 P10",
+        "PlanDescription": "AXA 4 DED 20% MAX 100  COPAY 10% PH 10% (1000AED LIMIT)",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA4 D10%30",
+        "PlanDescription": "AXA 4 DED 10% M 50  L/R 15% PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA4 D10%50",
+        "PlanDescription": "AXA 4 DED 10% M 50  L/R 15% PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA4 D10%C10L/R",
+        "PlanDescription": "AXA 4 DED 10% M 50  COPAY 10% L/R PH NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA4 D10%C10P20",
+        "PlanDescription": "AXA 4 DED 10% M 50  COPAY 10% PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA4 D10%M40",
+        "PlanDescription": "AXA 4 DED 10% MAX 40  COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA4 D15%M25",
+        "PlanDescription": "AXA 4 DED 15% MAX 25  COPAY NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA4 D20 0 P10",
+        "PlanDescription": "AXA 4 DED 20% MAX 100  COPAY 10AED PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA4 D20 100100",
+        "PlanDescription": "AXA 4 DED 20% MAX 100  COPAY NIL L/R 10 PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA4 D20 C0",
+        "PlanDescription": "AXA 4 DED 20% MAX 100  COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA4 D20 C0 P10",
+        "PlanDescription": "AXA 4 DED 20% MAX 100  COPAY NIL PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA4 D20 P10",
+        "PlanDescription": "AXA 4 DED 20% MAX 75  COPAY NIL PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA4 D20%L/R10",
+        "PlanDescription": "AXA 4 DED 20% MAX 50  COPAY NIL L/R 10% PH NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA4 D20%L/R120",
+        "PlanDescription": "AXA 4 DED 20% MAX 50  COPAY NIL L/R 10% PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA4 D20%M",
+        "PlanDescription": "AXA 4 DED 20% MAX 50  COPAY NIL PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA4 D20%M20",
+        "PlanDescription": "AXA 4 DED 20% MAX 20  COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA4 D20%M5",
+        "PlanDescription": "AXA 4 DED 20% MAX 50  COPAY 10% PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA4 D20%M50",
+        "PlanDescription": "AXA 4 DED 20% MAX 50  COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA4 D20%M5030",
+        "PlanDescription": "AXA 4 DED 20% MAX 50  COPAY 10% PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA4 D20%M50P0",
+        "PlanDescription": "AXA 4 DED 20% MAX 50  COPAY 10% PH NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA4 D20%M50P2",
+        "PlanDescription": "AXA 4 DED 20% MAX 50  COPAY NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA4 D20%M50PC",
+        "PlanDescription": "AXA 4 DED 20% MAX 50  COPAY 20% PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA4 D20%MP2",
+        "PlanDescription": "AXA 4 DED 20% MAX 50  COPAY NIL PH 20%MAX 50",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA4 D20M55",
+        "PlanDescription": "AXA 4 DED 20% MAX 55  COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA4 D50 C10",
+        "PlanDescription": "AXA 4 DED 50  COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA4C10",
+        "PlanDescription": "AXA 4 DED 10%  COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA4C40%",
+        "PlanDescription": "AXA 4 DED 40%  COPAY 40% PH 40%",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "AXA - AXA-4- XP",
+    "PolicyGroupDescription": "AXA GULF - AXA-4 NETWORK-  (XP & XI POLICY)",
+    "RateListCode": "AXA - DIAMOND",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS010",
+    "Plans": [
+      {
+        "PlanCode": "AXA 4 D0C0 10",
+        "PlanDescription": "AXA 4 (XP & XI) DED NIL  COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 4 D0C0 X205",
+        "PlanDescription": "AXA 4 (XP & XI) DED 20% M50   COPAY 20%50 PH 20%50",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 4 D0C0 XP",
+        "PlanDescription": "AXA 4 (XP & XI) DED NIL  COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 4 D0C0 XP20",
+        "PlanDescription": "AXA 4 (XP & XI) DED 20% M50   COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 4 D10% XP",
+        "PlanDescription": "AXA 4 (XP & XI) COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 4 D10%20",
+        "PlanDescription": "AXA 4 (XP & XI)  DED 20% COPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 4 D25 XP",
+        "PlanDescription": "AXA 4 (XP & XI) DED 25AED COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 4 D50 XP",
+        "PlanDescription": "AXA 4 (XP & XI) DED 50AED COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 4 D50%",
+        "PlanDescription": "AXA 4 (XP & XI) COPAY 50%",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "AXA - AXA-MBC-",
+    "PolicyGroupDescription": "AXA GULF - AXA-4 NETWORK ( AXA1- MBC COMPANY)-",
+    "RateListCode": "AXA - DIAMOND",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS010",
+    "Plans": [
+      {
+        "PlanCode": "AXA 4 20% 125",
+        "PlanDescription": "AXA 4 (AXA-1MBC COMPANY) DED 20% MAX 125 COPAY NIL (2000)",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 4 D",
+        "PlanDescription": "AXA 4 (AXA-1MBC COMPANY) DED 15%  COPAY 15% PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 4 D0C0-",
+        "PlanDescription": "AXA 4 (AXA-1MBC COMPANY) DED NIL  COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 4 D0CX D",
+        "PlanDescription": "AXA 4 MBC COMPANY DED NIL  COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 4 D2085-1-",
+        "PlanDescription": "AXA 4  (AXA-1MBC COMPANY) DED 20%M85  COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 4 D2085-1-8",
+        "PlanDescription": "AXA 4  (AXA-1MBC COMPANY) DED 20%M85  COPAY NIL PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 4 D20C20",
+        "PlanDescription": "AXA 4  (AXA-1MBC COMPANY) DED 20% COPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 4 D50",
+        "PlanDescription": "AXA 4  (AXA-1MBC COMPANY) DED50AED   COPAY NIL PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 4 D50CO NIL",
+        "PlanDescription": "AXA 4  (AXA-1MBC COMPANY) DED50AED   COPAY NIL",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "AXA - DIAMOND",
+    "PolicyGroupDescription": "AXA GULF - DIAMOND NETWORK",
+    "RateListCode": "AXA - DIAMOND",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS010",
+    "Plans": [
+      {
+        "PlanCode": "AXA DIA C10%",
+        "PlanDescription": "AXA DIAMOND DED 10% COPAY 10% PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA DIA C20%",
+        "PlanDescription": "AXA DIAMOND DED 20% COPAY 20% PH NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA DIA C25%",
+        "PlanDescription": "AXA DIAMOND DED 25% COPAY 25% PH 25%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA DIA C30%",
+        "PlanDescription": "AXA DIAMOND DED 30% COPAY 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA DIA C40%",
+        "PlanDescription": "AXA DIAMOND DED 40% COPAY 40%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA DIA C50%",
+        "PlanDescription": "AXA DIAMOND DED 50% COPAY 50%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA DIA D0C0",
+        "PlanDescription": "AXA DIAMOND DED NIL COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA DIA D10%C0",
+        "PlanDescription": "AXA DIAMOND DED 10% COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA DIA D10%C30",
+        "PlanDescription": "AXA DIAMOND DED 10% COPAY 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA DIA D10%M60",
+        "PlanDescription": "AXA DIAMOND DED 10% MAX 60 COPAY NIL PH NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA DIA D10%P10",
+        "PlanDescription": "AXA DIAMOND DED 10% COPAY NIL PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA DIA D138.75",
+        "PlanDescription": "AXA DIAMOND DED 138.75 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA DIA D147.50",
+        "PlanDescription": "AXA DIAMOND DED 147.50 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA DIA D163C0",
+        "PlanDescription": "AXA DIAMOND DED 163 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA DIA D20%",
+        "PlanDescription": "AXA DIAMOND DED 20% COPAY NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA DIA D20%C0",
+        "PlanDescription": "AXA DIAMOND DED 20% COPAY NIL PH NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA DIA D20%C10",
+        "PlanDescription": "AXA DIAMOND DED 20% MAX 50 COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA DIA D20%M50",
+        "PlanDescription": "AXA DIAMOND DED 20% MAX 50 COPAY NIL PH NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA DIA D20%M60",
+        "PlanDescription": "AXA DIAMOND DED 20% MAX 60 COPAY NIL PH NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA DIA D20P10%",
+        "PlanDescription": "AXA DIAMOND DED 20% COPAY NIL PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA DIA D20P30%",
+        "PlanDescription": "AXA DIAMOND DED 20% COPAY NIL PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA DIA D25C0",
+        "PlanDescription": "AXA DIAMOND DED 25 COPAY NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA DIA D30P10%",
+        "PlanDescription": "AXA DIAMOND DED 30 COPAY NIL PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA DIA D47C0",
+        "PlanDescription": "AXA DIAMOND DED 47 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA DIA D50C0",
+        "PlanDescription": "AXA DIAMOND DED 50 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA DIA D50P10%",
+        "PlanDescription": "AXA DIAMOND DED 50 COPAY NIL PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA DIA D50P20%",
+        "PlanDescription": "AXA DIAMOND DED 50 COPAY NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA DIA D50P30%",
+        "PlanDescription": "AXA DIAMOND DED 50 COPAY NIL PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA DIA D84",
+        "PlanDescription": "AXA DIAMOND DED 84 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA DIAD138.75",
+        "PlanDescription": "AXA DIAMOND DED 138.75COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA DIAD20%C20%",
+        "PlanDescription": "AXA DIAMOND DED 20% COPAY 20% PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA DIAD20%C5%",
+        "PlanDescription": "AXA DIAMOND DED 20% COPAY 5% PH 5%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA DIAD30%C10%",
+        "PlanDescription": "AXA DIAMOND DED 30% COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXADIAD20MAX25",
+        "PlanDescription": "AXA DIAMOND DED 20% MAX 25 COPAY NIL PH NIL",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "AXA PAPER CLAIM",
+    "PolicyGroupDescription": "AXA Gulf Direct Billing - PAPER CLAIM",
+    "RateListCode": "AXA",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS010",
+    "Plans": [
+      {
+        "PlanCode": "AXA PP C20%M100",
+        "PlanDescription": "AXA PAPER CLAIM COPAY 20% MAX 100",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA PP C20%M300",
+        "PlanDescription": "AXA PAPER CLAIM COPAY 20% MAX 300",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "AXA REF 1.3",
+    "PolicyGroupDescription": "AXA - AXA INSURANCE - GULF - REFFERED CASES - 1.3 FACTOR",
+    "RateListCode": "",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS020",
+    "Plans": [
+      {
+        "PlanCode": "AXA REFERED",
+        "PlanDescription": "AXA - AXA DED 0 COPAY NIL - REFERRED CASES 1.3",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "AXA-1BLACK",
+    "PolicyGroupDescription": "AXA GULF - AXA-1 NETWORK( BLACK CARD )",
+    "RateListCode": "AXA",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS010",
+    "Plans": [
+      {
+        "PlanCode": "AXA 1 P D2 60",
+        "PlanDescription": "AXA 1 PRIVILEGE  BLACK CARD DED 20%M60 COPAY NIL (5000 LIMIT",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 1 P D2 60P1",
+        "PlanDescription": "AXA 1 PRIVILEGE  BLACK CARD DED 20%M60 CO NIL PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 1 P D2 610",
+        "PlanDescription": "AXA 1 PRIVILEGE   DED 20%M60 COPAY NIL PH 10% (5000 LIMIT)",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 1 P D20",
+        "PlanDescription": "AXA 1 PRIV. BLACK DED/OP 20%M1000 PH20% L/R 0 (5000 LIMIT",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 1 P D20%50B",
+        "PlanDescription": "AXA 1 PRIVILEGE  BLACK CARD DED 20%50 COPAY NIL (5000 LIMIT",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 1P D0",
+        "PlanDescription": "AXA 1 PRIVILEGE  BLACK CARD DED 0 COPAY NIL (5000 LIMIT",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 1P D10",
+        "PlanDescription": "AXA 1 PRIV. BLACK  DED 10%M25 COPAY 10%PH10%M35 (5000 LIMIT",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 1P D102",
+        "PlanDescription": "AXA 1 PRIV  BLACK  DED 10%25 COPAY 10% PH 10%M35 (5000 LIMIT",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 1P D102 10%",
+        "PlanDescription": "AXA 1 PRIV  BLACK  DED 10% 75 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 1P D1025B",
+        "PlanDescription": "AXA 1 PRIVILEGE  BLACK CARD DED 10%25 COPAY NIL (5000 LIMIT",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 1P D20",
+        "PlanDescription": "AXA 1PRIVILEGE  BLACK CARD DED 50 COPAY 20%MAX50 (5000 LIMIT",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 1P D20P20",
+        "PlanDescription": "AXA 1PRIVILEGE  BLACK CARD D 20M 50 P 20% (5000 LIMIT",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA1B D 20",
+        "PlanDescription": "AXA 1 COPAY 20% BLACK CARD (5000 AED )",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA1B D 20 50",
+        "PlanDescription": "AXA 1 COPAY 20% M50  BLACK CARD (5000 AED )",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA1B D20%10 C0",
+        "PlanDescription": "AXA 1 DED 20% MAX 100 COPAY NIL BLACK CARD (5000 AED )",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA1B D20%50 C0",
+        "PlanDescription": "AXA 1 DED 20% MAX 50 COPAY NIL BLACK CARD (5000 AED )",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "AXA-2-BLACK",
+    "PolicyGroupDescription": "AXA GULF - AXA-2 NETWORK(BLACK CARD)",
+    "RateListCode": "AXA",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS010",
+    "Plans": [
+      {
+        "PlanCode": "AXA 2P D1025B",
+        "PlanDescription": "AXA 2 PRIVILEGE  BLACK CARD DED 10%25 COPAY NIL (5000 LIMIT",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 2P D10B 95",
+        "PlanDescription": "AXA 2 PRIVILAGE BLCK  DED 20%MAX95 COPAY NIL (5000 LIMIT)",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 2P D20",
+        "PlanDescription": "AXA 2PRIVILEGE  BLACK CARD DED 50 COPAY 20%MAX50 (5000 LIMIT",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 2P D20%50B",
+        "PlanDescription": "AXA 2PRIVILEGE  BLACK CARD DED 20%50 COPAY NIL (5000 LIMIT",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "AXA-3-BLACK",
+    "PolicyGroupDescription": "AXA GULF - AXA-3 NETWORK(BLACK CARD)",
+    "RateListCode": "AXA",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS010",
+    "Plans": [
+      {
+        "PlanCode": "AXA 3P D0",
+        "PlanDescription": "AXA 3 PRIVILEGE  BLACK CARD DED 0 COPAY NIL (5000 LIMIT",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 3P D20",
+        "PlanDescription": "AXA 3 PRIVILEGE  BLACK DED 20%M50 OP/LAB/RAD/PH 20%M50",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  }
+]
