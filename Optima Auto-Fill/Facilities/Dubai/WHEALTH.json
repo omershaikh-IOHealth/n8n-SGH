@@ -1,0 +1,17 @@
+[
+  {
+    "PolicyGroupCode": "WHT - TE - RUBY",
+    "PolicyGroupDescription": "WHEALTH - TAKAFUL EMARAT (RUBY)",
+    "RateListCode": "WHEALTH - RUBY",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS022",
+    "Plans": [
+      {
+        "PlanCode": "WH  TE RUB D0C0",
+        "PlanDescription": "WHEALTH RUBY TAKAFUL EMARAT DED NIL COPAY NIL",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  }
+]
