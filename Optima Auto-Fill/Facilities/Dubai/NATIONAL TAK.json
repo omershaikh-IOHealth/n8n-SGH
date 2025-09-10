@@ -1,0 +1,37 @@
+[
+  {
+    "PolicyGroupCode": "WATANIA- NAS CN",
+    "PolicyGroupDescription": "NATIONAL TAKAFUL COMPANY WATANIA P.J.S.C - NAS CN",
+    "RateListCode": "NAS",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS044",
+    "Plans": [
+      {
+        "PlanCode": "WATANIA-NAC CN",
+        "PlanDescription": "NATIONAL TAKAFUL COMPANY WATANIA NAS CN-  DED NIL COPAY NIL",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "WATANIA- NAS GN",
+    "PolicyGroupDescription": "NATIONAL TAKAFUL COMPANY WATANIA P.J.S.C - NAS GN",
+    "RateListCode": "NAS-GN",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS044",
+    "Plans": [
+      {
+        "PlanCode": "WATANIA-NAC D50",
+        "PlanDescription": "NATIONAL TAKAFUL COMPANY WATANIA NAS GN-  DED 50 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "WATANIA-NAC GN",
+        "PlanDescription": "NATIONAL TAKAFUL COMPANY WATANIA NAS GN-  DED NIL COPAY NIL",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  }
+]
