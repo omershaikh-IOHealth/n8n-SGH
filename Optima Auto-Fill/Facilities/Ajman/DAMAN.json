@@ -1,0 +1,3232 @@
+[
+  {
+    "PolicyGroupCode": "DAMAN NETWORK-1",
+    "PolicyGroupDescription": "NATIONAL HEALTH INS CO - DAMAN - NETWORK - 1",
+    "RateListCode": "DAMAN - NET-1",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS200",
+    "Plans": [
+      {
+        "PlanCode": "DAM  N1 D20% C0",
+        "PlanDescription": "DAMAN NETWORK-1 DED 20%(MAX 150) COPAY NIL PH NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM  N1 D20%C10",
+        "PlanDescription": "DAMAN NETWORK-1 DED 20%(100)COPAY 10% PH 10% DN 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM  N1 MB10%",
+        "PlanDescription": "DAMAN NETWORK-1 DED 10%(MAX 75) COPAY 10% PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM  N1 MB20%",
+        "PlanDescription": "DAMAN NETWORK-1 DED 20%(MAX 75) COPAY 20% PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N 1D20% C 0",
+        "PlanDescription": "DAMAN NETWORK-1 DED 20%(MAX 100)  COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N1    D 20%",
+        "PlanDescription": "DAMAN NETWORK-1 DED20%(MAX50) L%R 10% PH NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N1   D  20%",
+        "PlanDescription": "DAMAN NETWORK-1 DED20%(MAX75) CO 5% PH 5%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N1   D 2 0%",
+        "PlanDescription": "DAMAN NETWORK-1 DED20%(MAX50) CO10% PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N1   D 20%",
+        "PlanDescription": "DAMAN NETWORK-1 DED10%(MAX50) CO NIL PH 20%(MAX100)",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N1   D10%",
+        "PlanDescription": "DAMAN NETWORK-1 DED10%(MAX50) CO NIL PH 20%(MAX100)",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N1   D2 0%",
+        "PlanDescription": "DAMAN NETWORK-1 DED20%(MAX50)  PH 10% DENTAL 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N1   D20%",
+        "PlanDescription": "DAMAN NETWORK-1 DED 20%(MAX50)  PH 30% DENTAL 20% CO 80",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N1   D50C0",
+        "PlanDescription": "DAMAN NETWORK-1 DED 50 COPAY NIL PH NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N1   D80C0",
+        "PlanDescription": "DAMAN NETWORK-1 DED 80AED COPAY NIL PH NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N1  C 10%",
+        "PlanDescription": "DAMAN NETWORK 1 CO 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N1  C20%",
+        "PlanDescription": "DAMAN NETWORK-1 DED20% COPAY 20% PH 30%(MAX 400)",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N1  D   20%",
+        "PlanDescription": "DAMAN NETWORK-1 DED 20% COPAY NIL PH30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N1  D 20%",
+        "PlanDescription": "DAMAN NETWORK-1 DED20%(MAX50) CO 10% PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N1  D 50 C0",
+        "PlanDescription": "DAMAN NETWORK-1 DED 50 COPAY NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N1  D0 C0",
+        "PlanDescription": "DAMAN NETWORK-1 DED NIL COPAY NIL PH NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N1  D10%C0",
+        "PlanDescription": "DAMAN NETWORK-1 DED10% COPAY 0 PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N1  D100 C0",
+        "PlanDescription": "DAMAN NETWORK-1 DED 100 COPAY NIL PH 20% (MAX-100)",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N1  D100C0",
+        "PlanDescription": "DAMAN NETWORK-1 DED 100 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N1  D1075",
+        "PlanDescription": "DAMAN NETWORK-1 DED 10% MAX 75 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N1  D2 0%",
+        "PlanDescription": "DAMAN NETWORK-1 DED 20% (MAX-25) COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N1  D20%",
+        "PlanDescription": "DAMAN NETWORK-1 DED 20% (MAX-75) CO NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N1  D20% C0",
+        "PlanDescription": "DAMAN NETWORK-1 DED 20% (MAX-75) COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N1  D20%C 0",
+        "PlanDescription": "DAMAN NETWORK-1 DED 20% (MAX-100) CO NIL PH 20%(MAX 100 AED)",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N1  D20%C0",
+        "PlanDescription": "DAMAN NETWORK-1 DED 20% (MAX-100) COPAY NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N1  D20%C10",
+        "PlanDescription": "DAMAN NETWORK-1 DED 20% (MAX-100) COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N1  D25 C0",
+        "PlanDescription": "DAMAN NETWORK-1 DED 25 COPAY NIL PH 10% (MAX100)",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N1  D25C0",
+        "PlanDescription": "DAMAN NETWORK-1 DED 25 COPAY NIL PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N1  D30% C0",
+        "PlanDescription": "DAMAN NETWORK-1 DED 30% COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N1  D30%C0",
+        "PlanDescription": "DAMAN NETWORK-1 DED 30%(max 50) COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N1  D40P20%",
+        "PlanDescription": "DAMAN NETWORK-1 DED 40 COPAY NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N1  D50",
+        "PlanDescription": "DAMAN NETWORK-1 DED 50 DG 30 PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N1  D50  C0",
+        "PlanDescription": "DAMAN NETWORK-1 DED 50 COPAY NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N1  D50 C",
+        "PlanDescription": "DAMAN NETWORK-1 DED 50 COPAY NIL PH 100",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N1  D50 C 0",
+        "PlanDescription": "DAMAN NETWORK-1 DED 50 COPAY NIL PH 30% (MAX-100)",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N1  D50 C0",
+        "PlanDescription": "DAMAN NETWORK-1 DED 50 COPAY NIL PH 20% (MAX-100)",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N1  D50 C30",
+        "PlanDescription": "DAMAN NETWORK-1 DED 50 COPAY 30 AED PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N1  D50C0",
+        "PlanDescription": "DAMAN NETWORK-1 DED 50 COPAY NIL PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N1  D50P20%",
+        "PlanDescription": "DAMAN NETWORK-1 DED 50 DG 30 PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N1  DB25%",
+        "PlanDescription": "DAMAN NETWORK-1 DB PLAN 25% ON DENTAL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N1 C  10%",
+        "PlanDescription": "DAMAN NETWORK-1  COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N1 C 10%",
+        "PlanDescription": "DAMAN NETWORK 1 MB PLAN D10%(MAX 25) PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N1 C10%",
+        "PlanDescription": "DAMAN NETWORK-1  COPAY 10% MB PLAN",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N1 C15",
+        "PlanDescription": "DAMAN NETWORK-1 DED15%M50  OP NIL LAB/RAD 15%  PH 15%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N1 C15%PH10",
+        "PlanDescription": "DAMAN NETWORK-1 DED15% COPAY 15%  PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N1 C20%",
+        "PlanDescription": "DAMAN NETWORK-1 CO PAY 20% FOR DENTAL PLAN",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N1 D   20%",
+        "PlanDescription": "DAMAN NETWORK-1 D20% (MAX50) COPAY 20%(MAX80) PH20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N1 D  20%",
+        "PlanDescription": "DAMAN NETWORK-1 DED 20% (MAX-25) COPAY NIL PH NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N1 D 20%",
+        "PlanDescription": "DAMAN NETWORK-1 DED 20% (MAX-35) COPAY NIL DN 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N1 D 20%C0",
+        "PlanDescription": "DAMAN NETWORK-1 DED 20% (MAX-50) COPAY NIL PH 10%(MAX100AED)",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N1 D 20%C20",
+        "PlanDescription": "DAMAN NETWORK-1 DED 20% (MAX-50) COPAY 20% PH20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N1 D0 C0",
+        "PlanDescription": "DAMAN NETWORK-1 DED 20% PH 20% DN 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N1 D0C0",
+        "PlanDescription": "DAMAN NETWORK-1 DED 0 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N1 D0C10%",
+        "PlanDescription": "DAMAN NETWORK-1 DED NIL COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N1 D10%",
+        "PlanDescription": "DAMAN NETWORK-1 DED 10% (MAT) COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N1 D10%0",
+        "PlanDescription": "DAMAN NETWORK-1 DED10% (MAX-25) COPAY NIL PH 20%M50",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N1 D10%C0",
+        "PlanDescription": "DAMAN NETWORK-1 DED10% (MAX-25) COPAY 0 PH 0",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N1 D10%C10",
+        "PlanDescription": "DAMAN NETWORK-1 CO PAY 10% ON ALL SERVICES",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N1 D10%C10%",
+        "PlanDescription": "DAMAN NETWORK-1 DED10% (MAX-25) COPAY 10% PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N1 D100C0",
+        "PlanDescription": "DAMAN NETWORK-1 DED 100 COPAY NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N1 D100P20%",
+        "PlanDescription": "DAMAN NETWORK-1 DED 100 COPAY NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N1 D125C0",
+        "PlanDescription": "DAMAN NETWORK-1 DED 125 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N1 D2 C0",
+        "PlanDescription": "DAMAN NETWORK-1 DN 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N1 D20",
+        "PlanDescription": "DAMAN NETWORK-1 DED 20 COPAY NIL  PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N1 D20 PH50",
+        "PlanDescription": "DAMAN NETWORK-1 DED 20%(MAX 50) COPAY NIL PH 50AED",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N1 D20%",
+        "PlanDescription": "DAMAN NETWORK-1 DED 20% (MAX-50) COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N1 D20%  C0",
+        "PlanDescription": "DAMAN NETWORK-1 DED 20% COPAY NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N1 D20% C",
+        "PlanDescription": "DAMAN NETWORK-1 DED 20%(MAX 50) CO 10%(max-25) PH 20%(100)",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N1 D20% C 0",
+        "PlanDescription": "DAMAN NETWORK-1 DED 20%(MAX 50) COPAY NIL PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N1 D20% C0",
+        "PlanDescription": "DAMAN NETWORK-1 DED 20%(MAX 50) COPAY NIL PH NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N1 D20% C5",
+        "PlanDescription": "DAMAN NETWORK-1 DED 20% COPAY  5% PH 5%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N1 D20%C",
+        "PlanDescription": "DAMAN NETWORK-1 DED 20%(MAX-50) L&R 20% PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N1 D20%C 0",
+        "PlanDescription": "DAMAN NETWORK-1 DED 20% (MAX-50) CO NIL PH 20%(MAX 100 AED)",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N1 D20%C 10",
+        "PlanDescription": "DAMAN NETWORK-1 DED20%(MAX100) COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N1 D20%C0",
+        "PlanDescription": "DAMAN NETWORK-1 DED 20% (MAX-50) COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N1 D20%C10%",
+        "PlanDescription": "DAMAN NETWORK-1 DED 20% COPAY 10% PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N1 D20%C20%",
+        "PlanDescription": "DAMAN NETWORK-1 DED 20% COPAY 20% PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N1 D20%C30",
+        "PlanDescription": "DAMAN NETWORK-1 DED 20% (MAX-50) COPAY 30AED PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N1 D20%P10%",
+        "PlanDescription": "DAMAN NETWORK-1 DED 20% (MAX-50) COPAY NIL PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N1 D20%P30%",
+        "PlanDescription": "DAMAN NETWORK-1 DED 20% (MAX-50) COPAY NIL PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N1 D25",
+        "PlanDescription": "DAMAN NETWORK-1 DED 25 DN 20% PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N1 D25C0",
+        "PlanDescription": "DAMAN NETWORK-1 DED 25 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N1 D30 C0",
+        "PlanDescription": "DAMAN NETWORK-1 DED 30 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N1 D35C0",
+        "PlanDescription": "DAMAN NETWORK-1 DED 35 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N1 D50 C0",
+        "PlanDescription": "DAMAN NETWORK-1 DED 50 COPAY NIL PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N1 D50 PH 3",
+        "PlanDescription": "DAMAN NETWORK-1 DED 50 OP NIL LAB/RAD 80AED PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N1 D50C0",
+        "PlanDescription": "DAMAN NETWORK-1 DED 50 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N1 D50C10%",
+        "PlanDescription": "DAMAN NETWORK-1 DED 50  COPAY 10% PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N1 D50C20%",
+        "PlanDescription": "DAMAN NETWORK-1 DED 50 COPAY 20%(75) PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N1 D75 C0",
+        "PlanDescription": "DAMAN NETWORK-1 DED 75 COPAY NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N1 D75C0",
+        "PlanDescription": "DAMAN NETWORK-1 DED 0 COPAY NIL PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N1 DN10%",
+        "PlanDescription": "DAMAN NETWORK-1 DN COPAY  10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N1 DN20%",
+        "PlanDescription": "DAMAN NETWORK-1 DN 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N1 MAT10%",
+        "PlanDescription": "DAMAN NETWORK-1 MAT DED 10%(MAX 25) COPAY NIL PH NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N1 MAT10%C0",
+        "PlanDescription": "DAMAN NETWORK-1 MAT DED 10% COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N1 MAT20%C0",
+        "PlanDescription": "DAMAN NETWORK-1 MAT DED 20% COPAY 20% PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N1D20%",
+        "PlanDescription": "DAMAN NETWORK-1 DED20%(MAX50) CO 30 PH NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N1D20% C 0",
+        "PlanDescription": "DAMAN NETWORK-1 DED 20%(MAX 50)COPAY NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N1D20% C0",
+        "PlanDescription": "DAMAN NETWORK-1 DED 20%(MAX 50)COPAY NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N1D20% C10",
+        "PlanDescription": "DAMAN NETWORK-1 DED 20%(50) COPAY NIL PH 20% (100)",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N1D20% C20%",
+        "PlanDescription": "DAMAN NETWORK-1 DED 20% COPAY 20% PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N1D20%C 20%",
+        "PlanDescription": "DAMAN NETWORK-1 DED 20% COPAY 20% PH 30%",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "DAMAN NETWORK-2",
+    "PolicyGroupDescription": "NATIONAL HEALTH INS CO - DAMAN - NETWORK - 2",
+    "RateListCode": "DAMAN - NET-2",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS200",
+    "Plans": [
+      {
+        "PlanCode": "DAM N2    D20%",
+        "PlanDescription": "DAMAN NETWORK-2 D20%(MAX-50)  CO 10%(MAX50)  PH30% (MAX-300)",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N2   D20%",
+        "PlanDescription": "DAMAN NETWORK-2 D20%(MAX-50)  CO 10%(MAX50)  PH30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N2  C10%",
+        "PlanDescription": "DAMAN NETWORK-2  COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N2  D 10%",
+        "PlanDescription": "DAMAN NETWORK-2 DED 10% (MAX 50AED)",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N2  D 20%C",
+        "PlanDescription": "DAMAN NETWORK-2 DED 20%  DN 20% COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N2  D 20%C0",
+        "PlanDescription": "DAMAN NETWORK-2 DED 20% (MAX-30) DN 15% COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N2  D 50",
+        "PlanDescription": "DAMAN NETWORK-2 DED50 DG 30  PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N2  D 50X",
+        "PlanDescription": "DAMAN NETWORK-2 DED50 DG 30  PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N2  D10%C0",
+        "PlanDescription": "DAMAN NETWORK-2 DED 10% (MAX20)  COPAY NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N2  D20%",
+        "PlanDescription": "DAMAN NETWORK-2 DED 20% (MAX-50) COPAY 20% PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N2  D20%C10",
+        "PlanDescription": "DAMAN NETWORK-2 DED20%(50) CO 10%(25) PH 20%(100)",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N2  D25 C0",
+        "PlanDescription": "DAMAN NETWORK-2 DED 25 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N2  D30%",
+        "PlanDescription": "DAMAN NETWORK-2 DED 30% COPAY 30% PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N2  D50",
+        "PlanDescription": "DAMAN NETWORK-2 DED50 DG 80 DN NIL PH 25%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N2  D50C0",
+        "PlanDescription": "DAMAN NETWORK-2 DED 50 COPAY NIL PH 20% ( MAX-100 )",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N2  D50C10",
+        "PlanDescription": "DAMAN NETWORK-2 DED 50 COPAY 10% PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N2  MB10%",
+        "PlanDescription": "DAMAN NETWORK-2 DED 10% (MAX25)  COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N2 C 10%",
+        "PlanDescription": "DAMAN NETWORK-2 DED 10% (MAT PLAN ) PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N2 C10%",
+        "PlanDescription": "DAMAN NETWORK-2 COPAY 10% (MAT PLAN )",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N2 C20%",
+        "PlanDescription": "DAMAN NETWORK-2 COPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N2 D    20%",
+        "PlanDescription": "DAMAN NETWORK-2 DED 20% (MAX-50) COPAY 80 AED PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N2 D  20%",
+        "PlanDescription": "DAMAN NETWORK-2 DED 10% (MAX-30) COPAY NIL PH NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N2 D 10%",
+        "PlanDescription": "DAMAN NETWORK-2 DED 10%  (MAX- 25 ) COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N2 D 20%",
+        "PlanDescription": "DAMAN NETWORK-2 DED 20% (MAX-50) COPAY NIL PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N2 D 20% C0",
+        "PlanDescription": "DAMAN NETWORK-2 DED 20% (MAX-75) COPAY NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N2 D 20%C0",
+        "PlanDescription": "DAMAN NETWORK-2 DED 20% (MAX-30) COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N2 D0C0",
+        "PlanDescription": "DAMAN NETWORK-2 DED 0 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N2 D0C10%",
+        "PlanDescription": "DAMAN NETWORK-2 DED NIL COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N2 D100",
+        "PlanDescription": "DAMAN NETWORK-2 DED 100 COPAY NIL  PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N2 D100 C0",
+        "PlanDescription": "DAMAN NETWORK-2 DED 100 COPAY NIL PH 20%(100)",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N2 D100C0",
+        "PlanDescription": "DAMAN NETWORK-2 DED 100 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N2 D2 0%",
+        "PlanDescription": "DAMAN NETWORK-2 DED 20% (MAX-25) COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N2 D20%",
+        "PlanDescription": "DAMAN NETWORK-2 DED 20% (MAX-50) COPAY 30 AED PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N2 D20% C 0",
+        "PlanDescription": "DAMAN NETWORK-2 DED 20% (MAX 75) CO NIL PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N2 D20% C0",
+        "PlanDescription": "DAMAN NETWORK-2 DED 20% (MAX 50) CO NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N2 D20%C 0",
+        "PlanDescription": "DAMAN NETWORK-2 DED 20% (MAX-50) PH 30% DN 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N2 D20%C0",
+        "PlanDescription": "DAMAN NETWORK-2 DED 20% (MAX-50) COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N2 D20%C10",
+        "PlanDescription": "DAMAN NETWORK-2 DED 20% (MAX-100) CO 10% PH 10%(MAX-100)",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N2 D20%C10%",
+        "PlanDescription": "DAMAN NETWORK-2 DED 20% (MAX-50) COPAY 10% PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N2 D20%C20%",
+        "PlanDescription": "DAMAN NETWORK-2 DED 20% COPAY 20% PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N2 D20%C30",
+        "PlanDescription": "DAMAN NETWORK-2 DED 20% M 50COPAY 30 PH NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N2 D20%P20%",
+        "PlanDescription": "DAMAN NETWORK-2 DED 20% (MAX-50)  COPAY 0  PH 20% (MAX-100)",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N2 D20%P203",
+        "PlanDescription": "DAMAN NETWORK-2 DED 20% (MAX-50)  DG 30 PH 20% (MAX-100)",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N2 D20%P30%",
+        "PlanDescription": "DAMAN NETWORK-2 DED 20% COPAY 0  PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N2 D20C0",
+        "PlanDescription": "DAMAN NETWORK-2 DED 20 COPAY NIL PH 20%(MAX100)",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N2 D25 C0",
+        "PlanDescription": "DAMAN NETWORK-2 DED 25 COPAY NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N2 D25C0",
+        "PlanDescription": "DAMAN NETWORK-2 DED 25 COPAY NIL PH 10%(100)",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N2 D30 C0",
+        "PlanDescription": "DAMAN NETWORK-2 DED 30 COPAY NIL PH 20% ( MAX 100 )",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N2 D30C0",
+        "PlanDescription": "DAMAN NETWORK-2 DED 30 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N2 D50",
+        "PlanDescription": "DAMAN NETWORK-2 DED50 DG 80 DN NIL PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N2 D50  C0",
+        "PlanDescription": "DAMAN NETWORK-2 DED 50 COPAY NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N2 D50 C0",
+        "PlanDescription": "DAMAN NETWORK-2 DED 50 COPAY NIL PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N2 D50 C20%",
+        "PlanDescription": "DAMAN NETWORK-2 DED 50 COPAY 20% PH 20% DN 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N2 D50 P30%",
+        "PlanDescription": "DAMAN NETWORK-2 DED50 COPAY 10%(MAX 50)  PH 30% (MAX 300)",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N2 D50C0",
+        "PlanDescription": "DAMAN NETWORK-2 DED 50 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N2 D50C10",
+        "PlanDescription": "DAMAN NETWORK-2 DED 50 COPAY 10% PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N2 D50C10%",
+        "PlanDescription": "DAMAN NETWORK-2 DED 50 COPAY 10% PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N2 D50C20%",
+        "PlanDescription": "DAMAN NETWORK-2 DED 50 COPAY 20% PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N2 D50P30%",
+        "PlanDescription": "DAMAN NETWORK-2 DED50 COPAY 0  PH 30% (MAX 100)",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N2 D70  C0",
+        "PlanDescription": "DAMAN NETWORK-2 DED 70 COPAY NIL   ( DG 70 ) PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N2 D80",
+        "PlanDescription": "DAMAN NETWORK-2 DED 80 COPAY NIL PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N2 DN20%",
+        "PlanDescription": "DAMAN NETWORK-2  COPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N2D2",
+        "PlanDescription": "DAMAN NETWORK-2 DED 20% (MAX-50) COPAY NIL PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N2D20%C10%",
+        "PlanDescription": "DAMAN NETWORK-2 DED 20% (MAX-50) COPAY 10% PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N2D50C20%",
+        "PlanDescription": "DAMAN NETWORK-2 DED 20%(max-75) COPAY 20% PH 20% CO20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N2D75 C20%",
+        "PlanDescription": "DAMAN NETWORK-2 DED 20%(max-75) COPAY 20% PH 20% CO20%",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "DAMAN NETWORK-5",
+    "PolicyGroupDescription": "NATIONAL HEALTH INS CO - DAMAN - NETWORK - 5",
+    "RateListCode": "DAMAN - NET-5",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS200",
+    "Plans": [
+      {
+        "PlanCode": "DA N5 DG20%C20",
+        "PlanDescription": "DAMAN NETWORK-5 DED20% (MAX-50) DG (20MAX-50) PH 20%MX 100",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DA N5 DG50%",
+        "PlanDescription": "DAMAN NETWORK-5 DED50 DG (10MAX-50)",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DA N5 DG50%C20",
+        "PlanDescription": "DAMAN NETWORK-5 DED50 DG (20MAX-50) PH 20%MX 100",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DA5 DG20%P20",
+        "PlanDescription": "DAMAN NETWORK-5 DED20% (MAX-50) DG (20%MAX-50) PH 20%MX 100",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM   N5",
+        "PlanDescription": "DAMAN NETWORK-5 DED 10%M 50 COPAY NIL  PH 30%M50",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM   N5  D",
+        "PlanDescription": "DAMAN NETWORK-5 DED 10%M 50 COPAY 10%M30 PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM   N5  D0",
+        "PlanDescription": "DAMAN NETWORK-5  D0 C0",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM   N5  D0 C0",
+        "PlanDescription": "DAMAN NETWORK-5 DED20%(MAX50)  COPAY 20%(MAX60) PH20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM   N5  D0C0",
+        "PlanDescription": "DAMAN NETWORK-5 DED 50  COPAY 20%(MAX60) PH20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM   N5  D2%",
+        "PlanDescription": "DAMAN NETWORK-5 DED20%M50 OP 0 L/R 20%M80 PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM   N5  D20%",
+        "PlanDescription": "DAMAN NETWORK-5 DED20% (MAX-50) CO20%  PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM   N5  D40",
+        "PlanDescription": "DAMAN NETWORK-5 DED 40  PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM   N5  D40X",
+        "PlanDescription": "DAMAN NETWORK-5 DED 40  COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM   N5  D50",
+        "PlanDescription": "DAMAN NETWORK-5 DED 50  PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM   N5  D50PH",
+        "PlanDescription": "DAMAN NETWORK-5 DED 50 OP NIL LAB/RAD10AED  PH10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM   N5  D50X",
+        "PlanDescription": "DAMAN NETWORK-5 DED 50 OP NIL LAB/RAD10%M50  PH30%M100",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM  D50 C0X",
+        "PlanDescription": "DAMAN NETWORK-5 DED 50 OP NIL L/R 70AED  PH 5%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM  N5",
+        "PlanDescription": "DAMAN NETWORK-5  DED 20%M100 COPAY NIL PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM  N5    D20%",
+        "PlanDescription": "DAMAN NETWORK-5 DED 20% (MAX-75 ) COPAY PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM  N5   D20M5",
+        "PlanDescription": "DAMAN NETWORK-5 DED 20% M50 OP NIL L/R 10%M50 PH 30%M300",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM  N5  0X5",
+        "PlanDescription": "DAMAN NETWORK-5  DED  50  OP NIL DG 70 AED PH 15%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM  N5  C10% C",
+        "PlanDescription": "DAMAN NETWORK-5  COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM  N5  C15",
+        "PlanDescription": "DAMAN NETWORK-5 DED 15% COPAY 15% PH 15%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM  N5  D 10%",
+        "PlanDescription": "DAMAN NETWORK-5  DED 10% (MAX-25) COPAY 10% PH 10 % ( 100 )",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM  N5  D0 C0",
+        "PlanDescription": "DAMAN NETWORK-5  DED NIL COPAY NIL PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM  N5  D0C0",
+        "PlanDescription": "DAMAN NETWORK-5  DED NIL COPAY NIL PH NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM  N5  D10%",
+        "PlanDescription": "DAMAN NETWORK-5  DED 10% (MAX-25) COPAY 0 PH30%(100)",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM  N5  D10% C",
+        "PlanDescription": "DAMAN NETWORK-5  DED 10% (MAX-25) COPAY 10% PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM  N5  D10%C",
+        "PlanDescription": "DAMAN NETWORK-5  DED 10% (MAX-25) COPAY 0 PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM  N5  D10%C0",
+        "PlanDescription": "DAMAN NETWORK-5 MB PLAN DED 10% COPAY NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM  N5  D10%X",
+        "PlanDescription": "DAMAN NETWORK-5  DED 10%MAX  30 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM  N5  D20%",
+        "PlanDescription": "DAMAN NETWORK-5 DED 20% (MAX-75 ) COPAY NIL DN 20% PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM  N5  D20% C",
+        "PlanDescription": "DAMAN NETWORK-5 DED 20% COPAY NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM  N5  D20%50",
+        "PlanDescription": "DAMAN NETWORK-5 DED 20% (MAX-50 ) COPAY 30%  PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM  N5  D20%C0",
+        "PlanDescription": "DAMAN NETWORK-5 DED 20% COPAY NIL PH 15%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM  N5  D25C0",
+        "PlanDescription": "DAMAN NETWORK-5  DED 25 COPAY NIL PH 20% MAX(100)",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM  N5  D50",
+        "PlanDescription": "DAMAN NETWORK-5  DED  50  LAB &XR 80 AED PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM  N5  D50C10",
+        "PlanDescription": "DAMAN NETWORK-5  DED50 COPAY 10AED PH 20%(100)",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM  N5  D50P30",
+        "PlanDescription": "DAMAN NETWORK-5  DED  50  LAB &XR 10 AED PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM  N5  D50X",
+        "PlanDescription": "DAMAN NETWORK-5  DED  50  OP NIL LAB/RAD 70 AED PH 15%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM  N5  D50X5",
+        "PlanDescription": "DAMAN NETWORK-5  DED  50  OP NIL DG 70 AED PH 5%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM  N5 D 100",
+        "PlanDescription": "DAMAN NETWORK-5  DED50 OP NIL  L/R 30AED  PH 30% M200",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM  N5 D15",
+        "PlanDescription": "DAMAN NETWORK-5 DED 15% OP NIL LAB/RAD 15% PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM  N5 D20% C0",
+        "PlanDescription": "DAMAN NETWORK-5 DED 20% (MAX50AED) CO 0% PH 20%(MAX100)",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM  N5 D20%C",
+        "PlanDescription": "DAMAN NETWORK-5 DED 20% (MAX-35) COPAY NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM  N5 D35",
+        "PlanDescription": "DAMAN NETWORK-5 DED 35AED  COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM  N5 D351010",
+        "PlanDescription": "DAMAN NETWORK-5 DED 35AED  DG 10% PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM  N5 D50C10",
+        "PlanDescription": "DAMAN NETWORK-5 DED 20% (MAX-50 ) COPAY 10%  PH 15%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM  N5 D50C20",
+        "PlanDescription": "DAMAN NETWORK-5 DED 20% (MAX-50 ) COPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM  N5 D50P30%",
+        "PlanDescription": "DAMAN NETWORK-5  DED50 OP NIL  L/R 10%M50  PH 30% M300",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM  N5100",
+        "PlanDescription": "DAMAN NETWORK-5  DED100 COPAY NIL PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N5   D20%C0",
+        "PlanDescription": "DAMAN NETWORK-5 DED 20% COPAY NIL PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N5   D20C0",
+        "PlanDescription": "DAMAN NETWORK-5 DED 20 COPAY NIL PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N5   DED 50",
+        "PlanDescription": "DAMAN NETWORK-5 DED 50 COPAY 20% PH NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N5  D 20%",
+        "PlanDescription": "DAMAN NETWORK-5 DED 20%(MAX50) COPAY NIL PH 20%( MAX50)",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N5  D 5",
+        "PlanDescription": "DAMAN NETWORK-5 DED 50 COPAY 20%M80 PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N5  D 50",
+        "PlanDescription": "DAMAN NETWORK-5 DED 50 COPAY NIL PH 20%( MAX-100)",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N5  D0C0X",
+        "PlanDescription": "DAMAN NETWORK-5 DED NIL COPAY NIL PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N5  D10",
+        "PlanDescription": "DAMAN NETWORK-5 DED 10%M25 OP 0 L/R 20%M30 PH 20%M100",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N5  D10% C0",
+        "PlanDescription": "DAMAN NETWORK-5 DED 10%(MAX-25) COPAY NIL (MB PLAN) PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N5  D10%C0",
+        "PlanDescription": "DAMAN NETWORK-5 DED 10%  COPAY NIL PH 15%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N5  D10%M25",
+        "PlanDescription": "DAMAN NETWORK-5 DED 10%(MAX-25) COPAY NIL PH 20%M100",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N5  D10%PH1",
+        "PlanDescription": "DAMAN NETWORK-5  COPAY 20%M30 PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N5  D2",
+        "PlanDescription": "DAMAN NETWORK-5 DED 25 OP NIL L/R 30AED  PH 20%M100",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N5  D2 OP",
+        "PlanDescription": "DAMAN NETWORK-5 DED 20%(MAX50) OP NIL L/R 10% PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N5  D20%",
+        "PlanDescription": "DAMAN NETWORK-5 DED 20%(MAX50) COPAY NIL PH 10%( MAX-100)",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N5  D20% C0",
+        "PlanDescription": "DAMAN NETWORK-5 DED 20% COPAY NIL PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N5  D20%C 0",
+        "PlanDescription": "DAMAN NETWORK-5 DED 20% (MAX 50) COPAY NIL PH 15%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N5  D20%C0",
+        "PlanDescription": "DAMAN NETWORK-5 DED 20% MB 10% DN 20% COPAY NIL PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N5  D20%C20",
+        "PlanDescription": "DAMAN NETWORK-5 DED20% (MAX-50) CO20% (MAX-30) PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N5  D20%P25",
+        "PlanDescription": "DAMAN NETWORK-5 DED 20%(MAX50) COPAY NIL PH 25%M100",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N5  D25",
+        "PlanDescription": "DAMAN NETWORK-5 DED 20% COPAY NIL PH 25%M100",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N5  D250",
+        "PlanDescription": "DAMAN NETWORK-5 DED 25 OP NIL L/R 10%M50 PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N5  D25C0",
+        "PlanDescription": "DAMAN NETWORK-5 DED 25 COPAY NIL PH 10%(100)",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N5  D30%",
+        "PlanDescription": "DAMAN NETWORK-5 DED 30% OP 0 LAB/RAD 30% AED PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N5  D3030",
+        "PlanDescription": "DAMAN NETWORK-5 DED 30 OP 0 LAB/RAD 30 AED PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N5  D30P20",
+        "PlanDescription": "DAMAN NETWORK-5  DED 30 PH 20%M 50",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N5  D30X10",
+        "PlanDescription": "DAMAN NETWORK-5 DED 30 OP 0 LAB/RAD 30 AED PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N5  D30XR10",
+        "PlanDescription": "DAMAN NETWORK-5 DED 30 LB & XR- 10 AED PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N5  D50",
+        "PlanDescription": "DAMAN NETWORK-5 DED 50 COPAY NIL PH 10%( MAX-100)",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N5  D50 C 0",
+        "PlanDescription": "DAMAN NETWORK-5 DED 50 COPAY NIL PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N5  D50 C0",
+        "PlanDescription": "DAMAN NETWORK-5 DED 50 COPAY NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N5  D50 C01",
+        "PlanDescription": "DAMAN NETWORK-5 DED 50 COPAY NIL PH 20% M100",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N5  D50 C0X",
+        "PlanDescription": "DAMAN NETWORK-5 DED 50 OP NIL DG 10% MAX 50 PH 30%M100",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N5  D50C0",
+        "PlanDescription": "DAMAN NETWORK-5 DED 50 COPAY NIL PH 30% (MAX-100)",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N5  D50C30",
+        "PlanDescription": "DAMAN NETWORK-5 DED 50 LB & XR- 30 AED PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N5  D50P30",
+        "PlanDescription": "DAMAN NETWORK-5 DED 50 LB & XR- 50 AED PH 30% ( 100 )",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N5  D50X",
+        "PlanDescription": "DAMAN NETWORK-5 DED 50 OP NIL DG 10% MAX 50 PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N5 20%50CO0",
+        "PlanDescription": "DAMAN NETWORK-5 DED20%M50 CO 0%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N5 C15%PH10",
+        "PlanDescription": "DAMAN NETWORK-5 DED15% COPAY 15%  PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N5 C20%",
+        "PlanDescription": "DAMAN NETWORK-5 DB PLAN COPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N5 D 2  0%",
+        "PlanDescription": "DAMAN NETWORK-5 DED 20% (MAX-25) COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N5 D 20% C",
+        "PlanDescription": "DAMAN NETWORK-5 DED 20% (MAX-50) COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N5 D 20% C0",
+        "PlanDescription": "DAMAN NETWORK-5 DED 20%(MAX100)  CO 0 PH 10%(MAX100)",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N5 D 20%C 0",
+        "PlanDescription": "DAMAN NETWORK-5 DED 20% (MAX 75) COPAY NIL PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N5 D 20%C0",
+        "PlanDescription": "DAMAN NETWORK-5 DED 20%(MAX 100) PH 10% CO 0",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N5 D 25C0",
+        "PlanDescription": "DAMAN NETWORK-5 DED 25 COPAY NIL PH NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N5 D C0",
+        "PlanDescription": "DAMAN NETWORK-5 DED 10% OP NIL  LAB/RAD/PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N5 D%  C0",
+        "PlanDescription": "DAMAN NETWORK-5 DED 10% (MAX-50) COPAY NIL PH30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N5 D0%C20%",
+        "PlanDescription": "DAMAN NETWORK-5 DED 20%M20AED  COPAY NIL PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N5 D0C0",
+        "PlanDescription": "DAMAN NETWORK-5 DED 0 COPAY NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N5 D10% C 0",
+        "PlanDescription": "DAMAN NETWORK-5 DED 10%(MAX-25) COPAY NIL PH NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N5 D10% C0",
+        "PlanDescription": "DAMAN NETWORK-5 DED 10%(MAX-25) COPAY NIL PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N5 D10%C0",
+        "PlanDescription": "DAMAN NETWORK-5 DED 10%(MAX-100) COPAY NIL PH 10%(MAX-100)",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N5 D20",
+        "PlanDescription": "DAMAN NETWORK-5 DED 20% (MAX-50) OP NIL DG 10% PH20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N5 D20 C20%",
+        "PlanDescription": "DAMAN NETWORK-5 DED 20 CO NIL PH 20%100",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N5 D20 PH",
+        "PlanDescription": "DAMAN NETWORK-5 DED 20% (MAX-50) OP NIL DG 10% PH NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N5 D20%",
+        "PlanDescription": "DAMAN NETWORK-5 DED30% (MAX-50) PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N5 D20%  C",
+        "PlanDescription": "DAMAN NETWORK-5 DED 20% COPAY NIL PH NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N5 D20%  C0",
+        "PlanDescription": "DAMAN NETWORK-5 DED 20% (MAX-50) COPAY NIL PH30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N5 D20% C",
+        "PlanDescription": "DAMAN NETWORK-5 DED 20%  COPAY 10% PH20% DN20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N5 D20% C 0",
+        "PlanDescription": "DAMAN NETWORK-5 DED 20% (MAX-50) COPAY NIL PH10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N5 D20% C0",
+        "PlanDescription": "DAMAN NETWORK-5 DED 20% (MAX-50) COPAY NIL PH20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N5 D20% C20",
+        "PlanDescription": "DAMAN NETWORK-5 DED20%(MAX50)  COPAY 20%(MAX50) PH30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N5 D20%C 10",
+        "PlanDescription": "DAMAN NETWORK-5 DED 20% (MAX-50) COPAY 10% PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N5 D20%C0",
+        "PlanDescription": "DAMAN NETWORK-5 DED 20% COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N5 D20%C10",
+        "PlanDescription": "DAMAN NETWORK-5 DED 20% (50) COPAY 10% PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N5 D20%C10%",
+        "PlanDescription": "DAMAN NETWORK-5 DED 20% (MAX-50) COPAY 10% PH 10% DN 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N5 D20%C20%",
+        "PlanDescription": "DAMAN NETWORK-5 DED 20% COPAY 20% PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N5 D2050102",
+        "PlanDescription": "DAMAN NETWORK-5 DED 50 OP NIL DG 10%20 PH30%100",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N5 D20AED",
+        "PlanDescription": "DAMAN NETWORK-5 DED 20AED  COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N5 D25C0",
+        "PlanDescription": "DAMAN NETWORK-5 DED 25 COPAY NIL PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N5 D30AED",
+        "PlanDescription": "DAMAN NETWORK-5 DED 30AED COPAY NIL PH 20%(100)",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N5 D30C0",
+        "PlanDescription": "DAMAN NETWORK-5 DED 30 COPAY NIL PH NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N5 D30XR10P",
+        "PlanDescription": "DAMAN NETWORK-5 DED 30 LAB 10 AED / XR  10 AED PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N5 D50C0",
+        "PlanDescription": "DAMAN NETWORK-5 DED 50 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N5 D50C30",
+        "PlanDescription": "DAMAN NETWORK-5 DED 50 COPAY (30AED) PH 20%(100)",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N5 DEN10%",
+        "PlanDescription": "DAMAN NETWORK-5 COPAY DENTAL 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N5 DEN30%",
+        "PlanDescription": "DAMAN NETWORK-5 COPAY DENTAL 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N5 DG2%",
+        "PlanDescription": "DAMAN NETWORK-5 DED20% (MAX-100) LAB/RAD  20% PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N5 DG20",
+        "PlanDescription": "DAMAN NETWORK-5 DED20% (MAX-50) DG 80AED PH 30%M400",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N5 DG20%C20",
+        "PlanDescription": "DAMAN NETWORK-5 DED20% (MAX-50) DG (MAX-30) PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N5 DG2020",
+        "PlanDescription": "DAMAN NETWORK-5 DED 30AED OP 0 L/R 30AED PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N5 DG21020%",
+        "PlanDescription": "DAMAN NETWORK-5 DED20% (MAX-100) DG (20%MAX-30) PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N5 DG210C20",
+        "PlanDescription": "DAMAN NETWORK-5 DED20% (MAX-100) DG (MAX-30) PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N5 DGXX",
+        "PlanDescription": "DAMAN NETWORK-5 DED20% DG 20% PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N5 EN10%",
+        "PlanDescription": "DAMAN NETWORK-5 COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N5D50C0",
+        "PlanDescription": "DAMAN NETWORK-5 MAT DED 50 COPAY NIL PH20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N5DED25P",
+        "PlanDescription": "DAMAN NETWORK-5 DED 25AED PH 20% 50",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAN5 2050102",
+        "PlanDescription": "DAMAN NETWORK-5 DED 50 OP NIL DG 10%20 PH30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAX N5 DG",
+        "PlanDescription": "DAMAN NETWORK-5 DED20% DG (20%MAX-50) PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAX N5 DG10 M50",
+        "PlanDescription": "DAMAN NETWORK-5 DED10 M50",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAX N5 DG20%C20",
+        "PlanDescription": "DAMAN NETWORK-5 DED20% (MAX-50) DG (20%MAX-50) PH 20%MX 100",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAX N5 DG250",
+        "PlanDescription": "DAMAN NETWORK-5 DED50 DG (20%MAX-50) PH 20%MX 100",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "DDAMN NETWORK-1",
+    "PolicyGroupDescription": "NATIONAL HEALTH INS CO - DAMAN - NETWORK - 1",
+    "RateListCode": "DAMAN - NET-1",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS026",
+    "Plans": [
+      {
+        "PlanCode": "D-DA N1 D20% C0",
+        "PlanDescription": "DAMAN NETWORK-1 DED 20%(MAX 150) COPAY NIL PH NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DA N1 D20%C10",
+        "PlanDescription": "DAMAN NETWORK-1 DED 20%(100)COPAY 10% PH 10% DN 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAM  N1 MB10%",
+        "PlanDescription": "DAMAN NETWORK-1 DED 10%(MAX 75) COPAY 10% PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAM  N1 MB20%",
+        "PlanDescription": "DAMAN NETWORK-1 DED 20%(MAX 75) COPAY 20% PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAM N1   D10%",
+        "PlanDescription": "DAMAN NETWORK-1 DED10%(MAX50) CO NIL PH 20%(MAX100)",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAM N1   D20%",
+        "PlanDescription": "DAMAN NETWORK-1 DED 20%(MAX50)  PH 30% DENTAL 20% CO 80",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAM N1  C 10%",
+        "PlanDescription": "DAMAN NETWORK 1 CO 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAM N1  C20%",
+        "PlanDescription": "DAMAN NETWORK-1 DED20% COPAY 20% PH 30%(MAX 400)",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAM N1  D 20%",
+        "PlanDescription": "DAMAN NETWORK-1 DED20%(MAX50) CO 10% PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAM N1  D0 C0",
+        "PlanDescription": "DAMAN NETWORK-1 DED NIL COPAY NIL PH NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAM N1  D1075",
+        "PlanDescription": "DAMAN NETWORK-1 DED 10% MAX 75 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAM N1  D2 0%",
+        "PlanDescription": "DAMAN NETWORK-1 DED 20% (MAX-25) COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAM N1  D20%",
+        "PlanDescription": "DAMAN NETWORK-1 DED 20% (MAX-75) CO NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAM N1  D25C0",
+        "PlanDescription": "DAMAN NETWORK-1 DED 25 COPAY NIL PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAM N1  D50",
+        "PlanDescription": "DAMAN NETWORK-1 DED 50 DG 30 PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAM N1  D50 C",
+        "PlanDescription": "DAMAN NETWORK-1 DED 50 COPAY NIL PH 100",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAM N1  D50C0",
+        "PlanDescription": "DAMAN NETWORK-1 DED 50 COPAY NIL PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAM N1  DB25%",
+        "PlanDescription": "DAMAN NETWORK-1 DB PLAN 25% ON DENTAL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAM N1 C  10%",
+        "PlanDescription": "DAMAN NETWORK-1  COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAM N1 C 10%",
+        "PlanDescription": "DAMAN NETWORK 1 MB PLAN D10%(MAX 25) PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAM N1 C10%",
+        "PlanDescription": "DAMAN NETWORK-1  COPAY 10% MB PLAN",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAM N1 C15",
+        "PlanDescription": "DAMAN NETWORK-1 DED15%M50  OP NIL LAB/RAD 15%  PH 15%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAM N1 C20%",
+        "PlanDescription": "DAMAN NETWORK-1 CO PAY 20% FOR DENTAL PLAN",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAM N1 D  20%",
+        "PlanDescription": "DAMAN NETWORK-1 DED 20% (MAX-25) COPAY NIL PH NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAM N1 D 20%",
+        "PlanDescription": "DAMAN NETWORK-1 DED 20% (MAX-35) COPAY NIL DN 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAM N1 D0 C0",
+        "PlanDescription": "DAMAN NETWORK-1 DED 20% PH 20% DN 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAM N1 D0C0",
+        "PlanDescription": "DAMAN NETWORK-1 DED 0 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAM N1 D0C10%",
+        "PlanDescription": "DAMAN NETWORK-1 DED NIL COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAM N1 D10%",
+        "PlanDescription": "DAMAN NETWORK-1 DED 10% (MAT) COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAM N1 D10%0",
+        "PlanDescription": "DAMAN NETWORK-1 DED10% (MAX-25) COPAY NIL PH 20%M50",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAM N1 D10%C0",
+        "PlanDescription": "DAMAN NETWORK-1 DED10% (MAX-25) COPAY 0 PH 0",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAM N1 D100C0",
+        "PlanDescription": "DAMAN NETWORK-1 DED 100 COPAY NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAM N1 D125C0",
+        "PlanDescription": "DAMAN NETWORK-1 DED 125 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAM N1 D2 C0",
+        "PlanDescription": "DAMAN NETWORK-1 DN 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAM N1 D20%",
+        "PlanDescription": "DAMAN NETWORK-1 DED 20% (MAX-50) COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAM N1 D20% C",
+        "PlanDescription": "DAMAN NETWORK-1 DED 20%(MAX 50) CO 10%(max-25) PH 20%(100)",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAM N1 D20%C",
+        "PlanDescription": "DAMAN NETWORK-1 DED 20%(MAX-50) L&R 20% PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAM N1 D20%C0",
+        "PlanDescription": "DAMAN NETWORK-1 DED 20% (MAX-50) COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAM N1 D25",
+        "PlanDescription": "DAMAN NETWORK-1 DED 25 DN 20% PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAM N1 D25C0",
+        "PlanDescription": "DAMAN NETWORK-1 DED 25 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAM N1 D30 C0",
+        "PlanDescription": "DAMAN NETWORK-1 DED 30 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAM N1 D35C0",
+        "PlanDescription": "DAMAN NETWORK-1 DED 35 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAM N1 D50 C0",
+        "PlanDescription": "DAMAN NETWORK-1 DED 50 COPAY NIL PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAM N1 D50C0",
+        "PlanDescription": "DAMAN NETWORK-1 DED 50 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAM N1 D75 C0",
+        "PlanDescription": "DAMAN NETWORK-1 DED 75 COPAY NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAM N1 D75C0",
+        "PlanDescription": "DAMAN NETWORK-1 DED 0 COPAY NIL PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAM N1 DN10%",
+        "PlanDescription": "DAMAN NETWORK-1 DN COPAY  10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAM N1 DN20%",
+        "PlanDescription": "DAMAN NETWORK-1 DN 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAM N1 MAT10%",
+        "PlanDescription": "DAMAN NETWORK-1 MAT DED 10%(MAX 25) COPAY NIL PH NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAM N1D20%",
+        "PlanDescription": "DAMAN NETWORK-1 DED20%(MAX50) CO 30 PH NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAM N1D20% C0",
+        "PlanDescription": "DAMAN NETWORK-1 DED 20%(MAX 50)COPAY NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAM N1D2050%",
+        "PlanDescription": "DAMAN NETWORK-1 DED 20% (MAX-50) DG 20%30 PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAN 1D20% C 0",
+        "PlanDescription": "DAMAN NETWORK-1 DED 20%(MAX 100)  COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAN1    D 20%",
+        "PlanDescription": "DAMAN NETWORK-1 DED20%(MAX50) L%R 10% PH NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAN1   D  20%",
+        "PlanDescription": "DAMAN NETWORK-1 DED20%(MAX75) CO 5% PH 5%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAN1   D %",
+        "PlanDescription": "DAMAN NETWORK-1 DED10%(MAX50) COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAN1   D 2 0%",
+        "PlanDescription": "DAMAN NETWORK-1 DED20%(MAX50) CO10% PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAN1   D 20%",
+        "PlanDescription": "DAMAN NETWORK-1 DED10%(MAX50) CO NIL PH 20%(MAX100)",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAN1   D2 0%",
+        "PlanDescription": "DAMAN NETWORK-1 DED20%(MAX50)  PH 10% DENTAL 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAN1   D50C0",
+        "PlanDescription": "DAMAN NETWORK-1 DED 50 COPAY NIL PH NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAN1   D80C0",
+        "PlanDescription": "DAMAN NETWORK-1 DED 80AED COPAY NIL PH NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAN1  D   20%",
+        "PlanDescription": "DAMAN NETWORK-1 DED 20% COPAY NIL PH30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAN1  D 50 C0",
+        "PlanDescription": "DAMAN NETWORK-1 DED 50 COPAY NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAN1  D10%C0",
+        "PlanDescription": "DAMAN NETWORK-1 DED10% COPAY 0 PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAN1  D100 C0",
+        "PlanDescription": "DAMAN NETWORK-1 DED 100 COPAY NIL PH 20% (MAX-100)",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAN1  D100C0",
+        "PlanDescription": "DAMAN NETWORK-1 DED 100 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAN1  D20 C0",
+        "PlanDescription": "DAMAN NETWORK-1 DED 20%  COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAN1  D20% C0",
+        "PlanDescription": "DAMAN NETWORK-1 DED 20% (MAX-75) COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAN1  D20%C 0",
+        "PlanDescription": "DAMAN NETWORK-1 DED 20% (MAX-100) CO NIL PH 20%(MAX 100 AED)",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAN1  D20%C0",
+        "PlanDescription": "DAMAN NETWORK-1 DED 20% (MAX-100) COPAY NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAN1  D20%C10",
+        "PlanDescription": "DAMAN NETWORK-1 DED 20% (MAX-100) COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAN1  D25 C0",
+        "PlanDescription": "DAMAN NETWORK-1 DED 25 COPAY NIL PH 10% (MAX100)",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAN1  D30% C0",
+        "PlanDescription": "DAMAN NETWORK-1 DED 30% COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAN1  D30%C0",
+        "PlanDescription": "DAMAN NETWORK-1 DED 30%(max 50) COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAN1  D40P20%",
+        "PlanDescription": "DAMAN NETWORK-1 DED 40 COPAY NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAN1  D50  C0",
+        "PlanDescription": "DAMAN NETWORK-1 DED 50 COPAY NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAN1  D50 C 0",
+        "PlanDescription": "DAMAN NETWORK-1 DED 50 COPAY NIL PH 30% (MAX-100)",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAN1  D50 C0",
+        "PlanDescription": "DAMAN NETWORK-1 DED 50 COPAY NIL PH 20% (MAX-100)",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAN1  D50 C30",
+        "PlanDescription": "DAMAN NETWORK-1 DED 50 COPAY 30 AED PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAN1  D50P20%",
+        "PlanDescription": "DAMAN NETWORK-1 DED 50 DG 30 PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAN1 C15%PH10",
+        "PlanDescription": "DAMAN NETWORK-1 DED15% COPAY 15%  PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAN1 D   20%",
+        "PlanDescription": "DAMAN NETWORK-1 D20% (MAX50) COPAY 20%(MAX80) PH20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAN1 D 20%C0",
+        "PlanDescription": "DAMAN NETWORK-1 DED 20% (MAX-50) COPAY NIL PH 10%(MAX100AED)",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAN1 D 20%C20",
+        "PlanDescription": "DAMAN NETWORK-1 DED 20% (MAX-50) COPAY 20% PH20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAN1 D10%C10",
+        "PlanDescription": "DAMAN NETWORK-1 CO PAY 10% ON ALL SERVICES",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAN1 D10%C10%",
+        "PlanDescription": "DAMAN NETWORK-1 DED10% (MAX-25) COPAY 10% PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAN1 D100P20%",
+        "PlanDescription": "DAMAN NETWORK-1 DED 100 COPAY NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAN1 D20 PH50",
+        "PlanDescription": "DAMAN NETWORK-1 DED 20%(MAX 50) COPAY NIL PH 50AED",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAN1 D20%  C0",
+        "PlanDescription": "DAMAN NETWORK-1 DED 20% COPAY NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAN1 D20% C 0",
+        "PlanDescription": "DAMAN NETWORK-1 DED 20%(MAX 50) COPAY NIL PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAN1 D20% C0",
+        "PlanDescription": "DAMAN NETWORK-1 DED 20%(MAX 50) COPAY NIL PH NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAN1 D20% C5",
+        "PlanDescription": "DAMAN NETWORK-1 DED 20% COPAY  5% PH 5%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAN1 D20%C 0",
+        "PlanDescription": "DAMAN NETWORK-1 DED 20% (MAX-50) CO NIL PH 20%(MAX 100 AED)",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAN1 D20%C 10",
+        "PlanDescription": "DAMAN NETWORK-1 DED20%(MAX100) COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAN1 D20%C10%",
+        "PlanDescription": "DAMAN NETWORK-1 DED 20% COPAY 10% PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAN1 D20%C20%",
+        "PlanDescription": "DAMAN NETWORK-1 DED 20% COPAY 20% PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAN1 D20%C30",
+        "PlanDescription": "DAMAN NETWORK-1 DED 20% (MAX-50) COPAY 30AED PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAN1 D20%P10%",
+        "PlanDescription": "DAMAN NETWORK-1 DED 20% (MAX-50) COPAY NIL PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAN1 D20%P30%",
+        "PlanDescription": "DAMAN NETWORK-1 DED 20% (MAX-50) COPAY NIL PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAN1 D50 PH 3",
+        "PlanDescription": "DAMAN NETWORK-1 DED 50 OP NIL LAB/RAD 80AED PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAN1 D50C10%",
+        "PlanDescription": "DAMAN NETWORK-1 DED 50  COPAY 10% PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAN1 D50C20%",
+        "PlanDescription": "DAMAN NETWORK-1 DED 50 COPAY 20%(75) PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAN1 MAT10%C0",
+        "PlanDescription": "DAMAN NETWORK-1 MAT DED 10% COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAN1 MAT20%C0",
+        "PlanDescription": "DAMAN NETWORK-1 MAT DED 20% COPAY 20% PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAN1D20% C 0",
+        "PlanDescription": "DAMAN NETWORK-1 DED 20%(MAX 50)COPAY NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAN1D20% C10",
+        "PlanDescription": "DAMAN NETWORK-1 DED 20%(50) COPAY NIL PH 20% (100)",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAN1D20% C20%",
+        "PlanDescription": "DAMAN NETWORK-1 DED 20% COPAY 20% PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAN1D20%C 20%",
+        "PlanDescription": "DAMAN NETWORK-1 DED 20% COPAY 20% PH 30%",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "DDAMN NETWORK-2",
+    "PolicyGroupDescription": "NATIONAL HEALTH INS CO - DAMAN - NETWORK - 2",
+    "RateListCode": "DAMAN - NET-2",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS026",
+    "Plans": [
+      {
+        "PlanCode": "D-DAM N2   D20%",
+        "PlanDescription": "DAMAN NETWORK-2 D20%(MAX-50)  CO 10%(MAX50)  PH30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAM N2  C10%",
+        "PlanDescription": "DAMAN NETWORK-2  COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAM N2  D 10%",
+        "PlanDescription": "DAMAN NETWORK-2 DED 10% (MAX 50AED)",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAM N2  D 50",
+        "PlanDescription": "DAMAN NETWORK-2 DED50 DG 30  PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAM N2  D 50X",
+        "PlanDescription": "DAMAN NETWORK-2 DED50 DG 30  PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAM N2  D20%",
+        "PlanDescription": "DAMAN NETWORK-2 DED 20% (MAX-50) COPAY 20% PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAM N2  D30%",
+        "PlanDescription": "DAMAN NETWORK-2 DED 30% COPAY 30% PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAM N2  D50",
+        "PlanDescription": "DAMAN NETWORK-2 DED50 DG 80 DN NIL PH 25%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAM N2  D50C0",
+        "PlanDescription": "DAMAN NETWORK-2 DED 50 COPAY NIL PH 20% ( MAX-100 )",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAM N2  MB10%",
+        "PlanDescription": "DAMAN NETWORK-2 DED 10% (MAX25)  COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAM N2 C 10%",
+        "PlanDescription": "DAMAN NETWORK-2 DED 10% (MAT PLAN ) PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAM N2 C10%",
+        "PlanDescription": "DAMAN NETWORK-2 COPAY 10% (MAT PLAN )",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAM N2 C20%",
+        "PlanDescription": "DAMAN NETWORK-2 COPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAM N2 D  20%",
+        "PlanDescription": "DAMAN NETWORK-2 DED 10% (MAX-30) COPAY NIL PH NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAM N2 D 10%",
+        "PlanDescription": "DAMAN NETWORK-2 DED 10%  (MAX- 25 ) COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAM N2 D 20%",
+        "PlanDescription": "DAMAN NETWORK-2 DED 20% (MAX-50) COPAY NIL PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAM N2 D0C0",
+        "PlanDescription": "DAMAN NETWORK-2 DED 0 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAM N2 D0C10%",
+        "PlanDescription": "DAMAN NETWORK-2 DED NIL COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAM N2 D100",
+        "PlanDescription": "DAMAN NETWORK-2 DED 100 COPAY NIL  PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAM N2 D100C0",
+        "PlanDescription": "DAMAN NETWORK-2 DED 100 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAM N2 D2 0%",
+        "PlanDescription": "DAMAN NETWORK-2 DED 20% (MAX-25) COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAM N2 D20%",
+        "PlanDescription": "DAMAN NETWORK-2 DED 20% (MAX-50) COPAY 30 AED PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAM N2 D20%C",
+        "PlanDescription": "DAMAN NETWORK-2 DED20% L/R 15% PH15%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAM N2 D20%C0",
+        "PlanDescription": "DAMAN NETWORK-2 DED 20% (MAX-50) COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAM N2 D20C0",
+        "PlanDescription": "DAMAN NETWORK-2 DED 20 COPAY NIL PH 20%(MAX100)",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAM N2 D25 C0",
+        "PlanDescription": "DAMAN NETWORK-2 DED 25 COPAY NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAM N2 D25C0",
+        "PlanDescription": "DAMAN NETWORK-2 DED 25 COPAY NIL PH 10%(100)",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAM N2 D30 C0",
+        "PlanDescription": "DAMAN NETWORK-2 DED 30 COPAY NIL PH 20% ( MAX 100 )",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAM N2 D30C0",
+        "PlanDescription": "DAMAN NETWORK-2 DED 30 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAM N2 D50",
+        "PlanDescription": "DAMAN NETWORK-2 DED50 DG 80 DN NIL PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAM N2 D50 C0",
+        "PlanDescription": "DAMAN NETWORK-2 DED 50 COPAY NIL PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAM N2 D50C0",
+        "PlanDescription": "DAMAN NETWORK-2 DED 50 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAM N2 D50C10",
+        "PlanDescription": "DAMAN NETWORK-2 DED 50 COPAY 10% PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAM N2 D80",
+        "PlanDescription": "DAMAN NETWORK-2 DED 80 COPAY NIL PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAM N2 DN20%",
+        "PlanDescription": "DAMAN NETWORK-2  COPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAM N2 M10",
+        "PlanDescription": "DAMAN NETWORK-2 DED 10%   PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAM N2 M10P10",
+        "PlanDescription": "DAMAN NETWORK-2 DED 10% (MAX50)  PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAM N2D2",
+        "PlanDescription": "DAMAN NETWORK-2 DED 20% (MAX-50) COPAY NIL PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAM N2D2050%",
+        "PlanDescription": "DAMAN NETWORK-2 DED 20% (MAX-50) DG 20%30 PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAM N2D50C20%",
+        "PlanDescription": "DAMAN NETWORK-2 DED 20%(max-75) COPAY 20% PH 20% CO20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAN2    D20%",
+        "PlanDescription": "DAMAN NETWORK-2 D20%(MAX-50)  CO 10%(MAX50)  PH30% (MAX-300)",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAN2  D 20%C",
+        "PlanDescription": "DAMAN NETWORK-2 DED 20%  DN 20% COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAN2  D 20%C0",
+        "PlanDescription": "DAMAN NETWORK-2 DED 20% (MAX-30) DN 15% COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAN2  D10%C0",
+        "PlanDescription": "DAMAN NETWORK-2 DED 10% (MAX20)  COPAY NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAN2  D20%C10",
+        "PlanDescription": "DAMAN NETWORK-2 DED20%(50) CO 10%(25) PH 20%(100)",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAN2  D25 C0",
+        "PlanDescription": "DAMAN NETWORK-2 DED 25 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAN2  D50C10",
+        "PlanDescription": "DAMAN NETWORK-2 DED 50 COPAY 10% PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAN2 D    20%",
+        "PlanDescription": "DAMAN NETWORK-2 DED 20% (MAX-50) COPAY 80 AED PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAN2 D 20% C0",
+        "PlanDescription": "DAMAN NETWORK-2 DED 20% (MAX-75) COPAY NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAN2 D 20%C0",
+        "PlanDescription": "DAMAN NETWORK-2 DED 20% (MAX-30) COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAN2 D100 C0",
+        "PlanDescription": "DAMAN NETWORK-2 DED 100 COPAY NIL PH 20%(100)",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAN2 D20% C 0",
+        "PlanDescription": "DAMAN NETWORK-2 DED 20% (MAX 75) CO NIL PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAN2 D20% C0",
+        "PlanDescription": "DAMAN NETWORK-2 DED 20% (MAX 50) CO NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAN2 D20%C 0",
+        "PlanDescription": "DAMAN NETWORK-2 DED 20% (MAX-50) PH 30% DN 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAN2 D20%C10",
+        "PlanDescription": "DAMAN NETWORK-2 DED 20% (MAX-100) CO 10% PH 10%(MAX-100)",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAN2 D20%C10%",
+        "PlanDescription": "DAMAN NETWORK-2 DED 20% (MAX-50) COPAY 10% PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAN2 D20%C20%",
+        "PlanDescription": "DAMAN NETWORK-2 DED 20% COPAY 20% PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAN2 D20%C30",
+        "PlanDescription": "DAMAN NETWORK-2 DED 20% M 50COPAY 30 PH NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAN2 D20%P20%",
+        "PlanDescription": "DAMAN NETWORK-2 DED 20% (MAX-50)  COPAY 0  PH 20% (MAX-100)",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAN2 D20%P30%",
+        "PlanDescription": "DAMAN NETWORK-2 DED 20% COPAY 0  PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAN2 D50  C0",
+        "PlanDescription": "DAMAN NETWORK-2 DED 50 COPAY NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAN2 D50 C20%",
+        "PlanDescription": "DAMAN NETWORK-2 DED 50 COPAY 20% PH 20% DN 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAN2 D50 P30%",
+        "PlanDescription": "DAMAN NETWORK-2 DED50 COPAY 10%(MAX 50)  PH 30% (MAX 300)",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAN2 D50C10%",
+        "PlanDescription": "DAMAN NETWORK-2 DED 50 COPAY 10% PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAN2 D50C20%",
+        "PlanDescription": "DAMAN NETWORK-2 DED 50 COPAY 20% PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAN2 D50P30%",
+        "PlanDescription": "DAMAN NETWORK-2 DED50 COPAY 0  PH 30% (MAX 100)",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAN2 D70  C0",
+        "PlanDescription": "DAMAN NETWORK-2 DED 70 COPAY NIL   ( DG 70 ) PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAN2D20%C10%",
+        "PlanDescription": "DAMAN NETWORK-2 DED 20% (MAX-50) COPAY 10% PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAN2D75 C20%",
+        "PlanDescription": "DAMAN NETWORK-2 DED 20%(max-75) COPAY 20% PH 20% CO20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-M N2 D20%P203",
+        "PlanDescription": "DAMAN NETWORK-2 DED 20% (MAX-50)  DG 30 PH 20% (MAX-100)",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "DDAMN NETWORK-5",
+    "PolicyGroupDescription": "NATIONAL HEALTH INS CO - DAMAN - NETWORK - 5",
+    "RateListCode": "DAMAN - NET-5",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS026",
+    "Plans": [
+      {
+        "PlanCode": "D DAN5 D2050102",
+        "PlanDescription": "DAMAN NETWORK-5 DED 50 OP NIL DG 10%20 PH30%100",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DA  N5  D0 C0",
+        "PlanDescription": "DAMAN NETWORK-5 DED20%(MAX50)  COPAY 20%(MAX60) PH20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DA  N5  D0C0",
+        "PlanDescription": "DAMAN NETWORK-5 DED 50  COPAY 20%(MAX60) PH20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DA  N5  D20%",
+        "PlanDescription": "DAMAN NETWORK-5 DED20% (MAX-50) CO20%  PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DA  N5  D40X",
+        "PlanDescription": "DAMAN NETWORK-5 DED 40  COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DA  N5  D50PH",
+        "PlanDescription": "DAMAN NETWORK-5 DED 50 OP NIL LAB/RAD10AED  PH10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DA  N5  D50X",
+        "PlanDescription": "DAMAN NETWORK-5 DED 50 OP NIL LAB/RAD10%M50  PH30%M100",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DA N  D10% C",
+        "PlanDescription": "DAMAN NETWORK-5  DED 10% (MAX-25) COPAY 10% PH NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DA N5    D20%",
+        "PlanDescription": "DAMAN NETWORK-5 DED 20% (MAX-75 ) COPAY PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DA N5   D20M5",
+        "PlanDescription": "DAMAN NETWORK-5 DED 20% M50 OP NIL L/R 10%M50 PH 30%M300",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DA N5  D 10%",
+        "PlanDescription": "DAMAN NETWORK-5  DED 10% (MAX-25) COPAY 10% PH 10 % ( 100 )",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DA N5  D0 C0",
+        "PlanDescription": "DAMAN NETWORK-5  DED NIL COPAY NIL PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DA N5  D10",
+        "PlanDescription": "DAMAN NETWORK-5  DED 10%  M 50 PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DA N5  D10% C",
+        "PlanDescription": "DAMAN NETWORK-5  DED 10% (MAX-25) COPAY 10% PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DA N5  D10%C",
+        "PlanDescription": "DAMAN NETWORK-5  DED 10% (MAX-25) COPAY 0 PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DA N5  D10%C0",
+        "PlanDescription": "DAMAN NETWORK-5 MB PLAN DED 10% COPAY NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DA N5  D10%X",
+        "PlanDescription": "DAMAN NETWORK-5  DED 10%MAX  30 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DA N5  D10P10",
+        "PlanDescription": "DAMAN NETWORK-5  DED 10%  PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DA N5  D1C",
+        "PlanDescription": "DAMAN NETWORK 5 DED 10%M25 OP/PH NIL LAB/RAD 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DA N5  D20",
+        "PlanDescription": "DAMAN NETWORK-5  DED 10%M 50 OP NIL LAB/RAD 10%M50 PH20%M100",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DA N5  D20% C",
+        "PlanDescription": "DAMAN NETWORK-5 DED 20% COPAY NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DA N5  D20%50",
+        "PlanDescription": "DAMAN NETWORK-5 DED 20% (MAX-50 ) COPAY 30%  PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DA N5  D20%C0",
+        "PlanDescription": "DAMAN NETWORK-5 DED 20% COPAY NIL PH 15%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DA N5  D25C0",
+        "PlanDescription": "DAMAN NETWORK-5  DED 25 COPAY NIL PH 20% MAX(100)",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DA N5  D50",
+        "PlanDescription": "DAMAN NETWORK-5 DED 20% (MAX-50 ) COPAY NIL  PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DA N5  D50C10",
+        "PlanDescription": "DAMAN NETWORK-5  DED50 COPAY 10AED PH 20%(100)",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DA N5  D50P30",
+        "PlanDescription": "DAMAN NETWORK-5  DED  50  LAB &XR 10 AED PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DA N5  D50X5",
+        "PlanDescription": "DAMAN NETWORK-5  DED  50  OP NIL DG 70 AED PH 5%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DA N5 -D20503",
+        "PlanDescription": "DAMAN NETWORK-5 DED 20% M50 OP NIL L/R 10%M30 PH20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DA N5 D20% C0",
+        "PlanDescription": "DAMAN NETWORK-5 DED 20% (MAX50AED) CO 0% PH 20%(MAX100)",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DA N5 D50C10",
+        "PlanDescription": "DAMAN NETWORK-5 DED 20% (MAX-50 ) COPAY 10%  PH 15%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DA N5 D50C20",
+        "PlanDescription": "DAMAN NETWORK-5 DED 20% (MAX-50 ) COPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DA N5 D50P30%",
+        "PlanDescription": "DAMAN NETWORK-5  DED50 OP NIL  L/R 10%M50  PH 30% M300",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DA N5D20%75P2",
+        "PlanDescription": "DAMAN NETWORK-5 DED 20% (MAX-75 ) L/R 20% COPAY PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DA N5D20%75P3",
+        "PlanDescription": "DAMAN NETWORK-5 DED 20% (MAX-75 ) COPAY PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DA5 DG20%C20",
+        "PlanDescription": "DAMAN NETWORK-5 DED20% (MAX-50) DG (20MAX-50) PH 20%MX 100",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DA5 DG20%DG50",
+        "PlanDescription": "DAMAN NETWORK-5 DED20% (MAX-50) DG -50AED  PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DA5 DG20%P20",
+        "PlanDescription": "DAMAN NETWORK-5 DED20% (MAX-50) DG (20%MAX-50) PH 20%MX 100",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DA5 DG20%P30",
+        "PlanDescription": "DAMAN NETWORK-5 DED20% (MAX-50) DG (20%MAX-50) PH 30%MX 100",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DA5 DG50%C20",
+        "PlanDescription": "DAMAN NETWORK-5 DED50 DG (20MAX-50) PH 20%MX 100",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAM   N5",
+        "PlanDescription": "DAMAN NETWORK-5 DED 10%M 50 COPAY NIL  PH 30%M50",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAM   N5  D",
+        "PlanDescription": "DAMAN NETWORK-5 DED 10%M 50 COPAY 10%M30 PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAM   N5  D0",
+        "PlanDescription": "DAMAN NETWORK-5  D0 C0",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAM   N5  D10",
+        "PlanDescription": "DAMAN NETWORK-5 DED 10%M 50  DG 20% 30 PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAM   N5  D2%",
+        "PlanDescription": "DAMAN NETWORK-5 DED20%M50 OP 0 L/R 20%M80 PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAM   N5  D40",
+        "PlanDescription": "DAMAN NETWORK-5 DED 40  PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAM   N5  D50",
+        "PlanDescription": "DAMAN NETWORK-5 DED 50  PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAM   N5 10",
+        "PlanDescription": "DAMAN NETWORK-5 DED 10%M 50 COPAY NIL  PH 20%M100",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAM  N5",
+        "PlanDescription": "DAMAN NETWORK-5  DED 20%M100 COPAY NIL PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAM  N5  C15",
+        "PlanDescription": "DAMAN NETWORK-5 DED 15% COPAY 15% PH 15%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAM  N5  D0C0",
+        "PlanDescription": "DAMAN NETWORK-5  DED NIL COPAY NIL PH NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAM  N5  D10%",
+        "PlanDescription": "DAMAN NETWORK-5  DED 10% (MAX-25) COPAY 0 PH30%(100)",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAM  N5  D20%",
+        "PlanDescription": "DAMAN NETWORK-5 DED 20% (MAX-75 ) COPAY NIL DN 20% PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAM  N5  D50",
+        "PlanDescription": "DAMAN NETWORK-5  DED  50  LAB &XR 80 AED PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAM  N5  D50X",
+        "PlanDescription": "DAMAN NETWORK-5  DED  50  OP NIL LAB/RAD 70 AED PH 15%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAM  N5 D15",
+        "PlanDescription": "DAMAN NETWORK-5 DED 15% OP NIL LAB/RAD 15% PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAM  N5 D20%C",
+        "PlanDescription": "DAMAN NETWORK-5 DED 20% (MAX-35) COPAY NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAM  N5100",
+        "PlanDescription": "DAMAN NETWORK-5  DED100 COPAY NIL PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAM N1 C15D",
+        "PlanDescription": "DAMAN NETWORK-5 DED15%M50  OP NIL LAB/RAD 15%  PH 15%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAM N5  D 20%",
+        "PlanDescription": "DAMAN NETWORK-5 DED 20%(MAX50) COPAY NIL PH 20%( MAX50)",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAM N5  D 5",
+        "PlanDescription": "DAMAN NETWORK-5 DED 50 COPAY 20%M80 PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAM N5  D 50",
+        "PlanDescription": "DAMAN NETWORK-5 DED 50 COPAY NIL PH 20%( MAX-100)",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAM N5  D%",
+        "PlanDescription": "DAMAN NETWORK-5 DED 20%(MAX50) COPAY NIL PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAM N5  D% 20",
+        "PlanDescription": "DAMAN NETWORK-5 DED 20%(MAX50) COPAY NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAM N5  D0C0X",
+        "PlanDescription": "DAMAN NETWORK-5 DED NIL COPAY NIL PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAM N5  D20%",
+        "PlanDescription": "DAMAN NETWORK-5 DED 20%(MAX50) COPAY NIL PH 10%( MAX-100)",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAM N5  D25",
+        "PlanDescription": "DAMAN NETWORK-5 DED 20% COPAY NIL PH 25%M100",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAM N5  D25C0",
+        "PlanDescription": "DAMAN NETWORK-5 DED 25 COPAY NIL PH 10%(100)",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAM N5  D50",
+        "PlanDescription": "DAMAN NETWORK-5 DED 50 COPAY NIL PH 10%( MAX-100)",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAM N5  D50C0",
+        "PlanDescription": "DAMAN NETWORK-5 DED 50 COPAY NIL PH 30% (MAX-100)",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAM N5  DED25",
+        "PlanDescription": "DAMAN NETWORK-5 DED 25AED COPAY 20% PH 0 L/R50AED",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAM N5 20",
+        "PlanDescription": "DAMAN NETWORK-5 DED20% (MAX-50) DG 80AED PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAM N5 C20%",
+        "PlanDescription": "DAMAN NETWORK-5 DB PLAN COPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAM N5 D 25C0",
+        "PlanDescription": "DAMAN NETWORK-5 DED 25 COPAY NIL PH NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAM N5 D PH 0",
+        "PlanDescription": "DAMAN NETWORK-5 DED 20% (MAX-50) OP NIL DG 10% PH NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAM N5 D0C0",
+        "PlanDescription": "DAMAN NETWORK-5 DED 0 COPAY NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAM N5 D10%C0",
+        "PlanDescription": "DAMAN NETWORK-5 DED 10%(MAX-100) COPAY NIL PH 10%(MAX-100)",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAM N5 D20",
+        "PlanDescription": "DAMAN NETWORK-5 DED 20% (MAX-50) OP NIL DG 10% PH20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAM N5 D20%",
+        "PlanDescription": "DAMAN NETWORK-5 DED30% (MAX-50) PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAM N5 D20% C",
+        "PlanDescription": "DAMAN NETWORK-5 DED 20%  COPAY 10% PH20% DN20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAM N5 D20%C0",
+        "PlanDescription": "DAMAN NETWORK-5 DED 20% COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAM N5 D25C0",
+        "PlanDescription": "DAMAN NETWORK-5 DED 25 COPAY NIL PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAM N5 D30C0",
+        "PlanDescription": "DAMAN NETWORK-5 DED 30 COPAY NIL PH NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAM N5 D50C0",
+        "PlanDescription": "DAMAN NETWORK-5 DED 50 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAM N5 D50C30",
+        "PlanDescription": "DAMAN NETWORK-5 DED 50 COPAY (30AED) PH 20%(100)",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAM N5 DEN10%",
+        "PlanDescription": "DAMAN NETWORK-5 COPAY DENTAL 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAM N5 DEN30%",
+        "PlanDescription": "DAMAN NETWORK-5 COPAY DENTAL 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAM N5 DG20",
+        "PlanDescription": "DAMAN NETWORK-5 DED20% (MAX-50) DG 80AED PH 30%M400",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAM N5 DG21",
+        "PlanDescription": "DAMAN NETWORK-5 DED20% (MAX-100) DG (20%MAX-30) PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAM N5 DGXX",
+        "PlanDescription": "DAMAN NETWORK-5 DED20% DG 20% PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAM N5D50C0",
+        "PlanDescription": "DAMAN NETWORK-5 MAT DED 50 COPAY NIL PH20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAM N5DED25P",
+        "PlanDescription": "DAMAN NETWORK-5 DED 25AED PH 20% 50",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAN5   D20%C0",
+        "PlanDescription": "DAMAN NETWORK-5 DED 20% COPAY NIL PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAN5   D20C0",
+        "PlanDescription": "DAMAN NETWORK-5 DED 20 COPAY NIL PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAN5   DED 50",
+        "PlanDescription": "DAMAN NETWORK-5 DED 50 COPAY 20% PH NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAN5  D10",
+        "PlanDescription": "DAMAN NETWORK-5 DED 10%M50 OP NIL DG 20% MAX 50 PH 20%M100",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAN5  D10% C0",
+        "PlanDescription": "DAMAN NETWORK-5 DED 10%(MAX-25) COPAY NIL (MB PLAN) PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAN5  D10%C0",
+        "PlanDescription": "DAMAN NETWORK-5 DED 10%  COPAY NIL PH 15%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAN5  D10%M25",
+        "PlanDescription": "DAMAN NETWORK-5 DED 10%(MAX-25) COPAY NIL PH 20%M100",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAN5  D10%PH1",
+        "PlanDescription": "DAMAN NETWORK-5  COPAY 20%M30 PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAN5  D10X",
+        "PlanDescription": "DAMAN NETWORK-5 DED 10%MAX 25 OP NIL L/R 10% PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAN5  D20% C0",
+        "PlanDescription": "DAMAN NETWORK-5 DED 20% COPAY NIL PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAN5  D20%C 0",
+        "PlanDescription": "DAMAN NETWORK-5 DED 20% (MAX 50) COPAY NIL PH 15%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAN5  D20%C0",
+        "PlanDescription": "DAMAN NETWORK-5 DED 20% MB 10% DN 20% COPAY NIL PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAN5  D20%C20",
+        "PlanDescription": "DAMAN NETWORK-5 DED20% (MAX-50) CO20% (MAX-30) PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAN5  D20%L/R",
+        "PlanDescription": "DAMAN NETWORK-5 DED20% (MAX-50) DG (20%M-30) PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAN5  D20%P25",
+        "PlanDescription": "DAMAN NETWORK-5 DED 20%(MAX50) COPAY NIL PH 25%M100",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAN5  D20100",
+        "PlanDescription": "DAMAN NETWORK-5 DED 20% OP NIL DG 20% PH 20%M100",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAN5  D2050",
+        "PlanDescription": "DAMAN NETWORK-5 DED 20%M50 OP NIL DG 20% MAX15 PH 20%M100",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAN5  D30XR10",
+        "PlanDescription": "DAMAN NETWORK-5 DED 30 LB & XR- 10 AED PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAN5  D50 C 0",
+        "PlanDescription": "DAMAN NETWORK-5 DED 50 COPAY NIL PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAN5  D50 C0",
+        "PlanDescription": "DAMAN NETWORK-5 DED 50 COPAY NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAN5  D50 C0X",
+        "PlanDescription": "DAMAN NETWORK-5 DED 50 OP NIL DG 10% MAX 50 PH 30%M100",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAN5  D50C30",
+        "PlanDescription": "DAMAN NETWORK-5 DED 50 LB & XR- 30 AED PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAN5  D50P30",
+        "PlanDescription": "DAMAN NETWORK-5 DED 50 LB & XR- 50 AED PH 30% ( 100 )",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAN5 C15%PH10",
+        "PlanDescription": "DAMAN NETWORK-5 DED15% COPAY 15%  PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAN5 D 2  0%",
+        "PlanDescription": "DAMAN NETWORK-5 DED 20% (MAX-25) COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAN5 D 20% C",
+        "PlanDescription": "DAMAN NETWORK-5 DED 20% (MAX-50) COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAN5 D 20% C0",
+        "PlanDescription": "DAMAN NETWORK-5 DED 20%(MAX100)  CO 0 PH 10%(MAX100)",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAN5 D 20%C 0",
+        "PlanDescription": "DAMAN NETWORK-5 DED 20% (MAX 75) COPAY NIL PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAN5 D 20%C0",
+        "PlanDescription": "DAMAN NETWORK-5 DED 20%(MAX 100) PH 10% CO 0",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAN5 D10% C 0",
+        "PlanDescription": "DAMAN NETWORK-5 DED 10%(MAX-25) COPAY NIL PH NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAN5 D10% C0",
+        "PlanDescription": "DAMAN NETWORK-5 DED 10%(MAX-25) COPAY NIL PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAN5 D20%",
+        "PlanDescription": "DAMAN NETWORK-5 DED 20% (MAX-50) OP NIL LAB/RAD/PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAN5 D20%  C",
+        "PlanDescription": "DAMAN NETWORK-5 DED 20% COPAY NIL PH NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAN5 D20%  C0",
+        "PlanDescription": "DAMAN NETWORK-5 DED 20% (MAX-50) COPAY NIL PH30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAN5 D20% C 0",
+        "PlanDescription": "DAMAN NETWORK-5 DED 20% (MAX-50) COPAY NIL PH10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAN5 D20% C0",
+        "PlanDescription": "DAMAN NETWORK-5 DED 20% (MAX-50) COPAY NIL PH20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAN5 D20% C20",
+        "PlanDescription": "DAMAN NETWORK-5 DED20%(MAX50)  COPAY 20%(MAX50) PH30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAN5 D20%C 10",
+        "PlanDescription": "DAMAN NETWORK-5 DED 20% (MAX-50) COPAY 10% PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAN5 D20%C10",
+        "PlanDescription": "DAMAN NETWORK-5 DED 20% (50) COPAY 10% PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAN5 D20%C10%",
+        "PlanDescription": "DAMAN NETWORK-5 DED 20% (MAX-50) COPAY 10% PH 10% DN 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAN5 D20%C20%",
+        "PlanDescription": "DAMAN NETWORK-5 DED 20% COPAY 20% PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAN5 D30XR10P",
+        "PlanDescription": "DAMAN NETWORK-5 DED 30 LAB 10 AED / XR  10 AED PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAX N5 DG",
+        "PlanDescription": "DAMAN NETWORK-5 DED20% DG (20%MAX-50) PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-M N5 DG20%C20",
+        "PlanDescription": "DAMAN NETWORK-5 DED20% (MAX-50) DG (MAX-30) PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-M N5 DG20%P20",
+        "PlanDescription": "DAMAN NETWORK-5 DED20% (MAX-50) DG (MAX-30) PH 20%100",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-X N5 DG20%C20",
+        "PlanDescription": "DAMAN NETWORK-5 DED20% (MAX-50) DG (20%MAX-50) PH 20%MX 100",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N5  D1010",
+        "PlanDescription": "DAMAN NETWORK-5 DED 10%M25 OP 0 L/R 20%M30 PH 20%M100",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N5  D10X",
+        "PlanDescription": "DAMAN NETWORK-5 DED 10%M25 OP 0 L/R 20%M30 PH 20%M100",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  }
+]
