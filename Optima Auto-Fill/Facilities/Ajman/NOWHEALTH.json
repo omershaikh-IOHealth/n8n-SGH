@@ -1,0 +1,222 @@
+[
+  {
+    "PolicyGroupCode": "DNOWEAL PAPER C",
+    "PolicyGroupDescription": "NOWHEALTH - INTERNATIONAL CLAIM PAPER CLAIMS",
+    "RateListCode": "NOWHEALTH",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "TPA017",
+    "Plans": [
+      {
+        "PlanCode": "NOW INTL D0C0",
+        "PlanDescription": "NOWHEALTH INTERNATIONAL PAPER CLAIM DED 0 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NOW INTL D55",
+        "PlanDescription": "NOWHEALTH INTERNATIONAL PAPER CLAIM DED 55  COPAY NIL",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "DNOWEALTH - RSA",
+    "PolicyGroupDescription": "NOWHEALTH - ROYAL & SUN ALLIANCE INSURANCE (MIDDLE EAST) LTD",
+    "RateListCode": "NOWHEALTH",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS039",
+    "Plans": [
+      {
+        "PlanCode": "D-NOEALTH C10%",
+        "PlanDescription": "NOWHEALTH WORLDCARE ADVANCE C10% ON ALL SERVICES",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-NOEALTH D0C0",
+        "PlanDescription": "NOWHEALTH WORLDCARE ADVANCE DED NIL COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-NOEALTH D20%C",
+        "PlanDescription": "NOWHEALTH WORLDCARE ADVANCE DED 20%(MAX 90AED) COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-NOW RSA C 20%",
+        "PlanDescription": "NOWHEALTH WORLDCARE ADVANCE DED 20% (MAX-50)",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-NOW RSA C10%",
+        "PlanDescription": "NOWHEALTH WORLDCARE ADVANCE COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-NOW RSA C20%",
+        "PlanDescription": "NOWHEALTH WORLDCARE ADVANCE COPAY 20% (MAX-100)",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-NOW RSA D0C0",
+        "PlanDescription": "NOWHEALTH WORLDCARE ADVANCE DED NIL COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-NOW RSA D15",
+        "PlanDescription": "NOWHEALTH WORLDCARE ADVANCE DED 20% (MAX-15)",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-NOW RSA D92C0",
+        "PlanDescription": "NOWHEALTH WORLDCARE ADVANCE DED 92 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "DNOWEALTH-ARABI",
+    "PolicyGroupDescription": "NOWHEALTH - ARABIA INSURANCE COMPANY",
+    "RateListCode": "NOWHEALTH",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS042",
+    "Plans": [
+      {
+        "PlanCode": "D-NOARAB   D20%",
+        "PlanDescription": "NOWHEALTH WORLDCARE ADVANCE DED 20(MAX 50AED)",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-NOARAB D20%90",
+        "PlanDescription": "NOWHEALTH WORLDCARE ADVANCE DED 20%(MAX 90)CO 0 PH NILL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-NOARABD20%90",
+        "PlanDescription": "NOWHEALTH WORLDCARE ADVANCE DED 20(MAX 90)CO 0 PH NILL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-NOW ARAB D0C0",
+        "PlanDescription": "NOWHEALTH WORLDCARE ADVANCE DED 0 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-NOW ARAB D15",
+        "PlanDescription": "NOWHEALTH WORLDCARE ADVANCE DED 20(MAX 15)",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-NOW ARABD0C0",
+        "PlanDescription": "NOWHEALTH WORLDCARE ADVANCE DED 0 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-NOWX ARABD0C0",
+        "PlanDescription": "NOWHEALTH WORLDCARE ADVANCE COPAY 10%",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "NOWHEALTH - RSA",
+    "PolicyGroupDescription": "NOWHEALTH - ROYAL & SUN ALLIANCE INSURANCE (MIDDLE EAST) LTD",
+    "RateListCode": "NOWHEALTH",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS039",
+    "Plans": [
+      {
+        "PlanCode": "NOW RSA C 20%",
+        "PlanDescription": "NOWHEALTH WORLDCARE ADVANCE DED 20% (MAX-50)",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NOW RSA C10%",
+        "PlanDescription": "NOWHEALTH WORLDCARE ADVANCE COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NOW RSA C20%",
+        "PlanDescription": "NOWHEALTH WORLDCARE ADVANCE COPAY 20% (MAX-100)",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NOW RSA D0C0",
+        "PlanDescription": "NOWHEALTH WORLDCARE ADVANCE DED NIL COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NOW RSA D15",
+        "PlanDescription": "NOWHEALTH WORLDCARE ADVANCE DED 20% (MAX-15)",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NOW RSA D92C0",
+        "PlanDescription": "NOWHEALTH WORLDCARE ADVANCE DED 92 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NOWHEALTH C10%",
+        "PlanDescription": "NOWHEALTH WORLDCARE ADVANCE C10% ON ALL SERVICES",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NOWHEALTH D0C0",
+        "PlanDescription": "NOWHEALTH WORLDCARE ADVANCE DED NIL COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NOWHEALTH D20%C",
+        "PlanDescription": "NOWHEALTH WORLDCARE ADVANCE DED 20%(MAX 90AED) COPAY NIL",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "NOWHEALTH-ARABI",
+    "PolicyGroupDescription": "NOWHEALTH - ARABIA INSURANCE COMPANY",
+    "RateListCode": "NOWHEALTH",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS042",
+    "Plans": [
+      {
+        "PlanCode": "NOW ARAB   D20%",
+        "PlanDescription": "NOWHEALTH WORLDCARE ADVANCE DED 20(MAX 50AED)",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NOW ARAB D0C0",
+        "PlanDescription": "NOWHEALTH WORLDCARE ADVANCE DED 0 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NOW ARAB D15",
+        "PlanDescription": "NOWHEALTH WORLDCARE ADVANCE DED 20(MAX 15)",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NOW ARAB D20%90",
+        "PlanDescription": "NOWHEALTH WORLDCARE ADVANCE DED 20%(MAX 90)CO 0 PH NILL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NOW ARABD0C0",
+        "PlanDescription": "NOWHEALTH WORLDCARE ADVANCE DED 0 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NOW ARABD20%90",
+        "PlanDescription": "NOWHEALTH WORLDCARE ADVANCE DED 20(MAX 90)CO 0 PH NILL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NOWX ARABD0C0",
+        "PlanDescription": "NOWHEALTH WORLDCARE ADVANCE COPAY 10%",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  }
+]
