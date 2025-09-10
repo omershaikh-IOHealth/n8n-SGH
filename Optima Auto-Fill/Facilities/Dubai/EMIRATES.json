@@ -1,0 +1,32 @@
+[
+  {
+    "PolicyGroupCode": "EMIRATES",
+    "PolicyGroupDescription": "EMIRATES AIRLINES",
+    "RateListCode": "EMIRATES AIRLIN",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS080",
+    "Plans": [
+      {
+        "PlanCode": "EA REIMB CO100%",
+        "PlanDescription": "EMIRATES AIRLINES CO 100%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "EMI AIRD20",
+        "PlanDescription": "EMIRATES AIRLINES INS DED20%MAX 50 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "EMI AIRD20 D0",
+        "PlanDescription": "EMIRATES AIRLINES INS DED NIL COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NC EMI AIRD0C0",
+        "PlanDescription": "NEXTCARE EMIRATES AIRLINES INS DED NIL COPAY NIL",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  }
+]
