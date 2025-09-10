@@ -1,0 +1,1062 @@
+[
+  {
+    "PolicyGroupCode": "DSAICO BRONZE",
+    "PolicyGroupDescription": "SAICO - Saudi Arabia Insurance Company - BRONZE NETWORK",
+    "RateListCode": "SAICO - BRONZE",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS015",
+    "Plans": [
+      {
+        "PlanCode": "D-SAICO C10%",
+        "PlanDescription": "SAICO BRONZE COPAY 10% (MB)",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-SAICO C20%",
+        "PlanDescription": "SAICO BRONZE COPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-SAICO D0C0",
+        "PlanDescription": "SAICO BRONZE NETWORK -  DED NIL COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-SAICO D10%50",
+        "PlanDescription": "SAICO BRONZE NETWORK -  COPAY 10% 50",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-SAICO D10%C0",
+        "PlanDescription": "SAICO BRONZE NETWORK -  DED 10% COPAY 0",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-SAICO D20%",
+        "PlanDescription": "SAICO BRONZE DED 20%(MAX 25) COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-SAICO D20%10%",
+        "PlanDescription": "SAICO BRONZE DED 20% (MAX-50) OP 10% PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-SAICO D20%100",
+        "PlanDescription": "SAICO BRONZE DED 20%(MAX 100) PHYSIO 20%(MAX 100) PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-SAICO D20%20%",
+        "PlanDescription": "SAICO BRONZE DED 20% (MAX-50) OP 10% PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-SAICO D20%C 0",
+        "PlanDescription": "SAICO BRONZE DED 20% (MAX-50) COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-SAICO D50C0",
+        "PlanDescription": "SAICO BRONZE NETWORK -  DED 50 COPAY 0",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-SAO D20% C15%",
+        "PlanDescription": "SAICO BRONZE  DED 20% (MAX-50) COPAY 15% PH 10% DN 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-SAO D20%C",
+        "PlanDescription": "SAICO BRONZE DED 20% (MAX-50) COPAY NIL PH 20%M100",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-SAO D20%C0P0",
+        "PlanDescription": "SAICO BRONZE DED 20% (MAX-50) COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-SAO D20%C15%",
+        "PlanDescription": "SAICO BRONZE  DED 20% (MAX-50) COPAY 15% PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-SAO D20%C20%",
+        "PlanDescription": "SAICO BRONZE DED 20% (100) COPAY 20%(100) PH 20%(100)",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-SAO D20%C75%",
+        "PlanDescription": "SAICO BRONZE  DED 20% (MAX-75) COPAY 20%M100  PH 10%",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "DSAICO EM&JADE",
+    "PolicyGroupDescription": "SAICO - Saudi Arabia Insurance Company - EMERALD & JADE NETW",
+    "RateListCode": "SAICO - EM&JADE",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS015",
+    "Plans": [
+      {
+        "PlanCode": "D-SAICO   D 10%",
+        "PlanDescription": "SAICO EMERALD & JADE NET-  MB PLAN DED 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-SAICO   D10%",
+        "PlanDescription": "SAICO EMERALD & JADE NET-  DED 10% (MAX-25) CO 10% PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-SAICO  CO20%",
+        "PlanDescription": "SAICO EMERALD & JADE NET-  COPAY 20% ON ALL SERVICES",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-SAICO  D 10%",
+        "PlanDescription": "SAICO EMERALD & JADE NET-  MB PLAN DED 10%  PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-SAICO  D0C0",
+        "PlanDescription": "SAICO EMERALD & JADE NETWORK -  DED NIL COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-SAICO  D10%",
+        "PlanDescription": "SAICO EMERALD & JADE NET-  DED 10% (MAX-50) DN 20% PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-SAICO  D10M50",
+        "PlanDescription": "SAICO EMERALD & JADE NET-  DED 10% (MAX-50) COPAY 10% PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-SAICO  D20%",
+        "PlanDescription": "SAICO EMERALD & JADE NET-  DED 20% (MAX-50) CO NIL PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-SAICO  D20%C0",
+        "PlanDescription": "SAICO EMERALD & JADE NET-  DED 20%(MAX-50) COPAY NIL DN 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-SAICO  D50 C0",
+        "PlanDescription": "SAICO EMERALD & JADE NETWORK -  DED 50 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-SAICO D NIL",
+        "PlanDescription": "SAICO EMERALD & JADE NETWORK -  DED NIL COPAY 20% PH NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-SAICO D0  C0",
+        "PlanDescription": "SAICO EMERALD & JADE NETWORK -  DED 0 COPA NIL PH20%(MAX100)",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-SAICO D10 X",
+        "PlanDescription": "SAICO EMERALD & JADE NET-  DED 10%M25 COPAY 10AED PH20%M100",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-SAICO D20%  C",
+        "PlanDescription": "SAICO EMERALD & JADE NET-  DED 20% (MAX-25) COPAY 0",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-SAICO D20% 75",
+        "PlanDescription": "SAICO EMERALD & JADE NET-  DED 20% (MAX-75) PH20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-SAICO D20% C",
+        "PlanDescription": "SAICO EMERALD & JADE NET- DED 20% (MAX50) CO 10% PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-SAICO D20% C0",
+        "PlanDescription": "SAICO EMERALD & JADE NET-  DED 20% (MAX-50) COPAY  0",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-SAICO D20%C0",
+        "PlanDescription": "SAICO EMERALD & JADE NET-  DED 20% COPAY NIL PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-SAICO D2020",
+        "PlanDescription": "SAICO EMERALD & JADE DED20%M75 COPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-SAICO D25C0",
+        "PlanDescription": "SAICO JADE NETWORK MB PLAN -  DED 25 COPAY NIL PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-SAICO D25C20",
+        "PlanDescription": "SAICO EMERALD & JADE NET-  DED 10% (MAX-25) CO 20% PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-SAICO D30C0",
+        "PlanDescription": "SAICO EMERALD & JADE NETWORK -  DED 30 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-SAICO D50 C 0",
+        "PlanDescription": "SAICO EMERALD & JADE NETWORK -  DED 50 COPAY NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-SAICO D50 C0",
+        "PlanDescription": "SAICO EMERALD & JADE NETWORK -  DED 50 COPAY NIL DN 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-SAICO DN20%",
+        "PlanDescription": "SAICO EMERALD & JADE NET-  DB PLAN  DN 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-SAICO MAT 10%",
+        "PlanDescription": "SAICO EMERALD & JADE NET-  MAT 10 % (MAX-25) COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-SAICO MAT10%",
+        "PlanDescription": "SAICO EMERALD & JADE NET-  MAT 10 % ON ALL SERVICES",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-SAICOD10",
+        "PlanDescription": "SAICO EMERALD & JADE NET-  DED 10% (MAX-25) COPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-SAICOD10%M25",
+        "PlanDescription": "SAICO EMERALD & JADE NET-  DED 10% (MAX-25) CO NIL PH NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-SAICOD20M25",
+        "PlanDescription": "SAICO EMERALD & JADE NET-  D20%M25 COPAY / PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-SAO   D10%C20",
+        "PlanDescription": "SAICO EMERALD & JADE NET-  DED 10% (MAX-25) CO 20% PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-SAO  D20% C0",
+        "PlanDescription": "SAICO EMERALD & JADE NET-  DED 20% (MAX-50) COPAY  0 PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-SAO D 2 0% C0",
+        "PlanDescription": "SAICO EMERALD & JADE NET-  D20% (MAX-100) COPAY NIL PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-SAO D 2 0%100",
+        "PlanDescription": "SAICO EMERALD & JADE NET- D20% (MAX-100)PHY 20%(MAX100)PH30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-SAO D 20%  C0",
+        "PlanDescription": "SAICO EMERALD & JADE NET-  DED 20% (MAX-50) COPAY 20% PH20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-SAO D 20% 50",
+        "PlanDescription": "SAICO EMERALD & JADE NET- DED 20% (MAX50) CO 20% (MAX50) PH0",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-SAO D 20% C 0",
+        "PlanDescription": "SAICO EMERALD & JADE NET-  D20% (MAX-100) CO 0 PH20%(MAX100)",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-SAO D 20% C0%",
+        "PlanDescription": "SAICO EMERALD & JADE NET- DED 20% (MAX50) C0%PH20% (max100",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-SAO D 20%C20%",
+        "PlanDescription": "SAICO EMERALD & JADE NET-  DED 20% COPAY 20% PH NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-SAO D10 PH 20",
+        "PlanDescription": "SAICO EMERALD & JADE NET-  DED 10  CO 10% M 25 PH 20% M 100",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-SAO D20%   C0",
+        "PlanDescription": "SAICO EMERALD & JADE NET-  DED 20% (MAX-100) CO NIL PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-SAO D20%  C 0",
+        "PlanDescription": "SAICO EMERALD & JADE NET-  DED 20% (MAX-50) COPAY 0 PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-SAO D20%  C0%",
+        "PlanDescription": "SAICO EMERALD & JADE NET- DED 20% (MAX100) C0%PH20% (max100",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-SAO D20% C 0",
+        "PlanDescription": "SAICO EMERALD & JADE NET-  DED 20% (MAX-100) CO NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-SAO D20% C0%",
+        "PlanDescription": "SAICO EMERALD & JADE NET- DED 20% (MAX50) CO 0%PH20% (max50",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-SAO D20% C10",
+        "PlanDescription": "SAICO EMERALD & JADE NET-  DED 20% (MAX-50) CO 10% PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-SAO D20% C10%",
+        "PlanDescription": "SAICO EMERALD & JADE NET-  DED 20% (MAX-50) CO 10% PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-SAO D20% C15",
+        "PlanDescription": "SAICO EMERALD DED 20% (MAX-50) COPAY 15% PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-SAO D20% C20%",
+        "PlanDescription": "SAICO EMERALD & JADE NET-  DED 20% (MAX-50) COPAY 20% PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-SAO D20% M100",
+        "PlanDescription": "SAICO EMERALD & JADE NET-  DED 20% (MAX-100) COPAY  0",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-SAO D20%CO20%",
+        "PlanDescription": "SAICO EMERALD & JADE NET-  DED 20% (MAX-35) CO 20% PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-SAO D20%M",
+        "PlanDescription": "SAICO EMERALD & JADE NETWORK DED 20%M100 COPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-SAO D20%M100",
+        "PlanDescription": "SAICO EMERALD & JADE NETWORK DED 20%M100 COPAY20%M100 PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-SAO D20C0",
+        "PlanDescription": "SAICO EMERALD & JADE NET-  DED 20% M25 COPAY 10AED PH NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-SAO D20M50",
+        "PlanDescription": "SAICO EMERALD & JADE NETWORK -  DED 20%M50 COPAY 20% PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-SAO D50 PH30",
+        "PlanDescription": "SAICO EMERALD & JADE NETWORK -  DED 50 COPAY NIL PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-SAO E D20%C10",
+        "PlanDescription": "SAICO EMERALD & JADE NET-  DED 20% M25 COPAY 10% PH 15%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-SAO E D20%C20",
+        "PlanDescription": "SAICO EMERALD & JADE NET-  DED 20% M25 COPAY 20% PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-SAO E&J D10%",
+        "PlanDescription": "SAICO EMERALD & JADE NET DED 10%(50) CO 10% PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-SAO E&J D10%M",
+        "PlanDescription": "SAICO EMERALD & JADE NET DED 10%M50 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-SAO E&JD D20%",
+        "PlanDescription": "SAICO EMERALD & JADE NET DED 20%(50) C10%(100) PH20%(100)",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-SAO JA  C20%M",
+        "PlanDescription": "SAICO EMERALD & JADE COPAY 20% M100 PH 30%",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "DSAICO GD&AMBER",
+    "PolicyGroupDescription": "SAICO - Saudi Arabia Insurance Company - GOLD & AMBER NETWOR",
+    "RateListCode": "SAICO - GD&AM",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS015",
+    "Plans": [
+      {
+        "PlanCode": "D-SAICO DE20%",
+        "PlanDescription": "SAICO GOLD & AMBER NET-  DENTAL 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-SAICO DED 10%",
+        "PlanDescription": "SAICO (MAT)GOLD & AMBER NETWORK -  DED 10%(MAX 25) PH20%M100",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-SAICO DED 20%",
+        "PlanDescription": "SAICO GOLD & AMBER NETWORK -  DED 20%(50) CO 0 PH 20%(50)",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-SAICO DED 25",
+        "PlanDescription": "SAICO GOLD & AMBER NETWORK -  DED 20%(MAX 25)",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-SAICO DED0C0",
+        "PlanDescription": "SAICO GOLD & AMBER NETWORK -  DED 0 COPAY 0",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-SAICO DED20%",
+        "PlanDescription": "SAICO GOLD & AMBER NETWORK -  DED 20%(MAX 48) COPAY 0",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-SAICO DED25",
+        "PlanDescription": "SAICO GOLD & AMBER NETWORK -  DED 25AED COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-SAICO DED30C0",
+        "PlanDescription": "SAICO GOLD & AMBER NETWORK -  DED 30 COPAY 0 DN 20% PH 0",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-SAICO DED50C0",
+        "PlanDescription": "SAICO GOLD & AMBER NETWORK -  DED 50 COPAY 0",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-SAO   D20%C0",
+        "PlanDescription": "SAICO GOLD & AMBER  NET-  DED 20% (MAX-50) COPAY  0 PH10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-SAO  DED 20%",
+        "PlanDescription": "SAICO GOLD & AMBER NETWORK -  DED 10%(50) CO NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-SAO A D10%",
+        "PlanDescription": "SAICO GOLD & AMBER NETWORK COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-SAO A D10%C0",
+        "PlanDescription": "SAICO GOLD & AMBER NETWORK DED 10% COPAY NIL PH NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-SAO D20%  C0",
+        "PlanDescription": "SAICO GOLD & AMBER NET-  DED 20% (MAX-50) COPAY  0",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-SAO DE0100",
+        "PlanDescription": "SAICO GOLD & AMBER NETWORK -  COPAY 20%MAX 100",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-SAO DED2",
+        "PlanDescription": "SAICO GOLD & AMBER NETWORK - COPAY 20%MAX 100",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-SAO DED20",
+        "PlanDescription": "SAICO GOLD & AMBER NETWORK -  DED 20%M100 COPAY/PH 20%M100",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-SAO DED20% C2",
+        "PlanDescription": "SAICO GOLD & AMBER NETWORK -  DED 20% COPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-SAO DED20%P20",
+        "PlanDescription": "SAICO GOLD & AMBER NETWORK -  DED 20% COPAY NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-SAO DED20100",
+        "PlanDescription": "SAICO GOLD & AMBER NETWORK -  DED 20%M100 COPAY NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-SAO DED20P",
+        "PlanDescription": "SAICO GOLD & AMBER NETWORK -DED 20%M75 COPAY 20%M100 P10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-SAO DED20PH10",
+        "PlanDescription": "SAICO GOLD & AMBER NETWORK -  DED 20%(MAX 25) CO NIL PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-SAO DED2D0",
+        "PlanDescription": "SAICO GOLD & AMBER NETWORK -  COPAY 10%MAX25",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-SAO DED750",
+        "PlanDescription": "SAICO GOLD & AMBER NETWORK -  DED 20%(MAX 75) CO NIL",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "SAICO BRONZE",
+    "PolicyGroupDescription": "SAICO - Saudi Arabia Insurance Company - BRONZE NETWORK",
+    "RateListCode": "SAICO - BRONZE",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS015",
+    "Plans": [
+      {
+        "PlanCode": "SAICO C10%",
+        "PlanDescription": "SAICO BRONZE COPAY 10% (MB)",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "SAICO C20%",
+        "PlanDescription": "SAICO BRONZE COPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "SAICO D0C0",
+        "PlanDescription": "SAICO BRONZE NETWORK -  DED NIL COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "SAICO D10%C0",
+        "PlanDescription": "SAICO BRONZE NETWORK -  DED 10% COPAY 0",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "SAICO D1050",
+        "PlanDescription": "SAICO BRONZE DED 10% (MAX-50) COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "SAICO D20%",
+        "PlanDescription": "SAICO BRONZE DED 20%(MAX 25) COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "SAICO D20% C15%",
+        "PlanDescription": "SAICO BRONZE  DED 20% (MAX-50) COPAY 15% PH 10% DN 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "SAICO D20%10%",
+        "PlanDescription": "SAICO BRONZE DED 20% (MAX-50) OP 10% PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "SAICO D20%100",
+        "PlanDescription": "SAICO BRONZE DED 20%(MAX 100) PHYSIO 20%(MAX 100) PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "SAICO D20%20%",
+        "PlanDescription": "SAICO BRONZE DED 20% (MAX-50) OP 10% PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "SAICO D20%C 0",
+        "PlanDescription": "SAICO BRONZE DED 20% (MAX-50) COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "SAICO D20%C0P0",
+        "PlanDescription": "SAICO BRONZE DED 20% (MAX-50) COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "SAICO D20%C15%",
+        "PlanDescription": "SAICO BRONZE  DED 20% (MAX-50) COPAY 15% PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "SAICO D20%C20%",
+        "PlanDescription": "SAICO BRONZE DED 20% (100) COPAY 20%(100) PH 20%(100)",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "SAICO D20%M75",
+        "PlanDescription": "SAICO BRONZE DED 20%(MAX 25) COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "SAICO D2020%",
+        "PlanDescription": "SAICO BRONZE DED 20% (100) COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "SAICO D50C0",
+        "PlanDescription": "SAICO BRONZE NETWORK -  DED 50 COPAY 0",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "SAICO EM&JADE",
+    "PolicyGroupDescription": "SAICO - Saudi Arabia Insurance Company - EMERALD & JADE NETW",
+    "RateListCode": "SAICO - EM&JADE",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS015",
+    "Plans": [
+      {
+        "PlanCode": "SAICO   D 10%",
+        "PlanDescription": "SAICO EMERALD & JADE NET-  MB PLAN DED 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "SAICO   D10%",
+        "PlanDescription": "SAICO EMERALD & JADE NET-  DED 10% (MAX-25) CO 10% PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "SAICO   D10%C20",
+        "PlanDescription": "SAICO EMERALD & JADE NET-  DED 10% (MAX-25) CO 20% PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "SAICO  CO20%",
+        "PlanDescription": "SAICO EMERALD & JADE NET-  COPAY 20% ON ALL SERVICES",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "SAICO  D 10%",
+        "PlanDescription": "SAICO EMERALD & JADE NET-  MB PLAN DED 10%  PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "SAICO  D0C0",
+        "PlanDescription": "SAICO EMERALD & JADE NETWORK -  DED NIL COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "SAICO  D10%",
+        "PlanDescription": "SAICO EMERALD & JADE NET-  DED 10% (MAX-50) DN 20% PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "SAICO  D20%",
+        "PlanDescription": "SAICO EMERALD & JADE NET-  DED 20% (MAX-50) CO NIL PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "SAICO  D20% C0",
+        "PlanDescription": "SAICO EMERALD & JADE NET-  DED 20% (MAX-50) COPAY  0 PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "SAICO  D20%C0",
+        "PlanDescription": "SAICO EMERALD & JADE NET-  DED 20%(MAX-50) COPAY NIL DN 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "SAICO  D50 C0",
+        "PlanDescription": "SAICO EMERALD & JADE NETWORK -  DED 50 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "SAICO D 2 0% C0",
+        "PlanDescription": "SAICO EMERALD & JADE NET-  D20% (MAX-100) COPAY NIL PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "SAICO D 2 0%100",
+        "PlanDescription": "SAICO EMERALD & JADE NET- D20% (MAX-100)PHY 20%(MAX100)PH30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "SAICO D 20%  C0",
+        "PlanDescription": "SAICO EMERALD & JADE NET-  DED 20% (MAX-50) COPAY 20% PH20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "SAICO D 20% 50",
+        "PlanDescription": "SAICO EMERALD & JADE NET- DED 20% (MAX50) CO 20% (MAX50) PH0",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "SAICO D 20% C 0",
+        "PlanDescription": "SAICO EMERALD & JADE NET-  D20% (MAX-100) CO 0 PH20%(MAX100)",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "SAICO D 20% C0%",
+        "PlanDescription": "SAICO EMERALD & JADE NET- DED 20% (MAX50) C0%PH20% (max100",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "SAICO D 20%C20%",
+        "PlanDescription": "SAICO EMERALD & JADE NET-  DED 20% COPAY 20% PH NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "SAICO D0  C0",
+        "PlanDescription": "SAICO EMERALD & JADE NETWORK -  DED 0 COPA NIL PH20%(MAX100)",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "SAICO D10 PH 20",
+        "PlanDescription": "SAICO EMERALD & JADE NET-  DED 10  CO 10% M 25 PH 20% M 100",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "SAICO D10 X",
+        "PlanDescription": "SAICO EMERALD & JADE NET-  DED 10%M25 COPAY 10AED PH20%M100",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "SAICO D20",
+        "PlanDescription": "SAICO EMERALD & JADE NET-  DED 20% (MAX-75) PH 0",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "SAICO D20%   C0",
+        "PlanDescription": "SAICO EMERALD & JADE NET-  DED 20% (MAX-100) CO NIL PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "SAICO D20%  C",
+        "PlanDescription": "SAICO EMERALD & JADE NET-  DED 20% (MAX-25) COPAY 0",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "SAICO D20%  C 0",
+        "PlanDescription": "SAICO EMERALD & JADE NET-  DED 20% (MAX-50) COPAY 0 PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "SAICO D20%  C0%",
+        "PlanDescription": "SAICO EMERALD & JADE NET- DED 20% (MAX100) C0%PH20% (max100",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "SAICO D20%  M25",
+        "PlanDescription": "SAICO JADE DED 20% MAX 25",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "SAICO D20% 75",
+        "PlanDescription": "SAICO EMERALD & JADE NET-  DED 20% (MAX-75) PH20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "SAICO D20% C",
+        "PlanDescription": "SAICO EMERALD & JADE NET- DED 20% (MAX50) CO 10% PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "SAICO D20% C 0",
+        "PlanDescription": "SAICO EMERALD & JADE NET-  DED 20% (MAX-100) CO NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "SAICO D20% C0",
+        "PlanDescription": "SAICO EMERALD & JADE NET-  DED 20% (MAX-50) COPAY  0",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "SAICO D20% C0%",
+        "PlanDescription": "SAICO EMERALD & JADE NET- DED 20% (MAX50) CO 0%PH20% (max50",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "SAICO D20% C10",
+        "PlanDescription": "SAICO EMERALD & JADE NET-  DED 20% (MAX-50) CO 10% PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "SAICO D20% C10%",
+        "PlanDescription": "SAICO EMERALD & JADE NET-  DED 20% (MAX-50) CO 10% PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "SAICO D20% C15",
+        "PlanDescription": "SAICO EMERALD DED 20% (MAX-50) COPAY 15% PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "SAICO D20% C20%",
+        "PlanDescription": "SAICO EMERALD & JADE NET-  DED 20% (MAX-50) COPAY 20% PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "SAICO D20% M100",
+        "PlanDescription": "SAICO EMERALD & JADE NET-  DED 20% (MAX-100) COPAY  0",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "SAICO D20%C0",
+        "PlanDescription": "SAICO EMERALD & JADE NET-  DED 20% COPAY NIL PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "SAICO D20%CO20%",
+        "PlanDescription": "SAICO EMERALD & JADE NET-  DED 20% (MAX-35) CO 20% PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "SAICO D20%M100",
+        "PlanDescription": "SAICO EMERALD & JADE NETWORK DED 20%M100 COPAY20%M100 PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "SAICO D20S50",
+        "PlanDescription": "SAICO EMERALD & JADE NET-  DED 50 COPAY 20%M50 PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "SAICO D25C0",
+        "PlanDescription": "SAICO JADE NETWORK MB PLAN -  DED 25 COPAY NIL PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "SAICO D25C20",
+        "PlanDescription": "SAICO EMERALD & JADE NET-  DED 10% (MAX-25) CO 20% PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "SAICO D30C0",
+        "PlanDescription": "SAICO EMERALD & JADE NETWORK -  DED 30 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "SAICO D50 C 0",
+        "PlanDescription": "SAICO EMERALD & JADE NETWORK -  DED 50 COPAY NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "SAICO D50 C0",
+        "PlanDescription": "SAICO EMERALD & JADE NETWORK -  DED 50 COPAY NIL DN 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "SAICO D50 PH30",
+        "PlanDescription": "SAICO EMERALD & JADE NETWORK -  DED 50 COPAY NIL PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "SAICO DN20%",
+        "PlanDescription": "SAICO EMERALD & JADE NET-  DB PLAN  DN 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "SAICO E D2",
+        "PlanDescription": "SAICO EMERALD & JADE NET-  DED 15%M75 COPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "SAICO E D20%C10",
+        "PlanDescription": "SAICO EMERALD & JADE NET-  DED 20% M25 COPAY 10% PH 15%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "SAICO E D20%C20",
+        "PlanDescription": "SAICO EMERALD & JADE NET-  DED 20% M25 COPAY 20% PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "SAICO E D25",
+        "PlanDescription": "SAICO EMERALD & JADE NET-  DED 25AED COPAY NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "SAICO E&10%M",
+        "PlanDescription": "SAICO EMERALD & JADE NET DED 10%M50 COPAY 10%  PH NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "SAICO E&J D10%",
+        "PlanDescription": "SAICO EMERALD & JADE NET DED 10%(50) CO 10% PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "SAICO E&J D10%M",
+        "PlanDescription": "SAICO EMERALD & JADE NET DED 10%M50 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "SAICO E&J0%M",
+        "PlanDescription": "SAICO EMERALD & JADE NET DED 10%M50 COPAY 10% PH NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "SAICO E&JD D20%",
+        "PlanDescription": "SAICO EMERALD & JADE NET DED 20%(50) C10%(100) PH20%(100)",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "SAICO JA  C20%M",
+        "PlanDescription": "SAICO EMERALD & JADE COPAY 20% M100 PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "SAICO MAT 10%",
+        "PlanDescription": "SAICO EMERALD & JADE NET-  MAT 10 % (MAX-25) COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "SAICO MAT10%",
+        "PlanDescription": "SAICO EMERALD & JADE NET-  MAT 10 % ON ALL SERVICES",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "SAICOD10%M25",
+        "PlanDescription": "SAICO EMERALD & JADE NET-  DED 10% (MAX-25) CO NIL PH NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "SAO D20M50",
+        "PlanDescription": "SAICO EMERALD & JADE NETWORK -  DED 20%M50 COPAY 20% PH 30%",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "SAICO GD&AMBER",
+    "PolicyGroupDescription": "SAICO - Saudi Arabia Insurance Company - GOLD & AMBER NETWOR",
+    "RateListCode": "SAICO - GD&AM",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS015",
+    "Plans": [
+      {
+        "PlanCode": "SAICO   D20%C0",
+        "PlanDescription": "SAICO GOLD & AMBER  NET-  DED 20% (MAX-50) COPAY  0 PH10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "SAICO  DED 20%",
+        "PlanDescription": "SAICO GOLD & AMBER NETWORK -  DED 10%(50) CO NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "SAICO A D10%C0",
+        "PlanDescription": "SAICO GOLD & AMBER NETWORK DED 10% COPAY NIL PH NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "SAICO D20%  C0",
+        "PlanDescription": "SAICO GOLD & AMBER NET-  DED 20% (MAX-50) COPAY  0",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "SAICO DE20%",
+        "PlanDescription": "SAICO GOLD & AMBER NET-  DENTAL 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "SAICO DED 20%",
+        "PlanDescription": "SAICO GOLD & AMBER NETWORK -  DED 20%(50) CO 0 PH 20%(50)",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "SAICO DED 25",
+        "PlanDescription": "SAICO GOLD & AMBER NETWORK -  DED 20%(MAX 25)",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "SAICO DED0100",
+        "PlanDescription": "SAICO GOLD & AMBER NETWORK - COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "SAICO DED0C0",
+        "PlanDescription": "SAICO GOLD & AMBER NETWORK -  DED 0 COPAY 0",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "SAICO DED20%",
+        "PlanDescription": "SAICO GOLD & AMBER NETWORK -  DED 20%(MAX 48) COPAY 0",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "SAICO DED20% C2",
+        "PlanDescription": "SAICO GOLD & AMBER NETWORK -  DED 20% COPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "SAICO DED20%P20",
+        "PlanDescription": "SAICO GOLD & AMBER NETWORK -  DED 20% COPAY NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "SAICO DED20100",
+        "PlanDescription": "SAICO GOLD & AMBER NETWORK -  DED 20%M100 COPAY NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "SAICO DED20M100",
+        "PlanDescription": "SAICO GOLD & AMBER NETWORK -  DED 20%M100 COPAY/ PH 20%M100",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "SAICO DED20PH10",
+        "PlanDescription": "SAICO GOLD & AMBER NETWORK -  DED 20%(MAX 25) CO NIL PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "SAICO DED25",
+        "PlanDescription": "SAICO GOLD & AMBER NETWORK -  DED 25AED COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "SAICO DED30C0",
+        "PlanDescription": "SAICO GOLD & AMBER NETWORK -  DED 30 COPAY 0 DN 20% PH 0",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "SAICO DED50C0",
+        "PlanDescription": "SAICO GOLD & AMBER NETWORK -  DED 50 COPAY 0",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  }
+]
