@@ -1,0 +1,607 @@
+[
+  {
+    "PolicyGroupCode": "ADN P+G+S - SHJ",
+    "PolicyGroupDescription": "ADNIC - ABU DHABI NATIONAL INSURANCE CO - P+G+S - SGH SHJ",
+    "RateListCode": "ADN P+G+S - SHJ",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS017",
+    "Plans": [
+      {
+        "PlanCode": "ADN SIL D50C0",
+        "PlanDescription": "ADNIC SILVER DED 50 COPAY NIL DN 10%",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "ADNIC  ADREF1.3",
+    "PolicyGroupDescription": "ABU DHABI NATIONAL INSURANCE CO- REFFERED CASES - 1.3 FACTOR",
+    "RateListCode": "",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS017",
+    "Plans": [
+      {
+        "PlanCode": "ADNIC REFERED",
+        "PlanDescription": "ADNIC-ABU DHABI NATIONA DED 0 COPAY NIL - REFERRED CASES 1.3",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "ADNIC INSURANCE",
+    "PolicyGroupDescription": "ADNIC ABU DHABI INSURANCE",
+    "RateListCode": "ADNIC",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS017",
+    "Plans": [
+      {
+        "PlanCode": "AD NE D100P10%",
+        "PlanDescription": "ADNIC DED 100 COPAY LAB & RAD 10% PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AD PL D20%M100",
+        "PlanDescription": "ADNIC DED 20% MAX 100 COPAY 10% PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ADNC 50L/R/P",
+        "PlanDescription": "ADNIC DED 50 L/R/P 10% COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ADNC C50P30",
+        "PlanDescription": "ADNIC DED  COPAY L/R 50 PH 30% M 300",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ADNC D0C0",
+        "PlanDescription": "ADNIC DED 0 COPAY NIL PH NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ADNC D10%50",
+        "PlanDescription": "ADNIC DED 10% MAX 50 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ADNC D10%M30C0",
+        "PlanDescription": "ADNIC DED 10% MAX 30 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ADNC D10%M50 PH",
+        "PlanDescription": "ADNIC DED 10% MAX 50 COPAY NIL PH 30% MAX 100",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ADNC D100C0",
+        "PlanDescription": "ADNIC DED 10% MAX 75 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ADNC D1050 PH",
+        "PlanDescription": "ADNIC DED 50AED  COPAY NIL PH 30% MAX 100",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ADNC D15%M50P0",
+        "PlanDescription": "ADNIC DED 15%MAX 50  COPAY NIL PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ADNC D2",
+        "PlanDescription": "ADNIC COPAY 30%MAX 100",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ADNC D20",
+        "PlanDescription": "ADNIC DED 20%OP NIL L/R 20% PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ADNC D20%",
+        "PlanDescription": "ADNIC DED 20% MAX 50 COPAY NIL PH 15%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ADNC D20%50 30",
+        "PlanDescription": "ADNIC DED 20% MAX 50  OP NIL LAB/RAD 20% 30 PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ADNC D20%L/R 10",
+        "PlanDescription": "ADNIC DED 20% M50 L/R 10 PH NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ADNC D20%M30C0",
+        "PlanDescription": "ADNIC DED 20% MAX 30 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ADNC D20%M30X",
+        "PlanDescription": "ADNIC DED 20% MAX 30 OP NIL L/R 20%MAX 10 PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ADNC D20%M5",
+        "PlanDescription": "ADNIC DED 20% MAX 50 COPAY NIL PH 20%M50",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ADNC D20%M50",
+        "PlanDescription": "ADNIC DED 20% MAX 50 COPAY 10% M 50 L/R PH NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ADNC D20%M50C0",
+        "PlanDescription": "ADNIC DED 20% MAX 50 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ADNC D20%M50CX",
+        "PlanDescription": "ADNIC DED 20% MAX 50 PH 30% M100 OP NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ADNC D20%M50P0",
+        "PlanDescription": "ADNIC DED 20% MAX 50 COPAY NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ADNC D20%M50X",
+        "PlanDescription": "ADNIC DED 20% MAX 50 COPAY NIL PH 30 M100",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ADNC D20%M5XX",
+        "PlanDescription": "ADNIC DED 20% MAX 50 PH 20% M100 OP NIL LAB/RAD 30",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ADNC D20%MAX50",
+        "PlanDescription": "ADNIC DED 20% M50 L/R 10% PH NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ADNC D20%MX",
+        "PlanDescription": "ADNIC DED 50AED  COPAY NIL PH 30% MAX 300",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ADNC D20%P25",
+        "PlanDescription": "ADNIC DED 20% MAX 50 COPAY NIL PH 25%M100",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ADNC D20M5",
+        "PlanDescription": "ADNIC DED 20% MAX 50 COPAY NIL PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ADNC D20X",
+        "PlanDescription": "ADNIC DED 20%MAX 50 OP NIL L/R 20% PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ADNC D25",
+        "PlanDescription": "ADNIC DED 20% MAX 50 OP NIL LAB/RAD 10% PH 15%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ADNC D30",
+        "PlanDescription": "ADNIC DED 30AED   OP NIL LAB/RAD 30AED  PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ADNC D30 P0",
+        "PlanDescription": "ADNIC DED 30 COPAY LAB / RAD 20 PH NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ADNC D50 PH20",
+        "PlanDescription": "ADNIC DED 50AED  COPAY NIL PH 20% MAX 200",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ADNC D50P15%",
+        "PlanDescription": "ADNIC DED 50 COPAY NIL PH 15%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ADNC D50P20%",
+        "PlanDescription": "ADNIC DED 50 COPAY NIL PH 20% MAX 100",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ADNC D50P20%M50",
+        "PlanDescription": "ADNIC DED 50 COPAY NIL PH 20% MAX 50",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ADNC D50PH10%",
+        "PlanDescription": "ADNIC DED 50 COPAY NIL PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ADNC D50PH20%",
+        "PlanDescription": "ADNIC DED 50 COPAY NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ADNC D50PH25%",
+        "PlanDescription": "ADNIC DED 50 COPAY NIL PH 25%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ADNC D50X",
+        "PlanDescription": "ADNIC DED 50 COPAY 20% PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ADNIC  C10%M50",
+        "PlanDescription": "ADNIC COPAY 10% MAX 50",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ADNIC  C50%",
+        "PlanDescription": "ADNIC COPAY 50%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ADNIC  CO 10",
+        "PlanDescription": "ADNIC DED 10% COPAY 20% PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ADNIC  CO 10 AL",
+        "PlanDescription": "ADNIC COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ADNIC  CO 15",
+        "PlanDescription": "ADNIC COPAY 15% DN 15%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ADNIC  CO 20",
+        "PlanDescription": "ADNIC COPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ADNIC  CO 20%",
+        "PlanDescription": "ADNIC DED 20% COPAY 20% PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ADNIC  CO 30%",
+        "PlanDescription": "ADNIC COPAY 30% (DENTAL)",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ADNIC  D20%M75",
+        "PlanDescription": "ADNIC DED 20% M 75 COPAY NIL PH NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ADNIC  D20%M75X",
+        "PlanDescription": "ADNIC DED 20% M 75 COPAY NIL LAB/RAD 20% PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ADNIC  D20AED",
+        "PlanDescription": "ADNIC DED 20 AED COPAY NIL PH 20% (GP) DN 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ADNIC  D20M100",
+        "PlanDescription": "ADNIC DED 20% M 100 COPAY NIL PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ADNIC  D20M50",
+        "PlanDescription": "ADNIC DED 20% M50 LAB/RAD 10% M30 PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ADNIC  D2M100",
+        "PlanDescription": "ADNIC DED 20% M 100 OP NIL LAB/RAD 10% PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ADNIC C10%M50",
+        "PlanDescription": "ADNIC COPAY 10% MAX 50 PH 20% MAX 100",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ADNIC CO20",
+        "PlanDescription": "ADNIC COPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ADNIC CO20%PH0",
+        "PlanDescription": "ADNIC DED 20% COPAY 20% PH NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ADNIC D1 PH 0",
+        "PlanDescription": "ADNIC DED 10% MAX 15 COPAY NIL PH NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ADNIC D10 PH 20",
+        "PlanDescription": "ADNIC DED 10 AED OP NIL PH 20% (SP)",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ADNIC D10%M15",
+        "PlanDescription": "ADNIC DED 10% MAX 15 COPAY NIL PH 15%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ADNIC D10%M50",
+        "PlanDescription": "ADNIC DED 10% MAX 50 COPAY NIL PH 15%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ADNIC D10%P 10",
+        "PlanDescription": "ADNIC DED 10% MAX 15 COPAY NIL PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ADNIC D1050",
+        "PlanDescription": "ADNIC DED 10% MAX 50 OP NIL  PH 20% MAX 50",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ADNIC D15%M50",
+        "PlanDescription": "ADNIC DED 15% MAX 50 COPAY NIL PH 15%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ADNIC D20% M50",
+        "PlanDescription": "ADNIC DED 20% MAX50 LAB & RAD 20% MAX 50 PH 20% M100",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ADNIC D20%50P20",
+        "PlanDescription": "ADNIC DED 20% MAX50 LAB & RAD 20% MAX 50 PH 30% M300",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ADNIC D20%M25",
+        "PlanDescription": "ADNIC DED 20% MAX 25 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ADNIC D20%M30",
+        "PlanDescription": "ADNIC DED 20% MAX 30 OP NIL PH 20% MAX 100",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ADNIC D20%OP0",
+        "PlanDescription": "ADNIC DED/LAB/RAD/PH 20% OP NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ADNIC D20%PH20%",
+        "PlanDescription": "ADNIC DED 20% COPAY NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ADNIC D20%PH30%",
+        "PlanDescription": "ADNIC DED 20% COPAY NILPH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ADNIC D25",
+        "PlanDescription": "ADNIC DED 25 COPAY NIL PH20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ADNIC D25%M100",
+        "PlanDescription": "ADNIC DED 25% MAX 100 COPAY NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ADNIC D30 P0%",
+        "PlanDescription": "ADNIC DED 30AED OP NIL LAB/RAD 10AED PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ADNIC D30 P10%",
+        "PlanDescription": "ADNIC DED 30 COPAY NIL PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ADNIC D30C0",
+        "PlanDescription": "ADNIC DED 30 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ADNIC D30P20%",
+        "PlanDescription": "ADNIC DED 30 COPAY NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ADNIC D5",
+        "PlanDescription": "ADNIC DED 50 OP NIL LAB & RAD30AED  PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ADNIC D5 PH 0",
+        "PlanDescription": "ADNIC DED 50 OP NIL LAB & RAD30AED  PH NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ADNIC D50 CO 10",
+        "PlanDescription": "ADNIC DED 50 CO PH10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ADNIC D50 CO 20",
+        "PlanDescription": "ADNIC DED 50 CO PH20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ADNIC D50 CO10%",
+        "PlanDescription": "ADNIC DED 50 COPAY 10% PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ADNIC D50 PH15",
+        "PlanDescription": "ADNIC DED 50 CO PH15%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ADNIC D50 PH20",
+        "PlanDescription": "ADNIC DED 50 COPAY NIL PH 20% MAX 100",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ADNIC D50C0",
+        "PlanDescription": "ADNIC DED 50 COPAY NIL DN 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ADNIC D50C10%",
+        "PlanDescription": "ADNIC DED 50 COPAY LAB & RAD 10% MAX 50 PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ADNIC D50C10P20",
+        "PlanDescription": "ADNIC DED 50 COPAY 10% PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ADNIC D50C15%",
+        "PlanDescription": "ADNIC DED 50 COPAY 15% PH 15%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ADNIC D50L50",
+        "PlanDescription": "ADNIC DED 50 LAB & RAD 20% MAX 50 PH 20% M100",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ADNIC D50P30%",
+        "PlanDescription": "ADNIC DED 50 COPAY LAB & RAD MAX 25 PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ADNIC D50PH10%",
+        "PlanDescription": "ADNIC DED 50 COPAY 20% PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ADNIC D50PH30%",
+        "PlanDescription": "ADNIC DED 50 COPAY LAB & RAD MAX 30 PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ADNIC DB  CO25%",
+        "PlanDescription": "ADNIC COPAY 25%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ADNIC DED 100C0",
+        "PlanDescription": "ADNIC DED 100 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ADNIC DED 25",
+        "PlanDescription": "ADNIC DED 25 CO NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ADNIC DED 25 C0",
+        "PlanDescription": "ADNIC DED 25 COPAY NIL PH10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ADNIC DED 50",
+        "PlanDescription": "ADNIC DED 50 COPAY  NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ADNIC DED10%",
+        "PlanDescription": "ADNIC DED 10% COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ADNIC DED100P10",
+        "PlanDescription": "ADNIC DED 100 COPAY NIL PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ADNIC DED100P20",
+        "PlanDescription": "ADNIC DED 100 CO NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ADNIC G D20%",
+        "PlanDescription": "ADNIC DED 20% COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ADNIC G D25C0",
+        "PlanDescription": "ADNIC DED 25 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ADNIC G D50C0",
+        "PlanDescription": "ADNIC DED 50 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ADNIC G D50P30%",
+        "PlanDescription": "ADNIC DED 50 COPAY NIL PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ADNIC PL C10%",
+        "PlanDescription": "ADNIC COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ADNICD25%P10%",
+        "PlanDescription": "ADNIC DED 25% MAX 75 COPAY NIL PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ADNICD50PH20%",
+        "PlanDescription": "ADNIC DED 50 COPAY LAB & RAD 50 PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ADNICD50PH30%",
+        "PlanDescription": "ADNIC DED 50 LAB+RAD 50 PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ADNICD50PH30300",
+        "PlanDescription": "ADNIC DED 50 LAB+RAD 50 PH 30%MAX 300",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ADNICX D20%M75",
+        "PlanDescription": "ADNIC DED 20% M 75 COPAY NIL PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DED 15",
+        "PlanDescription": "ADNIC DED 50 CO PH15%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DED 50 P15%",
+        "PlanDescription": "ADNIC DED 50 CO PH15%",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  }
+]
