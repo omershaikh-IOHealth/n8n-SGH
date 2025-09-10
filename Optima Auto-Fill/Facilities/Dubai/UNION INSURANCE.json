@@ -1,0 +1,17 @@
+[
+  {
+    "PolicyGroupCode": "UNION INSURANCE",
+    "PolicyGroupDescription": "UNION INSURANCE COMPANY",
+    "RateListCode": "",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS040",
+    "Plans": [
+      {
+        "PlanCode": "UNION INS D0C0",
+        "PlanDescription": "UNION INSURANCE DED 20% MAX 30 COPAY NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  }
+]
