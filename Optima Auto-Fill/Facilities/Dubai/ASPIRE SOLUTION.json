@@ -1,0 +1,32 @@
+[
+  {
+    "PolicyGroupCode": "ASPIRE ALLIANCE",
+    "PolicyGroupDescription": "ASPIRE SOLUTION - ALLIANCE INSURANCE COMPANY- GOLD",
+    "RateListCode": "ASPIRE SOLUTION",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS025",
+    "Plans": [
+      {
+        "PlanCode": "ASPIRE ALLI",
+        "PlanDescription": "ASPIRE ALLIANCE GOLD DED 20%MAX 50  COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ASPIRE ALLI 100",
+        "PlanDescription": "ASPIRE ALLIANCE GOLD DED 20%MAX 100  COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ASPIRE ALLIANCE",
+        "PlanDescription": "ASPIRE ALLIANCE GOLD DED NIL COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ASPIRE ALLICE",
+        "PlanDescription": "ASPIRE ALLIANCE GOLD DED 20%MAX 50  COPAY 10%",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  }
+]
