@@ -613,6 +613,11 @@
         "PlanActiveStatus": "Active"
       },
       {
+        "PlanCode": "ALB D50C",
+        "PlanDescription": "AL BUHAIRA CN DED 50 COPAY 7.5%",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "ALB D50C0",
         "PlanDescription": "AL BUHAIRA CN DED 50 COPAY NIL",
         "PlanActiveStatus": "Active"
