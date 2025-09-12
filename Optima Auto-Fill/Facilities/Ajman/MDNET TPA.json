@@ -1303,6 +1303,11 @@
         "PlanActiveStatus": "Active"
       },
       {
+        "PlanCode": "D-M   DI C15%P0",
+        "PlanDescription": "MEDNET N4 DUBAI INS COPAY 15% PH NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "D-M   DI C20%P0",
         "PlanDescription": "MEDNET N4 DUBAI INS COPAY 20% PH NIL",
         "PlanActiveStatus": "Active"
@@ -2473,6 +2478,11 @@
         "PlanActiveStatus": "Active"
       },
       {
+        "PlanCode": "D-M ALICO D10%M",
+        "PlanDescription": "MEDNET-METLIFE DED 10% MAX  25  COPAY 0%",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "D-M ALICO D151",
         "PlanDescription": "MEDNET-METLIFE COPAY 15%",
         "PlanActiveStatus": "Active"
@@ -2480,6 +2490,11 @@
       {
         "PlanCode": "D-M ALICO D20",
         "PlanDescription": "MEDNET-METLIFE DED 20% M 50 L/R 20% PH /OP -0%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-M ALICO D20%M",
+        "PlanDescription": "MEDNET-METLIFE DED 20%MAX 100 COPAY 20% PH 10%M100",
         "PlanActiveStatus": "Active"
       },
       {
