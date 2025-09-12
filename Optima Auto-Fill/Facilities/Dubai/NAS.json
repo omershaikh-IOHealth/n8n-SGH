@@ -11683,6 +11683,11 @@
         "PlanActiveStatus": "Active"
       },
       {
+        "PlanCode": "NAS 20%50X 15",
+        "PlanDescription": "NAS GN QIC UAE DED 20% MAX 50  COPAY 15% PH NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "NAS DED50",
         "PlanDescription": "NAS GN QIC UAE DED 50AED COPAY NIL  PH10%MAX 100",
         "PlanActiveStatus": "Active"
