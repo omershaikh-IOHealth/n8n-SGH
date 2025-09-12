@@ -368,6 +368,11 @@
     "PayerId": "INS019",
     "Plans": [
       {
+        "PlanCode": "AL MDAL 20C",
+        "PlanDescription": "ALMADALLAH QIC DED 20% 50 COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "AL MDALL 0",
         "PlanDescription": "ALMADALLAH QIC DED NIL COPAY NIL",
         "PlanActiveStatus": "Active"
@@ -395,6 +400,11 @@
       {
         "PlanCode": "AL MDALL D 2050",
         "PlanDescription": "ALMADALLAH QIC DED 20% 50 COPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AL MDALL D 20C",
+        "PlanDescription": "ALMADALLAH QIC DED 20% 50 COPAY 10% PH NIL",
         "PlanActiveStatus": "Active"
       },
       {
