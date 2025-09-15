@@ -533,6 +533,11 @@
         "PlanActiveStatus": "Active"
       },
       {
+        "PlanCode": "D-MEAOI C10%25",
+        "PlanDescription": "MEDNET ARAB ORIENT  DED 10% M 25 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "D-MEAOI C10%75",
         "PlanDescription": "MEDNET ARAB ORIENT  DED 10 M 75 CO 10%",
         "PlanActiveStatus": "Active"
