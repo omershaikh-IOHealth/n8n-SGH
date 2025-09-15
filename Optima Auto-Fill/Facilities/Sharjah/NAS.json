@@ -9275,6 +9275,21 @@
     ]
   },
   {
+    "PolicyGroupCode": "NAS-ADAM-RN",
+    "PolicyGroupDescription": "NAS - ADAMJEE INSURANCE CO. LTD -RN",
+    "RateListCode": "NAS - RN,SR&WN",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS047",
+    "Plans": [
+      {
+        "PlanCode": "NAS ADAMJ",
+        "PlanDescription": "NAS RN+SRN+WN ADAMJEE  DED 20% (MAX-50) COPAY NIL",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
     "PolicyGroupCode": "NAS-CN-ABU TAK",
     "PolicyGroupDescription": "NAS - ABU DHABI NATIONAL TAKAFUL CO - TAKAFUL CN",
     "RateListCode": "NAS",
