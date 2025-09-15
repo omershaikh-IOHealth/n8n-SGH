@@ -1898,6 +1898,11 @@
         "PlanActiveStatus": "Active"
       },
       {
+        "PlanCode": "D-NECIGD2",
+        "PlanDescription": "NEURON RN CIGNA COPAY 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "D-NECIGD20%C20",
         "PlanDescription": "NEURON RN CIGNA COPAY 20% PH  30%",
         "PlanActiveStatus": "Active"
