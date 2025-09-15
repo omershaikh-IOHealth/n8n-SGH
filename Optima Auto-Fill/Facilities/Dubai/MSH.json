@@ -213,6 +213,16 @@
         "PlanActiveStatus": "Active"
       },
       {
+        "PlanCode": "MSH D5%",
+        "PlanDescription": "MSH GOP INTERNATIONAL DED 5% COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MSH D95%C100%",
+        "PlanDescription": "MSH GOP INTERNATIONAL DED 95% COPAY 100% PH 100%",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "MSH DED 0",
         "PlanDescription": "MSH GOP BASED DED 0 COPAY NIL",
         "PlanActiveStatus": "Active"
