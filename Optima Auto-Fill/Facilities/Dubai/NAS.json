@@ -4298,6 +4298,11 @@
         "PlanActiveStatus": "Active"
       },
       {
+        "PlanCode": "NASGNORD",
+        "PlanDescription": "NAS GN ARAB ORIENT INS PJSC DED NIL  COPAY 20%MAX 50",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "NASGNORD207510",
         "PlanDescription": "NAS GN ARAB ORIENT INSURANCE PJSC DED 20%75 C10% P10%100",
         "PlanActiveStatus": "Active"
