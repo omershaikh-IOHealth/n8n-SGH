@@ -605,6 +605,26 @@
     ]
   },
   {
+    "PolicyGroupCode": "FMC QIC-RN",
+    "PolicyGroupDescription": "FMC - QATAR INSURANCE COMPANY  - RN ENHANCED",
+    "RateListCode": "FMC NETWORK",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS019",
+    "Plans": [
+      {
+        "PlanCode": "FMC QIC D",
+        "PlanDescription": "FMC QIC RN GP20%M50  OP 20%M50 L&DN-20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "FMC QIC RN",
+        "PlanDescription": "FMC QIC RN GP20%M50  OP 20%M50 L&DN-20%",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
     "PolicyGroupCode": "FMC SGAR GN",
     "PolicyGroupDescription": "FMC - AL SAGR NATIONAL INSURANCE CO - FARID GN1+GN2+GN3",
     "RateListCode": "FMC TPA - GN",
