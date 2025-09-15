@@ -458,6 +458,11 @@
         "PlanActiveStatus": "Active"
       },
       {
+        "PlanCode": "D-INA NLG  D20M",
+        "PlanDescription": "INAYAH NLGI GOLD DED 20%(MAX 50) COPAY 10%  PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "D-INA NLG C 20%",
         "PlanDescription": "INAYAH NLGI GOLD DED 0 COINS NIL PH 30%",
         "PlanActiveStatus": "Active"
