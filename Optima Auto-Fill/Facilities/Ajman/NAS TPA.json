@@ -18451,6 +18451,11 @@
         "PlanCode": "NAS SUK  D2",
         "PlanDescription": "NAS GN SUKOON TAKAFUL (ASCANA) DED 20% (MAX-100 ) COPAY NIL",
         "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NAS SUK GN",
+        "PlanDescription": "NAS GN  SUKOON TAKAFUL COPAY 20%",
+        "PlanActiveStatus": "Active"
       }
     ]
   },
