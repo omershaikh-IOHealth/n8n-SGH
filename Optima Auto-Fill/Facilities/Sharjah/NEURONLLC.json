@@ -685,6 +685,21 @@
     ]
   },
   {
+    "PolicyGroupCode": "DNEU-ITIHAD- GN",
+    "PolicyGroupDescription": "NEURON - AL ITIHAD - GN",
+    "RateListCode": "NEURON - GN PL",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS024",
+    "Plans": [
+      {
+        "PlanCode": "D-NE ADN 0%C0",
+        "PlanDescription": "NEURON GN AL ITTIHAD AL WAT. DED 20%M50 COPAY NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
     "PolicyGroupCode": "DNEUAETNA C&GN+",
     "PolicyGroupDescription": "NEURON - AETNA AAA - CN&GN+",
     "RateListCode": "NEURON",
