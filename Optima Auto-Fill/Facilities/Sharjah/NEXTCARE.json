@@ -1479,7 +1479,7 @@
       },
       {
         "PlanCode": "D-NC ALB D50C0",
-        "PlanDescription": "NEXTCARE RN AL BUHAIRA INS DED 50 COPAY NIL PH 10%",
+        "PlanDescription": "NEXTCARE RN AL BUHAIRA INS copay 20%max 50 , PH,R,L: 20%",
         "PlanActiveStatus": "Active"
       },
       {
@@ -6622,6 +6622,11 @@
     "PolicGroupActiveStatus": "Active",
     "PayerId": "INS046",
     "Plans": [
+      {
+        "PlanCode": "NC NIA D210",
+        "PlanDescription": "NEXTCARE RN2 NEW INDIA DED 20%M100 OP NIL LAB/RAD/PH 10%",
+        "PlanActiveStatus": "Active"
+      },
       {
         "PlanCode": "NC NIAC",
         "PlanDescription": "NEXTCARE RN2 NEW INDIA ASSURANCE DED NIL COPAY NIL",
