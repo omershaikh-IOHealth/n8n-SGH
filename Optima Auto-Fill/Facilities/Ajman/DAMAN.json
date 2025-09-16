@@ -1068,6 +1068,11 @@
         "PlanActiveStatus": "Active"
       },
       {
+        "PlanCode": "DAM  N5  D5",
+        "PlanDescription": "DAMAN NETWORK-5  DED  50  OP NIL LAB/RAD 15 AED PH 20%M100",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "DAM  N5  D50",
         "PlanDescription": "DAMAN NETWORK-5  DED  50  LAB &XR 80 AED PH 30%",
         "PlanActiveStatus": "Active"
