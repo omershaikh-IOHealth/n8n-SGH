@@ -1,0 +1,82 @@
+[
+  {
+    "PolicyGroupCode": "AMITYAMAN",
+    "PolicyGroupDescription": "AMITY - DUBAI ISLAMIC INSURANCE - AMAN",
+    "RateListCode": "AMITY",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS006",
+    "Plans": [
+      {
+        "PlanCode": "AMITY D50DN20%",
+        "PlanDescription": "AMITY AMAN DED 50 COPAY NIL DN20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AMITYAMAND50C0",
+        "PlanDescription": "AMITY AMAN DED 50 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "AMITYRAKNIC",
+    "PolicyGroupDescription": "AMITY - RAS AL KHAIMAH INS CO",
+    "RateListCode": "AMITY",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS014",
+    "Plans": [
+      {
+        "PlanCode": "AMITY DED10%C10",
+        "PlanDescription": "AMITY RAK INS DED 10% COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AMITYRAKNIC25",
+        "PlanDescription": "AMITY RAK INS CO DED 25 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "DAMITYAMAN",
+    "PolicyGroupDescription": "AMITY - DUBAI ISLAMIC INSURANCE - AMAN",
+    "RateListCode": "AMITY",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS006",
+    "Plans": [
+      {
+        "PlanCode": "D-AMY D50DN20%",
+        "PlanDescription": "AMITY AMAN DED 50 COPAY NIL DN20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-AMYAMAND50C0",
+        "PlanDescription": "AMITY AMAN DED 50 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "DAMITYRAKNIC",
+    "PolicyGroupDescription": "AMITY - RAS AL KHAIMAH INS CO",
+    "RateListCode": "AMITY",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS014",
+    "Plans": [
+      {
+        "PlanCode": "D-AMITYRAKNIC25",
+        "PlanDescription": "AMITY RAK INS CO DED 25 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-AMY DED10%C10",
+        "PlanDescription": "AMITY RAK INS DED 10% COPAY 10%",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  }
+]
