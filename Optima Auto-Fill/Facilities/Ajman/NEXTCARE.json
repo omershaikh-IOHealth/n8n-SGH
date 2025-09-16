@@ -14908,6 +14908,11 @@
         "PlanActiveStatus": "Active"
       },
       {
+        "PlanCode": "NC FU  C3NIL",
+        "PlanDescription": "NEXTCARE RN FIDELITY UNITED  DED NIL COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "NC FU  D 20%C 0",
         "PlanDescription": "NEXTCARE RN FIDELITY UNITED D20% (MAX50) C10%(MAX50) PH NIL",
         "PlanActiveStatus": "Active"
