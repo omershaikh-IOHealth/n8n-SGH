@@ -993,6 +993,11 @@
         "PlanActiveStatus": "Active"
       },
       {
+        "PlanCode": "M N2 D250 20",
+        "PlanDescription": "MEDNET EXC N2 DUBAI INS 50 OP/RAD  NIL LAB/PH  20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "M N2 D250 OP20%",
         "PlanDescription": "MEDNET EXC N2 DUBAI INS D50 OP 20% L/R/PH 0%",
         "PlanActiveStatus": "Active"
