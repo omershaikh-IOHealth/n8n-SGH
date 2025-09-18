@@ -51,14 +51,14 @@
   },
   {
     "PolicyGroupCode": "ALMAD ALLIANCE",
-    "PolicyGroupDescription": "ALMADALLAH - ALLIANCE INSURANCE COMPANY",
+    "PolicyGroupDescription": "ALMADALLAH -ALLIANCE INSURANCE COMPANY",
     "RateListCode": "ALM - GOVT PL",
     "PolicyGroupCustomerType": "Insurance Company",
     "PolicGroupActiveStatus": "Active",
     "PayerId": "INS025",
     "Plans": [
       {
-        "PlanCode": "AL MDALLAH ALLI",
+        "PlanCode": "ALM ALLIANCE",
         "PlanDescription": "ALMADALLAH ALLIANCE INSURANCE  DED 0 COPAY NIL",
         "PlanActiveStatus": "Active"
       }
@@ -88,15 +88,15 @@
     "PayerId": "INS134",
     "Plans": [
       {
-        "PlanCode": "AL MDALLA MEDGF",
-        "PlanDescription": "ALMADALLAH MEDGULF  DED 0 COPAY NIL",
+        "PlanCode": "ALM MEDGULF",
+        "PlanDescription": "ALMADALLAH MEDGULD INSURANCE  DED 0 COPAY NIL",
         "PlanActiveStatus": "Active"
       }
     ]
   },
   {
     "PolicyGroupCode": "ALMAD NOOR TAK",
-    "PolicyGroupDescription": "ALMADALLAH - NOOR TAKAFUL (WATANIA TAKAFUL FAMILY (PJSC)",
+    "PolicyGroupDescription": "ALMADALLAH - NOOR TAKAFUL WATANIA TAKAFUL FAMILY (PJSC)",
     "RateListCode": "ALM - GOVT PL",
     "PolicyGroupCustomerType": "Insurance Company",
     "PolicGroupActiveStatus": "Active",
@@ -150,16 +150,16 @@
     ]
   },
   {
-    "PolicyGroupCode": "ALMAD TAKAFU",
-    "PolicyGroupDescription": "ALMADALLAH - TAKAFUL EMARAT - INSURANCE",
+    "PolicyGroupCode": "ALMAD TAKAFUL",
+    "PolicyGroupDescription": "ALMADALLAH -TAKAFUL EMARAT - INSURANCE",
     "RateListCode": "ALM - GOVT PL",
     "PolicyGroupCustomerType": "Insurance Company",
     "PolicGroupActiveStatus": "Active",
     "PayerId": "INS022",
     "Plans": [
       {
-        "PlanCode": "AL MDALLAH TAKA",
-        "PlanDescription": "ALMADALLAH TAKAFUL EMARAT DED 0 COPAY NIL",
+        "PlanCode": "ALM TAKAFUL EM",
+        "PlanDescription": "ALMADALLAH TTAKAFUL EMARAT  DED 0 COPAY NIL",
         "PlanActiveStatus": "Active"
       }
     ]
@@ -200,6 +200,26 @@
       {
         "PlanCode": "ALMADA DCAB D50",
         "PlanDescription": "AL MADALLAH DUCAB DED 50 CO NIL",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "ALMADALL-QIC",
+    "PolicyGroupDescription": "ALMADALLAH - QATAR INSURANCE COMPANY",
+    "RateListCode": "ALM - GOVT PL",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS019",
+    "Plans": [
+      {
+        "PlanCode": "AL DPD20M50",
+        "PlanDescription": "ALMADALLAH QATAR INS DED20% M50 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ALQD20M50",
+        "PlanDescription": "ALMADALLAH QATAR INS DED20% M50 COPAY NIL",
         "PlanActiveStatus": "Active"
       }
     ]
