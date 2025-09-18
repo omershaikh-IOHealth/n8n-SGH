@@ -1,0 +1,232 @@
+[
+  {
+    "PolicyGroupCode": "INA ADAMJEE",
+    "PolicyGroupDescription": "INAYAH ADAMJEE Insurance Company Ltd (ADAMJEE)",
+    "RateListCode": "INAYAH",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS047",
+    "Plans": [
+      {
+        "PlanCode": "INA ADM D50C0",
+        "PlanDescription": "INAYAH ADAMJEE INS DED 50 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "INA ASNIC",
+    "PolicyGroupDescription": "INAYAH Al Sagr National Insurance Company (ASNIC)",
+    "RateListCode": "INAYAH",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS011",
+    "Plans": [
+      {
+        "PlanCode": "INAASNIC D0C0",
+        "PlanDescription": "INAYAH ASNIC DED 0 COPAY NIL DN DED-100",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "INAASNIC D50C0",
+        "PlanDescription": "INAYAH ASNIC DED 50 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "INA DNIRC",
+    "PolicyGroupDescription": "INAYAH Dubai National Insurance & Reinsurance Company(DNIRC)",
+    "RateListCode": "INAYAH",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS007",
+    "Plans": [
+      {
+        "PlanCode": "INAYDNRIC D50C0",
+        "PlanDescription": "INAYAH DXB NATIONAL INS & REINS. DED 50 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "INA NLGI",
+    "PolicyGroupDescription": "INAYAH National Life & General Insurance (NLGI)",
+    "RateListCode": "INAYAH",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS044",
+    "Plans": [
+      {
+        "PlanCode": "INA NLG D20%P10",
+        "PlanDescription": "INAYAH NATIONAL LIFE & GENERAL INS DED 20% COPAY NIL PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "INA NLGI C10%",
+        "PlanDescription": "INAYAH NATIONAL LIFE & GENERAL INS DED 10% COPAY 10% PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "INA NLGI C20%",
+        "PlanDescription": "INAYAH NATIONAL LIFE & GENERAL INS DED 20% COPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "INA NLGI D0C0",
+        "PlanDescription": "INAYAH NATIONAL LIFE & GENERAL INS DED NIL COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "INA NLGI D100C0",
+        "PlanDescription": "INAYAH NATIONAL LIFE & GENERAL INS DED 100 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "INA NLGI D10C0",
+        "PlanDescription": "INAYAH NATIONAL LIFE & GENERAL INS DED 10 COPAY NIL DN NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "INA NLGI D20%",
+        "PlanDescription": "INAYAH NATIONAL LIFE & GENERAL INS DED 20% MAX 100 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "INA NLGI D20%C0",
+        "PlanDescription": "INAYAH NATIONAL LIFE & GENERAL INS DED 20% COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "INA NLGI D20C0",
+        "PlanDescription": "INAYAH NATIONAL LIFE & GENERAL INS DED 20 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "INA NLGI D25C0",
+        "PlanDescription": "INAYAH NATIONAL LIFE & GENERAL INS DED 25 COPAY NIL DN 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "INA NLGI D30C0",
+        "PlanDescription": "INAYAH NATIONAL LIFE & GENERAL INS DED 30 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "INA NLGI D50C0",
+        "PlanDescription": "INAYAH NATIONAL LIFE & GENERAL INS DED 50 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "INA NLGI D50C10",
+        "PlanDescription": "INAYAH NATIONAL LIFE & GENERAL INS DED 50 COPAY 10% PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "INA NLGI D50C20",
+        "PlanDescription": "INAYAH NATIONAL LIFE & GENERAL INS DED 50 COPAY 20% PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "INA NLGI D50P20",
+        "PlanDescription": "INAYAH NATIONAL LIFE & GENERAL INS DED 50 COPAY 20% PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "INANLGI D50 CO0",
+        "PlanDescription": "INAYAH NATIONAL LIFE & GENERAL INS DED 50 COPAY NIL OPT 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "INANLGI D50P20%",
+        "PlanDescription": "INAYAH NATIONAL LIFE & GENERAL INS DED 50 COPAY NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "INAYAH DED25C0",
+        "PlanDescription": "INAYAH NATIONAL LIFE & GENERAL INS DED 25 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "INA TNIAC",
+    "PolicyGroupDescription": "INAYAH The New India Assurance Company (TNIAC)",
+    "RateListCode": "INAYAH",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS046",
+    "Plans": [
+      {
+        "PlanCode": "INA NIACD25C10%",
+        "PlanDescription": "INAYAH NEW INDIA ASSURANCE DED 25 COPAY 10% DN 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "INA NIACD25C5%",
+        "PlanDescription": "INAYAH NEW INDIA ASSURANCE DED 25 COPAY 5% DN 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "INA NIACD25C50%",
+        "PlanDescription": "INAYAH NEW INDIA ASSURANCE DED 25 COPAY 5% DN 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "INA TNIAC C20%",
+        "PlanDescription": "INAYAH NEW INDIA ASSURANCE COPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "INA TNIAC D50C0",
+        "PlanDescription": "INAYAH NEW INDIA ASSURANCE DED 50 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "INA TNIAC D75",
+        "PlanDescription": "INAYAH NEW INDIA ASSURANCE DED 75 COPAY NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "INA TNIAC D75C0",
+        "PlanDescription": "INAYAH NEW INDIA ASSURANCE DED 75 COPAY NIL DN 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "INA TNIACD50C20",
+        "PlanDescription": "INAYAH NEW INDIA ASSURANCE DED 50 COPAY 20",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "INAY NIA 50/-",
+        "PlanDescription": "INAYAH NEW INDIA ASSURANCE DED 50 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "INAYAH DAT",
+    "PolicyGroupDescription": "INAYAH DAR AL TAKAFUL",
+    "RateListCode": "INAYAH",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS083",
+    "Plans": [
+      {
+        "PlanCode": "INA DAR D0C0",
+        "PlanDescription": "INAYAH DAR AL TAKAFUL DED 0 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "INA DAR D50C0",
+        "PlanDescription": "INAYAH DAR AL TAKAFUL DED 50 COPAY NIL DN 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "INA DAR D50C20",
+        "PlanDescription": "INAYAH DAR AL TAKAFUL DED 50 COPAY 20% PH 30%",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  }
+]
