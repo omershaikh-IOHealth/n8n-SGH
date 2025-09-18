@@ -188,11 +188,6 @@
         "PlanActiveStatus": "Active"
       },
       {
-        "PlanCode": "NOWH D54C0",
-        "PlanDescription": "NOWHEALTH PAPER CLAIM DED 54 COPAY NIL",
-        "PlanActiveStatus": "Active"
-      },
-      {
         "PlanCode": "NOWH D92C0",
         "PlanDescription": "NOWHEALTH PAPER CLAIM DED 92 COPAY NIL",
         "PlanActiveStatus": "Active"
