@@ -1,615 +1,230 @@
 [
   {
-    "PolicyGroupCode": "DNGI BN+",
-    "PolicyGroupDescription": "NATIONAL GENERAL INSURANCE COMPANY (NGI) -BASIC PLUS NETWORK",
-    "RateListCode": "NGI - SN+ - SN",
+    "PolicyGroupCode": "NGI",
+    "PolicyGroupDescription": "National General Insurance Co. (P.S.C)",
+    "RateListCode": "NGI",
     "PolicyGroupCustomerType": "Insurance Company",
     "PolicGroupActiveStatus": "Active",
     "PayerId": "INS038",
     "Plans": [
       {
-        "PlanCode": "D-NGI BN+ C10%",
-        "PlanDescription": "NGI BN+ COPAY 10% IP&OP (MB PLAN)",
+        "PlanCode": "NGI C15%",
+        "PlanDescription": "NATIONAL GENERAL INSURANCE DED 15% COPAY 15%",
         "PlanActiveStatus": "Active"
       },
       {
-        "PlanCode": "D-NGI BN+ D20%",
-        "PlanDescription": "NGI BN+ DED 20% (MAX-50) COPAY NIL",
+        "PlanCode": "NGI C20%",
+        "PlanDescription": "NATIONAL GENERAL INSURANCE COPAY 20%",
         "PlanActiveStatus": "Active"
-      }
-    ]
-  },
-  {
-    "PolicyGroupCode": "DNGI EN",
-    "PolicyGroupDescription": "NATIONAL GENERAL INSURANCE COMPANY (NGI) - EXECUTIVE NETWORK",
-    "RateListCode": "NGI - EXE-PRM",
-    "PolicyGroupCustomerType": "Insurance Company",
-    "PolicGroupActiveStatus": "Active",
-    "PayerId": "INS038",
-    "Plans": [
-      {
-        "PlanCode": "D-NGEX D10% C0",
-        "PlanDescription": "NGI EX DED 10% (MAX-50) COPAY NIL",
-        "PlanActiveStatus": "Active"
-      },
-      {
-        "PlanCode": "D-NGEX D20% C0",
-        "PlanDescription": "NGI EX DED 20% (MAX-50) COPAY NIL",
-        "PlanActiveStatus": "Active"
-      },
-      {
-        "PlanCode": "D-NGI EX C10%",
-        "PlanDescription": "NGI EX COPAY 10% (MB PLAN)",
-        "PlanActiveStatus": "Active"
-      },
-      {
-        "PlanCode": "D-NGI EX C20%",
-        "PlanDescription": "NGI EX COPAY 20%",
-        "PlanActiveStatus": "Active"
-      },
-      {
-        "PlanCode": "D-NGI EX D0C0",
-        "PlanDescription": "NGI EX DED 0 COPAY NIL",
-        "PlanActiveStatus": "Active"
-      },
-      {
-        "PlanCode": "D-NGI EX D20%C0",
-        "PlanDescription": "NGI EX DED 20% (MAX-75) COPAY NIL",
-        "PlanActiveStatus": "Active"
-      }
-    ]
-  },
-  {
-    "PolicyGroupCode": "DNGI HN ADVT",
-    "PolicyGroupDescription": "NATIONAL GENERAL INSURANCE COMPANY (NGI) - ADVANTAGE NETWORK",
-    "RateListCode": "NGI - SN+ - SN",
-    "PolicyGroupCustomerType": "Insurance Company",
-    "PolicGroupActiveStatus": "Active",
-    "PayerId": "INS038",
-    "Plans": [
-      {
-        "PlanCode": "D-NGAD D20%P10%",
-        "PlanDescription": "NGI ADVANTAGE DED 20% M50 COPAY NIL PH 10% M50 - 2K LIMIT",
-        "PlanActiveStatus": "Active"
-      },
-      {
-        "PlanCode": "D-NGI AD D10M2X",
-        "PlanDescription": "NGI ADVANTAGE DED 10% COPAY 100%",
-        "PlanActiveStatus": "Active"
-      },
-      {
-        "PlanCode": "D-NGI AD D20M25",
-        "PlanDescription": "NGI ADVANTAGE DED 20% MAX 25 COPAY 10% MAX 250",
-        "PlanActiveStatus": "Active"
-      },
-      {
-        "PlanCode": "D-NGI AD D20M2X",
-        "PlanDescription": "NGI ADVANTAGE DED 20% COPAY 20%",
-        "PlanActiveStatus": "Active"
-      }
-    ]
-  },
-  {
-    "PolicyGroupCode": "DNGI HN EX",
-    "PolicyGroupDescription": "NATIONAL GENERAL INSURANCE COMPANY (NGI) - EXCLUSIVE NETWORK",
-    "RateListCode": "NGI - EXE-PRM",
-    "PolicyGroupCustomerType": "Insurance Company",
-    "PolicGroupActiveStatus": "Active",
-    "PayerId": "INS038",
-    "Plans": [
-      {
-        "PlanCode": "D-NGEXCL  D0C0",
-        "PlanDescription": "NGI EXCLUSIVE DED 0 COPAY NIL",
-        "PlanActiveStatus": "Active"
-      },
-      {
-        "PlanCode": "D-NGEXCL  D1050",
-        "PlanDescription": "NGI EXCLUSIVE DED 10% MAX 50 COPAY NIL",
-        "PlanActiveStatus": "Active"
-      },
-      {
-        "PlanCode": "D-NGEXCL  D3050",
-        "PlanDescription": "NGI EXCLUSIVE DED 20% MAX 75 COPAY NIL",
-        "PlanActiveStatus": "Active"
-      }
-    ]
-  },
-  {
-    "PolicyGroupCode": "DNGI PN",
-    "PolicyGroupDescription": "NATIONAL GENERAL INSURANCE COMPANY (NGI) - PREMIER NETWORK",
-    "RateListCode": "NGI - EXE-PRM",
-    "PolicyGroupCustomerType": "Insurance Company",
-    "PolicGroupActiveStatus": "Active",
-    "PayerId": "INS038",
-    "Plans": [
-      {
-        "PlanCode": "D-NGI PN C15%",
-        "PlanDescription": "NGI PN DED 15%  COPAY 15%",
-        "PlanActiveStatus": "Active"
-      },
-      {
-        "PlanCode": "D-NGI PN D0C0",
-        "PlanDescription": "NGI PN DED 0  COPAY NIL (MB PLAN)",
-        "PlanActiveStatus": "Active"
-      },
-      {
-        "PlanCode": "D-NGI PN D20",
-        "PlanDescription": "NGI PN DED 20% COPAY 10% L/R10% PH20%",
-        "PlanActiveStatus": "Active"
-      },
-      {
-        "PlanCode": "D-NGI PN D20%",
-        "PlanDescription": "NGI PN DED 20% (MAX-50) COPAY NIL",
-        "PlanActiveStatus": "Active"
-      },
-      {
-        "PlanCode": "D-NGI PN D20%C0",
-        "PlanDescription": "NGI PN DED 20% (MAX-50) COPAY NIL PH 20%",
-        "PlanActiveStatus": "Active"
-      },
-      {
-        "PlanCode": "D-NGPN D20%  C0",
-        "PlanDescription": "NGI PN DED 20% (MAX-50) COPAY NIL PH 10%(MAX-50) (MB PLAN)",
-        "PlanActiveStatus": "Active"
-      },
-      {
-        "PlanCode": "D-NGPN D20% C0",
-        "PlanDescription": "NGI PN DED 20% (MAX-25) COPAY NIL",
-        "PlanActiveStatus": "Active"
-      },
-      {
-        "PlanCode": "D-NGPN D20% C10",
-        "PlanDescription": "NGI PN DED 20% (MAX-25) COPAY 10% MAX 250",
-        "PlanActiveStatus": "Active"
-      },
-      {
-        "PlanCode": "D-NGPN D20% C20",
-        "PlanDescription": "NGI PN DED 20% (MAX-50) COPAY 20%",
-        "PlanActiveStatus": "Active"
-      },
-      {
-        "PlanCode": "D-NGPN D20%C10%",
-        "PlanDescription": "NGI PN DED 20% (MAX-100) COPAY 10% PH 20%",
-        "PlanActiveStatus": "Active"
-      },
-      {
-        "PlanCode": "D-NGPN D20%C20",
-        "PlanDescription": "NGI PN DED 20% (MAX-75) COPAY 20%",
-        "PlanActiveStatus": "Active"
-      },
-      {
-        "PlanCode": "D-NGPN D20%C20%",
-        "PlanDescription": "NGI PN DED 20% (MAX-50) COPAY 20% PH 30%",
-        "PlanActiveStatus": "Active"
-      },
-      {
-        "PlanCode": "D-NGPN D20%P10%",
-        "PlanDescription": "NGI PN DED 20% (MAX-50) COPAY NIL PH 10%(MAX-50)",
-        "PlanActiveStatus": "Active"
-      },
-      {
-        "PlanCode": "D-NGPN D25C10%",
-        "PlanDescription": "NGI PN DED 25 COPAY 10% (MAX-250)",
-        "PlanActiveStatus": "Active"
-      },
-      {
-        "PlanCode": "D-NGPN D50 C 0",
-        "PlanDescription": "NGI PN DED 50  COPAY NIL PH 20%",
-        "PlanActiveStatus": "Active"
-      }
-    ]
-  },
-  {
-    "PolicyGroupCode": "DNGI SN",
-    "PolicyGroupDescription": "NATIONAL GENERAL INSURANCE COMPANY (NGI) - STANDARD NETWORK",
-    "RateListCode": "NGI - SN+ - SN",
-    "PolicyGroupCustomerType": "Insurance Company",
-    "PolicGroupActiveStatus": "Active",
-    "PayerId": "INS038",
-    "Plans": [
-      {
-        "PlanCode": "D-NGI SN C10%P",
-        "PlanDescription": "NGI SN COPAY 10% PH 20%",
-        "PlanActiveStatus": "Active"
-      },
-      {
-        "PlanCode": "D-NGI SN D 50",
-        "PlanDescription": "NGI SN DED 50 L/R 50 CO NIL  PH 25%",
-        "PlanActiveStatus": "Active"
-      },
-      {
-        "PlanCode": "D-NGI SN D0C0",
-        "PlanDescription": "NGI SN DED 0 COPAY NIL",
-        "PlanActiveStatus": "Active"
-      },
-      {
-        "PlanCode": "D-NGI SN D10%C0",
-        "PlanDescription": "NGI SN DED 10% (MAX-50) COPAY NIL (MB PLAN)",
-        "PlanActiveStatus": "Active"
-      },
-      {
-        "PlanCode": "D-NGI SN D20%C0",
-        "PlanDescription": "NGI SN DED 20% (MAX-50) COPAY NIL  PH 20%",
-        "PlanActiveStatus": "Active"
-      },
-      {
-        "PlanCode": "D-NGI SN D25C0",
-        "PlanDescription": "NGI SN DED 25AED OP NIL LAB/RAD 20% PH 10%",
-        "PlanActiveStatus": "Active"
-      },
-      {
-        "PlanCode": "D-NGSN D10% C0",
-        "PlanDescription": "NGI SN DED 10% (MAX-20) COPAY NIL PH 10% (MAX-25)",
-        "PlanActiveStatus": "Active"
-      },
-      {
-        "PlanCode": "D-NGSN D20% 20",
-        "PlanDescription": "NGI SN DED 20% COPAY 20% PH 20%",
-        "PlanActiveStatus": "Active"
-      },
-      {
-        "PlanCode": "D-NGSN D20% C0",
-        "PlanDescription": "NGI SN DED 20% (MAX-100) COPAY NIL  PH 10%",
-        "PlanActiveStatus": "Active"
-      },
-      {
-        "PlanCode": "D-NGSN D20%C10%",
-        "PlanDescription": "NGI SN DED 20% (MAX-100) COPAY 10% PH 20%",
-        "PlanActiveStatus": "Active"
-      }
-    ]
-  },
-  {
-    "PolicyGroupCode": "DNGI SN+",
-    "PolicyGroupDescription": "NATIONAL GENERAL INSURANCE COMPANY (NGI) - STANDARD+ NETWORK",
-    "RateListCode": "NGI - SN+ - SN",
-    "PolicyGroupCustomerType": "Insurance Company",
-    "PolicGroupActiveStatus": "Active",
-    "PayerId": "INS038",
-    "Plans": [
-      {
-        "PlanCode": "D-NGI SN+ C10%",
-        "PlanDescription": "NGI SN+ COPAY 10% (MB PLAN)",
-        "PlanActiveStatus": "Active"
-      },
-      {
-        "PlanCode": "D-NGI SN+ C10%P",
-        "PlanDescription": "NGI SN+ COPAY 10% PH 20%",
-        "PlanActiveStatus": "Active"
-      },
-      {
-        "PlanCode": "D-NGI SN+ C20%",
-        "PlanDescription": "NGI SN+ COPAY 20%",
-        "PlanActiveStatus": "Active"
-      },
-      {
-        "PlanCode": "D-NGI SN+ D20%",
-        "PlanDescription": "NGI SN+ DED 20% (MAX-50) COPAY NIL",
-        "PlanActiveStatus": "Active"
-      },
-      {
-        "PlanCode": "D-NGI SN+ D50C0",
-        "PlanDescription": "NGI SN+ DED 50 COPAY NIL PH 20%",
-        "PlanActiveStatus": "Active"
-      },
-      {
-        "PlanCode": "D-NGSN+ D20% C0",
-        "PlanDescription": "NGI SN+ DED 20% (MAX-50) COPAY NIL PH 10%",
-        "PlanActiveStatus": "Active"
       },
       {
-        "PlanCode": "D-NGSN+ D20%C0",
-        "PlanDescription": "NGI SN+ DED 20% (MAX-50) COPAY NIL PH 20%",
+        "PlanCode": "NGI D 25 C 0",
+        "PlanDescription": "NATIONAL GENERAL INSURANCE DED 25 COPAY NIL",
         "PlanActiveStatus": "Active"
       },
       {
-        "PlanCode": "D-NGSN+ D20%C10",
-        "PlanDescription": "NGI SN+ DED 20% (MAX-25) COPAY 10% (MAX-250)",
+        "PlanCode": "NGI D 25 C 10",
+        "PlanDescription": "NATIONAL GENERAL INSURANCE DED 25 COPAY 10% PH 10%",
         "PlanActiveStatus": "Active"
       },
       {
-        "PlanCode": "D-NGSN+ D20%P20",
-        "PlanDescription": "NGI SN+ DED 20% (MAX-100) COPAY NIL L&R 10% PH 20%",
+        "PlanCode": "NGI D0 C 0",
+        "PlanDescription": "NATIONAL GENERAL INSURANCE DED 0 CO 0",
         "PlanActiveStatus": "Active"
       },
       {
-        "PlanCode": "D-NGSN+ D75 C0",
-        "PlanDescription": "NGI SN+ DED 75 COPAY NIL",
+        "PlanCode": "NGI D0 C10%",
+        "PlanDescription": "NATIONAL GENERAL INSURANCE DED 0 CO 10%",
         "PlanActiveStatus": "Active"
-      }
-    ]
-  },
-  {
-    "PolicyGroupCode": "NGI BN+",
-    "PolicyGroupDescription": "NATIONAL GENERAL INSURANCE COMPANY (NGI) -BASIC PLUS NETWORK",
-    "RateListCode": "NGI - SN+ - SN",
-    "PolicyGroupCustomerType": "Insurance Company",
-    "PolicGroupActiveStatus": "Active",
-    "PayerId": "INS830",
-    "Plans": [
-      {
-        "PlanCode": "NGI BN+ C10%",
-        "PlanDescription": "NGI BN+ COPAY 10% IP&OP (MB PLAN)",
-        "PlanActiveStatus": "Active"
       },
       {
-        "PlanCode": "NGI BN+ D20%",
-        "PlanDescription": "NGI BN+ DED 20% (MAX-50) COPAY NIL",
+        "PlanCode": "NGI D10 C 10",
+        "PlanDescription": "NATIONAL GENERAL INSURANCE DED 10 CO 10",
         "PlanActiveStatus": "Active"
-      }
-    ]
-  },
-  {
-    "PolicyGroupCode": "NGI EN",
-    "PolicyGroupDescription": "NATIONAL GENERAL INSURANCE COMPANY (NGI) - EXECUTIVE NETWORK",
-    "RateListCode": "NGI - EXE-PRM",
-    "PolicyGroupCustomerType": "Insurance Company",
-    "PolicGroupActiveStatus": "Active",
-    "PayerId": "INS830",
-    "Plans": [
-      {
-        "PlanCode": "NGI EX C10%",
-        "PlanDescription": "NGI EX COPAY 10% (MB PLAN)",
-        "PlanActiveStatus": "Active"
       },
       {
-        "PlanCode": "NGI EX C20%",
-        "PlanDescription": "NGI EX COPAY 20%",
+        "PlanCode": "NGI D10% C10%",
+        "PlanDescription": "NATIONAL GENERAL INSURANCE DED 10% COPAY 10% (IP-10%)",
         "PlanActiveStatus": "Active"
       },
       {
-        "PlanCode": "NGI EX D0C0",
-        "PlanDescription": "NGI EX DED 0 COPAY NIL",
+        "PlanCode": "NGI D10% PH10%",
+        "PlanDescription": "NATIONAL GENERAL INSURANCE DED 10% COPAY 0 PH10%",
         "PlanActiveStatus": "Active"
       },
       {
-        "PlanCode": "NGI EX D10% C0",
-        "PlanDescription": "NGI EX DED 10% (MAX-50) COPAY NIL",
+        "PlanCode": "NGI D10%C 0",
+        "PlanDescription": "NATIONAL GENERAL INSURANCE DED 10% CO 0",
         "PlanActiveStatus": "Active"
       },
       {
-        "PlanCode": "NGI EX D20% C0",
-        "PlanDescription": "NGI EX DED 20% (MAX-50) COPAY NIL",
+        "PlanCode": "NGI D10%M50",
+        "PlanDescription": "NATIONAL GENERAL INSURANCE DED 10% MAX 50 COPAY NIL",
         "PlanActiveStatus": "Active"
       },
-      {
-        "PlanCode": "NGI EX D20%C0",
-        "PlanDescription": "NGI EX DED 20% (MAX-75) COPAY NIL",
-        "PlanActiveStatus": "Active"
-      }
-    ]
-  },
-  {
-    "PolicyGroupCode": "NGI HN ADVT",
-    "PolicyGroupDescription": "NATIONAL GENERAL INSURANCE COMPANY (NGI) - ADVANTAGE NETWORK",
-    "RateListCode": "NGI - SN+ - SN",
-    "PolicyGroupCustomerType": "Insurance Company",
-    "PolicGroupActiveStatus": "Active",
-    "PayerId": "INS830",
-    "Plans": [
       {
-        "PlanCode": "NGI AD D10M2X",
-        "PlanDescription": "NGI ADVANTAGE DED 10% COPAY 100%",
+        "PlanCode": "NGI D100 C 0",
+        "PlanDescription": "NATIONAL GENERAL INSURANCE DED 100 CO 0",
         "PlanActiveStatus": "Active"
       },
       {
-        "PlanCode": "NGI AD D20%P10%",
-        "PlanDescription": "NGI ADVANTAGE DED 20% M50 COPAY NIL PH 10% M50 - 2K LIMIT",
+        "PlanCode": "NGI D100 C 20%",
+        "PlanDescription": "NATIONAL GENERAL INSURANCE DED 100 CO 20%",
         "PlanActiveStatus": "Active"
       },
       {
-        "PlanCode": "NGI AD D20M25",
-        "PlanDescription": "NGI ADVANTAGE DED 20% MAX 25 COPAY 10% MAX 250",
+        "PlanCode": "NGI D125 C 0",
+        "PlanDescription": "NATIONAL GENERAL INSURANCE DED 125 COPAY NIL PH 20%",
         "PlanActiveStatus": "Active"
       },
-      {
-        "PlanCode": "NGI AD D20M2X",
-        "PlanDescription": "NGI ADVANTAGE DED 20% COPAY 20%",
-        "PlanActiveStatus": "Active"
-      }
-    ]
-  },
-  {
-    "PolicyGroupCode": "NGI HN EX",
-    "PolicyGroupDescription": "NATIONAL GENERAL INSURANCE COMPANY (NGI) - EXCLUSIVE NETWORK",
-    "RateListCode": "NGI - EXE-PRM",
-    "PolicyGroupCustomerType": "Insurance Company",
-    "PolicGroupActiveStatus": "Active",
-    "PayerId": "INS830",
-    "Plans": [
       {
-        "PlanCode": "NGI EXCL  D0C0",
-        "PlanDescription": "NGI EXCLUSIVE DED 0 COPAY NIL",
+        "PlanCode": "NGI D15 C 0",
+        "PlanDescription": "NATIONAL GENERAL INSURANCE DED 15 CO 0",
         "PlanActiveStatus": "Active"
       },
-      {
-        "PlanCode": "NGI EXCL  D1050",
-        "PlanDescription": "NGI EXCLUSIVE DED 10% MAX 50 COPAY NIL",
-        "PlanActiveStatus": "Active"
-      }
-    ]
-  },
-  {
-    "PolicyGroupCode": "NGI PN",
-    "PolicyGroupDescription": "NATIONAL GENERAL INSURANCE COMPANY (NGI) - PREMIER NETWORK",
-    "RateListCode": "NGI - EXE-PRM",
-    "PolicyGroupCustomerType": "Insurance Company",
-    "PolicGroupActiveStatus": "Active",
-    "PayerId": "INS830",
-    "Plans": [
       {
-        "PlanCode": "NGI PN C15%",
-        "PlanDescription": "NGI PN DED 15%  COPAY 15%",
+        "PlanCode": "NGI D150 C 0",
+        "PlanDescription": "NATIONAL GENERAL INSURANCE DED 150 CO 0",
         "PlanActiveStatus": "Active"
       },
       {
-        "PlanCode": "NGI PN D0C0",
-        "PlanDescription": "NGI PN DED 0  COPAY NIL (MB PLAN)",
+        "PlanCode": "NGI D20 C 0",
+        "PlanDescription": "NATIONAL GENERAL INSURANCE DED 20 CO 0",
         "PlanActiveStatus": "Active"
       },
       {
-        "PlanCode": "NGI PN D20%",
-        "PlanDescription": "NGI PN DED 20% (MAX-50) COPAY NIL",
+        "PlanCode": "NGI D20%",
+        "PlanDescription": "NATIONAL GENERAL INSURANCE DED 20% COPAY NIL",
         "PlanActiveStatus": "Active"
       },
       {
-        "PlanCode": "NGI PN D20%  C0",
-        "PlanDescription": "NGI PN DED 20% (MAX-50) COPAY NIL PH 10%(MAX-50) (MB PLAN)",
+        "PlanCode": "NGI D20% C0P10%",
+        "PlanDescription": "NATIONAL GENERAL INSURANCE DED 20% CO NIL PH 10%",
         "PlanActiveStatus": "Active"
       },
       {
-        "PlanCode": "NGI PN D20% C0",
-        "PlanDescription": "NGI PN DED 20% (MAX-25) COPAY NIL",
+        "PlanCode": "NGI D20%C10P20%",
+        "PlanDescription": "NATIONAL GENERAL INSURANCE DED 20% MAX 100 CO 10 PH 20%",
         "PlanActiveStatus": "Active"
       },
       {
-        "PlanCode": "NGI PN D20% C20",
-        "PlanDescription": "NGI PN DED 20% (MAX-50) COPAY 20%",
+        "PlanCode": "NGI D20%M100C",
+        "PlanDescription": "NATIONAL GENERAL INSURANCE DED 20% MAX 100 COPAY 10% M250",
         "PlanActiveStatus": "Active"
       },
       {
-        "PlanCode": "NGI PN D20%C0",
-        "PlanDescription": "NGI PN DED 20% (MAX-50) COPAY NIL PH 20%",
+        "PlanCode": "NGI D20%M50",
+        "PlanDescription": "NATIONAL GENERAL INSURANCE DED 20% MAX 50 COPAY NIL",
         "PlanActiveStatus": "Active"
       },
       {
-        "PlanCode": "NGI PN D20%C10%",
-        "PlanDescription": "NGI PN DED 20% (MAX-100) COPAY 10% PH 20%",
+        "PlanCode": "NGI D20%M75",
+        "PlanDescription": "NATIONAL GENERAL INSURANCE DED 20% MAX 75 COPAY 10%",
         "PlanActiveStatus": "Active"
       },
       {
-        "PlanCode": "NGI PN D20%C20",
-        "PlanDescription": "NGI PN DED 20% (MAX-75) COPAY 20%",
+        "PlanCode": "NGI D20%PH20%",
+        "PlanDescription": "NATIONAL GENERAL INSURANCE DED 20% COPAY NIL PH 20%",
         "PlanActiveStatus": "Active"
       },
       {
-        "PlanCode": "NGI PN D20%C20%",
-        "PlanDescription": "NGI PN DED 20% (MAX-50) COPAY 20% PH 30%",
+        "PlanCode": "NGI D20PH20%",
+        "PlanDescription": "NATIONAL GENERAL INSURANCE DED 20 COPAY NIL PH 20%",
         "PlanActiveStatus": "Active"
       },
       {
-        "PlanCode": "NGI PN D20%P10%",
-        "PlanDescription": "NGI PN DED 20% (MAX-50) COPAY NIL PH 10%(MAX-50)",
+        "PlanCode": "NGI D25",
+        "PlanDescription": "NATIONAL GENERAL INSURANCE DED 25 COPAY NIL",
         "PlanActiveStatus": "Active"
       },
       {
-        "PlanCode": "NGI PN D25C10%",
-        "PlanDescription": "NGI PN DED 25 COPAY 10% (MAX-250)",
+        "PlanCode": "NGI D25 C 0",
+        "PlanDescription": "NATIONAL GENERAL INSURANCE DED 25 COPAY NIL",
         "PlanActiveStatus": "Active"
       },
-      {
-        "PlanCode": "NGI PN D50 C 0",
-        "PlanDescription": "NGI PN DED 50  COPAY NIL PH 20%",
-        "PlanActiveStatus": "Active"
-      }
-    ]
-  },
-  {
-    "PolicyGroupCode": "NGI SN",
-    "PolicyGroupDescription": "NATIONAL GENERAL INSURANCE COMPANY (NGI) - STANDARD NETWORK",
-    "RateListCode": "NGI - SN+ - SN",
-    "PolicyGroupCustomerType": "Insurance Company",
-    "PolicGroupActiveStatus": "Active",
-    "PayerId": "INS830",
-    "Plans": [
       {
-        "PlanCode": "NGI SN D 50",
-        "PlanDescription": "NGI SN DED 50 L/R 50 CO NIL  PH 25%",
+        "PlanCode": "NGI D30 C 0",
+        "PlanDescription": "NATIONAL GENERAL INSURANCE DED 30 CO 0",
         "PlanActiveStatus": "Active"
       },
       {
-        "PlanCode": "NGI SN D0C0",
-        "PlanDescription": "NGI SN DED 0 COPAY NIL",
+        "PlanCode": "NGI D35 C 0",
+        "PlanDescription": "NATIONAL GENERAL INSURANCE DED 35 CO 0",
         "PlanActiveStatus": "Active"
       },
       {
-        "PlanCode": "NGI SN D10% C0",
-        "PlanDescription": "NGI SN DED 10% (MAX-20) COPAY NIL PH 10% (MAX-25)",
+        "PlanCode": "NGI D35 C 20",
+        "PlanDescription": "NATIONAL GENERAL INSURANCE DED 35 CO 20",
         "PlanActiveStatus": "Active"
       },
       {
-        "PlanCode": "NGI SN D10%C0",
-        "PlanDescription": "NGI SN DED 10% (MAX-50) COPAY NIL (MB PLAN)",
+        "PlanCode": "NGI D40",
+        "PlanDescription": "NATIONAL GENERAL INSURANCE DED 40 COPAY NIL",
         "PlanActiveStatus": "Active"
       },
       {
-        "PlanCode": "NGI SN D20% 20",
-        "PlanDescription": "NGI SN DED 20% COPAY 20% PH 20%",
+        "PlanCode": "NGI D50 C 0",
+        "PlanDescription": "NATIONAL GENERAL INSURANCE DED 50 CO 0",
         "PlanActiveStatus": "Active"
       },
       {
-        "PlanCode": "NGI SN D20% C0",
-        "PlanDescription": "NGI SN DED 20% (MAX-100) COPAY NIL  PH 10%",
+        "PlanCode": "NGI D50 C 10%",
+        "PlanDescription": "NATIONAL GENERAL INSURANCE DED 50 COPAY 10% (MB-10%)",
         "PlanActiveStatus": "Active"
       },
       {
-        "PlanCode": "NGI SN D20%C0",
-        "PlanDescription": "NGI SN DED 20% (MAX-50) COPAY NIL  PH 20%",
+        "PlanCode": "NGI D50 C 15%",
+        "PlanDescription": "NATIONAL GENERAL INSURANCE DED 50 CO 15%",
         "PlanActiveStatus": "Active"
       },
       {
-        "PlanCode": "NGI SN D20%C10%",
-        "PlanDescription": "NGI SN DED 20% (MAX-100) COPAY 10% PH 20%",
+        "PlanCode": "NGI D50 C 20%",
+        "PlanDescription": "NATIONAL GENERAL INSURANCE DED 50 COPAY 20%",
         "PlanActiveStatus": "Active"
       },
-      {
-        "PlanCode": "NGI SN D25C0",
-        "PlanDescription": "NGI SN DED 25AED OP NIL LAB/RAD 20% PH 10%",
-        "PlanActiveStatus": "Active"
-      }
-    ]
-  },
-  {
-    "PolicyGroupCode": "NGI SN+",
-    "PolicyGroupDescription": "NATIONAL GENERAL INSURANCE COMPANY (NGI) - STANDARD+ NETWORK",
-    "RateListCode": "NGI - SN+ - SN",
-    "PolicyGroupCustomerType": "Insurance Company",
-    "PolicGroupActiveStatus": "Active",
-    "PayerId": "INS830",
-    "Plans": [
       {
-        "PlanCode": "NGI SN+ C10%",
-        "PlanDescription": "NGI SN+ COPAY 10% (MB PLAN)",
+        "PlanCode": "NGI D50PH10%",
+        "PlanDescription": "NATIONAL GENERAL INSURANCE DED 50 COPAY NIL PH 10%",
         "PlanActiveStatus": "Active"
       },
       {
-        "PlanCode": "NGI SN+ C20%",
-        "PlanDescription": "NGI SN+ COPAY 20%",
+        "PlanCode": "NGI D50PH20%",
+        "PlanDescription": "NATIONAL GENERAL INSURANCE DED 50 COPAY NIL PH 20%",
         "PlanActiveStatus": "Active"
       },
       {
-        "PlanCode": "NGI SN+ D20%",
-        "PlanDescription": "NGI SN+ DED 20% (MAX-50) COPAY NIL",
+        "PlanCode": "NGI D60 C 0",
+        "PlanDescription": "NATIONAL GENERAL INSURANCE DED 60 CO 0",
         "PlanActiveStatus": "Active"
       },
       {
-        "PlanCode": "NGI SN+ D20% C0",
-        "PlanDescription": "NGI SN+ DED 20% (MAX-50) COPAY NIL PH 10%",
+        "PlanCode": "NGI D60 C 10%",
+        "PlanDescription": "NATIONAL GENERAL INSURANCE DED 60 CO 10% Lab/ Rad / Pharmacy",
         "PlanActiveStatus": "Active"
       },
       {
-        "PlanCode": "NGI SN+ D20%C0",
-        "PlanDescription": "NGI SN+ DED 20% (MAX-50) COPAY NIL PH 20%",
+        "PlanCode": "NGI D75 C 0",
+        "PlanDescription": "NATIONAL GENERAL INSURANCE DED 75 CO 0",
         "PlanActiveStatus": "Active"
       },
       {
-        "PlanCode": "NGI SN+ D20%C10",
-        "PlanDescription": "NGI SN+ DED 20% (MAX-25) COPAY 10% (MAX-250)",
+        "PlanCode": "NGI D75 C 20",
+        "PlanDescription": "NATIONAL GENERAL INSURANCE DED 75 CO 20%",
         "PlanActiveStatus": "Active"
       },
       {
-        "PlanCode": "NGI SN+ D20%P20",
-        "PlanDescription": "NGI SN+ DED 20% (MAX-100) COPAY NIL L&R 10% PH 20%",
+        "PlanCode": "NGI D75 C 20%",
+        "PlanDescription": "NATIONAL GENERAL INSURANCE DED 75 CO 20% PH 20%",
         "PlanActiveStatus": "Active"
       },
       {
-        "PlanCode": "NGI SN+ D50C0",
-        "PlanDescription": "NGI SN+ DED 50 COPAY NIL PH 20%",
+        "PlanCode": "NGI D75C0",
+        "PlanDescription": "NATIONAL GENERAL INSURANCE DED 75 COPAY NIL PH 15%",
         "PlanActiveStatus": "Active"
       },
       {
-        "PlanCode": "NGI SN+ D75 C0",
-        "PlanDescription": "NGI SN+ DED 75 COPAY NIL",
+        "PlanCode": "NGI D85P20%",
+        "PlanDescription": "NATIONAL GENERAL INSURANCE DED 85 COPAY NIL PH 20%",
         "PlanActiveStatus": "Active"
       }
     ]
