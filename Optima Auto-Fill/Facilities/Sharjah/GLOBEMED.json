@@ -136,6 +136,11 @@
         "PlanCode": "GMARABIA D20%C0",
         "PlanDescription": "GLOBEMED ARABIA DED 20% COPAY NIL PH 10% DN 20%",
         "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "GMGARABIA DC0",
+        "PlanDescription": "GLOBEMED ARABIA DED 92AED COPAY NIL",
+        "PlanActiveStatus": "Active"
       }
     ]
   },
