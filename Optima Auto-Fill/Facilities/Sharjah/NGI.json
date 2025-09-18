@@ -8,11 +8,6 @@
     "PayerId": "INS038",
     "Plans": [
       {
-        "PlanCode": "%20%25%10%",
-        "PlanDescription": "NATIONAL GENERAL INSURANCE DED 20% MAX 25 COPAY 10% M250",
-        "PlanActiveStatus": "Active"
-      },
-      {
         "PlanCode": "NGI C15%",
         "PlanDescription": "NATIONAL GENERAL INSURANCE DED 15% COPAY 15%",
         "PlanActiveStatus": "Active"
@@ -63,6 +58,11 @@
         "PlanActiveStatus": "Active"
       },
       {
+        "PlanCode": "NGI D10%C100%",
+        "PlanDescription": "NATIONAL GENERAL INSUR DED 10%M75 OP 0 L/R 10% PH 10%M200",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "NGI D10%M50",
         "PlanDescription": "NATIONAL GENERAL INSURANCE DED 10% MAX 50 COPAY NIL",
         "PlanActiveStatus": "Active"
@@ -75,6 +75,11 @@
       {
         "PlanCode": "NGI D100 C 20%",
         "PlanDescription": "NATIONAL GENERAL INSURANCE DED 100 CO 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NGI D1075 10%",
+        "PlanDescription": "NATIONAL GENERAL INSUR DED 10%M75 COPAY 10% PH 10%M200",
         "PlanActiveStatus": "Active"
       },
       {
@@ -108,8 +113,18 @@
         "PlanActiveStatus": "Active"
       },
       {
+        "PlanCode": "NGI D20%C100%",
+        "PlanDescription": "NATIONAL GENERAL INSUR DED 20%M75 OP 0 L/R 10% PH 10%M200",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "NGI D20%C10P20%",
         "PlanDescription": "NATIONAL GENERAL INSURANCE DED 20% MAX 100 CO 10 PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NGI D20%M1",
+        "PlanDescription": "NATIONAL GENERAL INSURANCE DED 20%M25 COPAY 10%M250",
         "PlanActiveStatus": "Active"
       },
       {
@@ -118,23 +133,13 @@
         "PlanActiveStatus": "Active"
       },
       {
-        "PlanCode": "NGI D20%M25",
-        "PlanDescription": "NATIONAL GENERAL INSURANCE DED 20% MAX 25 COPAY NIL",
-        "PlanActiveStatus": "Active"
-      },
-      {
-        "PlanCode": "NGI D20%M25C",
-        "PlanDescription": "NATIONAL GENERAL INSURANCE DED 20% MAX 25 COPAY 10% M250",
-        "PlanActiveStatus": "Active"
-      },
-      {
-        "PlanCode": "NGI D20%M40",
-        "PlanDescription": "NATIONAL GENERAL INSURANCE DED 20% MAX 40 COPAY NIL",
-        "PlanActiveStatus": "Active"
-      },
-      {
         "PlanCode": "NGI D20%M50",
         "PlanDescription": "NATIONAL GENERAL INSURANCE DED 20% MAX 50 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NGI D20%M50PH20",
+        "PlanDescription": "NATIONAL GENERAL INSURANCE DED 20%M 50 COPAY 0 PH 20%M25",
         "PlanActiveStatus": "Active"
       },
       {
