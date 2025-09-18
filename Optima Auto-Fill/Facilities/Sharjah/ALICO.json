@@ -8,11 +8,6 @@
     "PayerId": "INS013",
     "Plans": [
       {
-        "PlanCode": "ALIC CO 20M 75",
-        "PlanDescription": "ALICO COPAY 20% MAXIMUM 75 COPAY NIL",
-        "PlanActiveStatus": "Active"
-      },
-      {
         "PlanCode": "ALIC CO 20MX100",
         "PlanDescription": "ALICO COPAY 20% MAXIMUM 100",
         "PlanActiveStatus": "Active"
