@@ -1,0 +1,67 @@
+[
+  {
+    "PolicyGroupCode": "AL DHAFRA INS",
+    "PolicyGroupDescription": "AL DHAFRA INS CO PSC",
+    "RateListCode": "AL DHAFRA",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS029",
+    "Plans": [
+      {
+        "PlanCode": "ALDHAF D30",
+        "PlanDescription": "AL DHAFRA INSURANCE DED 30 COPAY NIL DN 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ALDHAF D40PH20%",
+        "PlanDescription": "AL DHAFRA INSURANCE DED 40 COPAY NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ALDHAF D50C0D50",
+        "PlanDescription": "AL DHAFRA INS DED 50 COPAY NIL DN DED50 ONLY",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ALDHAF D50PH20%",
+        "PlanDescription": "AL DHAFRA INSURANCE DED 50 COPAY NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ALDHAF D50PH30%",
+        "PlanDescription": "AL DHAFRA INSURANCE DED 50 COPAY NIL PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ALDHAFRA 50",
+        "PlanDescription": "ALDHAFRA DED 50 COPAY NIL PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ALDHAFRA C40",
+        "PlanDescription": "ALDHAFRA  DED 40",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ALDHAFRA C50",
+        "PlanDescription": "ALDHAFRA  DED 50",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ALDHAFRA DED 25",
+        "PlanDescription": "ALDHAFRA DED 25",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ALDHAFRA DED 75",
+        "PlanDescription": "ALDHAFRA DED 75 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DHAFR D50 DN20%",
+        "PlanDescription": "AL DHAFRA INS CO DED 50 Den Copay 20%",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  }
+]
