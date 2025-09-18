@@ -43,6 +43,11 @@
         "PlanActiveStatus": "Active"
       },
       {
+        "PlanCode": "OIC COM D2050",
+        "PlanDescription": "OMAN INS CO -COMP  DED 20% M 50 COPAY NIL PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "OIC COM D25P20%",
         "PlanDescription": "OMAN INS CO -COMP  DED 25 COPAY NIL PH 20% MAX 100",
         "PlanActiveStatus": "Active"
