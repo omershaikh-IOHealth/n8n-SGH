@@ -1,20 +1,5 @@
 [
   {
-    "PolicyGroupCode": "MSH ABU DH",
-    "PolicyGroupDescription": "MSH - ABU DHABI NATIONAL TAKAFUL COMPANY-TAKAFUL",
-    "RateListCode": "MSH",
-    "PolicyGroupCustomerType": "Insurance Company",
-    "PolicGroupActiveStatus": "Active",
-    "PayerId": "INS027",
-    "Plans": [
-      {
-        "PlanCode": "MSH ABU DH",
-        "PlanDescription": "MSH ABU DHABI TAKAFUL DED 0 COPAY NIL",
-        "PlanActiveStatus": "Active"
-      }
-    ]
-  },
-  {
     "PolicyGroupCode": "MSH ARABIA",
     "PolicyGroupDescription": "MSH - ARABIA INS CO (ARABIA)",
     "RateListCode": "MSH",
@@ -120,31 +105,6 @@
     ]
   },
   {
-    "PolicyGroupCode": "MSH QIC CN",
-    "PolicyGroupDescription": "MSH - QATAR INSURANCE COMPANY",
-    "RateListCode": "MSH",
-    "PolicyGroupCustomerType": "Insurance Company",
-    "PolicGroupActiveStatus": "Active",
-    "PayerId": "INS019",
-    "Plans": [
-      {
-        "PlanCode": "MSH QIC D0C0",
-        "PlanDescription": "MSH QICDED 0 COPAY NIL",
-        "PlanActiveStatus": "Active"
-      },
-      {
-        "PlanCode": "MSH QIC D20",
-        "PlanDescription": "MSH QIC DED 20%MAX100 OP NIL LAB/RAD/PH 20%",
-        "PlanActiveStatus": "Active"
-      },
-      {
-        "PlanCode": "MSH QIC D51C0",
-        "PlanDescription": "MSH QICDED 51 COPAY NIL",
-        "PlanActiveStatus": "Active"
-      }
-    ]
-  },
-  {
     "PolicyGroupCode": "MSHDUBAI",
     "PolicyGroupDescription": "MSH - DUBAI INSURANCE",
     "RateListCode": "MSH",
@@ -198,18 +158,13 @@
         "PlanActiveStatus": "Active"
       },
       {
-        "PlanCode": "MSH D D20",
-        "PlanDescription": "MSH DUBAI INSURANCE DED 20%MAX 50  COPAY NIL",
+        "PlanCode": "MSH D D2050",
+        "PlanDescription": "MSH DUBAI INSURANCE DED 20%MAX 50 COPAY NIL",
         "PlanActiveStatus": "Active"
       },
       {
         "PlanCode": "MSH D D50%",
         "PlanDescription": "MSH DUBAI INSURANCE DED 50% COPAY NIL",
-        "PlanActiveStatus": "Active"
-      },
-      {
-        "PlanCode": "MSH D DNIL",
-        "PlanDescription": "MSH DUBAI INSURANCE DED NIL COPAY NIL",
         "PlanActiveStatus": "Active"
       },
       {
