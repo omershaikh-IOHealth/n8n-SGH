@@ -1,0 +1,162 @@
+[
+  {
+    "PolicyGroupCode": "ALKHAZNA",
+    "PolicyGroupDescription": "Al Khazna Insurance Company Direct biiling",
+    "RateListCode": "ALKHAZNA",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS032",
+    "Plans": [
+      {
+        "PlanCode": "AKNIC C20%",
+        "PlanDescription": "AL KHAZNA DED 20%(GP) COPAY 20% DN 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AKNIC D75C20%",
+        "PlanDescription": "AL KHAZNA DED 75(SP & CP) COPAY 20% DN 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ALKHAZ D20%C10%",
+        "PlanDescription": "AL KHAZNA DED 20% COPAY 10% PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ALKHAZNA C 20%",
+        "PlanDescription": "AL KHAZNA DED 20% COPAY 20% PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ALKHAZNA C10%",
+        "PlanDescription": "AL KHAZNA DED 10% COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ALKHAZNA C20%",
+        "PlanDescription": "AL KHAZNA COPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ALKHAZNA C25%",
+        "PlanDescription": "AL KHAZNA DED 25% COPAY 25% PH 25%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ALKHAZNA CO 20",
+        "PlanDescription": "AL KHAZNA COPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ALKHAZNA CO 30",
+        "PlanDescription": "AL KHAZNA COPAY 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ALKHAZNA D 20%",
+        "PlanDescription": "AL KHAZNA DED 20% COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ALKHAZNA D10%",
+        "PlanDescription": "AL KHAZNA DED 10% COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ALKHAZNA D20%",
+        "PlanDescription": "AL KHAZNA DED 20% COPAY NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ALKHAZNA D20%C0",
+        "PlanDescription": "AL KHAZNA DED 20% COPAY NIL PH 20% DN 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ALKHAZNA D35",
+        "PlanDescription": "AL KHAZNA DED 35 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ALKHAZNA D75C20",
+        "PlanDescription": "AL KHAZNA DED 75 COPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ALKHAZNA DED 0",
+        "PlanDescription": "AL KHAZNA DED 0 COPAY NIL DENT D0% CO 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ALKHAZNA DED100",
+        "PlanDescription": "AL KHAZNA DED 100 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ALKHAZNA DED25",
+        "PlanDescription": "AL KHAZNA DED 25 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ALKHAZNA DED30",
+        "PlanDescription": "AL KHAZNA DED 30 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ALKHAZNA DED40",
+        "PlanDescription": "AL KHAZNA DED 40 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ALKHAZNA DED50",
+        "PlanDescription": "AL KHAZNA DED 50 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ALKHAZNA DED75",
+        "PlanDescription": "AL KHAZNA DED 75 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ALKHAZNAD50CO20",
+        "PlanDescription": "AL KHAZNA DED 50 COPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ALKHAZNAD50P10%",
+        "PlanDescription": "AL KHAZNA DED 50 COPAY 20% PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ALKHZNA D20C0",
+        "PlanDescription": "AL KHAZNA DED 20  COPAY 0 DN 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ALKHZNA D50PH10",
+        "PlanDescription": "AL KHAZNA DED 50 COPAY NIL PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ALKHZNA D50PH20",
+        "PlanDescription": "AL KHAZNA DED 50 COPAY NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ALKHZNA D50PH30",
+        "PlanDescription": "AL KHAZNA DED 50 COPAY NIL PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ALKHZNAD50 20PH",
+        "PlanDescription": "AL KHAZNA DED 50 PH 20% DIAG SERV. 10 AED",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ALKHZNAD60 20PH",
+        "PlanDescription": "AL KHAZNA DED 60 PH 20%",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  }
+]
