@@ -1,0 +1,102 @@
+[
+  {
+    "PolicyGroupCode": "DECARE ADNIC",
+    "PolicyGroupDescription": "ECARE TPA - ABU DHABI NATIONAL INSURANCE COMPANY - ADNIC",
+    "RateListCode": "",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS017",
+    "Plans": [
+      {
+        "PlanCode": "D-EC ADNIC D0C0",
+        "PlanDescription": "ECARE TPA ADNIC DED 0 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "DECARE RAK",
+    "PolicyGroupDescription": "ECARE TPA - RAS AL KHAIMAH INSURANCE - RAK",
+    "RateListCode": "",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS014",
+    "Plans": [
+      {
+        "PlanCode": "D-EC RAK D0C0",
+        "PlanDescription": "ECARE TPA RAK DED 0 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "DECARE UNION",
+    "PolicyGroupDescription": "ECARE TPA - UNION INSURANCE COMPANY",
+    "RateListCode": "",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS040",
+    "Plans": [
+      {
+        "PlanCode": "D-EC UNION D0C0",
+        "PlanDescription": "ECARE TPA UNION INSURANCE COMP. DED NIL  COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-EC UNION DC0",
+        "PlanDescription": "ECARE TPA UNION INSURANCE COMP.  DED 20% COPAY NIL",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "ECARE ADNIC",
+    "PolicyGroupDescription": "ECARE TPA - ABU DHABI NATIONAL INSURANCE COMPANY - ADNIC",
+    "RateListCode": "",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS017",
+    "Plans": [
+      {
+        "PlanCode": "EC ADNIC D0C0",
+        "PlanDescription": "ECARE TPA ADNIC DED 0 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "ECARE RAK",
+    "PolicyGroupDescription": "ECARE TPA - RAS AL KHAIMAH INSURANCE - RAK",
+    "RateListCode": "",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS014",
+    "Plans": [
+      {
+        "PlanCode": "EC RAK D0C0",
+        "PlanDescription": "ECARE TPA RAK DED 0 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "ECARE UNION",
+    "PolicyGroupDescription": "ECARE TPA - UNION INSURANCE COMPANY",
+    "RateListCode": "",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS040",
+    "Plans": [
+      {
+        "PlanCode": "EC UNION D0C0",
+        "PlanDescription": "ECARE TPA UNION INSURANCE COMP. DED NIL  COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "EC UNION DC0",
+        "PlanDescription": "ECARE TPA UNION INSURANCE COMP.  DED 20% COPAY NIL",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  }
+]
