@@ -153,11 +153,6 @@
         "PlanActiveStatus": "Active"
       },
       {
-        "PlanCode": "NH ARAB D",
-        "PlanDescription": "NOWHEALTH ARABIA DED 54 COPAY NIL",
-        "PlanActiveStatus": "Active"
-      },
-      {
         "PlanCode": "NH ARAB D20%M90",
         "PlanDescription": "NOWHEALTH ARABIA DED 20% MAX 90 COPAY NIL",
         "PlanActiveStatus": "Active"
@@ -170,6 +165,11 @@
       {
         "PlanCode": "NH ARAB D90",
         "PlanDescription": "NOWHEALTH ARABIA DED 90 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NH ARAB D92",
+        "PlanDescription": "NOWHEALTH ARABIA DED 92 COPAY NIL",
         "PlanActiveStatus": "Active"
       }
     ]
