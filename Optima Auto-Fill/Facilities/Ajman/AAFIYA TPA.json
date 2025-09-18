@@ -548,8 +548,18 @@
     "PayerId": "INS022",
     "Plans": [
       {
+        "PlanCode": "AAF  C20% E",
+        "PlanDescription": "AAFIYA APN ESSENTIAL TAKAFUL EMARAT DED 20%M50 COPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "DAAF TAKAFUL",
         "PlanDescription": "AAAFIYA APN ESSENTIAL TAKAFUL EMARAT DED 20%M 50 COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAAF TAKAL",
+        "PlanDescription": "AAAFIYA APN ESSENTIAL TAKAFUL EMARAT DED 20%M 50 COPAY 20%",
         "PlanActiveStatus": "Active"
       }
     ]
