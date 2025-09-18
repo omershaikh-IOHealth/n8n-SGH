@@ -143,8 +143,8 @@
     "PayerId": "INS042",
     "Plans": [
       {
-        "PlanCode": "NH ARAB 10",
-        "PlanDescription": "NOWHEALTH ARABIA DED 10%  COPAY 10%",
+        "PlanCode": "NH ARAB 10%D",
+        "PlanDescription": "NOWHEALTH ARABIA COPAY 10%",
         "PlanActiveStatus": "Active"
       },
       {
@@ -153,23 +153,23 @@
         "PlanActiveStatus": "Active"
       },
       {
+        "PlanCode": "NH ARAB D20%M50",
+        "PlanDescription": "NOWHEALTH ARABIA DED 20% MAX 50 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "NH ARAB D20%M90",
         "PlanDescription": "NOWHEALTH ARABIA DED 20% MAX 90 COPAY NIL",
         "PlanActiveStatus": "Active"
       },
       {
-        "PlanCode": "NH ARAB D2050",
-        "PlanDescription": "NOWHEALTH ARABIA DED 20% MAX 50 COPAY NIL",
+        "PlanCode": "NH ARAB D55C0",
+        "PlanDescription": "NOWHEALTH ARABIA DED 55 COPAY NIL",
         "PlanActiveStatus": "Active"
       },
       {
         "PlanCode": "NH ARAB D90",
         "PlanDescription": "NOWHEALTH ARABIA DED 90 COPAY NIL",
-        "PlanActiveStatus": "Active"
-      },
-      {
-        "PlanCode": "NH ARAB D92",
-        "PlanDescription": "NOWHEALTH ARABIA DED 92 COPAY NIL",
         "PlanActiveStatus": "Active"
       }
     ]
