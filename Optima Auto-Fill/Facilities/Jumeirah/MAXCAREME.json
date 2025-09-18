@@ -1,0 +1,27 @@
+[
+  {
+    "PolicyGroupCode": "MAXCARE - OMAN",
+    "PolicyGroupDescription": "MAXCARE - OMAN INSURANCE CO.",
+    "RateListCode": "MAXCAREME",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS012",
+    "Plans": [
+      {
+        "PlanCode": "MAXCARED25C10",
+        "PlanDescription": "MAXCAREME DED 25 COPAY 10% PH NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MAXCARED25C20%",
+        "PlanDescription": "MAXCAREME DED 25 COPAY 20% PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MX OM D0C0",
+        "PlanDescription": "MAXCARE OMAN INS DED 0 COPAY NIL PH 10%",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  }
+]
