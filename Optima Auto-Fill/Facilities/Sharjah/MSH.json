@@ -1,5 +1,25 @@
 [
   {
+    "PolicyGroupCode": "MSH ABU",
+    "PolicyGroupDescription": "MSH - ABU DHABI NATIONAL TAKAFUL COMPANY-TAKAFUL",
+    "RateListCode": "MSH",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS027",
+    "Plans": [
+      {
+        "PlanCode": "MSH ABU D0C0",
+        "PlanDescription": "MSH ABU NATIONAL TAKAFUL DED 0 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MSH ABU D20",
+        "PlanDescription": "MSH ABU NATIONAL TAKAFUL DED 20%M50  COPAY 10%",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
     "PolicyGroupCode": "MSH ARABIA",
     "PolicyGroupDescription": "MSH - ARABIA INS CO (ARABIA)",
     "RateListCode": "MSH",
@@ -153,13 +173,13 @@
         "PlanActiveStatus": "Active"
       },
       {
-        "PlanCode": "MSH D C50",
-        "PlanDescription": "MSH DUBAI INSURANCE COPAY 50%",
+        "PlanCode": "MSH D C2050",
+        "PlanDescription": "MSH DUBAI INSURANCE DED  20% MAX 50 CO NIL",
         "PlanActiveStatus": "Active"
       },
       {
-        "PlanCode": "MSH D D2050",
-        "PlanDescription": "MSH DUBAI INSURANCE DED 20%MAX 50 COPAY NIL",
+        "PlanCode": "MSH D C50",
+        "PlanDescription": "MSH DUBAI INSURANCE COPAY 50%",
         "PlanActiveStatus": "Active"
       },
       {
