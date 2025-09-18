@@ -1,0 +1,337 @@
+[
+  {
+    "PolicyGroupCode": "AETNA",
+    "PolicyGroupDescription": "AETNA",
+    "RateListCode": "AETNA",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS028",
+    "Plans": [
+      {
+        "PlanCode": "AETNA CO10",
+        "PlanDescription": "AETNA INTERNATIONAL CO 10",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AETNA D10%C10%",
+        "PlanDescription": "AETNA INTERNATIONAL DED 10% COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AETNA D110",
+        "PlanDescription": "AETNA INTERNATIONAL DED 110 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AETNA DED0 CO0",
+        "PlanDescription": "AETNA INTERNATIONAL DED 0 CO 0",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AETNA DED100CO0",
+        "PlanDescription": "AETNA INTERNATIONAL DED 100 CO 0",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AETNA DED25 CO0",
+        "PlanDescription": "AETNA INTERNATIONAL DED 25 CO 0",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AETNA DED50 CO0",
+        "PlanDescription": "AETNA INTERNATIONAL DED 50 CO 0",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AETNA DED75 C10",
+        "PlanDescription": "AETNA INTERNATIONAL DED 75 CO 10 P",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AETNA DED75 CO0",
+        "PlanDescription": "AETNA INTERNATIONAL DED 75 CO 0",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AETNA DED75CP10",
+        "PlanDescription": "AETNA INTERNATIONAL DED 75 CO 10 P",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AETNA INTL D20%",
+        "PlanDescription": "AETNA INTERNATIONAL DED 20% COPAY NIL PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AETNADED50 CO20",
+        "PlanDescription": "AETNA INTERNATIONAL DED 50 CO 20",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "AETNA AAA",
+    "PolicyGroupDescription": "AETNA - AL AIN AHLIA",
+    "RateListCode": "AETNA",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS028",
+    "Plans": [
+      {
+        "PlanCode": "AET AA D10%M50",
+        "PlanDescription": "AETNA AL AIN AHLIA DED 10% MAX 50 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AET AA D20%M100",
+        "PlanDescription": "AETNA AL AIN AHLIA DED 20% MAX 100 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AET AA DD0 P10%",
+        "PlanDescription": "AETNA AL AIN AHLIA DED NIL COPAY NIL PH10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AET AA DD0 P20%",
+        "PlanDescription": "AETNA AL AIN AHLIA DED NIL COPAY NIL PH20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AET AAA C10%",
+        "PlanDescription": "AETNA AL AIN AHLIA DED 10% COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AET AAA C20%",
+        "PlanDescription": "AETNA AL AIN AHLIA DED 20% COPAY 20% PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AET AAA C30%",
+        "PlanDescription": "AETNA AL AIN AHLIA DED 30% COPAY 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AET AAA D0",
+        "PlanDescription": "AETNA AL AIN AHLIA DED 0 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AET AAA D0C0",
+        "PlanDescription": "AETNA AL AIN AHLIA MB 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AET AAA D10%",
+        "PlanDescription": "AETNA AL AIN AHLIA DED 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AET AAA D10%C0",
+        "PlanDescription": "AETNA AL AIN AHLIA DED 10% COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AET AAA D100",
+        "PlanDescription": "AETNA AL AIN AHLIA DED 100 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AET AAA D110",
+        "PlanDescription": "AETNA AL AIN AHLIA DED 110 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AET AAA D20%",
+        "PlanDescription": "AETNA AL AIN AHLIA DED 20% COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AET AAA D20%P10",
+        "PlanDescription": "AETNA AL AIN AHLIA DED 20% COPAY NIL PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AET AAA D20%P20",
+        "PlanDescription": "AETNA AL AIN AHLIA DED 20% COPAY NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AET AAA D50",
+        "PlanDescription": "AETNA AL AIN AHLIA DED 50 COPAY NIL PH 10% DN 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AET AAA D50%C50",
+        "PlanDescription": "AETNA AL AIN AHLIA DED 50% COPAY 50%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AET AAA D50C0",
+        "PlanDescription": "AETNA AL AIN AHLIA DED 50 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AET AAA D50P10%",
+        "PlanDescription": "AETNA AL AIN AHLIA DED 20%(MAX-AED 50) COPAY NIL PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AET AAA D50P20%",
+        "PlanDescription": "AETNA AL AIN AHLIA DED 50 COPAY NIL PH20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AET AAA D50P25%",
+        "PlanDescription": "AETNA AL AIN AHLIA DED 50 COPAY NIL PH 25%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AET AAA D55",
+        "PlanDescription": "AETNA AL AIN AHLIA DED 55 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AET AAA D65",
+        "PlanDescription": "AETNA AL AIN AHLIA DED 65 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AET AAA D70",
+        "PlanDescription": "AETNA AL AIN AHLIA DED 70 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AET AAA D70C10%",
+        "PlanDescription": "AETNA AL AIN AHLIA DED 70 COPAY 10% PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AET AAA D75",
+        "PlanDescription": "AETNA AL AIN AHLIA DED 75 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AET AAA D75C10%",
+        "PlanDescription": "AETNA AL AIN AHLIA DED 75 COPAY 10% PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AET AAA D75P10%",
+        "PlanDescription": "AETNA AL AIN AHLIA DED 75 COPAY NIL PH 10% DN 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AET AAA DEN 50%",
+        "PlanDescription": "AETNA AL AIN AHLIA DED 50 COPAY NIL PH 10% DN 50%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AETAAA DEN C25%",
+        "PlanDescription": "AETNA AL AIN AHLIA COPAY 25% DENTAL",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "AETNARSA",
+    "PolicyGroupDescription": "AETNA RSA",
+    "RateListCode": "AETNA",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS039",
+    "Plans": [
+      {
+        "PlanCode": "AETNARSA D50C0",
+        "PlanDescription": "AETNA RSA DED 50 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AETNARSA DED 0",
+        "PlanDescription": "AETNA Insurance RSA DED 0",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AETNARSA DED 25",
+        "PlanDescription": "AETNA Insurance RSA DED 25",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AETNARSA DED 50",
+        "PlanDescription": "AETNA Insurance RSA DED 50",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AETNARSA DED 75",
+        "PlanDescription": "AETNA INSURANCE RSA DED 75 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "AETNAUSA",
+    "PolicyGroupDescription": "AETNA International - US Based Cards PAPER",
+    "RateListCode": "AETNA",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "TPA005",
+    "Plans": [
+      {
+        "PlanCode": "AETNA D36",
+        "PlanDescription": "AETNA INTERNATIONAL US BASED DED 36 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AETNAUS CO20%",
+        "PlanDescription": "AETNA INTERNATIONAL US BASED COPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AETNAUS D0CO0",
+        "PlanDescription": "AETNA INTERNATIONAL US BASED DED 0 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AETNAUS D0CO10%",
+        "PlanDescription": "AETNA INTERNATIONAL US BASED DED0 CO10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AETNAUS D0CO20%",
+        "PlanDescription": "AETNA INTERNATIONAL US BASED DED0 CO20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AETNAUS D20%CO0",
+        "PlanDescription": "AETNA INTERNATIONAL US BASED DED 20% COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AETNAUS DED 100",
+        "PlanDescription": "AETNA INTERNATIONAL US BASED DED 100",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AETNAUS DED 25",
+        "PlanDescription": "AETNA INTERNATIONAL US BASED DED 25",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AETNAUS DED 50",
+        "PlanDescription": "AETNA INTERNATIONAL US BASED DED 50",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AETNAUS DED 75",
+        "PlanDescription": "AETNA INTERNATIONAL US BASED DED 75",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AETNAUS DED 92",
+        "PlanDescription": "AETNA INTERNATIONAL US BASED DED 92",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  }
+]
