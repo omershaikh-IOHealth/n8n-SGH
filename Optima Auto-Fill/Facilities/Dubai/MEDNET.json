@@ -1538,6 +1538,11 @@
         "PlanActiveStatus": "Active"
       },
       {
+        "PlanCode": "MDT D D10M25",
+        "PlanDescription": "MEDNET DUBAI INS DED 10% MAX 25 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "MDT D D10M50",
         "PlanDescription": "MEDNET DUBAI INS DED 10% MAX 50 COPAY NIL",
         "PlanActiveStatus": "Active"
@@ -2910,6 +2915,11 @@
       {
         "PlanCode": "MDT UNB  D50CO",
         "PlanDescription": "MEDNET ORIENT UNB TAKAFUL DED 50 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MDT UNB D10CON",
+        "PlanDescription": "MEDNET ORIENT UNB TAKAFUL DED 10%M25 COPAY NIL",
         "PlanActiveStatus": "Active"
       },
       {
