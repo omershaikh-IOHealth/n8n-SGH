@@ -1,0 +1,5872 @@
+[
+  {
+    "PolicyGroupCode": "DMED - ARA-GRN",
+    "PolicyGroupDescription": "MEDNET - ARABIA INSURANCE COMPANY- GREEN",
+    "RateListCode": "MEDNET TPA",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS042",
+    "Plans": [
+      {
+        "PlanCode": "D-MEDNET ARGR",
+        "PlanDescription": "MEDNET GREEN  ARABIA INSURANCE DED NIL COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MEDNET ARGR D",
+        "PlanDescription": "MEDNET GREEN  ARABIA INSURANCE DED 20% M 50",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "DMED - ARA-SC",
+    "PolicyGroupDescription": "MEDNET - ARABIA INSURANCE COMPANY- SILVER CLASSIC",
+    "RateListCode": "MEDNET TPA",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS042",
+    "Plans": [
+      {
+        "PlanCode": "D-MEDNET SC",
+        "PlanDescription": "MEDNET SILVR CLASSIC  ARABIA INSURANCE DED NIL COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MED ARABI SC 20",
+        "PlanDescription": "MEDNET SILVER CL ARABIA INSURANCE DED 20%50 AED CO NIL P 20%",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "DMED - ARABIA",
+    "PolicyGroupDescription": "MEDNET - ARABIA INSURANCE COMPANY- SILVER PREMIUM",
+    "RateListCode": "MEDNET TPA",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS042",
+    "Plans": [
+      {
+        "PlanCode": "D-MEDNET ARABIA",
+        "PlanDescription": "MEDNET SILVER PREM  ARABIA INSURANCE DED NIL COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MEDNET ARIA",
+        "PlanDescription": "MEDNET SILVER PREM  ARABIA INS DED 20%MAX 50COPAY NIL",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "DMED - ARABIA-G",
+    "PolicyGroupDescription": "MEDNET - ARABIA INSURANCE COMPANY- GOLD",
+    "RateListCode": "MEDNET TPA",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS042",
+    "Plans": [
+      {
+        "PlanCode": "D-MEDNET AR GOL",
+        "PlanDescription": "MEDNET GOLD  ARABIA INSURANCE DED NIL COPAY NIL",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "DMED - AS-GREE",
+    "PolicyGroupDescription": "MEDNET - ARABIAN SCANDINAVIAN INS. CO. (ASCANA)-GREEN",
+    "RateListCode": "MEDNET TPA",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS016",
+    "Plans": [
+      {
+        "PlanCode": "D-MEASCAN",
+        "PlanDescription": "MEDNET ARABIAN SCANDINAVIAN GREEN DED 20%M50 COPAY 10%",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "DMED - ASCANA",
+    "PolicyGroupDescription": "MEDNET - ARABIAN SCANDINAVIAN INS. CO. (ASCANA)",
+    "RateListCode": "MEDNET TPA",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS016",
+    "Plans": [
+      {
+        "PlanCode": "D-MEASCAN D50C0",
+        "PlanDescription": "MEDNET ARABIAN SCANDINAVIAN DED 50 COPAY 0",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MED ASCAN D75",
+        "PlanDescription": "MEDNET ARABIAN SCANDINAVIAN DED 75  COPAY 15%",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "DMED - EKFC",
+    "PolicyGroupDescription": "MEDNET - EMIRATES FLIGHT CATERING (EKFC)",
+    "RateListCode": "MEDNET TPA",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "SP0062",
+    "Plans": [
+      {
+        "PlanCode": "D-MED EKFC D0C0",
+        "PlanDescription": "MEDNET EMIRATES FLIGHT DED 0 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MEEKFC D010",
+        "PlanDescription": "MEDNET EMIRATES FLIGHT DED 10%M80 COPAY NIL PH 5%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MEEKFC D2",
+        "PlanDescription": "MEDNET EMIRATES FLIGHT DED 20%M80 COPAY NIL PH 5%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MEEKFC D2080",
+        "PlanDescription": "MEDNET EMIRATES FLIGHT DED 20%M80 COPAY NIL PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MEEKFC D280",
+        "PlanDescription": "MEDNET EMIRATES FLIGHT DED 20%M80 COPAY NIL PH NIL",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "DMED - METHAQ",
+    "PolicyGroupDescription": "MEDNET - METHAQ TAKAFUL INSURANCE",
+    "RateListCode": "MEDNET TPA",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS037",
+    "Plans": [
+      {
+        "PlanCode": "D-MEMETH D20%C0",
+        "PlanDescription": "MEDNET METHAQ DED20%(MAX50)  COPAY NIL",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "DMED AD EMERALD",
+    "PolicyGroupDescription": "MEDNET - ADAMJEE INSURANCE CO. - EMERALD & SILK ROAD",
+    "RateListCode": "MEDNET-SR&EMR",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS047",
+    "Plans": [
+      {
+        "PlanCode": "D-MEADAM D10%50",
+        "PlanDescription": "MEDNET ADAMJEE INS EMERALD DED10%M50 OP NIL L/R/PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MEADAM D50P30",
+        "PlanDescription": "MEDNET ADAMJEE INS EMERALD DED20%M50 OP NIL L/R/PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MED ADAM 20",
+        "PlanDescription": "MEDNET ADAMJEE INS EMERALD DED 20% COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MED ADAM D",
+        "PlanDescription": "MEDNET ADAMJEE INS EMERALD DED 20%M25AED COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MED ADAM DD",
+        "PlanDescription": "MEDNET ADAMJEE INS EMERALD DED 20%M50AED COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MED ADAM DX",
+        "PlanDescription": "MEDNET ADAMJEE INS SILKROAD DED 10% COPAY 10%",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "DMED AL FUJ NIC",
+    "PolicyGroupDescription": "MEDNET - AL FUJAIRAH NATIONAL INS. CO",
+    "RateListCode": "MEDNET TPA",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS030",
+    "Plans": [
+      {
+        "PlanCode": "D-MEALFUJ D50C0",
+        "PlanDescription": "MEDNET FUJAIRAH NATIONAL DED 50 COPAY 0",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MED ALFUJ D35",
+        "PlanDescription": "MEDNET FUJAIRAH NATIONAL DED 35 COPAY 15AED PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MEINS D50C",
+        "PlanDescription": "MEDNET FUJAIRAH NATIONAL DED 20%M50  COPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MEINS D50C10%",
+        "PlanDescription": "MEDNET FUJAIRAH NATIONAL DED 50 COPAY 10%",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "DMED AL ITIHAD",
+    "PolicyGroupDescription": "MEDNET - AL ITIHAD AL WATANI INS. CO.",
+    "RateListCode": "MEDNET TPA",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS024",
+    "Plans": [
+      {
+        "PlanCode": "D-MED HAD D0",
+        "PlanDescription": "MEDNET AL ITIHAD DED 10%   COPAY NIL PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MED ITHAD D0",
+        "PlanDescription": "MEDNET AL ITIHAD DED NIL  COPAY 15%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MEDITHAD D50",
+        "PlanDescription": "MEDNET AL ITIHAD DED 50 COPAY 0 PH 15%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MEDITHAD D50X",
+        "PlanDescription": "MEDNET AL ITIHAD DED 50 COPAY 0 PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MEITHAD C15%",
+        "PlanDescription": "MEDNET AL ITIHAD  COPAY 15%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MEITHAD C20%",
+        "PlanDescription": "MEDNET AL ITIHAD  COPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MEITHAD D 20%",
+        "PlanDescription": "MEDNET AL ITIHAD DED 20% (MAX-50) COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MEITHAD D0C10",
+        "PlanDescription": "MEDNET AL ITIHAD DED NIL  COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MEITHAD D20%C",
+        "PlanDescription": "MEDNET AL ITIHAD DED 20% (MAX-50) COPAY 0",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MEITHAD D50C0",
+        "PlanDescription": "MEDNET AL ITIHAD DED 50 COPAY 0",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MEITHAD MAT 0",
+        "PlanDescription": "MEDNET AL ITIHAD MAT - NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MEITHAD20",
+        "PlanDescription": "MEDNET GREEN AL ITIHAD DED 10% (MAX-25) COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MEITHAD20%C20",
+        "PlanDescription": "MEDNET AL ITIHAD DED 20% (MAX-25) COPAY 20% PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MEITHAD20M50",
+        "PlanDescription": "MEDNET GREEN AL ITIHAD DED 20% (MAX-50) L/R/OP 20% PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MEITHADXMAT 0",
+        "PlanDescription": "MEDNET AL ITIHAD COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-METHAD MAT10%",
+        "PlanDescription": "MEDNET AL ITIHAD MAT COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-METHADD50PH10",
+        "PlanDescription": "MEDNET AL ITIHAD DED 20% (MAX75AED) COPAY 0 PH10%",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "DMED AL SAGR",
+    "PolicyGroupDescription": "MEDNET - AL SAGR NATIONAL INSURANCE COMPANY",
+    "RateListCode": "MEDNET TPA",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS011",
+    "Plans": [
+      {
+        "PlanCode": "D-MED SAG D20%",
+        "PlanDescription": "MEDNET AL SAGR DED 20% (MAX-50)  COINS 10% PH NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MED SAGR C10%",
+        "PlanDescription": "MEDNET AL SAGR COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MEINSH  D20C",
+        "PlanDescription": "MEDNET GREEN IAL SAGR NAT INS  DED 20% COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MESAG  D20%C0",
+        "PlanDescription": "MEDNET AL SAGR DED 20% (MAX-50)  COPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MESAG D20% C0",
+        "PlanDescription": "MEDNET AL SAGR DED 20% (MAX-50)  COPAY NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MESAG D20%C0",
+        "PlanDescription": "MEDNET AL SAGR DED 20% (MAX-50)  COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MESAG D20%C10",
+        "PlanDescription": "MEDNET AL SAGR DED 20% (MAX-50)  COINS 10% PH 10%",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "DMED AMER",
+    "PolicyGroupDescription": "MEDNET - AMERICAN LIFE INSURANCE COMPANY -GOLD & SILVER PREM",
+    "RateListCode": "MEDNET TPA",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS013",
+    "Plans": [
+      {
+        "PlanCode": "D-M AMER",
+        "PlanDescription": "MEDNET AMER GOLD & SILVR PREMIUM DED NIL COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-M AMER 50",
+        "PlanDescription": "MEDNET AMERICAN SILVER   DED 20%M75 OP 0 L/R 20%M100 PH10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-M AMER20100",
+        "PlanDescription": "MEDNET AMER GOLD & SILVR PREMIUM DED 20%M100  COPAY 0 PH15%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-M AMERX",
+        "PlanDescription": "MEDNET ALICO GOLD & SILVR PREMIUM DED 20% M 50 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-M AMERX10%M",
+        "PlanDescription": "MEDNET ALICO GOLD COPAY 10% MAX 203",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-M AMERX100",
+        "PlanDescription": "MEDNET ALICO GOLD DED 20%MAX100 COPAY NIL PH 15%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-M AMERX20100",
+        "PlanDescription": "MEDNET ALICO GOLD & SILVR PREMIUM DED 20% M 100 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-M AMERX201P15",
+        "PlanDescription": "MEDNET ALICO GOLD & SILVR PREMIUM DED 20% M 100 CO NIL P 15%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-M AMERX2075",
+        "PlanDescription": "MEDNET ALICO GOLD & SILVR PREMIUM DED 20% M75 L/R 20% P 10%",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "DMED AMER-EM",
+    "PolicyGroupDescription": "MEDNET - AMERICAN LIFE INSURANCE COMPANY -EMERLD & SLK ROAD",
+    "RateListCode": "MEDNET-SR&EMR",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS013",
+    "Plans": [
+      {
+        "PlanCode": "D-M AME0",
+        "PlanDescription": "MEDNET AMER EMERALD DED 20%M50 COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-M AMERX EMER",
+        "PlanDescription": "MEDNET ALICO EMERALD AND SILK PREMIUM DED 20% M 50 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "DMED AMER-SC",
+    "PolicyGroupDescription": "MEDNET - AMERICAN LIFE INSURANCE COMPANY -SILVR CLSSIC&GREEN",
+    "RateListCode": "MEDNET TPA",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS013",
+    "Plans": [
+      {
+        "PlanCode": "D-M AMD20M50C10",
+        "PlanDescription": "MEDNET AMER SLVR CLASSIC  &GREEN DED 20% M50 COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-M AMER S10",
+        "PlanDescription": "MEDNET AMER SLVR CLASSIC  &GREEN  COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-M AMER SC",
+        "PlanDescription": "MEDNET AMER SLVR CLASSIC  &GREEN  DED NIL COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-M AMER SC 20",
+        "PlanDescription": "MEDNET AMER SLVR CLASSIC  &GREEN  DED 20%MAX 50 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-M AMER SC 2PH",
+        "PlanDescription": "MEDNET AMER SLVR CLASSIC  DED 20%MAX 50 COPAY 20% PH NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-M AMER SC7",
+        "PlanDescription": "MEDNET AMER SLVR CLASSIC DED 20%M75 OP20%/L/R 20%M100 PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-M AMER SC75",
+        "PlanDescription": "MEDNET AMER SLVR CLASSIC DED 20%M75 OP/L/R 20% PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-M AMERX SC",
+        "PlanDescription": "MEDNET ALICO SLVR CLASSIC  DED 20% M 50 OP/PH NIL L/R 20%",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "DMED AOIC",
+    "PolicyGroupDescription": "MEDNET - ARAB ORIENT INSURANCE CO.",
+    "RateListCode": "MEDNET TPA",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS008",
+    "Plans": [
+      {
+        "PlanCode": "D-ME AOIC D 2%",
+        "PlanDescription": "MEDNET ARAB ORIENT DED 20% (MAX-75) COPAY 10% PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-ME AOIC D 20%",
+        "PlanDescription": "MEDNET ARAB ORIENT DED 20% (MAX-75) COPAY 20% ON ALL SERVICE",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-ME AOIC D20%",
+        "PlanDescription": "MEDNET ARAB ORIENT DED 20%(MAX 50)  COPAY 0  PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-ME AOICD20%C0",
+        "PlanDescription": "MEDNET ARAB ORIENT DED 20%(MAX 50)  COPAY 0  PH NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MEAOI  C  10%",
+        "PlanDescription": "MEDNET ARAB ORIENT DED 20%(MAX 25)  COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MEAOI C   15%",
+        "PlanDescription": "MEDNET ARAB ORIENT  COPAY 15%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MEAOI C10%25",
+        "PlanDescription": "MEDNET ARAB ORIENT  DED 10% M 25 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MEAOI C10%75",
+        "PlanDescription": "MEDNET ARAB ORIENT  DED 10 M 75 CO 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MEAOI D100C10",
+        "PlanDescription": "MEDNET ARAB ORIENT DED 100 COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MEAOI D100C15",
+        "PlanDescription": "MEDNET ARAB ORIENT DED 100 COPAY 15%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MEAOIC   D%",
+        "PlanDescription": "MEDNET ARAB ORIENT DED 20% (MAX-75) COPAY 10% PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MEAOIC   D20%",
+        "PlanDescription": "MEDNET ARAB ORIENT DED 20% (MAX-50) COPAY 10% PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MEAOIC  D 20%",
+        "PlanDescription": "MEDNET ARAB ORIENT DED 20% (MAX-75) COPAY 25% ON ALL SERVICE",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MEAOIC  D20%",
+        "PlanDescription": "MEDNET ARAB ORIENT DED 20% (MAX-50) COPAY 20% PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MEAOIC  D20%D",
+        "PlanDescription": "MEDNET ARAB ORIENT DED 20% (MAX-50) L/R 20% OP NIL  PH 150%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MEAOIC D  20%",
+        "PlanDescription": "MEDNET ARAB ORIENT DED 20% COPAY 20% PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MEAOIC D  50",
+        "PlanDescription": "MEDNET ARAB ORIENT DED 50 COPAY 20% (MAX50AED) PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MEAOIC D 20 %",
+        "PlanDescription": "MEDNET ARAB ORIENT DED 20% (MAX 35 AED) COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MEAOIC D 20%",
+        "PlanDescription": "MEDNET ARAB ORIENT DED 20% COPAY 10% DN 20% PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MEAOIC D 20%C",
+        "PlanDescription": "MEDNET ARAB ORIENT DED 20% (MAX-50) COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MEAOIC D10%",
+        "PlanDescription": "MEDNET ARAB ORIENT DED 10% (MAX 50 AED) COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MEAOIC D10%C0",
+        "PlanDescription": "MEDNET ARAB ORIENT DED 10% (MAX 50 AED) COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MEAOIC D20 %",
+        "PlanDescription": "MEDNET ARAB ORIENT DED 20% ( MAX-60 )  COPAY 15%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MEAOIC D20% C",
+        "PlanDescription": "MEDNET ARAB ORIENT DED 20% (MAX-60) COPAY 15% PHYSIO 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MEAOIC D20%C",
+        "PlanDescription": "MEDNET ARAB ORIENT DED 20% (MAX-60) COPAY 10% DN 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MEAOIC D20%C0",
+        "PlanDescription": "MEDNET ARAB ORIENT DED 20% COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MEAOIC D2060",
+        "PlanDescription": "MEDNET ARAB ORIENT DED 20%M60 OP NIL LAB/RAD/PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MEAOIC D50 C0",
+        "PlanDescription": "MEDNET ARAB ORIENT DED 50 COPAY NIL PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MEAOIC D50C0",
+        "PlanDescription": "MEDNET ARAB ORIENT DED 50 COPAY 0",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MEAOIC D50C10",
+        "PlanDescription": "MEDNET ARAB ORIENT DED 50 COPAY 10% PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MEAOIC D50C20",
+        "PlanDescription": "MEDNET ARAB ORIENT DED 50 COPAY 20% PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MEAOIC D75 C0",
+        "PlanDescription": "MEDNET ARAB ORIENT DED 75 COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MEAOIC D75C0",
+        "PlanDescription": "MEDNET ARAB ORIENT DED 75 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MEAOIC D75C15",
+        "PlanDescription": "MEDNET ARAB ORIENT DED 75 COPAY 15%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MEAOIC D75PH1",
+        "PlanDescription": "MEDNET ARAB ORIENT DED 75 OP NIL LAB/RAD/PH 15%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MEAOIC DEN20%",
+        "PlanDescription": "MEDNET ARAB ORIENT DENTAL 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MEAOIC MAT10%",
+        "PlanDescription": "MEDNET ORIENTAL INS DED 10% (MAX 25) COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MEAOIC20%M30",
+        "PlanDescription": "MEDNET ARAB ORIENT DED 20%(MAX 30)  COPAY 10% PH NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MED  AO 20",
+        "PlanDescription": "MEDNET GREEN ARAB ORIENT DED 20%M50   COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MED  AO 2D0",
+        "PlanDescription": "MEDNET GREEN ARAB ORIENT DED 20%M50   COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MED  AO 5020",
+        "PlanDescription": "MEDNET GREEN ARAB ORIENT DED 50AED  COPAY NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MED  AOI",
+        "PlanDescription": "MEDNET ARAB ORIENT DED 20%(MAX 50)  COPAY 10% PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MED AOI  C10%",
+        "PlanDescription": "MEDNET ARAB ORIENT DED 20%(MAX 25)  COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MED AOI C10%",
+        "PlanDescription": "MEDNET ARAB ORIENT  COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MED AOI D100",
+        "PlanDescription": "MEDNET ARAB ORIENT DED 100 COPAY 15% PH 15%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MED AOIC  D",
+        "PlanDescription": "MEDNET ARAB ORIENT DED 20% OP NIL LAB/RAD/ PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MED AOIC D0C0",
+        "PlanDescription": "MEDNET ARAB ORIENT DED 0 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MED AOIC D10%",
+        "PlanDescription": "MEDNET ARAB ORIENT MB PLAN CO PAY 10% ON ALL SERVICES",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MED AOIC D20%",
+        "PlanDescription": "MEDNET ARAB ORIENT DED 20% (MAX50) L/R10% COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MED AOIC D206",
+        "PlanDescription": "MEDNET ARAB ORIENT DED 20%M60 OP/LAB/RAD/PH 15%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MED AOICD10%C",
+        "PlanDescription": "MEDNET ARAB ORIENT DED 10% COPAY 10% ph 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MEDAOIC D20%X",
+        "PlanDescription": "MEDNET ARAB ORIENT DED 20% COPAY 10% PH30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MEOIC D20%C10",
+        "PlanDescription": "MEDNET ARAB ORIENT DED 20% COPAY 10% PH20%",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "DMED AOIC - EM",
+    "PolicyGroupDescription": "MEDNET - ARAB ORIENT INSURANCE CO. - EMERALD",
+    "RateListCode": "MEDNET-SR&EMR",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS008",
+    "Plans": [
+      {
+        "PlanCode": "D-MEAOI0P10",
+        "PlanDescription": "MEDNEt EMRLD ORIENT INS. DED 20%MAX 50 COPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MEAOI0P1075",
+        "PlanDescription": "MEDNEt EMRLD ORIENT INS. DED 20%MAX 75 COPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MEAOIC 2050X",
+        "PlanDescription": "MEDNEt EMRLD ORIENT INS. DED 20%MAX 50 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MEAOIC 20P10",
+        "PlanDescription": "MEDNEt EMRLD ORIENT INS. DED 20%MAX 50 PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MED AOIC 10",
+        "PlanDescription": "MEDNET ARAB ORIENT INS EMERALD DED 10% COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MED AOIC 20%5",
+        "PlanDescription": "MEDNET ARAB ORIENT INS EMERALD DED 20% 50 COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MED AOIC 2050",
+        "PlanDescription": "MEDNEt EMRLD ORIENT INS. DED 20%MAX 50 COPAY 20%",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "DMED AOIC - SR",
+    "PolicyGroupDescription": "MEDNET - ARAB ORIENT INSURANCE CO. - SILK ROAD (IP ONLY)",
+    "RateListCode": "MEDNET-SR&EMR",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS008",
+    "Plans": [
+      {
+        "PlanCode": "D-MEAOIC D0  C0",
+        "PlanDescription": "MEDNET ARAB ORIENT INS SILK ROAD DED NIL  COPAY NIL",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "DMED DNI&RC",
+    "PolicyGroupDescription": "MEDNET - DUBAI NATIONAL INS. & REINS. CO.",
+    "RateListCode": "MEDNET TPA",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS007",
+    "Plans": [
+      {
+        "PlanCode": "D-MED DIR C10%",
+        "PlanDescription": "MEDNET DXB INS & REINS DED 10% COPAY 10% PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MED DIR C20%",
+        "PlanDescription": "MEDNET DXB INS & REINS DED 20%(MAX 50) COPAY 20% PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MED DIR D0 C0",
+        "PlanDescription": "MEDNET DXB INS & REINS SILK ROAD DED NIL  COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MED DIR D0C0",
+        "PlanDescription": "MEDNET DXB INS & REINS DED NIL  COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MED DIR D20%C",
+        "PlanDescription": "MEDNET DXB INS & REINS DED 20% COPAY 0 PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MEDDIRD20%0",
+        "PlanDescription": "MEDNET DXB INS & REINS DED 20%(MAX25AED) COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MEDDIRD20%C10",
+        "PlanDescription": "MEDNET DXB INS & REINS DED 20%(MAX25AED) COPAY 10% PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MEDIR D20%  C",
+        "PlanDescription": "MEDNET DXB INS & REINS DED 20%(MAX50) C0 PH20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MEDIR D20% C",
+        "PlanDescription": "MEDNET DXB INS & REINS DED 20%  LAB/RAD20% PH20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MEDIR D20% C0",
+        "PlanDescription": "MEDNET DXB INS & REINS DED 20% (MAX-100)COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MEDIR D20% C1",
+        "PlanDescription": "MEDNET DXB INS & REINS DED 20% (MAX-50)COPAY 10% PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MEDIR D20%C0",
+        "PlanDescription": "MEDNET DXB INS & REINS DED 20% (MAX-50)COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MEDIR D20%C10",
+        "PlanDescription": "MEDNET DXB INS & REINS DED 20% COPAY 10% PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MEDIR D20%C20",
+        "PlanDescription": "MEDNET DXB INS & REINS DED 20% COPAY 20% PH NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MEDIRD20%C10",
+        "PlanDescription": "MEDNET DXB INS & REINS DED 20% COPAY 10% PH 10%",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "DMED DNIRC- EM",
+    "PolicyGroupDescription": "MEDNET - DUBAI NATIONAL INS & REINS. - EMERALD",
+    "RateListCode": "MEDNET-SR&EMR",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS007",
+    "Plans": [
+      {
+        "PlanCode": "D-M DXN NAT10",
+        "PlanDescription": "MEDNET EMERALD  DUBAI NAT INS &RE DED 10% COPAY %",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-M DXN NAT20",
+        "PlanDescription": "MEDNET EMERALD  DUBAI NAT INS &RE DED 20% (MAX-50) COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MED DIR D50",
+        "PlanDescription": "MEDNET DXB INS & REINS EMERALD DED 50 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MED DIR D50X",
+        "PlanDescription": "MEDNET DXB INS & REINS EMERALD DED NIL COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MEDIR D2% C1",
+        "PlanDescription": "MEDNET EMER DXB INS & REINS DED 20% (MAX-50)COPAY 10% PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MEDIR DC1",
+        "PlanDescription": "MEDNET EMER DXB INS & REINS DED 20% (MAX-50)COPAY NIL",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "DMED DNIRC- SR",
+    "PolicyGroupDescription": "MEDNET - DUBAI NATIONAL INS & REINS. - SILK ROAD (IP ONLY)",
+    "RateListCode": "MEDNET-SR&EMR",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS007",
+    "Plans": [
+      {
+        "PlanCode": "D-MEDIR D0  C0",
+        "PlanDescription": "MEDNET DXB INS & REINS SILK ROAD DED NIL  COPAY NIL",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "DMED DUBAI - N1",
+    "PolicyGroupDescription": "MEDNET - DUBAI INSURANCE CO. - N1",
+    "RateListCode": "MEDNET TPA",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS005",
+    "Plans": [
+      {
+        "PlanCode": "D-M   DI D10150",
+        "PlanDescription": "MEDNET N1 DUBAI INS DED 10% (MAX-150 ) COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-M   DI D15",
+        "PlanDescription": "MEDNET N1 DUBAI INS COPAY  15%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-M   DI D15 15",
+        "PlanDescription": "MEDNET N1 DUBAI INS COPAY  15%MAX 150",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-M   DI D15150",
+        "PlanDescription": "MEDNET N1 DUBAI INS DED 15% (MAX-150 ) COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-M   DI D1515X",
+        "PlanDescription": "MEDNET N1 DUBAI INS DED 15% (MAX-150 ) L/R 10% OP/PH NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-M   DI D20%C7",
+        "PlanDescription": "MEDNET N1 DUBAI INS DED 20% (MAX-75 ) COPAY NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-M   DI D50C0",
+        "PlanDescription": "MEDNET N1 DUBAI INS DED 50 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-M   DI D75C0",
+        "PlanDescription": "MEDNET N1 DUBAI INS DED 75  COPAY NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-M N1  DI D0C0",
+        "PlanDescription": "MEDNET N1 DUBAI INS DED NIL COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-M N1  DI D100",
+        "PlanDescription": "MEDNET N1 DUBAI INS DED 100 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-M N1  DI D102",
+        "PlanDescription": "MEDNET N1 DUBAI INS DED 100 COPAY NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-N1  DI D0 C20",
+        "PlanDescription": "MEDNET N1 DUBAI INS DED 20% MAX 50 LAB / RAD 10% PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-N1  DI D20%C0",
+        "PlanDescription": "MEDNET N1 DUBAI INS DED 20% (MAX-50) COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-N1  DI D2C0",
+        "PlanDescription": "MEDNET N1 DUBAI INS DED 20% (MAX-100) COPAY NIL",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "DMED DUBAI - N2",
+    "PolicyGroupDescription": "MEDNET - DUBAI INSURANCE CO. - N2",
+    "RateListCode": "MEDNET TPA",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS005",
+    "Plans": [
+      {
+        "PlanCode": "D-M   DI 0",
+        "PlanDescription": "MEDNET EXC N2 DUBAI INS COPAY 20%M100 PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-M   DI 0 20",
+        "PlanDescription": "MEDNET EXC N2 DUBAI INS COPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-M   DI 2020",
+        "PlanDescription": "MEDNET EXC N2 DUBAI INS DED 20% (MAX-75) COPAY 20% PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-M   DI 2020 N",
+        "PlanDescription": "MEDNET EXC N2 DUBAI INS DED 20% (MAX-75) COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-M   DI D",
+        "PlanDescription": "MEDNET N2 DUBAI INS DED 20%  COPAY  20% PH20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-M   DI D0%M",
+        "PlanDescription": "MEDNET N2 DUBAI INS COPAY 20%MAX 100 PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-M   DI D1",
+        "PlanDescription": "MEDNET N2 DUBAI INS DED 15%M75 COPAY 15%M75",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-M   DI D10%C0",
+        "PlanDescription": "MEDNET N2 DUBAI INS DED 10% (MAX-50) COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-M   DI D1025",
+        "PlanDescription": "MEDNET N2 DUBAI INS DED 10% MAX 25 L/R 10% 25  CO NIL PH NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-M   DI D1575",
+        "PlanDescription": "MEDNET N2 DUBAI INS DED 15%M75 OP 15%M75 L/R/PH NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-M   DI D20",
+        "PlanDescription": "MEDNET N2 DUBAI INS DED 20% (MAX-75) COPAY 15%M100 PH15%M100",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-M   DI D20%",
+        "PlanDescription": "MEDNET N2 DUBAI INS DED 20%M100 COPAY  20% PH20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-M   DI D20%35",
+        "PlanDescription": "MEDNET N2 DUBAI INS DED 20% (MAX-35) COPAY NIL L/R 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-M   DI D20%3P",
+        "PlanDescription": "MEDNET N2 DUBAI INS DED 20% (MAX-35) COPAY NIL L/R /P20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-M   DI D20%M",
+        "PlanDescription": "MEDNET N2 DUBAI INS DED 20% MAX 100 COPAY 10% PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-M   DI D20%M1",
+        "PlanDescription": "MEDNET N2 DUBAI INS DED 20% M 100 COPAY NIL DN 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-M   DI D20%M2",
+        "PlanDescription": "MEDNET N2 DUBAI INS DED 20% MAX 25 OP NIL  PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-M   DI D20%MM",
+        "PlanDescription": "MEDNET N2 DUBAI INS DED 20% (MAX-25) COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-M   DI D2020",
+        "PlanDescription": "MEDNET N2 DUBAI INS DED 20% (MAX-75) COPAY 20% PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-M   DI D20C15",
+        "PlanDescription": "MEDNET N2 DUBAI INS DED 20% (MAX-75) COPAY 15%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-M   DI D25C0",
+        "PlanDescription": "MEDNET N2 DUBAI INS DED 25 COPAY NIL PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-M N2  DI D0%",
+        "PlanDescription": "MEDNET N2 DUBAI INS DED 20% (MAX-50) COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-M N2  DI D0C0",
+        "PlanDescription": "MEDNET N2 DUBAI INS DED NIL COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-M N2  DI D10%",
+        "PlanDescription": "MEDNET N2 DUBAI INS DED 10% OP NIL LAB/RAD 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-M N2  DI D20%",
+        "PlanDescription": "MEDNET N2 DUBAI INS DED 20% (MAX-50) COPAY 20% PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-N2  DI D20%C0",
+        "PlanDescription": "MEDNET N2 DUBAI INS DED 20% (MAX-50) COPAY NIL",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "DMED DUBAI - N3",
+    "PolicyGroupDescription": "MEDNET - DUBAI INSURANCE CO. - N3",
+    "RateListCode": "MEDNET TPA",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS005",
+    "Plans": [
+      {
+        "PlanCode": "D-M   DI D20  %",
+        "PlanDescription": "MEDNET N3 DUBAI INS DED 20% (MAX-50) COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-M   DI D20 L",
+        "PlanDescription": "MEDNET N3 DUBAI INS DED 20% (MAX-50) OP/PH NIL L/R 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-M   DI D20%50",
+        "PlanDescription": "MEDNET N3 DUBAI INS DED 20% (MAX-50) PH 10%(MAX 100)",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-M   DI D20%C1",
+        "PlanDescription": "MEDNET N3 DUBAI INS DED 20% M100 COPAY NIL PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-M   DI D2020X",
+        "PlanDescription": "MEDNET N3 DUBAI INS DED 20% (MAX-20AED)) COPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-M   DI D2025",
+        "PlanDescription": "MEDNET N3 DUBAI INS DED 20% (MAX-25) COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-M   DI D20253",
+        "PlanDescription": "MEDNET N3 DUBAI INS DED 20% (MAX-35) COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-M   DI D2050",
+        "PlanDescription": "MEDNET N3 DUBAI INS DED 20% (MAX-50) COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-M   DI D20C 1",
+        "PlanDescription": "MEDNET N3 DUBAI INS DED 20% (MAX-100) COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-M   DI D20M0",
+        "PlanDescription": "MEDNET N3 DUBAI INS DED 20% (MAX-100) COPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-M   DI D20M20",
+        "PlanDescription": "MEDNET N3 DUBAI INS DED 20% (MAX-20) COPAY LAB 20%M 20",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-M   DI D20M25",
+        "PlanDescription": "MEDNET N3 DUBAI INS DED 20% (MAX-25) COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-M   DI D20M50",
+        "PlanDescription": "MEDNET N3 DUBAI INS DED 20% (MAX-50) COPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-M   DI D20M75",
+        "PlanDescription": "MEDNET N3 DUBAI INS DED 20% M 75 COPAY NIL PH NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-M   DI D50AED",
+        "PlanDescription": "MEDNET N3 DUBAI INS DED 50AED COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-M  DI D10C10",
+        "PlanDescription": "MEDNET N3 DUBAI INS DED 20% COPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-M  DI D20M50",
+        "PlanDescription": "MEDNET N3 DUBAI INS DED 20% (MAX-50) CO NIL L+R +PH  20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-M N3  DI D0C0",
+        "PlanDescription": "MEDNET N3 DUBAI INS DED NIL COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-N3  DI D10C10",
+        "PlanDescription": "MEDNET N3 DUBAI INS DED 10% COPAY 10%",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "DMED DUBAI - N4",
+    "PolicyGroupDescription": "MEDNET - DUBAI INSURANCE CO. - N4",
+    "RateListCode": "MEDNET-SR&EMR",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS005",
+    "Plans": [
+      {
+        "PlanCode": "D M N4  DI D20",
+        "PlanDescription": "MEDNET N4 DUBAI INS DED 20% M50 OP 0 L/R/PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-M   DI C15%P0",
+        "PlanDescription": "MEDNET N4 DUBAI INS COPAY 15% PH NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-M   DI C20%P0",
+        "PlanDescription": "MEDNET N4 DUBAI INS COPAY 20% PH NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-M   DI D20%10",
+        "PlanDescription": "MEDNET N4 DUBAI INS DED 20% (MAX-50) COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-M   DI D20%DD",
+        "PlanDescription": "MEDNET N4 DUBAI INS DED 20% (MAX-50) COPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-M   DI D20%DS",
+        "PlanDescription": "MEDNET N4 DUBAI INS DED 20% (MAX-50) COPAY 20% PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-M   DI D20%P1",
+        "PlanDescription": "MEDNET N4 DUBAI INS DED 20% (MAX-50) COPAY 20% PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-M   DI D201",
+        "PlanDescription": "MEDNET N4 DUBAI INS DED 20% (MAX-35) COPAY 20% PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-M   DI D2D",
+        "PlanDescription": "MEDNET N4 DUBAI INS DED 20% (MAX-50) COPAY NIL PH 15%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-M   DI D2DP20",
+        "PlanDescription": "MEDNET N4 DUBAI INS DED 20% (MAX-50) COPAY NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-M   DID20%C20",
+        "PlanDescription": "MEDNET N4 DUBAI INS DED 20%) COPAY 20% PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-M N4  DI D2",
+        "PlanDescription": "MEDNET N4 DUBAI INS DED 20% (MAX-50) COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-M N4  DI D20",
+        "PlanDescription": "MEDNET N4 DUBAI INS DED 20% (MAX-30) COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-M N4  DI D20L",
+        "PlanDescription": "MEDNET N4 DUBAI INS DED 20% OP 20%  L/R/PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-M N4  DI D225",
+        "PlanDescription": "MEDNET N4 DUBAI INS DED 20% (MAX-25) COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-M N4  DI D25",
+        "PlanDescription": "MEDNET N4 DUBAI INS DED 25AED  COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-M N4  DI D25Z",
+        "PlanDescription": "MEDNET N4 DUBAI INS DED 20%MAX 25   COPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-M N4  DI D50",
+        "PlanDescription": "MEDNET N4 DUBAI INS DED 50AED  COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-M N4  DI D5S0",
+        "PlanDescription": "MEDNET N4 DUBAI INS DED 10% MAX 50AED  COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-M N4  DI DNIL",
+        "PlanDescription": "MEDNET N4 DUBAI INS DED NIL COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-M N4  DI5",
+        "PlanDescription": "MEDNET N4 DUBAI INS DED 20%M25 OP 20% LAB/RAD/PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-N4  DI D10 C0",
+        "PlanDescription": "MEDNET N4 DUBAI INS DED 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-N4  DI D10C10",
+        "PlanDescription": "MEDNET N4 DUBAI INS DED 10% COPAY 10%",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "DMED DUBAI INS",
+    "PolicyGroupDescription": "MEDNET - DUBAI INSURANCE CO.",
+    "RateListCode": "MEDNET TPA",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS005",
+    "Plans": [
+      {
+        "PlanCode": "D-M   DI D1 157",
+        "PlanDescription": "MEDNET  DUBAI INS COPAY 15%M75",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-M  D20%M50",
+        "PlanDescription": "MEDNET DUBAI INS DED 20% (MAX 50) COPAY NIL PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-M  D20%PH20%",
+        "PlanDescription": "MEDNET DUBAI INS DED 20% (MAX 100) COPAY 10% PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-M  DI D10%M50",
+        "PlanDescription": "MEDNET DUBAI INS DED 10% (MAX-50) COPAY NIL PH nil",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-M I D20%",
+        "PlanDescription": "MEDNET DUBAI INS DED 20% (MAX-50) COPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-M I D20%PH10%",
+        "PlanDescription": "MEDNET DUBAI INS DED 20% (MAX-50) COPAY NIL L/R/P 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-M I D20%PH20%",
+        "PlanDescription": "MEDNET DUBAI INS DED 20% (MAX-50) COPAY NIL PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-ME DIN D  20%",
+        "PlanDescription": "MEDNET DXB INS DED 20% (MAX-50)COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-ME DIN D20%C",
+        "PlanDescription": "MEDNET DXB INS DED 20% (MAX-100)COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-ME DIN D20%C0",
+        "PlanDescription": "MEDNET DXB INS DED 20% (MAX-50)COPAY NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-ME DIN D20%C1",
+        "PlanDescription": "MEDNET DXB INS DED 20% (MAX-50)COPAY 10% PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-ME DIN D20%C2",
+        "PlanDescription": "MEDNET DXB INS DED 20% (MAX-50)COPAY 20% PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MED  DIN D100",
+        "PlanDescription": "MEDNET DXB INS DED 20% (MAX-100) COPAY 10% L&R 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MED DIN C10%",
+        "PlanDescription": "MEDNET DXB INS COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MED DIN D0 C0",
+        "PlanDescription": "MEDNET DXB INS DED NIL COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MED DIN D20%",
+        "PlanDescription": "MEDNET DXB INS DED 20% (MAX-100)COPAY NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MED DXB D50C0",
+        "PlanDescription": "MEDNET DXB INS DED 50 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MEDIN C20%C10",
+        "PlanDescription": "MEDNET DXB INSD 20%(MAX75) C10% PHSIO 15%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MEDIN D   20%",
+        "PlanDescription": "MEDNET DXB INS DED 20% (MAX-25)COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MEDIN D20% C0",
+        "PlanDescription": "MEDNET DXB INS DED 20% (MAX-50)COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MEDIN D20%C0",
+        "PlanDescription": "MEDNET DXB INS DED 20% (MAX-75)COPAY NIL PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MEDIN D20%C20",
+        "PlanDescription": "MEDNET DXB INS DED 20% (MAX-50)COPAY 20% PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MEDIN D25%C10",
+        "PlanDescription": "MEDNET DXB INS DED 25% (MAX-50)COPAY 10% PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MEDIN D2C0",
+        "PlanDescription": "MEDNET DXB INS DED 20%M75 COPAY 15%M100 PH 15%M100",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "DMED FUTD - CN",
+    "PolicyGroupDescription": "MEDNET - FIDELITY UNITED INSURANCE COMPANY - GOLD",
+    "RateListCode": "MEDNET TPA",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS041",
+    "Plans": [
+      {
+        "PlanCode": "D-M   DI D2",
+        "PlanDescription": "MEDNET GOLD UINTED FEDELITY DED 20% (MAX-50) COPAY NIL",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "DMED FUTD - EM",
+    "PolicyGroupDescription": "MEDNET - FIDELITY UNITED INSURANCE COMPANY - EMERALD",
+    "RateListCode": "MEDNET-SR&EMR",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS041",
+    "Plans": [
+      {
+        "PlanCode": "D-M   DI D2 EM",
+        "PlanDescription": "MEDNET EMERLD UINTED FEDELITY DED 20% (MAX-50) COPAY 10%",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "DMED FUTD - SC",
+    "PolicyGroupDescription": "MEDNET - FIDELITY UNITED INSURANCE COMPANY - SILVER CLASSIC",
+    "RateListCode": "MEDNET TPA",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS041",
+    "Plans": [
+      {
+        "PlanCode": "D-M   DI D2 SC",
+        "PlanDescription": "MEDNET SILVR CLAS UNITED FEDELITY DED 20% (MAX-50) COPAY 10%",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "DMED FUTD - SR",
+    "PolicyGroupDescription": "MEDNET - FIDELITY UNITED INSURANCE COMPANY - SILK ROAD",
+    "RateListCode": "MEDNET-SR&EMR",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS041",
+    "Plans": [
+      {
+        "PlanCode": "D-M   DI D2 SP",
+        "PlanDescription": "MEDNET SILK ROAD UINTED FEDELITY DED 20% (MAX-50) COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-M   DI D2 SR",
+        "PlanDescription": "MEDNET SILK ROAD UINTED FEDELITY DED 20% (MAX-50) COPAY 10%",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "DMED GOP",
+    "PolicyGroupDescription": "MEDNET - GOP BASED PAPER CLAIMS",
+    "RateListCode": "MEDNET TPA",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "TPA036",
+    "Plans": [
+      {
+        "PlanCode": "D-MED GOP D0C0",
+        "PlanDescription": "MEDNET GOP BASES DED 0 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MEGOP D20%C0",
+        "PlanDescription": "MEDNET GOP DED 20%  COPAY NIL",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "DMED HAYAH EMR",
+    "PolicyGroupDescription": "MEDNET - HAYAH INSURANCE COMPANY P.J.S.C -EMERALD",
+    "RateListCode": "MEDNET-SR&EMR",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS009",
+    "Plans": [
+      {
+        "PlanCode": "D-MEA HAYAH GEM",
+        "PlanDescription": "MEDNET HAYAH INS EMERALD DED  20%M50  COPAY NIL",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "DMED HAYAH GOLD",
+    "PolicyGroupDescription": "MEDNET - HAYAH INSURANCE COMPANY P.J.S.C -GOLD",
+    "RateListCode": "MEDNET TPA",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS009",
+    "Plans": [
+      {
+        "PlanCode": "D-MEA HAYAH GOL",
+        "PlanDescription": "MEDNET HAYAH INS GOLD DED  20%M50  COPAY NIL",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "DMED HAYAH GRN",
+    "PolicyGroupDescription": "MEDNET - HAYAH INSURANCE COMPANY P.J.S.C -GREEN",
+    "RateListCode": "MEDNET TPA",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS009",
+    "Plans": [
+      {
+        "PlanCode": "D-MEA HAY D10",
+        "PlanDescription": "MEDNET HAYAH INS GREEN  DED 10% COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MEA HAYAH G",
+        "PlanDescription": "MEDNET HAYAH INS GREEN  DED  20%M50  COPAY NIL L/R 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MEA HAYAH GRN",
+        "PlanDescription": "MEDNET HAYAH INS GREEN  DED  20%M50  COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MEA HAYAHC",
+        "PlanDescription": "MEDNET HAYAH INS GREEN PREM DED  20%M50  COPAY 10%",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "DMED HAYAH SC",
+    "PolicyGroupDescription": "MEDNET - HAYAH INSURANCE COMPANY P.J.S.C -SILVER CLASSIC",
+    "RateListCode": "MEDNET TPA",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS009",
+    "Plans": [
+      {
+        "PlanCode": "D-MEA D20",
+        "PlanDescription": "MEDNET HAYAH INS SILVER CLASSIC  DED  20%M50  COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MEA D20 10",
+        "PlanDescription": "MEDNET HAYAH INS SILVER CLASSIC   COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MEA HAYAH SC",
+        "PlanDescription": "MEDNET HAYAH INS SILVER CLASSIC  DED  20%M50  COPAY NIL",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "DMED HAYAH SP",
+    "PolicyGroupDescription": "MEDNET - HAYAH INSURANCE COMPANY P.J.S.C -SILVER PREMIUM",
+    "RateListCode": "MEDNET TPA",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS009",
+    "Plans": [
+      {
+        "PlanCode": "D-MEA HAYAH",
+        "PlanDescription": "MEDNET HAYAH INS SILVER PREM DED  20%M50  COPAY NIL",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "DMED HAYAH SR",
+    "PolicyGroupDescription": "MEDNET - HAYAH INSURANCE COMPANY P.J.S.C -SILKROAD",
+    "RateListCode": "MEDNET-SR&EMR",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS009",
+    "Plans": [
+      {
+        "PlanCode": "D-MEA HAYAH SR",
+        "PlanDescription": "MEDNET HAYAH INS SILK ROAD DED  20%M50  COPAY NIL",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "DMED INS HOUSE",
+    "PolicyGroupDescription": "MEDNET - INSURANCE HOUSE - SILK ROAD /EMRALD",
+    "RateListCode": "MEDNET-SR&EMR",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS034",
+    "Plans": [
+      {
+        "PlanCode": "D-MEINS D25 C0",
+        "PlanDescription": "MEDNET FUJAIRAH NATIONAL DED 25 COPAY NIL PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MEINSH  D10%",
+        "PlanDescription": "MEDNET INSURANCE HOUSE DED10%M25  COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MEINSH  D20",
+        "PlanDescription": "MEDNET EMERLD/SR  INSURANCE HOUSE DED 20%MAX 50 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MEINSH  D25C0",
+        "PlanDescription": "MEDNET INSURANCE HOUSE DED 25  COPAY 0  PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MEINSH  D5C0",
+        "PlanDescription": "MEDNET GREEN INSURANCE HOUSE DED 20%MAX 50 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MEINSH D 2050",
+        "PlanDescription": "MEDNET INSURANCE HOUSE DED20%M50  COPAY NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MED INSH  D0",
+        "PlanDescription": "MEDNET INSURANCE HOUSE DED 20%MAX 50  COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MED INSH  D50",
+        "PlanDescription": "MEDNET INSURANCE HOUSE DED 50  COPAY NIL",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "DMED INS SILV",
+    "PolicyGroupDescription": "MEDNET - INSURANCE HOUSE - SILVER CLASSIC & GREEN",
+    "RateListCode": "MEDNET TPA",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS034",
+    "Plans": [
+      {
+        "PlanCode": "D-MEINSH  D20%",
+        "PlanDescription": "MEDNET INSURANCE HOUSE SILVR CLASS DED20%M50  COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MEINSHD205010",
+        "PlanDescription": "MEDNET INSURANCE HOUSE SILVR CLASS DED20%M50  CO 10% PH 20%",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "DMED JORDAN EM",
+    "PolicyGroupDescription": "MEDNET - JORDAN INS. CO. LTD.EMERALD",
+    "RateListCode": "MEDNET-SR&EMR",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS082",
+    "Plans": [
+      {
+        "PlanCode": "D-MED D20%C20",
+        "PlanDescription": "MEDNET JORDAN INS DED 20% CO 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MED J I D10",
+        "PlanDescription": "MEDNET EMERALD JORDAN INS  DED 20%MAX 50 COPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MED J INS D10",
+        "PlanDescription": "MEDNET EMERALD JORDAN INS  DED 20% 50 CO 10%",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "DMED JORDAN ICL",
+    "PolicyGroupDescription": "MEDNET - JORDAN INS. CO. LTD.",
+    "RateListCode": "MEDNET TPA",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS082",
+    "Plans": [
+      {
+        "PlanCode": "D-MED JOR C10%",
+        "PlanDescription": "MEDNET JORDAN INS COPAY 10% ON ALL SERVICES MB PLAN",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MEJOR D20%C0",
+        "PlanDescription": "MEDNET JORDAN INS DED 20% (MAX-50) COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MEJOR D20%C10",
+        "PlanDescription": "MEDNET JORDAN INS DED 20% (MAX-50) COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MEJOR D20%C20",
+        "PlanDescription": "MEDNET JORDAN INS DED 20% CO 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MEJOR DED50AE",
+        "PlanDescription": "MEDNET JORDAN INS DED MAX-50 PH30%",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "DMED MEDGULF",
+    "PolicyGroupDescription": "MEDNET - MEDGULF - THE MEDITERRANEAN & GULF INSURANCE & REIN",
+    "RateListCode": "MEDNET TPA",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS134",
+    "Plans": [
+      {
+        "PlanCode": "D-ME MED CO NIL",
+        "PlanDescription": "MEDNET MEDGULF COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-ME MED D0 C0",
+        "PlanDescription": "MEDNET MEDGULF DED 50  COPAY 0  PH 0",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-ME MED D2%20",
+        "PlanDescription": "MEDNET MEDGULF DED20%(MAX50)  COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-ME MED D20%20",
+        "PlanDescription": "MEDNET MEDGULF DED20%(MAX50)  COPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-ME MED D20%C0",
+        "PlanDescription": "MEDNET MEDGULF DED20%(MAX50)  COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-ME MED D50 C0",
+        "PlanDescription": "MEDNET MEDGULF DED 50  COPAY 0  PH 0",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-ME MED D50C0",
+        "PlanDescription": "MEDNET MEDGULF DED 50  COPAY 0  PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MED  MED D2",
+        "PlanDescription": "MEDNET MEDGULF DED20% COPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MEMED 0% C0",
+        "PlanDescription": "MEDNET MEDGULF DED20%(MAX50)  COPAY NIL PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MEMED C10%MAT",
+        "PlanDescription": "MEDNET MEDGULF MAT COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MEMED D20% 25",
+        "PlanDescription": "MEDNET MEDGULF DED20%(MAX25 ) COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MEMED D20% C0",
+        "PlanDescription": "MEDNET MEDGULF DED20%(MAX50)  COPAY NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MEMED D201020",
+        "PlanDescription": "MEDNET MEDGULF DED20%(MAX25 ) COPAY 10% PH 20%",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "DMED NOOR TAK",
+    "PolicyGroupDescription": "MEDNET - NOOR TAKAFUL INS. CO.- EMERALD (WATANIA TAKAFUL)",
+    "RateListCode": "MEDNET-SR&EMR",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS018",
+    "Plans": [
+      {
+        "PlanCode": "D-MED  NOOR D2C",
+        "PlanDescription": "MEDNET NOOR TAKAFUL EMERALD DED 20% (MAX-50)COPAY NIL",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "DMED ORIENTAL",
+    "PolicyGroupDescription": "MEDNET - THE ORIENTAL INSURANCE COMPANY LTD",
+    "RateListCode": "MEDNET TPA",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS128",
+    "Plans": [
+      {
+        "PlanCode": "D-MED ORI D0C0",
+        "PlanDescription": "MEDNET ORIENTAL INS DED 0  COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MED ORI D20",
+        "PlanDescription": "MEDNET ORIENTAL INS DED 20%  COPAY NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MED ORI D20%",
+        "PlanDescription": "MEDNET ARAB ORIENT DED 20% (MAX-50) COPAY 10% PH NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MED ORI D50C0",
+        "PlanDescription": "MEDNET ORIENTAL INS DED 50 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MED ORI MB10%",
+        "PlanDescription": "MEDNET ORIENTAL INS MB 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MEORI D20% C0",
+        "PlanDescription": "MEDNET ORIENTAL INS DED 20% (MAX 60AED) COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MEORI D20%C0",
+        "PlanDescription": "MEDNET ORIENTAL INS DED 20% (MAX-50) COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MEORI D20%C10",
+        "PlanDescription": "MEDNET ARAB ORIENT DED 20% (MAX-60) COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MEORI D20%C15",
+        "PlanDescription": "MEDNET ORIENTAL INS DED 20% (MAX 60AED) COPAY 15% PH 15%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MEORI MAT10%",
+        "PlanDescription": "MEDNET ORIENTAL INS DED 10% (MAX 25) COPAY NIL",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "DMED RAKNIC",
+    "PolicyGroupDescription": "MEDNET - RAK NATIONAL INS. CO.",
+    "RateListCode": "MEDNET TPA",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS014",
+    "Plans": [
+      {
+        "PlanCode": "D-MED RAK",
+        "PlanDescription": "MEDNET RAK NAT.INS GREEN DED 20%M50 OP 0 L/R/PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MED RAK D10",
+        "PlanDescription": "MEDNET RAK NAT.INS GREEN MB PLAN COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MED RAK D50",
+        "PlanDescription": "MEDNET RAK NAT.INS SILVER CLASSICDED 50AED COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MED RAK D50X",
+        "PlanDescription": "MEDNET RAK NAT.INS GOLD DED 50AED COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MED RAK DX",
+        "PlanDescription": "MEDNET RAK NAT.INS GOLD DED NIL COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MERAK D2",
+        "PlanDescription": "MEDNET RAK NAT.INS GRN DED 20 MAX 50 OP 0 L/R/PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MERAK D20M50",
+        "PlanDescription": "MEDNET RAK NAT.INS GRN DED 20 MAX 50 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "DMED RAKNIC-EMR",
+    "PolicyGroupDescription": "MEDNET - EMERALD -RAK NATIONAL INS. CO.",
+    "RateListCode": "MEDNET-SR&EMR",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS014",
+    "Plans": [
+      {
+        "PlanCode": "D-MED EMR 205",
+        "PlanDescription": "MEDNET EMRLD RAK INS. DED 20%MAX  50AED  COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MED EMR D",
+        "PlanDescription": "MEDNET EMRLD RAK INS. DED 50AED  COPAY NIL PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MED EMR DRAK",
+        "PlanDescription": "MEDNET EMRLD RAK INS. COPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MED EMR DRAKX",
+        "PlanDescription": "MEDNET EMRLD RAK INS. DED 10% L/R10%PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MEEMR DRAXKX",
+        "PlanDescription": "MEDNET EMRLD RAK INS. DED 10% L/R10%PH 10%",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "DMED RAKNIC-SR",
+    "PolicyGroupDescription": "MEDNET - SILKROAD -RAK NATIONAL INS. CO.",
+    "RateListCode": "MEDNET-SR&EMR",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS014",
+    "Plans": [
+      {
+        "PlanCode": "D-M SR D0C0",
+        "PlanDescription": "MEDNET SILKROAD RAK INS. DED NIL COPAY NIL",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "DMED SAL SR",
+    "PolicyGroupDescription": "MEDNET -ISLAMIC ARAB INS.(SALAMA) SILK ROAD",
+    "RateListCode": "MEDNET-SR&EMR",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS035",
+    "Plans": [
+      {
+        "PlanCode": "D-M  DED 20 DD",
+        "PlanDescription": "MEDNET ISLAMIC (SALAMA) SILK ROAD DED 20% MAX 50 COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-M  DED 20 MAX",
+        "PlanDescription": "MEDNET ISLAMIC (SALAMA) SILK ROAD DED 20% MAX 50 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-M SR D10C10",
+        "PlanDescription": "MEDNET ISLAMIC (SALAMA) SILK ROAD COPAY 10% (MB)",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-M SR DED 50",
+        "PlanDescription": "MEDNET ISLAMIC (SALAMA) SILK ROAD DED 50 COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-M SR DED20",
+        "PlanDescription": "MEDNET ISLAMIC (SALAMA) SILK ROAD DED 20% COPAY 20%",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "DMED SALAMA",
+    "PolicyGroupDescription": "MEDNET - ISLAMIC ARAB INS. CO. (SALAMA)",
+    "RateListCode": "MEDNET TPA",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS035",
+    "Plans": [
+      {
+        "PlanCode": "D-MED SAL C20%",
+        "PlanDescription": "MEDNET SALAMA DED 20%(MAX 30) COPAY 20% PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MED SAL D0C0",
+        "PlanDescription": "MEDNET SALAMA DED 0 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MED SAL D20%",
+        "PlanDescription": "MEDNET SALAMA DED 20% (MAX-75) COPAY 15%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MED SAL D25C0",
+        "PlanDescription": "MEDNET SALAMA DED 25 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MED SAL D30C0",
+        "PlanDescription": "MEDNET SALAMA DED 30 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MED SAL D50C0",
+        "PlanDescription": "MEDNET SALAMA DED 50 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MED SAL30",
+        "PlanDescription": "MEDNET SALAMA CO 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MEDISLAM D20%",
+        "PlanDescription": "MEDNET ISLAMIC DED 20% (MAX 30) COPAY 20%(MAX 10) PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MEISLAM  D20%",
+        "PlanDescription": "MEDNET ISLAMIC DED 20% (MAX 75) COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MEISLAM D 20%",
+        "PlanDescription": "MEDNET ISLAMIC DED 20% (MAX 50) COPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MEISLAM D20 %",
+        "PlanDescription": "MEDNET ISLAMIC DED 20% (MAX 75) COPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MEISLAM D50AE",
+        "PlanDescription": "MEDNET ISLAMIC DED 50 OP/LAB/RAD/PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MESAL D10% C0",
+        "PlanDescription": "MEDNET SALAMA DED 10% COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MESAL D10%C0",
+        "PlanDescription": "MEDNET SALAMA MB PLAN DED 10% (MAX-50)  COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MESAL D20%C0",
+        "PlanDescription": "MEDNET SALAMA DED 20% (MAX-50) COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MESAL D20%C10",
+        "PlanDescription": "MEDNET SALAMA DED 20% (MAX-50) COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MESAL D25 C0",
+        "PlanDescription": "MEDNET SALAMA DED 25 COPAY NIL PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MESAL D50C10%",
+        "PlanDescription": "MEDNET SALAMA DED 50 COPAY 10% PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MESAL D50C20%",
+        "PlanDescription": "MEDNET SALAMA DED 50 COPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MESLAM  D20%",
+        "PlanDescription": "MEDNET ISLAMIC DED 20% (MAX 100AED)  COPAY 20% PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MESLAM D 20%",
+        "PlanDescription": "MEDNET ISLAMIC DED 20% (MAX 30AED) COPAY 20%(MAX 10) PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MESLAM DED50",
+        "PlanDescription": "MEDNET ISLAMIC DED 20% COPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MESLAM GR0",
+        "PlanDescription": "MEDNET GREEN  ISLAMIC DED NIL  COPAY NIL PH 0 %",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MESLAM GRN",
+        "PlanDescription": "MEDNET GREEN  ISLAMIC DED NIL  COPAY NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "DMED TAK EMARAT",
+    "PolicyGroupDescription": "MEDNET - TAKAFUL EMARAT INS. CO.",
+    "RateListCode": "MEDNET TPA",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS022",
+    "Plans": [
+      {
+        "PlanCode": "D-MED TA",
+        "PlanDescription": "MEDNET SILVER PREM TAKAFUL EMARAT DED 20%M50 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MED TA D50",
+        "PlanDescription": "MEDNET SILVER PREM TAKAFUL EMARAT DED 50AED COPAY NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MED TA2050",
+        "PlanDescription": "MEDNET SILVER PREM TAKAFUL EMARAT DED 20%M50 PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MED TAK C10",
+        "PlanDescription": "MEDNET GREEN TAKAFUL EMARAT COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-META D20%",
+        "PlanDescription": "MEDNET GREEN TAKAFUL EMARAT DED 20% COPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-META D20%10%",
+        "PlanDescription": "MEDNET GREEN TAKAFUL EMARAT DED 20% (MAX-50)  COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-META D20%M50C",
+        "PlanDescription": "MEDNET GREEN TAKAFUL EMARAT DED 20% (MAX-50)  COPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-METAK D20%M50",
+        "PlanDescription": "MEDNET GREEN TAKAFUL EMARAT DED 20% (MAX-50)  COPAY NIL",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "DMED TOKIO",
+    "PolicyGroupDescription": "MEDNET - TOKIO MARINE & NICHIDO FIRE INS. CO. LTD.",
+    "RateListCode": "MEDNET TPA",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS084",
+    "Plans": [
+      {
+        "PlanCode": "D-MED OK D",
+        "PlanDescription": "MEDNET TOKIO MARINE DED 20% MAX (50) COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MED OK D20%C0",
+        "PlanDescription": "MEDNET TOKIO MARINE DED 20% MAX (50) COPAY 20% PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MED TOK D0",
+        "PlanDescription": "MEDNET TOKIO MARINE COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MED TOK D0C0",
+        "PlanDescription": "MEDNET TOKIO MARINE DED 0 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MED TOK D20",
+        "PlanDescription": "MEDNET TOKIO MARINE DED 20% MAX 25 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MED TOKD20%C0",
+        "PlanDescription": "MEDNET TOKIO MARINE DED 20% MAX (50) COPAY 20 PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-METOK D20% C0",
+        "PlanDescription": "MEDNET TOKIO MARINE DED 20% MAX (50) COPAY NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-METOK D20%C0",
+        "PlanDescription": "MEDNET TOKIO MARINE DED 20% MAX (50) COPAY NIL",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "DMED-EMR-AMN",
+    "PolicyGroupDescription": "MEDNET-DUBAI ISLAMIC INSURANCE & REINSURANCE(AMAN)- EMERALD",
+    "RateListCode": "MEDNET-SR&EMR",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS006",
+    "Plans": [
+      {
+        "PlanCode": "D-MED EMR C10%",
+        "PlanDescription": "MEDNET DUBAI ISLAMIC (AMAN)  EMERALD COPAY 10% (MB)",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "DMED-GREN-AMN",
+    "PolicyGroupDescription": "MEDNET-DUBAI ISLAMIC INSURANCE & REINSURANCE(AMAN)- GREEN",
+    "RateListCode": "MEDNET TPA",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS006",
+    "Plans": [
+      {
+        "PlanCode": "D-MED EMR D2025",
+        "PlanDescription": "MEDNET DUBAI ISLAMIC (AMAN) SILVER CLASSIC20%M25 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MED EMR D2050",
+        "PlanDescription": "MEDNET DUBAI ISLAMIC (AMAN)  EMERALD 20%M50 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MED EMR D205X",
+        "PlanDescription": "MEDNET DUBAI ISLAMIC (AMAN)  EMERALD 20%M50 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "DMED-METLIFE",
+    "PolicyGroupDescription": "MEDNET - METLIFE",
+    "RateListCode": "METLIFE ALICO",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS013",
+    "Plans": [
+      {
+        "PlanCode": "D-M ALIC 203",
+        "PlanDescription": "MEDNET-METLIFE DED 10%MAX 203 COPAY 10%M203",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-M ALIC 50",
+        "PlanDescription": "MEDNET-METLIFE DED 10%MAX  50 COPAY 20% PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-M ALICD20100",
+        "PlanDescription": "MEDNET-METLIFE DED15%M100 OP 15% LAB/RAD NIL PH 15%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-M ALICD20150",
+        "PlanDescription": "MEDNET-METLIFE DED 20%MAX 150 COPAY 20% PH NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-M ALICD75",
+        "PlanDescription": "MEDNET-METLIFE DED 20%  COPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-M ALICO 0 M",
+        "PlanDescription": "MEDNET-METLIFE DED 10% MAX  50 COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-M ALICO D0X",
+        "PlanDescription": "MEDNET-METLIFE DED NIL COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-M ALICO D10",
+        "PlanDescription": "MEDNET-METLIFE DED 10% COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-M ALICO D10 M",
+        "PlanDescription": "MEDNET-METLIFE DED 10% MAX  50 COPAY 0%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-M ALICO D10%M",
+        "PlanDescription": "MEDNET-METLIFE DED 10% MAX  25  COPAY 0%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-M ALICO D151",
+        "PlanDescription": "MEDNET-METLIFE COPAY 15%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-M ALICO D20",
+        "PlanDescription": "MEDNET-METLIFE DED 20% M 50 L/R 20% PH /OP -0%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-M ALICO D20%M",
+        "PlanDescription": "MEDNET-METLIFE DED 20%MAX 100 COPAY 20% PH 10%M100",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-M ALICO D25",
+        "PlanDescription": "MEDNET-METLIFE DED 20%MAX 25 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-M ALICO D30%",
+        "PlanDescription": "MEDNET-METLIFE COPAY 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-M ALICO D35",
+        "PlanDescription": "MEDNET-METLIFE DED 20%MAX 35AED  COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-M ALICO D5",
+        "PlanDescription": "MEDNET-METLIFE DED 20%MAX  100 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-M ALICO D5 50",
+        "PlanDescription": "MEDNET-METLIFE DED 10%MAX  50 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-M ALICO D5 PH",
+        "PlanDescription": "MEDNET-METLIFE DED 20%MAX  100 COPAY NIL PH 15%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-M ALICO D50",
+        "PlanDescription": "MEDNET-METLIFE DED 50 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-M ALICO D5201",
+        "PlanDescription": "MEDNET-METLIFE DED 20%MAX  100 COPAY 10% PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-M ALICO D55",
+        "PlanDescription": "MEDNET-METLIFE DED 20%MAX 55 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-M ALICO D75",
+        "PlanDescription": "MEDNET-METLIFE DED 20%MAX 75 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-M ALICO PH10%",
+        "PlanDescription": "MEDNET-METLIFE PH10% MAX100",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-M ALICOC20150",
+        "PlanDescription": "MEDNET-METLIFE COPAY 20% MAX 150 PH NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-M ALICOD",
+        "PlanDescription": "MEDNET-METLIFE DED 20% M 50 COPAY NIL PH 20%M150",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-M ALICOD 5%",
+        "PlanDescription": "MEDNET-METLIFE DED 20% M 50 COPAY NIL PH 5%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-M ALICOD 5% P",
+        "PlanDescription": "MEDNET-METLIFE DED 20% M 50 COPAY 5%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-M ALICOD NIL",
+        "PlanDescription": "MEDNET-METLIFE DED 20% M 50 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-M ALICOD00",
+        "PlanDescription": "MEDNET-METLIFE DED 20% M100 COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-M ALICOD00 20",
+        "PlanDescription": "MEDNET-METLIFE DED 20% M100 COPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-M ALICOD0100",
+        "PlanDescription": "MEDNET-METLIFE DED 10% M100 COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-M ALICOD20100",
+        "PlanDescription": "MEDNET-METLIFE DED 20% M100 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-M ALICOD2050",
+        "PlanDescription": "MEDNET-METLIFE DED 20% M 50 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-M ALICOD2075",
+        "PlanDescription": "MEDNET-METLIFE DED 20% M75 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "DMED-OMAN-",
+    "PolicyGroupDescription": "MEDNET - OMAN-SILVER PREMIUM",
+    "RateListCode": "MEDNET TPA",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS012",
+    "Plans": [
+      {
+        "PlanCode": "D-MED OMA75",
+        "PlanDescription": "MEDNET-OMAN SILVER CLASSIC DED 20% MAX 75 COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MED OMAN",
+        "PlanDescription": "MEDNET-OMAN SILVER PREMIUM DED 20% MAX 50 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MED OMAN 35",
+        "PlanDescription": "MEDNET-OMAN SILVER PREMIUM DED 20% MAX 35 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MED OMAN 50",
+        "PlanDescription": "MEDNET-OMAN SILVER PREMIUM DED 20%M50 COPAY NIL PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MED OMAN 75",
+        "PlanDescription": "MEDNET-OMAN SILVER CLASSIC DED 20% MAX 75 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MED OMAN D0",
+        "PlanDescription": "MEDNET-OMAN SILVER PREMIUM DED NIL COPAY 20% PH 15%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MED OMAN GOLD",
+        "PlanDescription": "MEDNET-OMAN SILVER PREMIUM / GOLD DED 20% MAX 50 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MED OMANX",
+        "PlanDescription": "MEDNET-OMAN SILVER PREMIUM DED 50 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MEOMAND15C15",
+        "PlanDescription": "MEDNET-OMAN SILVER PREMIUM DED 15% COPAY 15% PH 15%",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "DMED-OMAN-GRN",
+    "PolicyGroupDescription": "MEDNET - OMAN-GREEN",
+    "RateListCode": "MEDNET TPA",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS012",
+    "Plans": [
+      {
+        "PlanCode": "D-MED OM",
+        "PlanDescription": "MEDNET-OMAN GREEN DED NIL COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MED OM15%",
+        "PlanDescription": "MEDNET-OMAN GREEN COPAY 15%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MED OM2050P10",
+        "PlanDescription": "MEDNET-OMAN GREEN DED 20% 50 COPAY NIL PH 10%",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "DMEDADAMJEE INS",
+    "PolicyGroupDescription": "MEDNET - ADAMJEE INSURANCE CO.",
+    "RateListCode": "MEDNET TPA",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS047",
+    "Plans": [
+      {
+        "PlanCode": "D-MEADAM C0",
+        "PlanDescription": "MEDNET ADAMJEE INS SILVER PREM DED  20%M50  COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MEADAM C2040",
+        "PlanDescription": "MEDNET ADAMJEE INS GREEN  DED  20%M50  COPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MEADAM D  20%",
+        "PlanDescription": "MEDNET ADAMJEE INS SILK ROAD DED 20% MAX 50AED COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MEADAM D15C0",
+        "PlanDescription": "MEDNET ADAMJEE INS SILK ROAD DED 15 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MEADAM D20 C0",
+        "PlanDescription": "MEDNET ADAM GREEN COPAY 20% MAX50  COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MEADAM D2050",
+        "PlanDescription": "MEDNET ADAM GOLD DED 20% MAX 50 COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MEADAM D75AED",
+        "PlanDescription": "MEDNET ADAM STANDARD DED 20% 75AED COPAY 20% PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MEADAM X20 C0",
+        "PlanDescription": "MEDNET ADAM GREEN COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MED ADAM C10%",
+        "PlanDescription": "MEDNET ADAM GREEN COPAY 20% MAX50  CO 10% PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MED ADAM D20%",
+        "PlanDescription": "MEDNET ADAM STANDARD DED 20% COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MED ADAM D50",
+        "PlanDescription": "MEDNET ADAM STANDARD DED 50",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "DMEDAL AIN AHLI",
+    "PolicyGroupDescription": "MEDNET - AL AIN AHLIA",
+    "RateListCode": "MEDNET TPA",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS028",
+    "Plans": [
+      {
+        "PlanCode": "D-MEALAIN  D20%",
+        "PlanDescription": "MEDNET AL AIN AHLIA DED 20% (MAX 50AED)  COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MEALAIN D0C0",
+        "PlanDescription": "MEDNET AL AIN AHLIA DED 0 COPAY 0",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MEALAIN D20%",
+        "PlanDescription": "MEDNET AL AIN AHLIA DED 20% (MAX 100AED)  COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MEALAIN D50C0",
+        "PlanDescription": "MEDNET AL AIN AHLIA DED 50 COPAY 0",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "DMEDALK EMERALD",
+    "PolicyGroupDescription": "MEDNET - AL KHAZNA INSURANCE COMPANY - EMERALD & SILK ROAD",
+    "RateListCode": "MEDNET-SR&EMR",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS032",
+    "Plans": [
+      {
+        "PlanCode": "D-MED ALK  C20%",
+        "PlanDescription": "MEDNET AL KHAZNA SILK ROAD DED 20% COPAY 20%",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "DMEDAOIC - SILK",
+    "PolicyGroupDescription": "MEDNET - ARAB ORIENT INSURANCE CO. - SILKROAD",
+    "RateListCode": "MEDNET-SR&EMR",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS008",
+    "Plans": [
+      {
+        "PlanCode": "D-MED AOIC",
+        "PlanDescription": "MEDNEt SILKROAD ORIENT INS. DED 20%MAX 35 COPAY 15%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MED AOIC 20",
+        "PlanDescription": "MEDNEt EMRLD ORIENT INS. DED 20%MAX 50 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MED AOIC 2020",
+        "PlanDescription": "MEDNEt SILKROAD ORIENT INS. DED 20%MAX 50 COPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MED AOIC D10",
+        "PlanDescription": "MEDNET ARAB ORIENT INS SILK ROAD DED 10% COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MED AOIC D15",
+        "PlanDescription": "MEDNET ARAB ORIENT INS SILK ROAD DED 15% COPAY 15%",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "DMEDNET",
+    "PolicyGroupDescription": "MEDNET",
+    "RateListCode": "MEDNET TPA",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "TPA009",
+    "Plans": [
+      {
+        "PlanCode": "D-MED OMANXX",
+        "PlanDescription": "MEDNET-OMAN SILVER CLASSIC DED 20%MAX 75 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "DMEDNET NLGI",
+    "PolicyGroupDescription": "MEDNET - NATIONAL LIFE & GEN INS CO (NLGI)",
+    "RateListCode": "MEDNET TPA",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS044",
+    "Plans": [
+      {
+        "PlanCode": "D-MED NLGID",
+        "PlanDescription": "MEDNET NLGI   COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MED NLGID CO%",
+        "PlanDescription": "MEDNET NLGI   COPAY 10%M50",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MENLGID",
+        "PlanDescription": "MEDNET NLGI DED 20% M50  COPAY 10%  PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MENLGID 50",
+        "PlanDescription": "MEDNET NLGI DED 50",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MENLGID0",
+        "PlanDescription": "MEDNET NLGI DED 0  COPAY 0  PH 0",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MENLGID10%M50",
+        "PlanDescription": "MEDNET NLGI DED 10% M50  COPAY 0  PH 0",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MENLGID20%",
+        "PlanDescription": "MEDNET NLGI DED 20% M50 OP10% L/R 10%  PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MENLGID20%0",
+        "PlanDescription": "MEDNET NLGI DED 20% M50 OP 0% L/R 10%  PH 0%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MENLGID20%C20",
+        "PlanDescription": "MEDNET NLGI DED 20% M50  COPAY 20%  PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MENLGID20%M50",
+        "PlanDescription": "MEDNET NLGI DED 20% M50  COPAY 0  PH 0",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MENLGID2050",
+        "PlanDescription": "MEDNET NLGI DED 20% M50  COPAY NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "DMEDNET QIC",
+    "PolicyGroupDescription": "D-MEDNET  - QATAR INSURANCE COMPANY (QIC) - GREEN",
+    "RateListCode": "MEDNET TPA",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS019",
+    "Plans": [
+      {
+        "PlanCode": "D-ME QIC D  20%",
+        "PlanDescription": "MEDNET-  QATAR INS GREEN DED 20% (MAX-50)COPAY NIL",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "DMEDNET QIC-E",
+    "PolicyGroupDescription": "D-MEDNET  - QATAR INSURANCE COMPANY (QIC) - EMERALD",
+    "RateListCode": "MEDNET TPA",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS019",
+    "Plans": [
+      {
+        "PlanCode": "D-ME QIC D50",
+        "PlanDescription": "MEDNET-  QATAR INS EMERALD  DED 20% (MAX-50)COPAY NIL",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "DMEDNET WATANIA",
+    "PolicyGroupDescription": "MEDNET - NATIONAL TAKAFUL COMPANY (WATANIA)",
+    "RateListCode": "MEDNET TPA",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS079",
+    "Plans": [
+      {
+        "PlanCode": "D-MED WAT C10%",
+        "PlanDescription": "MEDNET WATANIA GREEN MB PLAN COPAY 10% ALL SERVICES",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MED WAT D0 C0",
+        "PlanDescription": "MEDNET WATANIA DED NIL COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MED WAT DN20%",
+        "PlanDescription": "MEDNET WATANIA GREEN DENTAL 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MEGOP D20% C0",
+        "PlanDescription": "MEDNET GOP DED 20%  COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MEWAT  D20%C0",
+        "PlanDescription": "MEDNET WATANIA DED 20%(MAX 50AED)  COPAY NIL PH10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MEWAT D20% C0",
+        "PlanDescription": "MEDNET WATANIA DED 20%(MAX 50AED)  COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MEWAT D20%C0",
+        "PlanDescription": "MEDNET WATANIA DED 20% COPAY NIL",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "DMEDNOOR TAKAFU",
+    "PolicyGroupDescription": "MEDNET - NOOR TAKAFUL INS. CO. ( (WATANIA TAKAFUL))",
+    "RateListCode": "MEDNET TPA",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS018",
+    "Plans": [
+      {
+        "PlanCode": "D-ME NOOR CO10%",
+        "PlanDescription": "MEDNET NOOR TAKAFUL INS MAT COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-ME NOOR D20%C",
+        "PlanDescription": "MEDNET NOOR TAKAFUL INS DED 20% (MAX-50)COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-ME NOOR D27C",
+        "PlanDescription": "MEDNET GREEN NOOR TAKAFUL INS DED 20%M75 COPAY 10%",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "DMEDSAL EMERALD",
+    "PolicyGroupDescription": "MEDNET -ISLAMIC ARAB INS.(SALAMA) - EMERALD",
+    "RateListCode": "MEDNET-SR&EMR",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS035",
+    "Plans": [
+      {
+        "PlanCode": "D-MED EMR DED50",
+        "PlanDescription": "MEDNET ISLAMIC (SALAMA) EMERALD DED 50 COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MEEMR D2%P10",
+        "PlanDescription": "MEDNET ISLAMIC (SALAMA) EMERALD 10% COPAY 10% PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MEEMR D20%50",
+        "PlanDescription": "MEDNET ISLAMIC (SALAMA) EMERALD 20%M50 COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MEEMR D20%P10",
+        "PlanDescription": "MEDNET ISLAMIC (SALAMA) EMERALD 20%M50 COPAY NIL PH 10%",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "DMEDSILC-ORIENT",
+    "PolicyGroupDescription": "MEDNET- ARB ORIENT SILVER CLASSIC/ GREEN",
+    "RateListCode": "MEDNET TPA",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS008",
+    "Plans": [
+      {
+        "PlanCode": "D-MEARB ORI -SC",
+        "PlanDescription": "MEDNET- ARAB ORIENT SIL CLASSIC DED 20%MAX 50 L/R 20% PH10%",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "DMEDTAK EMARAEM",
+    "PolicyGroupDescription": "MEDNET - TAKAFUL EMARAT INS. CO.-EMERALD",
+    "RateListCode": "MEDNET-SR&EMR",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS022",
+    "Plans": [
+      {
+        "PlanCode": "D-MED TAK D10",
+        "PlanDescription": "MEDNET EMERALD TAKAFUL EMARAT DED 10% L/R/PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MED TAK D2020",
+        "PlanDescription": "MEDNET EMERALD TAKAFUL EMARAT DED 20% (MAX-50)  COPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MED TAK D20X",
+        "PlanDescription": "MEDNET EMERALD TAKAFUL EMARAT DED 20% (MAX-50)  COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-METAK D20%MX",
+        "PlanDescription": "MEDNET EMERALD TAKAFUL EMARAT DED 20% (MAX-50)  COPAY NIL",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "DMEDUNB TA-EME",
+    "PolicyGroupDescription": "MEDNET - ORIENT UNB TAKAFUL-EMERALD",
+    "RateListCode": "MEDNET TPA",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS139",
+    "Plans": [
+      {
+        "PlanCode": "D-MED UNB",
+        "PlanDescription": "MEDNET ORIENT UNB EMERALD DED 20%(MAX 50AED) COPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MED UNB20%",
+        "PlanDescription": "MEDNET EMERALD ORIENT UNB DED 20%(MAX 50AED) COPAY 10%",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "DMEDUNB TA-GR",
+    "PolicyGroupDescription": "MEDNET - ORIENT UNB TAKAFUL-GREEN",
+    "RateListCode": "MEDNET TPA",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS139",
+    "Plans": [
+      {
+        "PlanCode": "D-MED UNC0",
+        "PlanDescription": "MEDNET ORIENT UNB GREEN  DED NIL COPAY NIL",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "DMEDUNB TA-SC",
+    "PolicyGroupDescription": "MEDNET - ORIENT UNB TAKAFUL-SILVER CLASSIC",
+    "RateListCode": "MEDNET TPA",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS139",
+    "Plans": [
+      {
+        "PlanCode": "D-MED UNC0 SC",
+        "PlanDescription": "MEDNET ORIENT UNB SILVR CLASSIC  DED NIL COPAY NIL",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "DMEDUNB TAKA-S",
+    "PolicyGroupDescription": "MEDNET - ORIENT UNB TAKAFUL-SILVER PREMIUM",
+    "RateListCode": "MEDNET TPA",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS139",
+    "Plans": [
+      {
+        "PlanCode": "D-MED UNC0 SP",
+        "PlanDescription": "MEDNET ORIENT UNB SILVR PREMIUM  DED NIL COPAY NIL",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "DMEDUNB TAKAFUL",
+    "PolicyGroupDescription": "MEDNET - ORIENT UNB TAKAFUL",
+    "RateListCode": "MEDNET TPA",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS139",
+    "Plans": [
+      {
+        "PlanCode": "D-MED UNB D0C0",
+        "PlanDescription": "MEDNET ORIENT UNB DED NIL COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MED UNB D20%",
+        "PlanDescription": "MEDNET ORIENT UNB DED 20%(MAX 50AED) COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MED UNB D50C0",
+        "PlanDescription": "MEDNET ORIENT UNB DED 50 COPAY 0",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MED UNBD20%",
+        "PlanDescription": "MEDNET ORIENT UNB DED 20%(MAX 50AED) COPAY 10% PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MENBD20%C10%",
+        "PlanDescription": "MEDNET ORIENT UNB DED 20% CO10% PH20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MEUNB D20%C0",
+        "PlanDescription": "MEDNET ORIENT UNB DED20% (MAX50AED) COINS NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MEUNB D20%C10",
+        "PlanDescription": "MEDNET ORIENT UNB DED 20%(MAX 50AED) COPAY 10% PH NIL DN 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MEUNB D20C10",
+        "PlanDescription": "MEDNET ORIENT UNB DED 20% COPAY 10% PH NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MEUNB D20L10%",
+        "PlanDescription": "MEDNET ORIENT UNB DED 20%(MAX 50AED) LAB/RAD 10% OP/PH NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MEUNB MAT10%",
+        "PlanDescription": "MEDNET ORIENT UNB  COPAY MAT 10%",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "MED - ARA-GRN",
+    "PolicyGroupDescription": "MEDNET - ARABIA INSURANCE COMPANY- GREEN",
+    "RateListCode": "MEDNET TPA",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS042",
+    "Plans": [
+      {
+        "PlanCode": "MED ARABI RNE",
+        "PlanDescription": "MEDNET GREEN ARABIA INSURANCE DED 0 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "MED - ARA-SC",
+    "PolicyGroupDescription": "MEDNET - ARABIA INSURANCE COMPANY- SILVER CLASSIC",
+    "RateListCode": "MEDNET TPA",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS042",
+    "Plans": [
+      {
+        "PlanCode": "MED ARABI SC",
+        "PlanDescription": "MEDNET SILVR CLASSIC ARABIA INSURANCE DED 0 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "MED - ARAB-EM",
+    "PolicyGroupDescription": "MEDNET - ARABIA INSURANCE COMPANY- EMERALD",
+    "RateListCode": "MEDNET-SR&EMR",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS042",
+    "Plans": [
+      {
+        "PlanCode": "MED ARABI E",
+        "PlanDescription": "MEDNET EMERALD ARABIA INSURANCE DED 20%M50 COPAY20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MED ARABI EM 20",
+        "PlanDescription": "MEDNET EMERALD ARABIA INSURANCE DED 20%50 AED L/R/P 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MED ARABI EME",
+        "PlanDescription": "MEDNET EMERALD ARABIA INSURANCE DED 0 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "MED - ARAB-SR",
+    "PolicyGroupDescription": "MEDNET - ARABIA INSURANCE COMPANY- SILK ROAD",
+    "RateListCode": "MEDNET-SR&EMR",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS042",
+    "Plans": [
+      {
+        "PlanCode": "MED ARABI SILK",
+        "PlanDescription": "MEDNET SILKROADARABIA INSURANCE DED 0 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "MED - ARABIA-G",
+    "PolicyGroupDescription": "MEDNET - ARABIA INSURANCE COMPANY- SILVER PREMIUM",
+    "RateListCode": "MEDNET TPA",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS042",
+    "Plans": [
+      {
+        "PlanCode": "MED ARABI SP",
+        "PlanDescription": "MEDNET SILVR PREMIUM ARABIA INSURANCE DED 0 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "MED - ARABIA-S",
+    "PolicyGroupDescription": "MEDNET - ARABIA INSURANCE COMPANY- GOLD",
+    "RateListCode": "MEDNET TPA",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS042",
+    "Plans": [
+      {
+        "PlanCode": "MED ARABI D0C0",
+        "PlanDescription": "MEDNET GOLD ARABIA INSURANCE DED 0 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "MED - ASCANA",
+    "PolicyGroupDescription": "MEDNET - ARABIAN SCANDINAVIAN INS. CO. (ASCANA)",
+    "RateListCode": "MEDNET TPA",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS016",
+    "Plans": [
+      {
+        "PlanCode": "MED ASCAN D50C0",
+        "PlanDescription": "MEDNET ARABIAN SCANDINAVIAN DED 50 COPAY 0",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MED ASCAN D75",
+        "PlanDescription": "MEDNET ARABIAN SCANDINAVIAN DED 75  COPAY 15%",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "MED - EKFC",
+    "PolicyGroupDescription": "MEDNET - EMIRATES FLIGHT CATERING (EKFC)",
+    "RateListCode": "MEDNET TPA",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "SP0062",
+    "Plans": [
+      {
+        "PlanCode": "MED EKFC D0C0",
+        "PlanDescription": "MEDNET EMIRATES FLIGHT DED 0 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MED EKFC D2080",
+        "PlanDescription": "MEDNET EMIRATES FLIGHT DED 20%M80 COPAY NIL PH 10%",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "MED - METHAQ",
+    "PolicyGroupDescription": "MEDNET - METHAQ TAKAFUL INSURANCE",
+    "RateListCode": "MEDNET TPA",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS037",
+    "Plans": [
+      {
+        "PlanCode": "MED METH D20%C0",
+        "PlanDescription": "MEDNET METHAQ DED20%(MAX50)  COPAY NIL",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "MED AD EMERALD",
+    "PolicyGroupDescription": "MEDNET - ADAMJEE INSURANCE CO. - EMERALD & SILK ROAD",
+    "RateListCode": "MEDNET-SR&EMR",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS047",
+    "Plans": [
+      {
+        "PlanCode": "MED ADAM D",
+        "PlanDescription": "MEDNET ADAMJEE INS EMERALD DED 20%M25AED COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MED ADAM D50P30",
+        "PlanDescription": "MEDNET ADAMJEE INS EMERALD DED20%M50 OP NIL L/R/PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MED ADAM DX",
+        "PlanDescription": "MEDNET ADAMJEE INS SILKROAD DED 10% COPAY 10%",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "MED ADAMJEE INS",
+    "PolicyGroupDescription": "MEDNET - ADAMJEE INSURANCE CO.",
+    "RateListCode": "MEDNET TPA",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS047",
+    "Plans": [
+      {
+        "PlanCode": "MED ADAM C10%",
+        "PlanDescription": "MEDNET ADAM GREEN COPAY 20% MAX50  CO 10% PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MED ADAM D  20%",
+        "PlanDescription": "MEDNET ADAMJEE INS SILK ROAD DED 20% MAX 50AED COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MED ADAM D15C0",
+        "PlanDescription": "MEDNET ADAMJEE INS SILK ROAD DED 15 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MED ADAM D20 C0",
+        "PlanDescription": "MEDNET ADAM GREEN COPAY 20% MAX50  COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MED ADAM D20%",
+        "PlanDescription": "MEDNET ADAM STANDARD DED 20% COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MED ADAM D2050",
+        "PlanDescription": "MEDNET ADAM GOLD DED 20% MAX 50 COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MED ADAM D50",
+        "PlanDescription": "MEDNET ADAM STANDARD DED 50",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MED ADAM D75AED",
+        "PlanDescription": "MEDNET ADAM STANDARD DED 20% 75AED COPAY 20% PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MED ADAM X20 C0",
+        "PlanDescription": "MEDNET ADAM GREEN COPAY 10%",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "MED AL AIN AHLI",
+    "PolicyGroupDescription": "MEDNET - AL AIN AHLIA",
+    "RateListCode": "MEDNET TPA",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS028",
+    "Plans": [
+      {
+        "PlanCode": "MED ALAIN  D20%",
+        "PlanDescription": "MEDNET AL AIN AHLIA DED 20% (MAX 50AED)  COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MED ALAIN D0C0",
+        "PlanDescription": "MEDNET AL AIN AHLIA DED 0 COPAY 0",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MED ALAIN D20%",
+        "PlanDescription": "MEDNET AL AIN AHLIA DED 20% (MAX 100AED)  COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MED ALAIN D50C0",
+        "PlanDescription": "MEDNET AL AIN AHLIA DED 50 COPAY 0",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "MED AL FUJ NIC",
+    "PolicyGroupDescription": "MEDNET - AL FUJAIRAH NATIONAL INS. CO",
+    "RateListCode": "MEDNET TPA",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS030",
+    "Plans": [
+      {
+        "PlanCode": "MED ALFUJ D35",
+        "PlanDescription": "MEDNET FUJAIRAH NATIONAL DED 35 COPAY 15AED PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MED ALFUJ D50C0",
+        "PlanDescription": "MEDNET FUJAIRAH NATIONAL DED 50 COPAY 0",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MED INS D50C10%",
+        "PlanDescription": "MEDNET FUJAIRAH NATIONAL DED 50 COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MED INS D5C10%",
+        "PlanDescription": "MEDNET SC FUJAIRAH NATIONAL DED 10% COPAY 10%",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "MED AL ITIHAD",
+    "PolicyGroupDescription": "MEDNET - AL ITIHAD AL WATANI INS. CO.",
+    "RateListCode": "MEDNET TPA",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS024",
+    "Plans": [
+      {
+        "PlanCode": "MED ITHAD C15%",
+        "PlanDescription": "MEDNET AL ITIHAD  COPAY 15%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MED ITHAD C20%",
+        "PlanDescription": "MEDNET AL ITIHAD  COPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MED ITHAD D 20%",
+        "PlanDescription": "MEDNET AL ITIHAD DED 20% (MAX-50) COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MED ITHAD D0",
+        "PlanDescription": "MEDNET AL ITIHAD DED NIL  COPAY 15%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MED ITHAD D0C10",
+        "PlanDescription": "MEDNET AL ITIHAD DED NIL  COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MED ITHAD D20%C",
+        "PlanDescription": "MEDNET AL ITIHAD DED 20% (MAX-50) COPAY 0",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MED ITHAD D50C0",
+        "PlanDescription": "MEDNET AL ITIHAD DED 50 COPAY 0",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MED ITHAD MAT 0",
+        "PlanDescription": "MEDNET AL ITIHAD MAT - NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MED ITHAD20%C20",
+        "PlanDescription": "MEDNET AL ITIHAD DED 20% (MAX-25) COPAY 20% PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MED ITHADXM100",
+        "PlanDescription": "MEDNET AL ITIHAD DED 10% COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MED ITHADXMAT 0",
+        "PlanDescription": "MEDNET AL ITIHAD COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MEDITHAD D50",
+        "PlanDescription": "MEDNET AL ITIHAD DED 50 COPAY 0 PH 15%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MEDITHAD D50X",
+        "PlanDescription": "MEDNET AL ITIHAD DED 50 COPAY 0 PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MEDITHAD MAT10%",
+        "PlanDescription": "MEDNET AL ITIHAD MAT COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MEDITHADD0PH10",
+        "PlanDescription": "MEDNET AL ITIHAD DED 0% PH10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MEDITHADD50PH10",
+        "PlanDescription": "MEDNET AL ITIHAD DED 20% (MAX75AED) COPAY 0 PH10%",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "MED AL SAGR",
+    "PolicyGroupDescription": "MEDNET - AL SAGR NATIONAL INSURANCE COMPANY",
+    "RateListCode": "MEDNET TPA",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS011",
+    "Plans": [
+      {
+        "PlanCode": "MED SAG  D20%C0",
+        "PlanDescription": "MEDNET AL SAGR DED 20% (MAX-50)  COPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MED SAG D20%",
+        "PlanDescription": "MEDNET AL SAGR DED 20% (MAX-50)  COINS 10% PH NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MED SAG D20% C0",
+        "PlanDescription": "MEDNET AL SAGR DED 20% (MAX-50)  COPAY NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MED SAG D20%C0",
+        "PlanDescription": "MEDNET AL SAGR DED 20% (MAX-50)  COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MED SAG D20%C10",
+        "PlanDescription": "MEDNET AL SAGR DED 20% (MAX-50)  COINS 10% PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MED SAGR C10%",
+        "PlanDescription": "MEDNET AL SAGR COPAY 10%",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "MED ALK EMERALD",
+    "PolicyGroupDescription": "MEDNET - AL KHAZNA INSURANCE COMPANY - EMERALD & SILK ROAD",
+    "RateListCode": "MEDNET-SR&EMR",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS032",
+    "Plans": [
+      {
+        "PlanCode": "MED ALK  C20%",
+        "PlanDescription": "MEDNET AL KHAZNA SILK ROAD DED 20% COPAY 20%",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "MED AMER",
+    "PolicyGroupDescription": "MEDNET - AMERICAN LIFE INSURANCE COMPANY -GOLD & SILVER PREM",
+    "RateListCode": "MEDNET TPA",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS013",
+    "Plans": [
+      {
+        "PlanCode": "D-M AMER DM50",
+        "PlanDescription": "MEDNET AMERICAN SILVER PREM  DED 20%M100 COPAY NIL PH15%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "M AMER",
+        "PlanDescription": "MEDNET AMER GOLD & SILVR PREMIUM DED NIL COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "M AMERX",
+        "PlanDescription": "MEDNET ALICO GOLD & SILVR PREMIUM DED 20% M 50 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "MED AMER-EM",
+    "PolicyGroupDescription": "MEDNET - AMERICAN LIFE INSURANCE COMPANY -EMERLD & SLK ROAD",
+    "RateListCode": "MEDNET-SR&EMR",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS013",
+    "Plans": [
+      {
+        "PlanCode": "M AMERX EMER",
+        "PlanDescription": "MEDNET ALICO EMERALD AND SILK PREMIUM DED 20% M 50 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "MED AMER-SC",
+    "PolicyGroupDescription": "MEDNET - AMERICAN LIFE INSURANCE COMPANY -SILVR CLSSIC&GREEN",
+    "RateListCode": "MEDNET TPA",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS013",
+    "Plans": [
+      {
+        "PlanCode": "D-M AMER D20M50",
+        "PlanDescription": "MEDNET AMER SLVR CLASSIC  &GREEN  DED 20% M50COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "M AMER S10",
+        "PlanDescription": "MEDNET AMER SLVR CLASSIC  &GREEN  COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "M AMER SC",
+        "PlanDescription": "MEDNET AMER SLVR CLASSIC  &GREEN  DED NIL COPAY NIL",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "MED AOIC",
+    "PolicyGroupDescription": "MEDNET - ARAB ORIENT INSURANCE CO.",
+    "RateListCode": "MEDNET TPA",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS008",
+    "Plans": [
+      {
+        "PlanCode": "MED  AO 50",
+        "PlanDescription": "MEDNET GREEN ARAB ORIENT DED 50AED OP/L 0 R 10% PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MED  AO 5020",
+        "PlanDescription": "MEDNET GREEN ARAB ORIENT DED 50AED  COPAY NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MED  AOI",
+        "PlanDescription": "MEDNET ARAB ORIENT DED 20%(MAX 50)  COPAY 10% PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MED  AOIC D 20%",
+        "PlanDescription": "MEDNET ARAB ORIENT DED 20% (MAX-75) COPAY 20% ON ALL SERVICE",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MED  AOIC D20%",
+        "PlanDescription": "MEDNET ARAB ORIENT DED 20%(MAX 50)  COPAY 0  PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MED  AOICD20%C0",
+        "PlanDescription": "MEDNET ARAB ORIENT DED 20%(MAX 50)  COPAY 0  PH NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MED AOI  C",
+        "PlanDescription": "MEDNET ARAB ORIENT DED 25AED  COPAY NIL PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MED AOI  C  10%",
+        "PlanDescription": "MEDNET ARAB ORIENT DED 20%(MAX 25)  COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MED AOI  C10%",
+        "PlanDescription": "MEDNET ARAB ORIENT DED 20%(MAX 25)  COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MED AOI C   15%",
+        "PlanDescription": "MEDNET ARAB ORIENT  COPAY 15%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MED AOI C10%",
+        "PlanDescription": "MEDNET ARAB ORIENT  COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MED AOI C10%75",
+        "PlanDescription": "MEDNET ARAB ORIENT  DED 10 M 75 CO 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MED AOI D100",
+        "PlanDescription": "MEDNET ARAB ORIENT DED 100 COPAY 15% PH 15%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MED AOI D100C10",
+        "PlanDescription": "MEDNET ARAB ORIENT DED 100 COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MED AOI D100C15",
+        "PlanDescription": "MEDNET ARAB ORIENT DED 100 COPAY 15%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MED AOIC   D20%",
+        "PlanDescription": "MEDNET ARAB ORIENT DED 20% (MAX-50) COPAY 10% PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MED AOIC  D",
+        "PlanDescription": "MEDNET ARAB ORIENT DED 20% OP NIL LAB/RAD/ PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MED AOIC  D 0%",
+        "PlanDescription": "MEDNET ARAB ORIENT DED 20% (MAX-75) COPAY 10% PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MED AOIC  D 20%",
+        "PlanDescription": "MEDNET ARAB ORIENT DED 20% (MAX-75) COPAY 25% ON ALL SERVICE",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MED AOIC  D20%",
+        "PlanDescription": "MEDNET ARAB ORIENT DED 20% (MAX-50) COPAY 20% PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MED AOIC  D20%D",
+        "PlanDescription": "MEDNET ARAB ORIENT DED 20% (MAX-50) L/R 20% OP NIL  PH 150%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MED AOIC D  20%",
+        "PlanDescription": "MEDNET ARAB ORIENT DED 20% COPAY 20% PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MED AOIC D  50",
+        "PlanDescription": "MEDNET ARAB ORIENT DED 50 COPAY 20% (MAX50AED) PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MED AOIC D 20 %",
+        "PlanDescription": "MEDNET ARAB ORIENT DED 20% (MAX 35 AED) COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MED AOIC D 20%",
+        "PlanDescription": "MEDNET ARAB ORIENT DED 20% COPAY 10% DN 20% PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MED AOIC D 20%C",
+        "PlanDescription": "MEDNET ARAB ORIENT DED 20% (MAX-50) COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MED AOIC D0C0",
+        "PlanDescription": "MEDNET ARAB ORIENT DED 0 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MED AOIC D10%",
+        "PlanDescription": "MEDNET ARAB ORIENT MB PLAN CO PAY 10% ON ALL SERVICES",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MED AOIC D10%C0",
+        "PlanDescription": "MEDNET ARAB ORIENT DED 10% (MAX 50 AED) COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MED AOIC D20 %",
+        "PlanDescription": "MEDNET ARAB ORIENT DED 20% ( MAX-60 )  COPAY 15%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MED AOIC D20%",
+        "PlanDescription": "MEDNET ARAB ORIENT DED 20% (MAX-60) PH 10% DN 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MED AOIC D20% C",
+        "PlanDescription": "MEDNET ARAB ORIENT DED 20% (MAX-60) COPAY 15% PHYSIO 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MED AOIC D20%C",
+        "PlanDescription": "MEDNET ARAB ORIENT DED 20% (MAX-60) COPAY 10% DN 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MED AOIC D20%C0",
+        "PlanDescription": "MEDNET ARAB ORIENT DED 20% COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MED AOIC D206",
+        "PlanDescription": "MEDNET ARAB ORIENT DED 20%M60 OP/LAB/RAD/PH 15%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MED AOIC D2060",
+        "PlanDescription": "MEDNET ARAB ORIENT DED 20%M60 OP NIL LAB/RAD/PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MED AOIC D50 C0",
+        "PlanDescription": "MEDNET ARAB ORIENT DED 50 COPAY NIL PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MED AOIC D50C0",
+        "PlanDescription": "MEDNET ARAB ORIENT DED 50 COPAY 0",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MED AOIC D50C10",
+        "PlanDescription": "MEDNET ARAB ORIENT DED 50 COPAY 10% PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MED AOIC D50C20",
+        "PlanDescription": "MEDNET ARAB ORIENT DED 50 COPAY 20% PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MED AOIC D75 C0",
+        "PlanDescription": "MEDNET ARAB ORIENT DED 75 COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MED AOIC D75C0",
+        "PlanDescription": "MEDNET ARAB ORIENT DED 75 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MED AOIC D75C15",
+        "PlanDescription": "MEDNET ARAB ORIENT DED 75 COPAY 15%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MED AOIC D75PH1",
+        "PlanDescription": "MEDNET ARAB ORIENT DED 75 OP NIL LAB/RAD/PH 15%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MED AOIC DEN20%",
+        "PlanDescription": "MEDNET ARAB ORIENT DENTAL 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MED AOIC MAT10%",
+        "PlanDescription": "MEDNET ORIENTAL INS DED 10% (MAX 25) COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MED AOIC20%M30",
+        "PlanDescription": "MEDNET ARAB ORIENT DED 20%(MAX 30)  COPAY 10% PH NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MED AOICD10%C",
+        "PlanDescription": "MEDNET ARAB ORIENT DED 10% COPAY 10% ph 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MEDAOIC D20%C10",
+        "PlanDescription": "MEDNET ARAB ORIENT DED 20% COPAY 10% PH20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MEDAOIC D20%X",
+        "PlanDescription": "MEDNET ARAB ORIENT DED 20% COPAY 10% PH30%",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "MED AOIC - EM",
+    "PolicyGroupDescription": "MEDNET - ARAB ORIENT INSURANCE CO. - EMERALD",
+    "RateListCode": "MEDNET-SR&EMR",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS008",
+    "Plans": [
+      {
+        "PlanCode": "MED AOIC 2050",
+        "PlanDescription": "MEDNEt EMRLD ORIENT INS. DED 20%MAX 50 COPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MED AOIC 2050X",
+        "PlanDescription": "MEDNEt EMRLD ORIENT INS. DED 20%MAX 50 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MED AOIC 20P10",
+        "PlanDescription": "MEDNEt EMRLD ORIENT INS. DED 20%MAX 50 PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MED AOIC D5 P",
+        "PlanDescription": "MEDNET EMERALD  ARAB ORIENT DED 50 COPAY NIL PH 30%",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "MED AOIC - SILK",
+    "PolicyGroupDescription": "MEDNET - ARAB ORIENT INSURANCE CO. - SILKROAD",
+    "RateListCode": "MEDNET-SR&EMR",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS008",
+    "Plans": [
+      {
+        "PlanCode": "MED AOIC 20",
+        "PlanDescription": "MEDNEt EMRLD ORIENT INS. DED 20%MAX 50 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MED AOIC 2020",
+        "PlanDescription": "MEDNEt SILKROAD ORIENT INS. DED 20%MAX 50 COPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MED AOIC D10",
+        "PlanDescription": "MEDNET ARAB ORIENT INS SILK ROAD DED 10% COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MED AOIC D15",
+        "PlanDescription": "MEDNET ARAB ORIENT INS SILK ROAD DED 15% COPAY 15%",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "MED AOIC - SR",
+    "PolicyGroupDescription": "MEDNET - ARAB ORIENT INSURANCE CO. - SILK ROAD (IP ONLY)",
+    "RateListCode": "MEDNET-SR&EMR",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS008",
+    "Plans": [
+      {
+        "PlanCode": "MED AOIC D0  C0",
+        "PlanDescription": "MEDNET ARAB ORIENT INS SILK ROAD DED NIL  COPAY NIL",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "MED DNI&RC",
+    "PolicyGroupDescription": "MEDNET - DUBAI NATIONAL INS. & REINS. CO.",
+    "RateListCode": "MEDNET TPA",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS007",
+    "Plans": [
+      {
+        "PlanCode": "MED DIR C10%",
+        "PlanDescription": "MEDNET DXB INS & REINS DED 10% COPAY 10% PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MED DIR C20%",
+        "PlanDescription": "MEDNET DXB INS & REINS DED 20%(MAX 50) COPAY 20% PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MED DIR D0 C0",
+        "PlanDescription": "MEDNET DXB INS & REINS SILK ROAD DED NIL  COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MED DIR D0C0",
+        "PlanDescription": "MEDNET DXB INS & REINS DED NIL  COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MED DIR D20%  C",
+        "PlanDescription": "MEDNET DXB INS & REINS DED 20%(MAX50) C0 PH20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MED DIR D20% C",
+        "PlanDescription": "MEDNET DXB INS & REINS DED 20%  LAB/RAD20% PH20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MED DIR D20% C0",
+        "PlanDescription": "MEDNET DXB INS & REINS DED 20% (MAX-100)COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MED DIR D20% C1",
+        "PlanDescription": "MEDNET DXB INS & REINS DED 20% (MAX-50)COPAY 10% PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MED DIR D20%C",
+        "PlanDescription": "MEDNET DXB INS & REINS DED 20% COPAY 0 PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MED DIR D20%C0",
+        "PlanDescription": "MEDNET DXB INS & REINS DED 20% (MAX-50)COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MED DIR D20%C10",
+        "PlanDescription": "MEDNET DXB INS & REINS DED 20% COPAY 10% PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MED DIR D20%C20",
+        "PlanDescription": "MEDNET DXB INS & REINS DED 20% COPAY 20% PH NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MED DIRD20%C10",
+        "PlanDescription": "MEDNET DXB INS & REINS DED 20% COPAY 10% PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MEDDIRD20%C00",
+        "PlanDescription": "MEDNET DXB INS & REINS DED 20%(MAX25AED) COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MEDDIRD20%C10",
+        "PlanDescription": "MEDNET DXB INS & REINS DED 20%(MAX25AED) COPAY 10% PH 10%",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "MED DNIRC- EM",
+    "PolicyGroupDescription": "MEDNET - DUBAI NATIONAL INS & REINS. - EMERALD",
+    "RateListCode": "MEDNET-SR&EMR",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS007",
+    "Plans": [
+      {
+        "PlanCode": "MED DIR D50",
+        "PlanDescription": "MEDNET DXB INS & REINS EMERALD DED 50 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MED DIR D50X",
+        "PlanDescription": "MEDNET DXB INS & REINS EMERALD DED NIL COPAY NIL",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "MED DNIRC- SR",
+    "PolicyGroupDescription": "MEDNET - DUBAI NATIONAL INS & REINS. - SILK ROAD (IP ONLY)",
+    "RateListCode": "MEDNET-SR&EMR",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS007",
+    "Plans": [
+      {
+        "PlanCode": "MED DIR D0  C0",
+        "PlanDescription": "MEDNET DXB INS & REINS SILK ROAD DED NIL  COPAY NIL",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "MED DUBAI - N1",
+    "PolicyGroupDescription": "MEDNET - DUBAI INSURANCE CO. - N1",
+    "RateListCode": "MEDNET TPA",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS005",
+    "Plans": [
+      {
+        "PlanCode": "M N1  DI D0C0",
+        "PlanDescription": "MEDNET N1 DUBAI INS DED NIL COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "M N1  DI D0C0 P",
+        "PlanDescription": "MEDNET N1 DUBAI INS DED NIL COPAY NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "M N1  DI D100",
+        "PlanDescription": "MEDNET N1 DUBAI INS DED 100 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "M N1  DI D10020",
+        "PlanDescription": "MEDNET N1 DUBAI INS DED 100 COPAY NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "M N1  DI D20%0",
+        "PlanDescription": "MEDNET N1 DUBAI INS DED 20% (MAX-25) COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "M N1  DI D20%C0",
+        "PlanDescription": "MEDNET N1 DUBAI INS DED 20% (MAX-50) COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "M N1  DI D20%C7",
+        "PlanDescription": "MEDNET N1 DUBAI INS DED 20% (MAX-75 ) COPAY NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "M N1  DI D50",
+        "PlanDescription": "MEDNET N1 DUBAI INS DED 75 COPAY NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "M N1  DI D50C0",
+        "PlanDescription": "MEDNET N1 DUBAI INS DED 50 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "M N1  DI D75C0",
+        "PlanDescription": "MEDNET N1 DUBAI INS DED 75  COPAY NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "MED DUBAI - N2",
+    "PolicyGroupDescription": "MEDNET - DUBAI INSURANCE CO. - N2",
+    "RateListCode": "MEDNET TPA",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS005",
+    "Plans": [
+      {
+        "PlanCode": "M   DI D",
+        "PlanDescription": "MEDNET N2 DUBAI INS DED 20%  COPAY  20% PH20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "M N2  DI D%MM",
+        "PlanDescription": "MEDNET N2 DUBAI INS DED 40AED COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "M N2  DI D0C0",
+        "PlanDescription": "MEDNET N2 DUBAI INS DED NIL COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "M N2  DI D10%",
+        "PlanDescription": "MEDNET N2 DUBAI INS DED 10% OP NIL LAB/RAD 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "M N2  DI D10%C0",
+        "PlanDescription": "MEDNET N2 DUBAI INS DED 10% (MAX-50) COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "M N2  DI D20",
+        "PlanDescription": "MEDNET N2 DUBAI INS DED 20% (MAX-50) COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "M N2  DI D20%",
+        "PlanDescription": "MEDNET N2 DUBAI INS DED 20% (MAX-50) COPAY 20% PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "M N2  DI D20%35",
+        "PlanDescription": "MEDNET N2 DUBAI INS DED 20% (MAX-35) COPAY NIL L/R 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "M N2  DI D20%C0",
+        "PlanDescription": "MEDNET N2 DUBAI INS DED 20% (MAX-50) COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "M N2  DI D20%M",
+        "PlanDescription": "MEDNET N2 DUBAI INS DED 20% MAX 100 COPAY 10% PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "M N2  DI D20%M1",
+        "PlanDescription": "MEDNET N2 DUBAI INS DED 20% M 100 COPAY NIL DN 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "M N2  DI D20%M2",
+        "PlanDescription": "MEDNET N2 DUBAI INS DED 20% MAX 25 OP NIL  PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "M N2  DI D20%MM",
+        "PlanDescription": "MEDNET N2 DUBAI INS DED 20% (MAX-25) COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "M N2  DI D20%PP",
+        "PlanDescription": "MEDNET N2 DUBAI INS DED 20% (MAX-35) COPAY NIL L/R/P  20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "M N2  DI D25C0",
+        "PlanDescription": "MEDNET N2 DUBAI INS DED 25 COPAY NIL PH 10%",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "MED DUBAI - N3",
+    "PolicyGroupDescription": "MEDNET - DUBAI INSURANCE CO. - N3",
+    "RateListCode": "MEDNET TPA",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS005",
+    "Plans": [
+      {
+        "PlanCode": "M N3  DI D0C0",
+        "PlanDescription": "MEDNET N3 DUBAI INS DED NIL COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "M N3  DI D10C10",
+        "PlanDescription": "MEDNET N3 DUBAI INS DED 10% COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "M N3  DI D2",
+        "PlanDescription": "MEDNET N3 DUBAI INS DED 20% (MAX-50) OP NIL L/R 20% PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "M N3  DI D20  %",
+        "PlanDescription": "MEDNET N3 DUBAI INS DED 20% (MAX-50) COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "M N3  DI D20%50",
+        "PlanDescription": "MEDNET N3 DUBAI INS DED 20% (MAX-50) PH 10%(MAX 100)",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "M N3  DI D20%C1",
+        "PlanDescription": "MEDNET N3 DUBAI INS DED 20% M100 COPAY NIL PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "M N3  DI D20%P1",
+        "PlanDescription": "MEDNET N3 DUBAI INS DED 20% (MAX-50) CO NIL  PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "M N3  DI D2025",
+        "PlanDescription": "MEDNET N3 DUBAI INS DED 20% (MAX-25) COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "M N3  DI D2050",
+        "PlanDescription": "MEDNET N3 DUBAI INS DED 20% (MAX-50) COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "M N3  DI D20M25",
+        "PlanDescription": "MEDNET N3 DUBAI INS DED 20% (MAX-25) COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "M N3  DI D20M50",
+        "PlanDescription": "MEDNET N3 DUBAI INS DED 20% (MAX-50) COPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "M N3  DI D20M75",
+        "PlanDescription": "MEDNET N3 DUBAI INS DED 20% M 75 COPAY NIL PH NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "M N3  DI D250",
+        "PlanDescription": "MEDNET N3 DUBAI INS DED 20% (MAX-50) COPAY NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "M N3  DI D2P1",
+        "PlanDescription": "MEDNET N3 DUBAI INS DED 20% (MAX-50) OP NIL  L/R/PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "M N3  DI D50",
+        "PlanDescription": "MEDNET N3 DUBAI INS DED 50AED COPAY NIL PH10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "M N3  DI D50AED",
+        "PlanDescription": "MEDNET N3 DUBAI INS DED 50AED COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "M N3 DI D10C10",
+        "PlanDescription": "MEDNET N3 DUBAI INS DED 20% COPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "M N3 DI D20M50",
+        "PlanDescription": "MEDNET N3 DUBAI INS DED 20% (MAX-50) CO NIL L+R +PH  20%",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "MED DUBAI - N4",
+    "PolicyGroupDescription": "MEDNET - DUBAI INSURANCE CO. - N4",
+    "RateListCode": "MEDNET-SR&EMR",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS005",
+    "Plans": [
+      {
+        "PlanCode": "M   DI D201",
+        "PlanDescription": "MEDNET N4 DUBAI INS DED 20% (MAX-35) COPAY 20% PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "M N4  DI D 20C",
+        "PlanDescription": "MEDNET N4 DUBAI INS DED 20% L/R/PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "M N4  DI D PH10",
+        "PlanDescription": "MEDNET N4 DUBAI INS DED 20% (MAX-25) OP 20% L/R/PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "M N4  DI D10C10",
+        "PlanDescription": "MEDNET N4 DUBAI INS DED 10% COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "M N4  DI D2",
+        "PlanDescription": "MEDNET N4 DUBAI INS DED 20% (MAX-50) COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "M N4  DI D20",
+        "PlanDescription": "MEDNET N4 DUBAI INS DED 20% M50 OP 0 L/R/PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "M N4  DI D20 AE",
+        "PlanDescription": "MEDNET N4 DUBAI INS DED 20AED  OP 0 LAB/RAD 10AED PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "M N4  DI D20%10",
+        "PlanDescription": "MEDNET N4 DUBAI INS DED 20% (MAX-50) COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "M N4  DI D20%DD",
+        "PlanDescription": "MEDNET N4 DUBAI INS DED 20% (MAX-50) COPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "M N4  DI D20%DS",
+        "PlanDescription": "MEDNET N4 DUBAI INS DED 20% (MAX-50) COPAY 20% PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "M N4  DI D20%P1",
+        "PlanDescription": "MEDNET N4 DUBAI INS DED 20% (MAX-50) COPAY 20% PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "M N4  DI D225",
+        "PlanDescription": "MEDNET N4 DUBAI INS DED 20% (MAX-25) COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "M N4  DI D25",
+        "PlanDescription": "MEDNET N4 DUBAI INS DED 25AED  COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "M N4  DI D30 AE",
+        "PlanDescription": "MEDNET N4 DUBAI INS DED 30AED  OP 0 LAB/RAD 10AED PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "M N4  DI D50",
+        "PlanDescription": "MEDNET N4 DUBAI INS DED 50AED  COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "M N4  DID20%C20",
+        "PlanDescription": "MEDNET N4 DUBAI INS DED 20%) COPAY 20% PH 20%",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "MED DUBAI INS",
+    "PolicyGroupDescription": "MEDNET - DUBAI INSURANCE CO.",
+    "RateListCode": "MEDNET TPA",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS005",
+    "Plans": [
+      {
+        "PlanCode": "M  DI D10%M50",
+        "PlanDescription": "MEDNET DUBAI INS DED 10% (MAX-50) COPAY NIL PH nil",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "M  DI D20%PH10%",
+        "PlanDescription": "MEDNET DUBAI INS DED 20% (MAX-50) COPAY NIL L/R/P 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "M  DI D20%PH20%",
+        "PlanDescription": "MEDNET DUBAI INS DED 20% (MAX-50) COPAY NIL PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "M DI D20%PH20%",
+        "PlanDescription": "MEDNET DUBAI INS DED 20% (MAX 100) COPAY 10% PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MED  DIN D  20%",
+        "PlanDescription": "MEDNET DXB INS DED 20% (MAX-50)COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MED  DIN D100",
+        "PlanDescription": "MEDNET DXB INS DED 20% (MAX-100) COPAY 10% L&R 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MED  DIN D20%C",
+        "PlanDescription": "MEDNET DXB INS DED 20% (MAX-100)COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MED  DIN D20%C0",
+        "PlanDescription": "MEDNET DXB INS DED 20% (MAX-50)COPAY NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MED  DIN D20%C1",
+        "PlanDescription": "MEDNET DXB INS DED 20% (MAX-50)COPAY 10% PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MED  DIN D20%C2",
+        "PlanDescription": "MEDNET DXB INS DED 20% (MAX-50)COPAY 20% PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MED DIN C10%",
+        "PlanDescription": "MEDNET DXB INS COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MED DIN C20%C10",
+        "PlanDescription": "MEDNET DXB INSD 20%(MAX75) C10% PHSIO 15%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MED DIN D   20%",
+        "PlanDescription": "MEDNET DXB INS DED 20% (MAX-25)COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MED DIN D0 C0",
+        "PlanDescription": "MEDNET DXB INS DED NIL COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MED DIN D20%",
+        "PlanDescription": "MEDNET DXB INS DED 20% (MAX-100)COPAY NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MED DIN D20% C0",
+        "PlanDescription": "MEDNET DXB INS DED 20% (MAX-50)COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MED DIN D20%C0",
+        "PlanDescription": "MEDNET DXB INS DED 20% (MAX-75)COPAY NIL PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MED DIN D20%C20",
+        "PlanDescription": "MEDNET DXB INS DED 20% (MAX-50)COPAY 20% PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MED DIN D25%C10",
+        "PlanDescription": "MEDNET DXB INS DED 25% (MAX-50)COPAY 10% PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MED DXB D50C0",
+        "PlanDescription": "MEDNET DXB INS DED 50 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "MED FUTD - CN",
+    "PolicyGroupDescription": "MEDNET - FIDELITY UNITED INSURANCE COMPANY - GOLD",
+    "RateListCode": "MEDNET TPA",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS149",
+    "Plans": [
+      {
+        "PlanCode": "M UNITED FE",
+        "PlanDescription": "MEDNET GOLD  UNITED FEDELITY  DED NIL COPAY NIL",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "MED FUTD - EM",
+    "PolicyGroupDescription": "MEDNET - FIDELITY UNITED INSURANCE COMPANY - EMERALD",
+    "RateListCode": "MEDNET-SR&EMR",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS149",
+    "Plans": [
+      {
+        "PlanCode": "M UNITED FEM",
+        "PlanDescription": "MEDNET EMERALD  UNITED FEDELITY  DED NIL COPAY NIL",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "MED FUTD - SC",
+    "PolicyGroupDescription": "MEDNET - FIDELITY UNITED INSURANCE COMPANY - SILVER CLASSIC",
+    "RateListCode": "MEDNET TPA",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS149",
+    "Plans": [
+      {
+        "PlanCode": "M UNITED FE CLA",
+        "PlanDescription": "MEDNET SILVER CLASSIC  UNITED FEDELITY  DED NIL COPAY NIL",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "MED FUTD - SP",
+    "PolicyGroupDescription": "MEDNET - FIDELITY UNITED INSURANCE COMPANY - SILVER PREMIUM",
+    "RateListCode": "MEDNET TPA",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS149",
+    "Plans": [
+      {
+        "PlanCode": "M UNITED FE SC",
+        "PlanDescription": "MEDNET SILVER PREMIUM  UNITED FEDELITY  DED NIL COPAY NIL",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "MED FUTD - SR",
+    "PolicyGroupDescription": "MEDNET - FIDELITY UNITED INSURANCE COMPANY - SILK ROAD",
+    "RateListCode": "MEDNET-SR&EMR",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS149",
+    "Plans": [
+      {
+        "PlanCode": "M UNITED FEA",
+        "PlanDescription": "MEDNET SILK ROAD  UNITED FEDELITY  DED NIL COPAY NIL",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "MED GOP",
+    "PolicyGroupDescription": "MEDNET - GOP BASED PAPER CLAIMS",
+    "RateListCode": "MEDNET TPA",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "TPA036",
+    "Plans": [
+      {
+        "PlanCode": "MED GOP D0C0",
+        "PlanDescription": "MEDNET GOP BASES DED 0 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MED GOP D20%C0",
+        "PlanDescription": "MEDNET GOP DED 20%  COPAY NIL",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "MED HAYAH EMER",
+    "PolicyGroupDescription": "MEDNET - AXA GREEN CRESCENT (HAYAH)-EMERALD",
+    "RateListCode": "MEDNET-SR&EMR",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS009",
+    "Plans": [
+      {
+        "PlanCode": "MED HAYAH EMRLD",
+        "PlanDescription": "MEDNET AXA CRESCENT (HAYAH) EMERALD DED NIL COPAY NIL",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "MED HAYAH GOLD",
+    "PolicyGroupDescription": "MEDNET - AXA GREEN CRESCENT (HAYAH)-GOLD",
+    "RateListCode": "MEDNET TPA",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS009",
+    "Plans": [
+      {
+        "PlanCode": "MED HAYA D0C0",
+        "PlanDescription": "MEDNET AXA CRESCENT (HAYAH) GOLD DED NIL COPAY NIL",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "MED HAYAH GREN",
+    "PolicyGroupDescription": "MEDNET - AXA GREEN CRESCENT (HAYAH)-GREEN",
+    "RateListCode": "MEDNET TPA",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS009",
+    "Plans": [
+      {
+        "PlanCode": "MED HAYAH E",
+        "PlanDescription": "MEDNET AXA CRESCENT (HAYAH) GREEN DED20%M50 COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MED HAYAH E C10",
+        "PlanDescription": "MEDNET AXA CRESCENT (HAYAH) GREEN COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MED HAYAH EEN",
+        "PlanDescription": "MEDNET AXA CRESCENT (HAYAH) GREEN DED20%M50 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MED HAYAH GREEN",
+        "PlanDescription": "MEDNET AXA CRESCENT (HAYAH) GREEN DED NIL COPAY NIL",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "MED HAYAH SC",
+    "PolicyGroupDescription": "MEDNET - AXA GREEN CRESCENT (HAYAH)-SILVR CLASSIC",
+    "RateListCode": "MEDNET TPA",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS009",
+    "Plans": [
+      {
+        "PlanCode": "MED HAYA SC",
+        "PlanDescription": "MEDNET AXA CRESCENT (HAYAH) SILVR CLASSIC DED NIL COPAY NIL",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "MED HAYAH SP",
+    "PolicyGroupDescription": "MEDNET - AXA GREEN CRESCENT (HAYAH)-SILVR PREMIUM",
+    "RateListCode": "MEDNET TPA",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS009",
+    "Plans": [
+      {
+        "PlanCode": "MED HAYA SP",
+        "PlanDescription": "MEDNET AXA CRESCENT (HAYAH) SILVR PREMIUM DED NIL COPAY NIL",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "MED HAYAH SR",
+    "PolicyGroupDescription": "MEDNET - AXA GREEN CRESCENT (HAYAH)-SILK ROAD",
+    "RateListCode": "MEDNET-SR&EMR",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS009",
+    "Plans": [
+      {
+        "PlanCode": "MED HAYAH SR",
+        "PlanDescription": "MEDNET AXA CRESCENT (HAYAH) SILK ROAD DED NIL COPAY NIL",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "MED INS HOUSE",
+    "PolicyGroupDescription": "MEDNET - INSURANCE HOUSE- GOLD",
+    "RateListCode": "MEDNET TPA",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS034",
+    "Plans": [
+      {
+        "PlanCode": "MED  INSH  D50",
+        "PlanDescription": "MEDNET INSURANCE HOUSE DED 50  COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MED INS D25 C0",
+        "PlanDescription": "MEDNET FUJAIRAH NATIONAL DED 25 COPAY NIL PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MED INS D25 C00",
+        "PlanDescription": "MEDNET FUJAIRAH NATIONAL DED 25 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MED INSH  D10%",
+        "PlanDescription": "MEDNET INSURANCE HOUSE DED 10%M25  COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MED INSH  D25C0",
+        "PlanDescription": "MEDNET INSURANCE HOUSE DED 25  COPAY 0  PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MEINSH D 2050",
+        "PlanDescription": "MEDNET INSURANCE HOUSE DED20%M50  COPAY NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "MED INS HOUSE-S",
+    "PolicyGroupDescription": "MEDNET - INSURANCE HOUSE- SILVER CLASSIC & GREEN",
+    "RateListCode": "MEDNET TPA",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS034",
+    "Plans": [
+      {
+        "PlanCode": "MED INSH  D0 GR",
+        "PlanDescription": "MEDNET GREEN INSURANCE HOUSE DED 20%MAX 50  COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MEINSH  D25C0",
+        "PlanDescription": "MEDNET INSURANCE HOUSE  COPAY 10%",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "MED INS SILK RO",
+    "PolicyGroupDescription": "MEDNET - INSURANCE HOUSE- SILKROAD AND EMERALD",
+    "RateListCode": "MEDNET-SR&EMR",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS034",
+    "Plans": [
+      {
+        "PlanCode": "MED INSH  SILK",
+        "PlanDescription": "MEDNET INSURANCE HOUSE SILKROD DED 10%M25  COPAY 10%",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "MED JORDAN CL",
+    "PolicyGroupDescription": "MEDNET - JORDAN INS. CO. LTD.- SILKROAD & EMERALD",
+    "RateListCode": "MEDNET-SR&EMR",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS082",
+    "Plans": [
+      {
+        "PlanCode": "MED JOR D%C10",
+        "PlanDescription": "MEDNET JORDAN INS DED 20% (MAX-50) COPAY 20%",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "MED JORDAN ICL",
+    "PolicyGroupDescription": "MEDNET - JORDAN INS. CO. LTD.",
+    "RateListCode": "MEDNET TPA",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS082",
+    "Plans": [
+      {
+        "PlanCode": "MED JOR C10%",
+        "PlanDescription": "MEDNET JORDAN INS COPAY 10% ON ALL SERVICES MB PLAN",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MED JOR D20%C0",
+        "PlanDescription": "MEDNET JORDAN INS DED 20% (MAX-50) COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MED JOR D20%C10",
+        "PlanDescription": "MEDNET JORDAN INS DED 20% (MAX-50) COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MED JOR DED50AE",
+        "PlanDescription": "MEDNET JORDAN INS DED MAX-50 PH30%",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "MED MEDGULF",
+    "PolicyGroupDescription": "MEDNET - MEDGULF - THE MEDITERRANEAN & GULF INSURANCE & REIN",
+    "RateListCode": "MEDNET TPA",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS134",
+    "Plans": [
+      {
+        "PlanCode": "MED  MED CO NIL",
+        "PlanDescription": "MEDNET MEDGULF COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MED  MED D0 C0",
+        "PlanDescription": "MEDNET MEDGULF DED 50  COPAY 0  PH 0",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MED  MED D2",
+        "PlanDescription": "MEDNET MEDGULF DED20% COPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MED  MED D20%C0",
+        "PlanDescription": "MEDNET MEDGULF DED20%(MAX50)  COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MED  MED D50 C0",
+        "PlanDescription": "MEDNET MEDGULF DED 50  COPAY 0  PH 0",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MED  MED D50C0",
+        "PlanDescription": "MEDNET MEDGULF DED 50  COPAY 0  PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MED MED C10%MAT",
+        "PlanDescription": "MEDNET MEDGULF MAT COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MED MED D20% 25",
+        "PlanDescription": "MEDNET MEDGULF DED20%(MAX25 ) COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MED MED D20% C0",
+        "PlanDescription": "MEDNET MEDGULF DED20%(MAX50)  COPAY NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "MED NOOR TAK",
+    "PolicyGroupDescription": "MEDNET - NOOR TAKAFUL INS. CO.- EMERALD ( (WATANIA TAKAFUL))",
+    "RateListCode": "MEDNET-SR&EMR",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS018",
+    "Plans": [
+      {
+        "PlanCode": "MED  NOOR D2C",
+        "PlanDescription": "MEDNET NOOR TAKAFUL EMERALD DED 20% (MAX-50)COPAY NIL",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "MED NOOR TAKAFU",
+    "PolicyGroupDescription": "MEDNET - NOOR TAKAFUL INS. CO. (WATANIA TAKAFUL)",
+    "RateListCode": "MEDNET TPA",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS018",
+    "Plans": [
+      {
+        "PlanCode": "MED  NOOR CO10%",
+        "PlanDescription": "MEDNET NOOR TAKAFUL INS MAT COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MED  NOOR D20%C",
+        "PlanDescription": "MEDNET NOOR TAKAFUL INS DED 20% (MAX-50)COPAY NIL",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "MED ORIENTAL",
+    "PolicyGroupDescription": "MEDNET - THE ORIENTAL INSURANCE COMPANY LTD",
+    "RateListCode": "MEDNET TPA",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS128",
+    "Plans": [
+      {
+        "PlanCode": "MED ORI D0C0",
+        "PlanDescription": "MEDNET ORIENTAL INS DED 0  COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MED ORI D20",
+        "PlanDescription": "MEDNET ORIENTAL INS DED 20%  COPAY NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MED ORI D20%",
+        "PlanDescription": "MEDNET ARAB ORIENT DED 20% (MAX-50) COPAY 10% PH NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MED ORI D20% C0",
+        "PlanDescription": "MEDNET ORIENTAL INS DED 20% (MAX 60AED) COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MED ORI D20%C0",
+        "PlanDescription": "MEDNET ORIENTAL INS DED 20% (MAX-50) COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MED ORI D20%C10",
+        "PlanDescription": "MEDNET ARAB ORIENT DED 20% (MAX-60) COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MED ORI D20%C15",
+        "PlanDescription": "MEDNET ORIENTAL INS DED 20% (MAX 60AED) COPAY 15% PH 15%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MED ORI D50C0",
+        "PlanDescription": "MEDNET ORIENTAL INS DED 50 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MED ORI MAT10%",
+        "PlanDescription": "MEDNET ORIENTAL INS DED 10% (MAX 25) COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MED ORI MB10%",
+        "PlanDescription": "MEDNET ORIENTAL INS MB 10%",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "MED RAKNIC",
+    "PolicyGroupDescription": "MEDNET - RAK NATIONAL INS. CO.",
+    "RateListCode": "MEDNET TPA",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS014",
+    "Plans": [
+      {
+        "PlanCode": "MED RAK",
+        "PlanDescription": "MEDNET RAK NAT.INS GREEN DED 20%M50 OP 0 L/R/PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MED RAK 20%",
+        "PlanDescription": "MEDNET RAK NAT.INS GREEN DED 20% COPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MED RAK 20%50",
+        "PlanDescription": "MEDNET RAK NAT.INS GREEN DED 20%MAX 50 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MED RAK D0X",
+        "PlanDescription": "MEDNET RAK NAT.INS GOLD DED 50AED COPAY NIL PH 5%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MED RAK D10",
+        "PlanDescription": "MEDNET RAK NAT.INS GREEN MB PLAN COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MED RAK D20M50",
+        "PlanDescription": "MEDNET RAK NAT.INS GRN DED 20 MAX 50 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MED RAK D50",
+        "PlanDescription": "MEDNET RAK NAT.INS SILVER CLASSICDED 50AED COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MED RAK D50X",
+        "PlanDescription": "MEDNET RAK NAT.INS GOLD DED 50AED COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MED RAK DX",
+        "PlanDescription": "MEDNET RAK NAT.INS GOLD DED NIL COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MED RAK20M50",
+        "PlanDescription": "MEDNET RAK NAT.INS GRN DED 20 MAX 50 COPAY NIL PH 5%",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "MED RAKNIC-EMR",
+    "PolicyGroupDescription": "MEDNET - EMERALD -RAK NATIONAL INS. CO.",
+    "RateListCode": "MEDNET-SR&EMR",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS014",
+    "Plans": [
+      {
+        "PlanCode": "D-ME EMR D20%50",
+        "PlanDescription": "MEDNET RAK EMERALD 20%M50 COPAY NIL L/R20% PH10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MED EMR D",
+        "PlanDescription": "MEDNET EMRLD RAK INS. DED 50AED  COPAY NIL PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MED EMR D50NIL",
+        "PlanDescription": "MEDNET EMRLD RAK INS. DED 50AED  COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MED EMR DRAK",
+        "PlanDescription": "MEDNET EMRLD RAK INS. DED 20%M50 COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MED EMR DRAKX",
+        "PlanDescription": "MEDNET EMRLD RAK INS. DED 10% L/R10%PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MED EMR DRAXKX",
+        "PlanDescription": "MEDNET EMRLD RAK INS. DED 10% L/R10%PH 10%",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "MED RAKNIC-SR",
+    "PolicyGroupDescription": "MEDNET - SILKROAD -RAK NATIONAL INS. CO.",
+    "RateListCode": "MEDNET-SR&EMR",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS014",
+    "Plans": [
+      {
+        "PlanCode": "M SR D0C0",
+        "PlanDescription": "MEDNET SILKROAD RAK INS. DED NIL COPAY NIL",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "MED SAL EMERALD",
+    "PolicyGroupDescription": "MEDNET -ISLAMIC ARAB INS.(SALAMA) - EMERALD",
+    "RateListCode": "MEDNET-SR&EMR",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS035",
+    "Plans": [
+      {
+        "PlanCode": "MED EMR D20%50",
+        "PlanDescription": "MEDNET ISLAMIC (SALAMA) EMERALD 20%M50 COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MED EMR D20%P10",
+        "PlanDescription": "MEDNET ISLAMIC (SALAMA) EMERALD 20%M50 COPAY NIL PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MED EMR DED50",
+        "PlanDescription": "MEDNET ISLAMIC (SALAMA) EMERALD DED 50 COPAY 10%",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "MED SAL SR",
+    "PolicyGroupDescription": "MEDNET -ISLAMIC ARAB INS.(SALAMA) SILK ROAD",
+    "RateListCode": "MEDNET-SR&EMR",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS035",
+    "Plans": [
+      {
+        "PlanCode": "M SR D10C10",
+        "PlanDescription": "MEDNET ISLAMIC (SALAMA) SILK ROAD COPAY 10% (MB)",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "M SR DED 20 DD",
+        "PlanDescription": "MEDNET ISLAMIC (SALAMA) SILK ROAD DED 20% MAX 50 COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "M SR DED 20 MAX",
+        "PlanDescription": "MEDNET ISLAMIC (SALAMA) SILK ROAD DED 20% MAX 50 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "M SR DED 50",
+        "PlanDescription": "MEDNET ISLAMIC (SALAMA) SILK ROAD DED 50 COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "M SR DED20",
+        "PlanDescription": "MEDNET ISLAMIC (SALAMA) SILK ROAD DED 20% COPAY 20%",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "MED SALAMA",
+    "PolicyGroupDescription": "MEDNET - ISLAMIC ARAB INS. CO. (SALAMA)",
+    "RateListCode": "MEDNET TPA",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS035",
+    "Plans": [
+      {
+        "PlanCode": "MED ISLAM  D20%",
+        "PlanDescription": "MEDNET ISLAMIC DED 20% (MAX 75) COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MED ISLAM  D75",
+        "PlanDescription": "MEDNET ISLAMIC DED 75AED COPAY /L/R 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MED ISLAM D 20%",
+        "PlanDescription": "MEDNET ISLAMIC DED 20% (MAX 50) COPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MED ISLAM D20 %",
+        "PlanDescription": "MEDNET ISLAMIC DED 20% (MAX 75) COPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MED ISLAM D50AE",
+        "PlanDescription": "MEDNET ISLAMIC DED 50 OP/LAB/RAD/PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MED SAL C20%",
+        "PlanDescription": "MEDNET SALAMA DED 20%(MAX 30) COPAY 20% PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MED SAL D0C0",
+        "PlanDescription": "MEDNET SALAMA DED 0 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MED SAL D10% C0",
+        "PlanDescription": "MEDNET SALAMA DED 10% COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MED SAL D10%C0",
+        "PlanDescription": "MEDNET SALAMA MB PLAN DED 10% (MAX-50)  COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MED SAL D20%",
+        "PlanDescription": "MEDNET SALAMA DED 20% (MAX-75) COPAY 15%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MED SAL D20%C0",
+        "PlanDescription": "MEDNET SALAMA DED 20% (MAX-50) COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MED SAL D20%C10",
+        "PlanDescription": "MEDNET SALAMA DED 20% (MAX-50) COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MED SAL D25 C0",
+        "PlanDescription": "MEDNET SALAMA DED 25 COPAY NIL PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MED SAL D25C0",
+        "PlanDescription": "MEDNET SALAMA DED 25 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MED SAL D30C0",
+        "PlanDescription": "MEDNET SALAMA DED 30 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MED SAL D50C0",
+        "PlanDescription": "MEDNET SALAMA DED 50 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MED SAL D50C10%",
+        "PlanDescription": "MEDNET SALAMA DED 50 COPAY 10% PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MED SAL D50C20%",
+        "PlanDescription": "MEDNET SALAMA DED 50 COPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MEDISLAM  D20%",
+        "PlanDescription": "MEDNET ISLAMIC DED 20% (MAX 100AED)  COPAY 20% PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MEDISLAM D 20%",
+        "PlanDescription": "MEDNET ISLAMIC DED 20% (MAX 30AED) COPAY 20%(MAX 10) PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MEDISLAM D20%",
+        "PlanDescription": "MEDNET ISLAMIC DED 20% (MAX 30) COPAY 20%(MAX 10) PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MEDISLAM DED50",
+        "PlanDescription": "MEDNET ISLAMIC DED 20% COPAY 20%",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "MED TAK EMARAEM",
+    "PolicyGroupDescription": "MEDNET - TAKAFUL EMARAT INS. CO.-EMERALD",
+    "RateListCode": "MEDNET-SR&EMR",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS022",
+    "Plans": [
+      {
+        "PlanCode": "MED TAK D10",
+        "PlanDescription": "MEDNET EMERALD TAKAFUL EMARAT DED 10% L/R/PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MED TAK D20%MX",
+        "PlanDescription": "MEDNET EMERALD TAKAFUL EMARAT DED 20% (MAX-50)  COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MED TAK D2020",
+        "PlanDescription": "MEDNET EMERALD TAKAFUL EMARAT DED 20% (MAX-50)  COPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MED TAK D20X",
+        "PlanDescription": "MEDNET EMERALD TAKAFUL EMARAT DED 20% (MAX-50)  COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MED TAK MX",
+        "PlanDescription": "MEDNET EMERALD TAKAFUL EMARAT DED 50AED  COPAY NIL",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "MED TAK EMARAT",
+    "PolicyGroupDescription": "MEDNET - TAKAFUL EMARAT INS. CO.",
+    "RateListCode": "MEDNET TPA",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS022",
+    "Plans": [
+      {
+        "PlanCode": "MED TA",
+        "PlanDescription": "MEDNET SILVER PREM TAKAFUL EMARAT DED 20%M50 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MED TA D20%10%",
+        "PlanDescription": "MEDNET GREEN TAKAFUL EMARAT DED 20% (MAX-50)  COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MED TA D20%M50C",
+        "PlanDescription": "MEDNET GREEN TAKAFUL EMARAT DED 20% (MAX-50)  COPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MED TA D50",
+        "PlanDescription": "MEDNET SILVER PREM TAKAFUL EMARAT DED 50AED COPAY NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MED TAK C10",
+        "PlanDescription": "MEDNET GREEN TAKAFUL EMARAT COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MED TAK D20%M50",
+        "PlanDescription": "MEDNET GREEN TAKAFUL EMARAT DED 20% (MAX-50)  COPAY NIL",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "MED TOKIO",
+    "PolicyGroupDescription": "MEDNET - TOKIO MARINE & NICHIDO FIRE INS. CO. LTD.",
+    "RateListCode": "MEDNET TPA",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS084",
+    "Plans": [
+      {
+        "PlanCode": "MED OK D",
+        "PlanDescription": "MEDNET TOKIO MARINE DED 20% MAX (50) COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MED OK D20%C0",
+        "PlanDescription": "MEDNET TOKIO MARINE DED 20% MAX (50) COPAY 20% PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MED TOK D0C0",
+        "PlanDescription": "MEDNET TOKIO MARINE DED 0 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MED TOK D20",
+        "PlanDescription": "MEDNET TOKIO MARINE DED 20% MAX 25 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MED TOK D20% C0",
+        "PlanDescription": "MEDNET TOKIO MARINE DED 20% MAX (50) COPAY NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MED TOK D20%C0",
+        "PlanDescription": "MEDNET TOKIO MARINE DED 20% MAX (50) COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MED TOKD20%C0",
+        "PlanDescription": "MEDNET TOKIO MARINE DED 20% MAX (50) COPAY 20 PH 20%",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "MED UNB TAKAFUL",
+    "PolicyGroupDescription": "MEDNET - ORIENT UNB TAKAFUL",
+    "RateListCode": "MEDNET TPA",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS139",
+    "Plans": [
+      {
+        "PlanCode": "MED UNB D0C0",
+        "PlanDescription": "MEDNET ORIENT UNB DED NIL COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MED UNB D20%",
+        "PlanDescription": "MEDNET ORIENT UNB DED 20%(MAX 50AED) COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MED UNB D20%C0",
+        "PlanDescription": "MEDNET ORIENT UNB DED20% (MAX50AED) COINS NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MED UNB D20%C10",
+        "PlanDescription": "MEDNET ORIENT UNB DED 20%(MAX 50AED) COPAY 10% PH NIL DN 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MED UNB D20C10",
+        "PlanDescription": "MEDNET ORIENT UNB DED 20% COPAY 10% PH NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MED UNB D20L10%",
+        "PlanDescription": "MEDNET ORIENT UNB DED 20%(MAX 50AED) LAB/RAD 10% OP/PH NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MED UNB D50C0",
+        "PlanDescription": "MEDNET ORIENT UNB DED 50 COPAY 0",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MED UNB MAT10%",
+        "PlanDescription": "MEDNET ORIENT UNB  COPAY MAT 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MED UNBD20%",
+        "PlanDescription": "MEDNET ORIENT UNB DED 20%(MAX 50AED) COPAY 10% PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MEDUNBD20%C10%",
+        "PlanDescription": "MEDNET ORIENT UNB DED 20% CO10% PH20%",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "MED-EMR-AMN",
+    "PolicyGroupDescription": "MEDNET-DUBAI ISLAMIC INSURANCE & REINSURANCE(AMAN)- EMERALD",
+    "RateListCode": "MEDNET-SR&EMR",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS006",
+    "Plans": [
+      {
+        "PlanCode": "MED EMR C10%",
+        "PlanDescription": "MEDNET DUBAI ISLAMIC (AMAN)  EMERALD COPAY 10% (MB)",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "MED-GREN-AMN",
+    "PolicyGroupDescription": "MEDNET-DUBAI ISLAMIC INSURANCE & REINSURANCE(AMAN)- GREEN",
+    "RateListCode": "MEDNET TPA",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS006",
+    "Plans": [
+      {
+        "PlanCode": "MED EMR D2025",
+        "PlanDescription": "MEDNET DUBAI ISLAMIC (AMAN) SILVER CLASSIC20%M25 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MED EMR D2050",
+        "PlanDescription": "MEDNET DUBAI ISLAMIC (AMAN)  EMERALD 20%M50 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MED EMR D205X",
+        "PlanDescription": "MEDNET DUBAI ISLAMIC (AMAN)  EMERALD 20%M50 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MED EMRD0P20%",
+        "PlanDescription": "MEDNET DUBAI ISLAMIC (AMAN)  EMERALD 0 COPAY PH 20%",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "MED-METLIFE",
+    "PolicyGroupDescription": "MEDNET - METLIFE",
+    "RateListCode": "METLIFE ALICO",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS013",
+    "Plans": [
+      {
+        "PlanCode": "M ALICO C20",
+        "PlanDescription": "MEDNET-METLIFE COPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "M ALICO D0C0",
+        "PlanDescription": "MEDNET-METLIFE DED NIL COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "M ALICO D0C0 PH",
+        "PlanDescription": "MEDNET-METLIFE DED NIL COPAY NIL PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "M ALICO D10",
+        "PlanDescription": "MEDNET-METLIFE DED 10% COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "M ALICO D1050",
+        "PlanDescription": "MEDNET-METLIFE DED 10%MAX 50 COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "M ALICO D10500",
+        "PlanDescription": "MEDNET-METLIFE DED 10%MAX 50 COPAY 0%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "M ALICO D15",
+        "PlanDescription": "MEDNET-METLIFE COPAY 15%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "M ALICO D15 D",
+        "PlanDescription": "MEDNET-METLIFE DED 15% COPAY 15%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "M ALICO D201",
+        "PlanDescription": "MEDNET-METLIFE DED 50  COPAY NIL PH NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "M ALICO D2010",
+        "PlanDescription": "MEDNET-METLIFE DED 50  COPAY NIL PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "M ALICO D2050",
+        "PlanDescription": "MEDNET-METLIFE DED 20%M50  COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "M ALICO D2050 P",
+        "PlanDescription": "MEDNET-METLIFE DED 20%M50  COPAY NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "M ALICO D20L/R",
+        "PlanDescription": "MEDNET-METLIFE DED 50  CO NIL L/R 50 PH 20%",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "MED-OMAN-",
+    "PolicyGroupDescription": "MEDNET - OMAN-SILVER PREMIUM",
+    "RateListCode": "MEDNET TPA",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS012",
+    "Plans": [
+      {
+        "PlanCode": "MED OMAN",
+        "PlanDescription": "MEDNET-OMAN SILVER PREMIUM DED 20% MAX 50 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MED OMAN 35",
+        "PlanDescription": "MEDNET-OMAN SILVER PREMIUM DED 20% MAX 35 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MED OMAN 50",
+        "PlanDescription": "MEDNET-OMAN SILVER PREMIUM DED 20%M50 COPAY NIL PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MED OMAN D0",
+        "PlanDescription": "MEDNET-OMAN SILVER PREMIUM DED NIL COPAY 20% PH 15%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MED OMAN GOLD",
+        "PlanDescription": "MEDNET-OMAN SILVER PREMIUM / GOLD DED 20% MAX 50 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MED OMAND15C15",
+        "PlanDescription": "MEDNET-OMAN SILVER PREMIUM DED 15% COPAY 15% PH 15%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MED OMANX",
+        "PlanDescription": "MEDNET-OMAN SILVER PREMIUM DED 50 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "MED-SILC-ORIENT",
+    "PolicyGroupDescription": "MEDNET- ARB ORIENT SILVER CLASSIC/ GREEN",
+    "RateListCode": "MEDNET TPA",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS008",
+    "Plans": [
+      {
+        "PlanCode": "MED ARB ORI -SC",
+        "PlanDescription": "MEDNET- ARAB ORIENT SIL CLASSIC DED 20%MAX 50 L/R 20% PH10%",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "MEDNET",
+    "PolicyGroupDescription": "MEDNET",
+    "RateListCode": "MEDNET TPA",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "TPA009",
+    "Plans": [
+      {
+        "PlanCode": "MED OMANXX",
+        "PlanDescription": "MEDNET-OMAN SILVER CLASSIC DED 20%MAX 75 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "MEDNET NLGI",
+    "PolicyGroupDescription": "MEDNET - NATIONAL LIFE & GEN INS CO (NLGI)",
+    "RateListCode": "MEDNET TPA",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS044",
+    "Plans": [
+      {
+        "PlanCode": "MED NLGID",
+        "PlanDescription": "MEDNET NLGI   COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MED NLGID20%M50",
+        "PlanDescription": "MEDNET NLGI DED 20% M50  COPAY 0  PH 0",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MED NLGID2M50",
+        "PlanDescription": "MEDNET NLGI DED 20% M50  COPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MENLGI CO10%",
+        "PlanDescription": "MEDNET NLGI COPAY 10% M50",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MENLGID 50",
+        "PlanDescription": "MEDNET NLGI DED 50",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MENLGID10%",
+        "PlanDescription": "MEDNET NLGI COPAY 10% M50",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MENLGID10%M50",
+        "PlanDescription": "MEDNET NLGI DED 10% M50  COPAY 0  PH 0",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "MEDNET QIC",
+    "PolicyGroupDescription": "MEDNET  - QATAR INSURANCE COMPANY (QIC) - GREEN",
+    "RateListCode": "MEDNET TPA",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS019",
+    "Plans": [
+      {
+        "PlanCode": "ME QIC D  20%",
+        "PlanDescription": "MEDNET-  QATAR INS GREEN DED 20% (MAX-50)COPAY NIL",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "MEDNET WATANIA",
+    "PolicyGroupDescription": "MEDNET - NATIONAL TAKAFUL COMPANY (WATANIA)",
+    "RateListCode": "MEDNET TPA",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS079",
+    "Plans": [
+      {
+        "PlanCode": "MED GOP D20% C0",
+        "PlanDescription": "MEDNET GOP DED 20%  COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MED WAT  D20%C0",
+        "PlanDescription": "MEDNET WATANIA DED 20%(MAX 50AED)  COPAY NIL PH10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MED WAT C10%",
+        "PlanDescription": "MEDNET WATANIA GREEN MB PLAN COPAY 10% ALL SERVICES",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MED WAT D0 C0",
+        "PlanDescription": "MEDNET WATANIA DED NIL COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MED WAT D20% C0",
+        "PlanDescription": "MEDNET WATANIA DED 20%(MAX 50AED)  COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MED WAT D20%C0",
+        "PlanDescription": "MEDNET WATANIA DED 20% COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MED WAT DN20%",
+        "PlanDescription": "MEDNET WATANIA GREEN DENTAL 20%",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  }
+]
