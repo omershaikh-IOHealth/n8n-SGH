@@ -1,0 +1,77 @@
+[
+  {
+    "PolicyGroupCode": "DGLOBEMED",
+    "PolicyGroupDescription": "GLOBEMED - GULF TPA (GOP BASED & PAPER CLAIM)",
+    "RateListCode": "GLOBEMED",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "TPA011",
+    "Plans": [
+      {
+        "PlanCode": "D-GLMED D14.69",
+        "PlanDescription": "GLOBEMED (GOP BASED) DED 14.69 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-GLOBMED D0C0",
+        "PlanDescription": "GLOBEMED (GOP BASED) DED 0 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "DGMG QAT",
+    "PolicyGroupDescription": "GLOBEMED - QATAR L.L.C",
+    "RateListCode": "GLOBEMED",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS019",
+    "Plans": [
+      {
+        "PlanCode": "D-GLOBMED 10",
+        "PlanDescription": "GLOBEMED (GOP BASED) OP 10% AED PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-GLOBMED D45C0",
+        "PlanDescription": "GLOBEMED (GOP BASED) DED 45 AED COPAY NIL",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "GLOBEMED",
+    "PolicyGroupDescription": "GLOBEMED - GULF TPA (GOP BASED & PAPER CLAIM)",
+    "RateListCode": "GLOBEMED",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "TPA011",
+    "Plans": [
+      {
+        "PlanCode": "GLOBMED D0C0",
+        "PlanDescription": "GLOBEMED (GOP BASED) DED 0 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "GLOBMED D14.69",
+        "PlanDescription": "GLOBEMED (GOP BASED) DED 14.69 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "GMG QAT",
+    "PolicyGroupDescription": "GLOBEMED - QATAR L.L.C",
+    "RateListCode": "GLOBEMED",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS119",
+    "Plans": [
+      {
+        "PlanCode": "GLOBMED D45C0",
+        "PlanDescription": "GLOBEMED (GOP BASED) DED 45 AED COPAY NIL",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  }
+]
