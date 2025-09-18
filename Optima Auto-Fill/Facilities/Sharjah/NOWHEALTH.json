@@ -1,0 +1,202 @@
+[
+  {
+    "PolicyGroupCode": "NOWHEALTH",
+    "PolicyGroupDescription": "NOWHEALTH INTERNATIONAL - AXA",
+    "RateListCode": "NOWHEALTH",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS010",
+    "Plans": [
+      {
+        "PlanCode": "NOWH C20%",
+        "PlanDescription": "NOWHEALTH DED 20% COPAY 20% PH NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NOWH D20%",
+        "PlanDescription": "NOWHEALTH DED 20% COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NOWH D50MB10",
+        "PlanDescription": "NOWHEALTH DED 50 COPAY 10%(MB)",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NOWH D55C0",
+        "PlanDescription": "NOWHEALTH DED 55 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NOWHDED0CO0",
+        "PlanDescription": "NOWHEALTH DED 0 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NOWHDED100CO0",
+        "PlanDescription": "NOWHEALTH DED 100 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NOWHDED20%",
+        "PlanDescription": "NOWHEALTH COPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NOWHDED50CO0",
+        "PlanDescription": "NOWHEALTH DED 50 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NOWHDED90CO0",
+        "PlanDescription": "NOWHEALTH DED 90 CO NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NOWHDED92CO0",
+        "PlanDescription": "NOWHEALTH DED 92 CO NIL",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "NOWHEALTH - RSA",
+    "PolicyGroupDescription": "NOWHEALTH INTERNATIONAL - RSA",
+    "RateListCode": "NOWHEALTH",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS039",
+    "Plans": [
+      {
+        "PlanCode": "NH RSA C10%",
+        "PlanDescription": "NOWHEALTH RSA DED 10% COPAY 10% (MB PLAN)",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NH RSA C20%",
+        "PlanDescription": "NOWHEALTH RSA DED 20% COPAY 20% PH NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NH RSA C20%P20%",
+        "PlanDescription": "NOWHEALTH RSA DED 20% COPAY 20% PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NH RSA D0C0",
+        "PlanDescription": "NOWHEALTH RSA DED NIL COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NH RSA D20%C0",
+        "PlanDescription": "NOWHEALTH RSA DED 20% COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NH RSA D20%C10%",
+        "PlanDescription": "NOWHEALTH RSA DED 20% COPAY 10% PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NH RSA D20C0",
+        "PlanDescription": "NOWHEALTH RSA DED 20 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NH RSA D365",
+        "PlanDescription": "NOWHEALTH RSA DED 365 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NH RSA D50C0",
+        "PlanDescription": "NOWHEALTH RSA DED 50 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NH RSA D50C20%",
+        "PlanDescription": "NOWHEALTH RSA DED 50 COPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NH RSA D55C0",
+        "PlanDescription": "NOWHEALTH RSA DED 55 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NH RSA D90",
+        "PlanDescription": "NOWHEALTH RSA DED 90 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NH RSA D92C0",
+        "PlanDescription": "NOWHEALTH RSA DED 92 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "NOWHEALTH AR",
+    "PolicyGroupDescription": "NOWHEALTH INTERNATIONAL - ARABIA INS CO",
+    "RateListCode": "NOWHEALTH",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS042",
+    "Plans": [
+      {
+        "PlanCode": "NH ARAB 10",
+        "PlanDescription": "NOWHEALTH ARABIA DED 10%  COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NH ARAB C0",
+        "PlanDescription": "NOWHEALTH ARABIA DED NIL COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NH ARAB D",
+        "PlanDescription": "NOWHEALTH ARABIA DED 54 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NH ARAB D20%M90",
+        "PlanDescription": "NOWHEALTH ARABIA DED 20% MAX 90 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NH ARAB D2050",
+        "PlanDescription": "NOWHEALTH ARABIA DED 20% MAX 50 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NH ARAB D90",
+        "PlanDescription": "NOWHEALTH ARABIA DED 90 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "NOWHEALTHGOP",
+    "PolicyGroupDescription": "NOWHEALTH INTERNATIONAL - PAPER CLAIM",
+    "RateListCode": "NOWHEALTH",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "TPA017",
+    "Plans": [
+      {
+        "PlanCode": "NOWH D0C0",
+        "PlanDescription": "NOWHEALTH PAPER CLAIM DED NIL COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NOWH D54C0",
+        "PlanDescription": "NOWHEALTH PAPER CLAIM DED 54 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NOWH D92C0",
+        "PlanDescription": "NOWHEALTH PAPER CLAIM DED 92 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  }
+]
