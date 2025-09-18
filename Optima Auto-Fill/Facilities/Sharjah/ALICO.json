@@ -28,6 +28,11 @@
         "PlanActiveStatus": "Active"
       },
       {
+        "PlanCode": "ALIC DD 10%",
+        "PlanDescription": "ALICO DED 10%MAX 203 COPAY 10%M203",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "ALIC DD 10M203",
         "PlanDescription": "ALICO DED 10%MAX 203 COPAY NIL",
         "PlanActiveStatus": "Active"
@@ -128,6 +133,11 @@
         "PlanActiveStatus": "Active"
       },
       {
+        "PlanCode": "ALICO CO 5%",
+        "PlanDescription": "ALICO DED NIL COPAY 5%",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "ALICO CO 50%",
         "PlanDescription": "ALICO DED NIL COPAY 50%",
         "PlanActiveStatus": "Active"
@@ -203,6 +213,11 @@
         "PlanActiveStatus": "Active"
       },
       {
+        "PlanCode": "ALICO D2",
+        "PlanDescription": "ALICO DED 20%MAX  30 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "ALICO D20 CO0%",
         "PlanDescription": "ALICO DED 20 COPAY NIL",
         "PlanActiveStatus": "Active"
@@ -248,6 +263,16 @@
         "PlanActiveStatus": "Active"
       },
       {
+        "PlanCode": "ALICO D20%30",
+        "PlanDescription": "ALICO DED 20%30  COPAY NIL PH 10%50",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ALICO D20%65C0",
+        "PlanDescription": "ALICO DED 20% (MAX-65) COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "ALICO D20%C0",
         "PlanDescription": "ALICO DED 20% COPAY NIL PH 20%",
         "PlanActiveStatus": "Active"
@@ -265,6 +290,11 @@
       {
         "PlanCode": "ALICO D20%M150",
         "PlanDescription": "ALICO DED 20% MAX 150 COPAY 20%150",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ALICO D20%M75",
+        "PlanDescription": "ALICO DED 20% (MAX-75) COPAY NIL",
         "PlanActiveStatus": "Active"
       },
       {
@@ -485,6 +515,26 @@
       {
         "PlanCode": "ALICO G D10%C",
         "PlanDescription": "ALICO DED 10% COPAY 10% PH NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ALICO MB D1030",
+        "PlanDescription": "ALICO  MB COPAY  10%30  PH 10%50",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ALICO MB D20%30",
+        "PlanDescription": "ALICO DED MB 10%30  COPAY NIL PH 10%50",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ALICO55",
+        "PlanDescription": "ALICO GOLD DED 20% MAX 55 COPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ALICO55 NIL",
+        "PlanDescription": "ALICO GOLD DED 20% MAX 55 COPAY NIL",
         "PlanActiveStatus": "Active"
       },
       {
