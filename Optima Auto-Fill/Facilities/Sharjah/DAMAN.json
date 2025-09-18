@@ -58,11 +58,6 @@
         "PlanActiveStatus": "Active"
       },
       {
-        "PlanCode": "DAM D50X",
-        "PlanDescription": "DAMAN INSURANCE DED 50AED OP NIL DG (L/R) 30AED PH 20%",
-        "PlanActiveStatus": "Active"
-      },
-      {
         "PlanCode": "DAMA100CO10PH20",
         "PlanDescription": "DAMAN INSURANCE DED 100 COPAY 10% PH 20%(MAX-AED 100) DN 20%",
         "PlanActiveStatus": "Active"
@@ -85,11 +80,6 @@
       {
         "PlanCode": "DAMAN  D25C20%",
         "PlanDescription": "DAMAN INSURANCE DED 25 COPAY 20% PH 20% (MB PLAN)",
-        "PlanActiveStatus": "Active"
-      },
-      {
-        "PlanCode": "DAMAN  D5%",
-        "PlanDescription": "DAMAN INSURANCE DED25% COPAY NIL",
         "PlanActiveStatus": "Active"
       },
       {
@@ -205,11 +195,6 @@
       {
         "PlanCode": "DAMAN D0C20%",
         "PlanDescription": "DAMAN INSURANCE DED 0 COPAY 20% PH 20%",
-        "PlanActiveStatus": "Active"
-      },
-      {
-        "PlanCode": "DAMAN D0P20%",
-        "PlanDescription": "DAMAN INSURANCE DED 0 COPAY 0% PH 20%",
         "PlanActiveStatus": "Active"
       },
       {
@@ -338,11 +323,6 @@
         "PlanActiveStatus": "Active"
       },
       {
-        "PlanCode": "DAMAN D50%50",
-        "PlanDescription": "DAMAN INSURANCE DED 20%M50 OP 0 L/R 10%M30 PH 10%",
-        "PlanActiveStatus": "Active"
-      },
-      {
         "PlanCode": "DAMAN D50%DG50",
         "PlanDescription": "DAMAN INSURANCE DED 50 COPAY DG 20% MAX 50 PH 20% MAX50",
         "PlanActiveStatus": "Active"
@@ -435,11 +415,6 @@
       {
         "PlanCode": "DAMAN D90% C90%",
         "PlanDescription": "DAMAN INSURANCE DED 90% COPAY 90% PH 90%",
-        "PlanActiveStatus": "Active"
-      },
-      {
-        "PlanCode": "DAMAN DC10%M",
-        "PlanDescription": "DAMAN INSURANCE DED 50  OP NIL DG 50AED PH 30%",
         "PlanActiveStatus": "Active"
       },
       {
@@ -588,16 +563,6 @@
         "PlanActiveStatus": "Active"
       },
       {
-        "PlanCode": "DAMAND20%P0",
-        "PlanDescription": "DAMAN INSURANCE DED 20% M50 COPAY NIL",
-        "PlanActiveStatus": "Active"
-      },
-      {
-        "PlanCode": "DAMAND20%P100",
-        "PlanDescription": "DAMAN INSURANCE DED 20% M50 CO NIL PH 100 AED",
-        "PlanActiveStatus": "Active"
-      },
-      {
         "PlanCode": "DAMAND20%P20%",
         "PlanDescription": "DAMAN INSURANCE DED 20% COPAY 10% PH 20%",
         "PlanActiveStatus": "Active"
@@ -615,16 +580,6 @@
       {
         "PlanCode": "DAMAND20%PH30%",
         "PlanDescription": "DAMAN INSURANCE DED 20% COPAY NIL PH 30%",
-        "PlanActiveStatus": "Active"
-      },
-      {
-        "PlanCode": "DAMAND20100",
-        "PlanDescription": "DAMAN INSURANCE DED 20% MAX 100 COPAY NIL",
-        "PlanActiveStatus": "Active"
-      },
-      {
-        "PlanCode": "DAMAND20100P20",
-        "PlanDescription": "DAMAN INSURANCE DED 20% MAX 100 COPAY NIL PH 20% M100",
         "PlanActiveStatus": "Active"
       },
       {
@@ -708,23 +663,13 @@
         "PlanActiveStatus": "Active"
       },
       {
-        "PlanCode": "DAM N2 C50",
-        "PlanDescription": "DAMAN NET-2  COPAY 50%",
-        "PlanActiveStatus": "Active"
-      },
-      {
         "PlanCode": "DAM N2 C90%",
         "PlanDescription": "DAMAN NET-2 DED 90% COPAY 90% PH 90%",
         "PlanActiveStatus": "Active"
       },
       {
-        "PlanCode": "DAM N2 D00",
-        "PlanDescription": "DAMAN NET-2 DED 0 COPAY NIL PH 30%",
-        "PlanActiveStatus": "Active"
-      },
-      {
-        "PlanCode": "DAM N2 D0020",
-        "PlanDescription": "DAMAN NET-2 DED 0 COPAY NIL PH 20%",
+        "PlanCode": "DAM N2 COP",
+        "PlanDescription": "DAMAN NET-2 COPAY 25%",
         "PlanActiveStatus": "Active"
       },
       {
@@ -733,8 +678,18 @@
         "PlanActiveStatus": "Active"
       },
       {
+        "PlanCode": "DAM N2 D0P20%",
+        "PlanDescription": "DAMAN NET-2 DED 0%  COPAY NIL PH 20% MAX 100",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "DAM N2 D10%C10%",
         "PlanDescription": "DAMAN NET-2 DED 10% COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N2 D10%M50",
+        "PlanDescription": "DAMAN NET-2 DED10% MAX 50 OP NIL (DG) LAB/RAD 10% PH 10%",
         "PlanActiveStatus": "Active"
       },
       {
@@ -743,58 +698,43 @@
         "PlanActiveStatus": "Active"
       },
       {
-        "PlanCode": "DAM N2 D100",
-        "PlanDescription": "DAMAN NET-2 DED 20%M50 COPAY 10% PH 10%",
-        "PlanActiveStatus": "Active"
-      },
-      {
-        "PlanCode": "DAM N2 D1000",
-        "PlanDescription": "DAMAN NET-2 DED 20%M50 COPAY 0% PH 10%",
-        "PlanActiveStatus": "Active"
-      },
-      {
-        "PlanCode": "DAM N2 D1025",
-        "PlanDescription": "DAMAN NET-2 DED 20%M50 COPAY NIL PH 30%M100",
-        "PlanActiveStatus": "Active"
-      },
-      {
         "PlanCode": "DAM N2 D15P10",
         "PlanDescription": "DAMAN NET-2 DED 15% OP NIL(DG) LAB/RAD 15% PH 10%",
         "PlanActiveStatus": "Active"
       },
       {
-        "PlanCode": "DAM N2 D1X",
-        "PlanDescription": "DAMAN NET-2 DED 20% COPAY NIL PH 10%",
-        "PlanActiveStatus": "Active"
-      },
-      {
-        "PlanCode": "DAM N2 D1X100",
-        "PlanDescription": "DAMAN NET-2 DED 20%M50 COPAY NIL PH 10%M100",
-        "PlanActiveStatus": "Active"
-      },
-      {
         "PlanCode": "DAM N2 D2",
-        "PlanDescription": "DAMAN NET-2 DED 25 COPAY NIL PH 30%MAX 100",
+        "PlanDescription": "DAMAN NET-2 DED 20%MAX 50 COPAY NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N2 D2 100",
+        "PlanDescription": "DAMAN NET-2 DED 50 COPAY NIL PH 10%MAX 100",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N2 D2 200",
+        "PlanDescription": "DAMAN NET-2 DED 20%MAX 50 COPAY NIL PH 20%MAX 200",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N2 D2 PH 10",
+        "PlanDescription": "DAMAN NET-2 DED 20%MAX 50 COPAY NIL PH 10%",
         "PlanActiveStatus": "Active"
       },
       {
         "PlanCode": "DAM N2 D20",
-        "PlanDescription": "DAMAN NET-2 DED 50 OP NIL L/R 20%M50 PH 20%M100",
+        "PlanDescription": "DAMAN NET-2 DED 20%MAX 50 OP NIL LAB/RAD20% PH 20%",
         "PlanActiveStatus": "Active"
       },
       {
-        "PlanCode": "DAM N2 D20 30",
-        "PlanDescription": "DAMAN NET-2 DED 20%M 50 OP NIL L/R 20%M30 PH 20%",
+        "PlanCode": "DAM N2 D20 C",
+        "PlanDescription": "DAMAN NET-2 DED 50 COPAY 30  PH 30%MAX 200",
         "PlanActiveStatus": "Active"
       },
       {
-        "PlanCode": "DAM N2 D20%",
-        "PlanDescription": "DAMAN NET-2 DED 20%M100  OP NIL LAB/RAD/ PH 20%",
-        "PlanActiveStatus": "Active"
-      },
-      {
-        "PlanCode": "DAM N2 D20%0",
-        "PlanDescription": "DAMAN NET-2 DED 20%M50 COPAY NIL",
+        "PlanCode": "DAM N2 D20 M50",
+        "PlanDescription": "DAMAN NET-2 DED 20%MAX 50 COPAY NIL PH 10% MAX 100",
         "PlanActiveStatus": "Active"
       },
       {
@@ -813,48 +753,38 @@
         "PlanActiveStatus": "Active"
       },
       {
-        "PlanCode": "DAM N2 D20%CN",
-        "PlanDescription": "DAMAN NET-2 DED 20%M100  COPAY NIL PH NIL",
-        "PlanActiveStatus": "Active"
-      },
-      {
-        "PlanCode": "DAM N2 D20%D",
-        "PlanDescription": "DAMAN NET-2 DED 20% COPAY 10% PH 10%",
-        "PlanActiveStatus": "Active"
-      },
-      {
-        "PlanCode": "DAM N2 D20%P20",
-        "PlanDescription": "DAMAN NET-2 DED 20%M50 COPAY NIL PH 20%",
-        "PlanActiveStatus": "Active"
-      },
-      {
-        "PlanCode": "DAM N2 D20%P30",
-        "PlanDescription": "DAMAN NET-2 DED 20%M50 COPAY NIL PH 30%",
-        "PlanActiveStatus": "Active"
-      },
-      {
         "PlanCode": "DAM N2 D20%P30%",
         "PlanDescription": "DAMAN NET-2 DED 20% COPAY 20% PH 30%",
         "PlanActiveStatus": "Active"
       },
       {
-        "PlanCode": "DAM N2 D20125",
-        "PlanDescription": "DAMAN NET-2 DED 20%M125AED COPAY NIL",
+        "PlanCode": "DAM N2 D200",
+        "PlanDescription": "DAMAN NET-2 DED 20%MAX 50 COPAY NIL",
         "PlanActiveStatus": "Active"
       },
       {
-        "PlanCode": "DAM N2 D2020",
-        "PlanDescription": "DAMAN NET-2 DED 20%M50 COPAY 20% PH 20%",
+        "PlanCode": "DAM N2 D200 C10",
+        "PlanDescription": "DAMAN NET-2 DED 20%MAX 50 COPAY 10%",
         "PlanActiveStatus": "Active"
       },
       {
-        "PlanCode": "DAM N2 D2030%",
-        "PlanDescription": "DAMAN NET-2  COPAY 20% PH 30%M100",
+        "PlanCode": "DAM N2 D203",
+        "PlanDescription": "DAMAN NET-2 DED 20%MAX 30  COPAY NIL",
         "PlanActiveStatus": "Active"
       },
       {
-        "PlanCode": "DAM N2 D20C0",
-        "PlanDescription": "DAMAN NET-2 DED 20AED COPAY NIL",
+        "PlanCode": "DAM N2 D2030AED",
+        "PlanDescription": "DAMAN NET-2 DED 20% COPAY NIL PH 30AED",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N2 D20M50",
+        "PlanDescription": "DAMAN NET-2 DED 20%MAX 50 COPAY 20 M 50 PH 20% MAX 100",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N2 D20M75",
+        "PlanDescription": "DAMAN NET-2 DED 20%MAX 75  COPAY NIL  PH 30%",
         "PlanActiveStatus": "Active"
       },
       {
@@ -863,13 +793,38 @@
         "PlanActiveStatus": "Active"
       },
       {
+        "PlanCode": "DAM N2 D20X",
+        "PlanDescription": "DAMAN NET-2 DED 20%MAX 50 COPAY NIL PH 25% MAX100",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N2 D25",
+        "PlanDescription": "DAMAN NET-2 DED 20%MAX 25 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N2 D25 P10",
+        "PlanDescription": "DAMAN NET-2 DED 20%MAX 25 COPAY NIL PH10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N2 D25100",
+        "PlanDescription": "DAMAN NET-2 DED 25 COPAY NIL PH 30%MAX 100",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "DAM N2 D25C0",
         "PlanDescription": "DAMAN NET-2 DED 25 COPAY NIL",
         "PlanActiveStatus": "Active"
       },
       {
-        "PlanCode": "DAM N2 D30%C0",
-        "PlanDescription": "DAMAN NET-2  COPAY 30%",
+        "PlanCode": "DAM N2 D2P",
+        "PlanDescription": "DAMAN NET-2 DED 20%MAX 50 COPAY NIL PH 20%M100",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N2 D3020",
+        "PlanDescription": "DAMAN NET-2 DED 30 COPAY NIL PH 20%MAX 100",
         "PlanActiveStatus": "Active"
       },
       {
@@ -878,18 +833,8 @@
         "PlanActiveStatus": "Active"
       },
       {
-        "PlanCode": "DAM N2 D5",
-        "PlanDescription": "DAMAN NET-2 DED 50 COPAY NIL PH 20%MAX 100",
-        "PlanActiveStatus": "Active"
-      },
-      {
         "PlanCode": "DAM N2 D50",
-        "PlanDescription": "DAMAN NET-2 DED 50 OP NIL LAB/RAD 50 PH 30%",
-        "PlanActiveStatus": "Active"
-      },
-      {
-        "PlanCode": "DAM N2 D50 30",
-        "PlanDescription": "DAMAN NET-2 DED 50 OP NIL LAB/RAD 30 PH 20%MAX 100",
+        "PlanDescription": "DAMAN NET-2 DED 50 COPAY NIL PH 30%",
         "PlanActiveStatus": "Active"
       },
       {
@@ -898,18 +843,13 @@
         "PlanActiveStatus": "Active"
       },
       {
-        "PlanCode": "DAM N2 D50 XC30",
-        "PlanDescription": "DAMAN NET-2 DED 30 OP /LAB & RAD 30 PH 30%",
+        "PlanCode": "DAM N2 D50 C30P",
+        "PlanDescription": "DAMAN NET-2 DED 50 OP /LAB & RAD 30 PH20%",
         "PlanActiveStatus": "Active"
       },
       {
-        "PlanCode": "DAM N2 D5030%",
-        "PlanDescription": "DAMAN NET-2 DED 50 COPAY NIL PH 15%",
-        "PlanActiveStatus": "Active"
-      },
-      {
-        "PlanCode": "DAM N2 D505030",
-        "PlanDescription": "DAMAN NET-2 DED 50 DG 50 PH 30%M100",
+        "PlanCode": "DAM N2 D50 PH20",
+        "PlanDescription": "DAMAN NET-2 DED 50 LAB/RAD 20%M 50 PH 20% MAX 100",
         "PlanActiveStatus": "Active"
       },
       {
@@ -933,16 +873,6 @@
         "PlanActiveStatus": "Active"
       },
       {
-        "PlanCode": "DAM N2 D50CP",
-        "PlanDescription": "DAMAN NET-2 DED 50 COPAY NIL PH 100AED",
-        "PlanActiveStatus": "Active"
-      },
-      {
-        "PlanCode": "DAM N2 D50P%",
-        "PlanDescription": "DAMAN NET-2 DED 50 COPAY NIL PH 10%",
-        "PlanActiveStatus": "Active"
-      },
-      {
         "PlanCode": "DAM N2 D50P20%",
         "PlanDescription": "DAMAN NET-2 DED 50 COPAY NIL PH 20%",
         "PlanActiveStatus": "Active"
@@ -953,13 +883,23 @@
         "PlanActiveStatus": "Active"
       },
       {
-        "PlanCode": "DAMAN D30",
-        "PlanDescription": "DAMAN -2 DED 30  PH 20% MAX 100",
+        "PlanCode": "DAM N2 DP20%",
+        "PlanDescription": "DAMAN NET-2 DED 20%M100 COPAY 20%  PH 20% MAX 100",
         "PlanActiveStatus": "Active"
       },
       {
-        "PlanCode": "DAMAN2 50CO30PH",
-        "PlanDescription": "DAMAN INSURANCE NW 2 DED 50 CO NIL   PH 30%(MAX 100) DN 20%",
+        "PlanCode": "DAM ND25 P10",
+        "PlanDescription": "DAMAN NET-2 DED 20%MAX 25 COPAY NIL PH10%MAX 100",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM ND25 P1025",
+        "PlanDescription": "DAMAN NET-2 DED 25AED COPAY NIL PH10%MAX 100",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAMAN2 D50%DG50",
+        "PlanDescription": "DAMAN NW 2 INSURANCE DED 50 COPAY DG 20% PH 20%",
         "PlanActiveStatus": "Active"
       }
     ]
