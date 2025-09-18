@@ -1,0 +1,72 @@
+[
+  {
+    "PolicyGroupCode": "DAMAN - GHQ",
+    "PolicyGroupDescription": "THIQA DAMAN - GENERAL HEAD QUATERS (GHQ)",
+    "RateListCode": "DAMAN - NET-5",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS201",
+    "Plans": [
+      {
+        "PlanCode": "DAM GHQ D0C0",
+        "PlanDescription": "DAMAN GHQ PLAN DED 0 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "DDAMAN - GHQ",
+    "PolicyGroupDescription": "THIQA DAMAN - GENERAL HEAD QUATERS (GHQ)",
+    "RateListCode": "DAMAN - NET-5",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS201",
+    "Plans": [
+      {
+        "PlanCode": "D-DAM GHQ D0C0",
+        "PlanDescription": "DAMAN GHQ PLAN DED 0 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "DTHIQA",
+    "PolicyGroupDescription": "THIQA - ABU DHABI MINISTRY OF FINANCE",
+    "RateListCode": "DAMAN - NET-1",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS078",
+    "Plans": [
+      {
+        "PlanCode": "D-THIQA C10%",
+        "PlanDescription": "THIQA COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-THIQA D0C0",
+        "PlanDescription": "THIQA DED 0 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "THIQA",
+    "PolicyGroupDescription": "THIQA - ABU DHABI MINISTRY OF FINANCE",
+    "RateListCode": "DAMAN - NET-1",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS201",
+    "Plans": [
+      {
+        "PlanCode": "THIQA C10%",
+        "PlanDescription": "THIQA COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "THIQA D0C0",
+        "PlanDescription": "THIQA DED 0 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  }
+]
