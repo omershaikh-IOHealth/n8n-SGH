@@ -108,8 +108,18 @@
         "PlanActiveStatus": "Active"
       },
       {
-        "PlanCode": "SAICO D20%50C0",
-        "PlanDescription": "SAICO INSURANCE DED 20%MAX 50  COPAY NIL",
+        "PlanCode": "SAICO D20",
+        "PlanDescription": "SAICO INSURANCE DED 20%M 50 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "SAICO D20 C20",
+        "PlanDescription": "SAICO INSURANCE DED 20%M 50 COPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "SAICO D20%50",
+        "PlanDescription": "SAICO INSURANCE DED 20%M 50 COPAY NIL",
         "PlanActiveStatus": "Active"
       },
       {
@@ -120,6 +130,11 @@
       {
         "PlanCode": "SAICO D20%CO10%",
         "PlanDescription": "SAICO INSURANCE DED 20% COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "SAICO D20%MX75",
+        "PlanDescription": "SAICO INSURANCE DED 20% MAX75 NIL",
         "PlanActiveStatus": "Active"
       },
       {
@@ -135,6 +150,21 @@
       {
         "PlanCode": "SAICO D20%PH20%",
         "PlanDescription": "SAICO INSURANCE DED 20% COPAY NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "SAICO D200",
+        "PlanDescription": "SAICO INSURANCE DED 20%M 50 COPAY 20% 50 PH 20%M50",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "SAICO D200PH",
+        "PlanDescription": "SAICO INSURANCE DED 20%M 50 COPAY NIL  PH 15%M100",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "SAICO D2075",
+        "PlanDescription": "SAICO INSURANCE DED 20% MAX75 COPAY NIL PH 20%M100",
         "PlanActiveStatus": "Active"
       },
       {
@@ -283,13 +313,18 @@
         "PlanActiveStatus": "Active"
       },
       {
-        "PlanCode": "SAICOCO",
-        "PlanDescription": "SAICO INSURANCE COMPANY DED 20%MAX 100 COPAY NIL",
+        "PlanCode": "SAICOCO20M00",
+        "PlanDescription": "SAICO INSURANCE COMPANY DED 20%M100 OP/L/R/PH 20%M100",
         "PlanActiveStatus": "Active"
       },
       {
         "PlanCode": "SAICOCO20MAX100",
         "PlanDescription": "SAICO INSURANCE COMPANY CO 20 MAX100",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "SAICOCO2100 C0",
+        "PlanDescription": "SAICO INSURANCE COMPANY DED 20%M100 COPAY NIL",
         "PlanActiveStatus": "Active"
       },
       {
