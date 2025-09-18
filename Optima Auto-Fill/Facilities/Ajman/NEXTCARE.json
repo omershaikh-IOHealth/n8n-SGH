@@ -4623,6 +4623,11 @@
         "PlanActiveStatus": "Active"
       },
       {
+        "PlanCode": "D-NC ARAB D20%M",
+        "PlanDescription": "NEXTCARE RN ARABIA  INS DED 20% ( MAX 35 ) COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "D-NC ARAB D50",
         "PlanDescription": "NEXTCARE RN ARABIA  INS DED 20% ( MAX-50) PH20%(MAX100)",
         "PlanActiveStatus": "Active"
@@ -9838,6 +9843,11 @@
         "PlanActiveStatus": "Active"
       },
       {
+        "PlanCode": "NC AOIC D2PH",
+        "PlanDescription": "NEXTCARE GN ARAB ORIENT DED 20%M40 OP NIL L/R/PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "NC AOIC D30C20%",
         "PlanDescription": "NEXTCARE GN ARAB ORIENT DED 30 COPAY 20% PH 10% DN 20%",
         "PlanActiveStatus": "Active"
@@ -10415,6 +10425,11 @@
       {
         "PlanCode": "NC  AXA GRN DXM",
         "PlanDescription": "NEXTCARE RN AXA GREEN CRESCENT DED 10% COPAY10%PH20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NC RN %C20%",
+        "PlanDescription": "NEXTCARE RN HAYAH DED 20% (MAX-50) OP NIL LAB/RAD/PH 20%",
         "PlanActiveStatus": "Active"
       },
       {
@@ -12323,6 +12338,11 @@
         "PlanActiveStatus": "Active"
       },
       {
+        "PlanCode": "NC UNB D5",
+        "PlanDescription": "NEXTCARE RN ORIENT UNB TAKAFUL DED 50 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "NC UNB D50",
         "PlanDescription": "NEXTCARE RN ORIENT UNB TAKAFUL DED 50 CO NIL PH20%",
         "PlanActiveStatus": "Active"
@@ -12802,6 +12822,11 @@
     "PolicGroupActiveStatus": "Active",
     "PayerId": "INS017",
     "Plans": [
+      {
+        "PlanCode": "NC ADNIC 50",
+        "PlanDescription": "NEXTCARE ADNIC STAFF POLICY  DED 50AED COPAY NIL PH 10%",
+        "PlanActiveStatus": "Active"
+      },
       {
         "PlanCode": "NC ADNIC C0",
         "PlanDescription": "NEXTCARE ADNIC STAFF POLICY  COPAY 0%",
@@ -14110,6 +14135,11 @@
       {
         "PlanCode": "NC ARAB D20%C",
         "PlanDescription": "NEXTCARE RN ARABIA  INS DED 15% COPAY 10% PH 20% (MAX-100)",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NC ARAB D20%M",
+        "PlanDescription": "NEXTCARE RN ARABIA  INS DED 20% ( MAX 35 ) COPAY NIL",
         "PlanActiveStatus": "Active"
       },
       {
