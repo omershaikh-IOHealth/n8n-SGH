@@ -441,15 +441,15 @@
   },
   {
     "PolicyGroupCode": "MDT ARABIA",
-    "PolicyGroupDescription": "MEDNET- ARABIA INSURANCE COMPANY",
+    "PolicyGroupDescription": "MEDNET - ARABIA INSURANCE COMPANY",
     "RateListCode": "MEDNET",
     "PolicyGroupCustomerType": "Insurance Company",
     "PolicGroupActiveStatus": "Active",
     "PayerId": "INS042",
     "Plans": [
       {
-        "PlanCode": "MD ARABIA  D0C0",
-        "PlanDescription": "MEDNET ARABIA INSURANCE  DED 0 COPAY NIL",
+        "PlanCode": "MD ARABIA D0C0",
+        "PlanDescription": "MEDNET ARABIA INSURANCE COMPANY DED 0 COPAY NIL",
         "PlanActiveStatus": "Active"
       }
     ]
@@ -1493,6 +1493,11 @@
         "PlanActiveStatus": "Active"
       },
       {
+        "PlanCode": "MDTALIC C100",
+        "PlanDescription": "MEDNET METLIFE DED 20% MAX 100 AED COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "MDTALIC C20%",
         "PlanDescription": "MEDNET METLIFE COPAY 20%",
         "PlanActiveStatus": "Active"
@@ -1500,6 +1505,11 @@
       {
         "PlanCode": "MDTALIC C50",
         "PlanDescription": "MEDNET METLIFE DED 20% MAX 50 AED COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MDTALIC C50 PH2",
+        "PlanDescription": "MEDNET METLIFE DED 20% MAX 50 AED COPAY NIL PH 20%M150",
         "PlanActiveStatus": "Active"
       },
       {
