@@ -18,6 +18,11 @@
         "PlanActiveStatus": "Active"
       },
       {
+        "PlanCode": "D-SAICO  D 250",
+        "PlanDescription": "SAICO INSURANCE GOLD DED 20%(MAX-50) COPAY NIL PH20%M300",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "D-SAICO  D200",
         "PlanDescription": "SAICO INSURANCE DED 200 COPAY NIL",
         "PlanActiveStatus": "Active"
