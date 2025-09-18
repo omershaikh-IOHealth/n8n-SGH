@@ -53,11 +53,6 @@
         "PlanActiveStatus": "Active"
       },
       {
-        "PlanCode": "ADNC D50LR30",
-        "PlanDescription": "ADNIC DED 50 COPAY LAB&RAD 30 PH NIL",
-        "PlanActiveStatus": "Active"
-      },
-      {
         "PlanCode": "ADNC D50P20",
         "PlanDescription": "ADNIC DED 50 COPAY NIL PH 20% DN 20%",
         "PlanActiveStatus": "Active"
@@ -280,11 +275,6 @@
       {
         "PlanCode": "ADNIC D50 C 20%",
         "PlanDescription": "ADNIC DED 50 CO20%  PH20%",
-        "PlanActiveStatus": "Active"
-      },
-      {
-        "PlanCode": "ADNIC D50 C0",
-        "PlanDescription": "ADNIC DED 20%MAX 50 OP NIL L/R 25AED PH 20%",
         "PlanActiveStatus": "Active"
       },
       {
