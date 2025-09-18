@@ -198,11 +198,6 @@
         "PlanActiveStatus": "Active"
       },
       {
-        "PlanCode": "OMAN D",
-        "PlanDescription": "OMAN INSURANCE DED 10%MAX 25 COPAY NIL",
-        "PlanActiveStatus": "Active"
-      },
-      {
         "PlanCode": "OMAN D0C0P20%",
         "PlanDescription": "OMAN BUPA DED 0 COPAY NIL",
         "PlanActiveStatus": "Active"
@@ -475,11 +470,6 @@
       {
         "PlanCode": "OMAN D50PH30%",
         "PlanDescription": "OMAN INSURANCE DED 50  COPAY 20% PH 30%",
-        "PlanActiveStatus": "Active"
-      },
-      {
-        "PlanCode": "OMAN D5PH30%",
-        "PlanDescription": "OMAN INSURANCE DED 50 OP 0 LAB/RAD 30AED PH 20%M50AED",
         "PlanActiveStatus": "Active"
       },
       {
