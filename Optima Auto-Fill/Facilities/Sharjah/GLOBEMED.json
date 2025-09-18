@@ -1,155 +1,75 @@
 [
   {
-    "PolicyGroupCode": "GLMED- BOUB GN",
-    "PolicyGroupDescription": "GLOBEMED - BOUBYAN TAKAFUL INS CO GN",
-    "RateListCode": "",
-    "PolicyGroupCustomerType": "Insurance Company",
-    "PolicGroupActiveStatus": "Active",
-    "PayerId": "INS098",
-    "Plans": [
-      {
-        "PlanCode": "GLOB BOB D0 C0",
-        "PlanDescription": "GLOBEMED INSURANCE DED NIL COPAY NIL",
-        "PlanActiveStatus": "Active"
-      }
-    ]
-  },
-  {
-    "PolicyGroupCode": "GLMED- ENAYA",
-    "PolicyGroupDescription": "GLOBEMED - ENAYA INSURANCE CO - KUWAIT",
-    "RateListCode": "GLOBEMED",
-    "PolicyGroupCustomerType": "Insurance Company",
-    "PolicGroupActiveStatus": "Active",
-    "PayerId": "INS057",
-    "Plans": [
-      {
-        "PlanCode": "GLOENAY C20%",
-        "PlanDescription": "GLOBEMED ENAYA KWT - DED 20% COPAY 20% PH 20%",
-        "PlanActiveStatus": "Active"
-      },
-      {
-        "PlanCode": "GLOENAYD20%P20%",
-        "PlanDescription": "GLOBEMED ENAYA KWT - DED 20% COPAY NIL PH 20%",
-        "PlanActiveStatus": "Active"
-      }
-    ]
-  },
-  {
-    "PolicyGroupCode": "GLOBE TAZUR",
-    "PolicyGroupDescription": "GLOBEMED - TAZUR TAKAFUL INSURANCE C0. (KUIWAIT)",
-    "RateListCode": "GLOBEMED",
-    "PolicyGroupCustomerType": "Insurance Company",
-    "PolicGroupActiveStatus": "Active",
-    "PayerId": "INS104",
-    "Plans": [
-      {
-        "PlanCode": "GLO TAZ C10%",
-        "PlanDescription": "GLOBEMED TAZUR DED 10% COPAY 10%",
-        "PlanActiveStatus": "Active"
-      },
-      {
-        "PlanCode": "GLO TAZ C15%",
-        "PlanDescription": "GLOBEMED TAZUR DED 15% COPAY 15%",
-        "PlanActiveStatus": "Active"
-      }
-    ]
-  },
-  {
-    "PolicyGroupCode": "GLOBEMED",
-    "PolicyGroupDescription": "GLOBEMED GULF TPA for Referred cases only PAPER",
+    "PolicyGroupCode": "DGLOBEMED",
+    "PolicyGroupDescription": "GLOBEMED - GULF TPA (GOP BASED & PAPER CLAIM)",
     "RateListCode": "GLOBEMED",
     "PolicyGroupCustomerType": "Insurance Company",
     "PolicGroupActiveStatus": "Active",
     "PayerId": "TPA011",
     "Plans": [
       {
-        "PlanCode": "GLOBEMED",
-        "PlanDescription": "GLOBEMED GULF GOP BASED DED 0 COPAY NIL",
+        "PlanCode": "D-GLMED D14.69",
+        "PlanDescription": "GLOBEMED (GOP BASED) DED 14.69 COPAY NIL",
         "PlanActiveStatus": "Active"
       },
       {
-        "PlanCode": "GLOBEMED 50DED",
-        "PlanDescription": "GLOBEMED GULF GOP BASED DED 50 COPAY NIL",
-        "PlanActiveStatus": "Active"
-      },
-      {
-        "PlanCode": "GLOBEMED C15%",
-        "PlanDescription": "GLOBEMED GULF GOP BASED DED 15% COPAY 15%",
-        "PlanActiveStatus": "Active"
-      },
-      {
-        "PlanCode": "GLOBEMED C20%",
-        "PlanDescription": "GLOBEMED GULF GOP BASED DED 20% COPAY 20%",
-        "PlanActiveStatus": "Active"
-      },
-      {
-        "PlanCode": "GLOBEMED D 49",
-        "PlanDescription": "GLOBEMED INSURANCE DED 49 COPAY NIL",
-        "PlanActiveStatus": "Active"
-      },
-      {
-        "PlanCode": "GLOBEMED D15",
-        "PlanDescription": "GLOBEMED GULF GOP BASED DED 15 COPAY NIL",
-        "PlanActiveStatus": "Active"
-      },
-      {
-        "PlanCode": "GLOBEMEDC10%",
-        "PlanDescription": "GLOBEMED GULF LIFE INS CO DED 10% COPAY 10%",
+        "PlanCode": "D-GLOBMED D0C0",
+        "PlanDescription": "GLOBEMED (GOP BASED) DED 0 COPAY NIL",
         "PlanActiveStatus": "Active"
       }
     ]
   },
   {
-    "PolicyGroupCode": "GMG AOIC",
-    "PolicyGroupDescription": "GLOBEMED ARAB ORIENT INSURANCE COMPANY (AOIC)",
+    "PolicyGroupCode": "DGMG QAT",
+    "PolicyGroupDescription": "GLOBEMED - QATAR L.L.C",
     "RateListCode": "GLOBEMED",
     "PolicyGroupCustomerType": "Insurance Company",
     "PolicGroupActiveStatus": "Active",
-    "PayerId": "INS008",
+    "PayerId": "INS019",
     "Plans": [
       {
-        "PlanCode": "GM AOIC D50C0",
-        "PlanDescription": "GLOBEMED ARAB ORIENT INS DED 50 COPAY NIL",
+        "PlanCode": "D-GLOBMED 10",
+        "PlanDescription": "GLOBEMED (GOP BASED) OP 10% AED PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-GLOBMED D45C0",
+        "PlanDescription": "GLOBEMED (GOP BASED) DED 45 AED COPAY NIL",
         "PlanActiveStatus": "Active"
       }
     ]
   },
   {
-    "PolicyGroupCode": "GMG ARABIA",
-    "PolicyGroupDescription": "GLOBEMED ARABIA INSURANCE COMPANY",
+    "PolicyGroupCode": "GLOBEMED",
+    "PolicyGroupDescription": "GLOBEMED - GULF TPA (GOP BASED & PAPER CLAIM)",
     "RateListCode": "GLOBEMED",
     "PolicyGroupCustomerType": "Insurance Company",
     "PolicGroupActiveStatus": "Active",
-    "PayerId": "INS042",
+    "PayerId": "TPA011",
     "Plans": [
       {
-        "PlanCode": "GMARABIA D0C0",
-        "PlanDescription": "GLOBEMED ARABIA DED 0 COPAY NIL",
+        "PlanCode": "GLOBMED D0C0",
+        "PlanDescription": "GLOBEMED (GOP BASED) DED 0 COPAY NIL",
         "PlanActiveStatus": "Active"
       },
       {
-        "PlanCode": "GMARABIA D20%",
-        "PlanDescription": "GLOBEMED ARABIA DED 20% COPAY 10% PH 10% DN 20%",
-        "PlanActiveStatus": "Active"
-      },
-      {
-        "PlanCode": "GMARABIA D20%C0",
-        "PlanDescription": "GLOBEMED ARABIA DED 20% COPAY NIL PH 10% DN 20%",
+        "PlanCode": "GLOBMED D14.69",
+        "PlanDescription": "GLOBEMED (GOP BASED) DED 14.69 COPAY NIL",
         "PlanActiveStatus": "Active"
       }
     ]
   },
   {
-    "PolicyGroupCode": "GMG BAH",
-    "PolicyGroupDescription": "GLOBEMED BAHRAIN W.L.L.",
+    "PolicyGroupCode": "GMG QAT",
+    "PolicyGroupDescription": "GLOBEMED - QATAR L.L.C",
     "RateListCode": "GLOBEMED",
     "PolicyGroupCustomerType": "Insurance Company",
     "PolicGroupActiveStatus": "Active",
-    "PayerId": "INS120",
+    "PayerId": "INS119",
     "Plans": [
       {
-        "PlanCode": "GLOBE BAH D50",
-        "PlanDescription": "GLOBEMED BAHRAIN DED 50 COPAY NIL",
+        "PlanCode": "GLOBMED D45C0",
+        "PlanDescription": "GLOBEMED (GOP BASED) DED 45 AED COPAY NIL",
         "PlanActiveStatus": "Active"
       }
     ]
