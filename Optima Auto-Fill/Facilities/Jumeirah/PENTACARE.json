@@ -1,0 +1,557 @@
+[
+  {
+    "PolicyGroupCode": "PENTA  GOP BASE",
+    "PolicyGroupDescription": "PENTACARE - GOP BASE PAPER CLAIM",
+    "RateListCode": "PENTACARE",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "TPA006",
+    "Plans": [
+      {
+        "PlanCode": "PENTA GOP D0C0",
+        "PlanDescription": "PENTACARE GOP BASED PAPER CLAIM DED NIL COPAY NIL",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "PENTA - GOP",
+    "PolicyGroupDescription": "PENTACARE - GOP BASED CASES PAPER (MAPFREE)",
+    "RateListCode": "PENTACARE",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "TPA006",
+    "Plans": [
+      {
+        "PlanCode": "PENTA D190C0",
+        "PlanDescription": "PENTACARE GOP BASED (GOP MANDATORY) DED 190 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "PENTA D220.39C0",
+        "PlanDescription": "PENTACARE GOP BASED (GOP MANDATORY) DED 220.39 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "PENTA D274C0",
+        "PlanDescription": "PENTACARE GOP BASED (GOP MANDATORY) DED 274 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "PENTA D360C0",
+        "PlanDescription": "PENTACARE GOP BASED (GOP MANDATORY) DED 360 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "PENTA D367C0",
+        "PlanDescription": "PENTACARE GOP BASED (GOP MANDATORY) DED 367 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "PENTA D368C0",
+        "PlanDescription": "PENTACARE GOP BASED (GOP MANDATORY) DED 368 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "PENTA D370C0",
+        "PlanDescription": "PENTACARE GOP BASED (GOP MANDATORY) DED 370 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "PENTA D490C0",
+        "PlanDescription": "PENTACARE GOP BASED (GOP MANDATORY) DED 490 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "PENTA D50",
+        "PlanDescription": "PENTACARE GOP BASED (GOP MANDATORY) DED 50 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "PENTACARE GOP",
+        "PlanDescription": "PENTACARE GOP BASED (GOP MANDATORY) DED 0 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "PNTACREGOP 240",
+        "PlanDescription": "PENTACARE GOP BASED (GOP MANDATORY) DED 240 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "PNTACREGOP180",
+        "PlanDescription": "PENTACARE GOP BASED (GOP MANDATORY) DED 180 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "PNTACREGOP183",
+        "PlanDescription": "PENTACARE GOP BASED (GOP MANDATORY) DED 183 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "PNTACREGOP184",
+        "PlanDescription": "PENTACARE GOP BASED (GOP MANDATORY) DED 184 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "PNTACREGOP185",
+        "PlanDescription": "PENTACARE GOP BASED (GOP MANDATORY) DED 185 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "PNTACREGOP20%",
+        "PlanDescription": "PENTACARE GOP BASED (GOP MANDATORY)  COPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "PNTACREGOP200",
+        "PlanDescription": "PENTACARE GOP BASED (GOP MANDATORY) DED 200 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "PNTACREGOP223",
+        "PlanDescription": "PENTACARE GOP BASED (GOP MANDATORY) DED 223 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "PNTACREGOP230.6",
+        "PlanDescription": "PENTACARE GOP BASED (GOP MANDATORY) DED 230.60 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "PENTA ALICO",
+    "PolicyGroupDescription": "PENTACARE - METLIFE ALICO",
+    "RateListCode": "PENTACARE",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS013",
+    "Plans": [
+      {
+        "PlanCode": "PENTA AL D0C0",
+        "PlanDescription": "PENTACARE METLIFE DED 0 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "PENTA AL D25",
+        "PlanDescription": "PENTACARE METLIFE DED 25 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "PENTA AL D25C0",
+        "PlanDescription": "PENTACARE METLIFE DED 25 COPAY NIL DN 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "PENTA AL D25P10",
+        "PlanDescription": "PENTACARE METLIFE DED 25 COPAY NIL PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "PENTA CO20%",
+        "PlanDescription": "PENTACARE METLIFE DED 20% COPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "PENTA D10%C10",
+        "PlanDescription": "PENTACARE METLIFE DED 10% COPAY 10% PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "PENTA D10%PH10%",
+        "PlanDescription": "PENTACARE METLIFE DED 10% COPAY NIL PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "PENTA D100C0",
+        "PlanDescription": "PENTACARE METLIFE DED 100 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "PENTA D50C10%",
+        "PlanDescription": "PENTACARE METLIFE DED 50 COPAY 10% PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "PENTA DED20%",
+        "PlanDescription": "PENTACARE METLIFE DED 20% (MAX AED 100) COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "PENTA DED20%C0",
+        "PlanDescription": "PENTACARE METLIFE DED 20% COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "PENTA DED50",
+        "PlanDescription": "PENTACARE METLIFE DED 50 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "PENTA DED75",
+        "PlanDescription": "PENTACARE METLIFE DED 75 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "PENTA ATLANTIS",
+    "PolicyGroupDescription": "PENTACARE - AXA INSURANCE (ATLANTIS GROUP)",
+    "RateListCode": "PENTA(ATLANTIS)",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS010",
+    "Plans": [
+      {
+        "PlanCode": "PENTA D20%",
+        "PlanDescription": "PENTACARE AXA DED 20%  COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "PENTA D60",
+        "PlanDescription": "PENTACARE AXA DED 60 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "PENTA D60C0",
+        "PlanDescription": "PENTACARE AXA DED 20%(MAX-AED 60) COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "PNT ATL C10%",
+        "PlanDescription": "PENTACARE ATLANTIS DED 10% COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "PNT ATL D0C0",
+        "PlanDescription": "PENTACARE ATLANTIS DED 0 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "PNT ATL D10%",
+        "PlanDescription": "PENTACARE ATLANTIS DED 10% COPAY NIL",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "PENTA DAR TAK",
+    "PolicyGroupDescription": "PENTACARE - DAR AL TAKAFUL",
+    "RateListCode": "PENTACARE",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS083",
+    "Plans": [
+      {
+        "PlanCode": "PEN DAR D0C0",
+        "PlanDescription": "PENTACARE DAR AL TAKAFUL DED 0 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "PENTA OIC",
+    "PolicyGroupDescription": "PENTACARE - OMAN INS CO",
+    "RateListCode": "PENTACARE",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS012",
+    "Plans": [
+      {
+        "PlanCode": "PENTA D50PH20%",
+        "PlanDescription": "PENTACARE OMAN DED 50  COPAY NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "PENTA TE",
+    "PolicyGroupDescription": "PENTACARE - TAKAFUL EMARAT",
+    "RateListCode": "PENTACARE",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS022",
+    "Plans": [
+      {
+        "PlanCode": "PENTA 75C10",
+        "PlanDescription": "PENTACARE TAKAFUL EMARAT DED 75 COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "PENTA D20%C10%",
+        "PlanDescription": "PENTACARE TAKAFUL EMARAT DED 20% COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "PENTA TE DED 50",
+        "PlanDescription": "PENTACARE TAKAFUL EMARAT DED 50 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "PENTACARE",
+        "PlanDescription": "PENTACARE TAKAFUL EMARAT DED 0 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "PENTACARE D0C0",
+        "PlanDescription": "PENTACARE TAKAFUL EMARAT DED 0 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "PENTATE",
+        "PlanDescription": "PENTACARE TAKAFUL EMARAT DED 35 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "PENTA UNION",
+    "PolicyGroupDescription": "PENTACARE - UNION INSURANCE P.S.C",
+    "RateListCode": "PENTACARE",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS040",
+    "Plans": [
+      {
+        "PlanCode": "PENTA UN D0C0",
+        "PlanDescription": "PENTACARE UNION INS DED 0 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "PENTA UN D50C0",
+        "PlanDescription": "PENTACARE UNION INS DED 50 COPAY NIL PH 30%",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "PENTAACE",
+    "PolicyGroupDescription": "PENTACARE - ACE LIFE",
+    "RateListCode": "PENTACARE",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS092",
+    "Plans": [
+      {
+        "PlanCode": "PENTAACED0C0",
+        "PlanDescription": "PENTACARE ACE LIFE DED 0 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "PENTAACED250",
+        "PlanDescription": "PENTACARE ACE LIFE DED 250 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "PENTAACED25C0",
+        "PlanDescription": "PENTACARE ACE LIFE DED 25 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "PENTAACED360",
+        "PlanDescription": "PENTACARE ACE LIFE DED 360 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "PENTAACED365",
+        "PlanDescription": "PENTACARE ACE LIFE DED 365 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "PENTAACED367",
+        "PlanDescription": "PENTACARE ACE LIFE DED 367 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "PENTAACED50C0",
+        "PlanDescription": "PENTACARE ACE LIDE DED 50 COPAY NILl",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "PENTANLGI",
+    "PolicyGroupDescription": "PENTACARE - NATIONAL LIFE & GEN INS (NLGI)",
+    "RateListCode": "PENTACARE",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS044",
+    "Plans": [
+      {
+        "PlanCode": "PENTANLGI25C0",
+        "PlanDescription": "Penta Care - NationalLife&GeneraIin Deductable 25 Copay nill",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "PENTANLGI50C0",
+        "PlanDescription": "Penta Care - NationalLife&GeneraIins Detuctabl 50 Copay nill",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "PENTANLGID0C0",
+        "PlanDescription": "Penta Care - NationalLife&GeneraIins Deductable 0 Copay nill",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "PENTANMETHAQ",
+    "PolicyGroupDescription": "PENTACARE - METHAQ TAKAFUL",
+    "RateListCode": "PENTACARE",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS037",
+    "Plans": [
+      {
+        "PlanCode": "PENTANMETHA25C0",
+        "PlanDescription": "Penta Care - Methaq Takaful Deductable 25 Copay nill",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "PENTANMETHA50C0",
+        "PlanDescription": "Penta Care - Methaq Takaful Deductable 50 Copay nill",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "PENTANMETHAD0C0",
+        "PlanDescription": "Penta Care - Methaq Takaful Deductable 0 Copay nill",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "PENTANOOR",
+    "PolicyGroupDescription": "PENTACARE - NOOR TAKAFUL",
+    "RateListCode": "PENTACARE",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS018",
+    "Plans": [
+      {
+        "PlanCode": "PENTANOOR20%C0",
+        "PlanDescription": "PENTACARE NOOR TAKAFUL DED 20% COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "PENTANOOR25C0",
+        "PlanDescription": "PENTACARE NOOR TAKAFUL DED 25 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "PENTANOOR50C0",
+        "PlanDescription": "PENTACARE NOOR TAKAFUL DED 50 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "PENTANOOR75C0",
+        "PlanDescription": "PENTACARE NOOR TAKAFUL DED 75 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "PENTANOORD0C0",
+        "PlanDescription": "PENTACARE NOOR TAKAFUL DED 0 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "PENTAUNITED",
+    "PolicyGroupDescription": "PENTACARE - FIDELITY UNITED INSURANCE COMPANY",
+    "RateListCode": "PENTACARE",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS041",
+    "Plans": [
+      {
+        "PlanCode": "PENTAUNITED180",
+        "PlanDescription": "PENTACARE UNITED INS DED 180 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "PENTAUNITED25C0",
+        "PlanDescription": "PENTACARE UNITED INS DED 25 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "PENTAUNITED50C0",
+        "PlanDescription": "PENTACARE UNITED INS DED 50 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "PENTAUNITED75C0",
+        "PlanDescription": "PENTACARE UNITED INS DED 75 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "PENTAUNITEDD0C0",
+        "PlanDescription": "PENTACARE UNITED INS DED 0 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "PENTAXA",
+    "PolicyGroupDescription": "PENTACARE - AXA INSURANCE",
+    "RateListCode": "PENTACARE",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS010",
+    "Plans": [
+      {
+        "PlanCode": "PENTA AXA D30",
+        "PlanDescription": "PENTACARE AXA DED 30 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "PENTA AXA D60",
+        "PlanDescription": "PENTACARE AXA DED 60 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "PENTA AXA D75",
+        "PlanDescription": "PENTACARE AXA DED 75 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "PENTA C15%",
+        "PlanDescription": "PENTACARE AXA DED 15%  COPAY 15%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "PENTA C20%",
+        "PlanDescription": "PENTACARE AXA DED 20% COPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "PENTA D0C0",
+        "PlanDescription": "PENTACARE AXA DED 0 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "PENTA D10%",
+        "PlanDescription": "PENTACARE AXA DED 10% COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "PENTA D15%C15%",
+        "PlanDescription": "PENTACARE AXA DED 15%  COPAY 15%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "PENTA D20%C0",
+        "PlanDescription": "PENTACARE AXA DED 20% COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "PENTA D50C0",
+        "PlanDescription": "PENTACARE AXA DED 20%(MAX-AED 50) COPAY NIL DN 15%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "PENTA D50D20%",
+        "PlanDescription": "PENTACARE AXA DED 20%(MAX-AED 50) COPAY NIL DN 20%",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  }
+]
