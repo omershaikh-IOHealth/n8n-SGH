@@ -8,6 +8,11 @@
     "PayerId": "INS020",
     "Plans": [
       {
+        "PlanCode": "ABNI D20%PH 10",
+        "PlanDescription": "AL BUHAIRA DED20% OP NIL L/R /PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "ABNI D50C0PH10%",
         "PlanDescription": "AL BUHAIRA DED 50 COPAY NIL PH 10% DN 20%",
         "PlanActiveStatus": "Active"
@@ -15,6 +20,11 @@
       {
         "PlanCode": "ABNI D50C0PH20%",
         "PlanDescription": "AL BUHAIRA DED 50 COPAY NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ABNIC C20",
+        "PlanDescription": "AL BUHAIRA DED 10%MAX 30 COPAY 10%",
         "PlanActiveStatus": "Active"
       },
       {
@@ -28,8 +38,8 @@
         "PlanActiveStatus": "Active"
       },
       {
-        "PlanCode": "ABNIC D20",
-        "PlanDescription": "AL BUHAIRA DED 10%M30AED   COPAY 10%",
+        "PlanCode": "ABNIC C30%",
+        "PlanDescription": "AL BUHAIRA  COPAY 30%",
         "PlanActiveStatus": "Active"
       },
       {
@@ -38,13 +48,8 @@
         "PlanActiveStatus": "Active"
       },
       {
-        "PlanCode": "ABNIC D20% 25",
-        "PlanDescription": "AL BUHAIRA DED 20%MAX 25 COPAY NIL",
-        "PlanActiveStatus": "Active"
-      },
-      {
         "PlanCode": "ABNIC D20% 50",
-        "PlanDescription": "AL BUHAIRA DED 20%MAX 50 COPAY NIL",
+        "PlanDescription": "AL BUHAIRA DED 20%MAX 50  COPAY NIL",
         "PlanActiveStatus": "Active"
       },
       {
@@ -65,16 +70,6 @@
       {
         "PlanCode": "ABNIC D20%C5%",
         "PlanDescription": "AL BUHAIRA DED 20% COPAY 05% PH 05%",
-        "PlanActiveStatus": "Active"
-      },
-      {
-        "PlanCode": "ABNIC D200%",
-        "PlanDescription": "AL BUHAIRA DED 20%M30AED   COPAY 10%",
-        "PlanActiveStatus": "Active"
-      },
-      {
-        "PlanCode": "ABNIC D200%3020",
-        "PlanDescription": "AL BUHAIRA DED 20%M30AED   COPAY 20%",
         "PlanActiveStatus": "Active"
       },
       {
@@ -100,6 +95,11 @@
       {
         "PlanCode": "ABNIC D50C5%",
         "PlanDescription": "AL BUHAIRA DED 50 COPAY 5% PH 5%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ABNIC D50CX",
+        "PlanDescription": "AL BUHAIRA DED 50 COPAY 25% PH 15%",
         "PlanActiveStatus": "Active"
       },
       {
@@ -133,6 +133,11 @@
         "PlanActiveStatus": "Active"
       },
       {
+        "PlanCode": "ABNIC DED 50D",
+        "PlanDescription": "AL BUHAIRA DED 80AED COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "ABNIC DED 50P10",
         "PlanDescription": "AL BUHAIRA DED 50 COPAY NIL PH 10%",
         "PlanActiveStatus": "Active"
@@ -160,6 +165,11 @@
       {
         "PlanCode": "ABNIC DED70C0",
         "PlanDescription": "AL BUHAIRA DED 70 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ABNICXD70C0P15%",
+        "PlanDescription": "AL BUHAIRA DED 70 COPAY 15%",
         "PlanActiveStatus": "Active"
       },
       {
