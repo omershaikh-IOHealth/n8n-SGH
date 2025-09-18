@@ -1,0 +1,17 @@
+[
+  {
+    "PolicyGroupCode": "ALIANZ POLARCUS",
+    "PolicyGroupDescription": "ALLIANZ POLARCUS",
+    "RateListCode": "POLARCUS",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS053",
+    "Plans": [
+      {
+        "PlanCode": "ALLIANZPOLAR",
+        "PlanDescription": "ALLIANZ - POLARCUS CHECKUP DED 0 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  }
+]
