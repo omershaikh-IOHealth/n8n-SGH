@@ -1033,6 +1033,11 @@
         "PlanActiveStatus": "Active"
       },
       {
+        "PlanCode": "D-OM D20%M300",
+        "PlanDescription": "OMAN  INSURANCE PREMIUM  DED 20% M300 LAB/RAD10% PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "D-OM P  D   20%",
         "PlanDescription": "OMAN INSURANCE  PRN DED 20%(MAX50) COPAY NIL",
         "PlanActiveStatus": "Active"
