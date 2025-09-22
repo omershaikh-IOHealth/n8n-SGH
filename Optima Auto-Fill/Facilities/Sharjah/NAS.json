@@ -2198,6 +2198,11 @@
         "PlanActiveStatus": "Active"
       },
       {
+        "PlanCode": "D-NA NLGI D10%",
+        "PlanDescription": "NAS RN+SRN+WN NLGI DED 10% COPAY 10% M 200 PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "D-NA NLGI D25C0",
         "PlanDescription": "NAS RN+ARN+WN NLGI DED 25 COPAY NIL IP 10%",
         "PlanActiveStatus": "Active"
@@ -5130,6 +5135,11 @@
       {
         "PlanCode": "D-NAQ DED50CO10",
         "PlanDescription": "NAS CN QIC UAE DED 50 COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-NAQ DED75",
+        "PlanDescription": "NAS CN QIC UAE DED 75 PH 20% M 150",
         "PlanActiveStatus": "Active"
       },
       {
@@ -10640,6 +10650,11 @@
       {
         "PlanCode": "NAS QIC DED 20%",
         "PlanDescription": "NAS CN QIC UAE DED 20% COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NAS QIC DED 75",
+        "PlanDescription": "NAS CN QIC UAE DED 75 AED COPAY NIL",
         "PlanActiveStatus": "Active"
       },
       {
