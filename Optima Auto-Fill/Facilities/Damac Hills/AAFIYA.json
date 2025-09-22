@@ -26,6 +26,11 @@
         "PlanCode": "AAF TK D",
         "PlanDescription": "AAFIYA APN PLUS AL SAGR  DED 20%M35  COPAY 20%",
         "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AAF TK D20%25",
+        "PlanDescription": "AAFIYA APN PLUS AL SAGR  DED 20% M25  COPAY NIL",
+        "PlanActiveStatus": "Active"
       }
     ]
   },
