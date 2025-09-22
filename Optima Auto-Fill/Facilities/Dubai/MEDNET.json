@@ -1288,6 +1288,11 @@
         "PlanActiveStatus": "Active"
       },
       {
+        "PlanCode": "MD DN D%100",
+        "PlanDescription": "MEDNET DXB NAT. INS & REIN. DED 20% MAX 100 COPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "MD DN D10%50",
         "PlanDescription": "MEDNET DXB NAT. INS & REIN. DED 10% MAX 50 COPAY 10% PH 10%",
         "PlanActiveStatus": "Active"
@@ -2933,6 +2938,11 @@
         "PlanActiveStatus": "Active"
       },
       {
+        "PlanCode": "MDT UNB D20%M",
+        "PlanDescription": "MEDNET ORIENT UNB TAKAFUL DED 20%M 50 COPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "MDT UNB D50",
         "PlanDescription": "MEDNET ORIENT UNB TAKAFUL DED 50 COPAY NIL",
         "PlanActiveStatus": "Active"
@@ -3810,6 +3820,11 @@
       {
         "PlanCode": "MD ALICO 50",
         "PlanDescription": "MEDNET METLIFE (VIP & GOLD) DED 72AED  COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MD ALICO 50AED",
+        "PlanDescription": "MEDNET METLIFE (VIP & GOLD) COPAY 50 AED",
         "PlanActiveStatus": "Active"
       },
       {
