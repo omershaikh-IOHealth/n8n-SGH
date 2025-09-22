@@ -1653,6 +1653,11 @@
         "PlanActiveStatus": "Active"
       },
       {
+        "PlanCode": "NA GM D20%M50C",
+        "PlanDescription": "NAS GN MEDGULF DED 20% MAX 50 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "NAS G M CO 20%",
         "PlanDescription": "NAS GN MEDGULF  COPAY 20%",
         "PlanActiveStatus": "Active"
@@ -3100,6 +3105,11 @@
       {
         "PlanCode": "NAS NLG C20%",
         "PlanDescription": "NAS CN NLGI DED 20% COPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NAS NLG D2050C",
+        "PlanDescription": "NAS CN NLGI DED 20% MAX 50 CO NIL",
         "PlanActiveStatus": "Active"
       },
       {
