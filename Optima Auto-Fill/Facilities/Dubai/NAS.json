@@ -158,6 +158,11 @@
         "PlanActiveStatus": "Active"
       },
       {
+        "PlanCode": "NAS AA D20%M",
+        "PlanDescription": "NAS GN AL AIN AHLIA DED 20% MAX 50 COPAY 10% ph 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "NAS AA D20100",
         "PlanDescription": "NAS GN AL AIN AHLIA DED 20% MAX100",
         "PlanActiveStatus": "Active"
@@ -1950,6 +1955,11 @@
       {
         "PlanCode": "NAS BUH D30%",
         "PlanDescription": "NAS GN AL BUHAIRA DED 30% COPAY 20% PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NAS BUH D50AED",
+        "PlanDescription": "NAS GN AL BUHAIRA DED 50 COPAY 20%M 25 PH 5%",
         "PlanActiveStatus": "Active"
       },
       {
@@ -9365,6 +9375,11 @@
       {
         "PlanCode": "N GN NTC10%P20X",
         "PlanDescription": "NAS GN NOOR TAKAFUL DED 10% COPAY 10% PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "N GN NTD2030",
+        "PlanDescription": "NAS GN NOOR TAKAFUL COPAY 30%",
         "PlanActiveStatus": "Active"
       },
       {
