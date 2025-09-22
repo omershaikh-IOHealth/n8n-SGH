@@ -4248,6 +4248,11 @@
         "PlanActiveStatus": "Active"
       },
       {
+        "PlanCode": "NC ALFUJC20%M",
+        "PlanDescription": "NEXTCARE AL FUJAIRAH NAT. INS DED 20% M 50 CO NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "NC ALFUJD20%C0",
         "PlanDescription": "NEXTCARE AL FUJAIRAH NAT. INS DED 20% COPAY NIL",
         "PlanActiveStatus": "Active"
