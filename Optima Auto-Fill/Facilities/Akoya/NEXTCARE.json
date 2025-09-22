@@ -3018,6 +3018,11 @@
         "PlanActiveStatus": "Active"
       },
       {
+        "PlanCode": "NC  AOIC D20%M",
+        "PlanDescription": "NEXTCARE ARAB ORIENT DED 20%M75 COPAY NIL PH 20%M 50",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "NC  AOIC D20C",
         "PlanDescription": "NEXTCARE ARAB ORIENT DED 20%M50 COPAY NIL PH 20%",
         "PlanActiveStatus": "Active"
