@@ -1021,6 +1021,11 @@
         "PlanCode": "AXA 4 D20%M75C0",
         "PlanDescription": "AXA 4 DED 20% MAX 75 COPAY NIL PH 10%",
         "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 4 D250",
+        "PlanDescription": "AXA 4 DED 20% MAX 50 COPAY NIL PH 10%",
+        "PlanActiveStatus": "Active"
       }
     ]
   },
