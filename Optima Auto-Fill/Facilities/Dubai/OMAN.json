@@ -728,6 +728,11 @@
         "PlanActiveStatus": "Active"
       },
       {
+        "PlanCode": "OMAN D15%0",
+        "PlanDescription": "OMAN PREMIUM/CN/CN+ DED15%M50 50 OP/LAB/RAD/PH 15%",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "OMAN D15%50",
         "PlanDescription": "OMAN PREMIUM/CN/CN+ DED15%M50 50 CO 15%M50 PH 10%M50",
         "PlanActiveStatus": "Active"
@@ -1800,6 +1805,11 @@
       {
         "PlanCode": "OM SN D15AED",
         "PlanDescription": "OMAN INSURANCE STANDARD DED15 AED COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OM SN D2%M25",
+        "PlanDescription": "OMAN STANDARD DED 20% MAX 25 LAB/RAD 20%  OP/PH NIL",
         "PlanActiveStatus": "Active"
       },
       {
