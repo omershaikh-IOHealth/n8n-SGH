@@ -16333,6 +16333,11 @@
     "PayerId": "INS014",
     "Plans": [
       {
+        "PlanCode": "NC RAS  C0D0 RN",
+        "PlanDescription": "NEXTCARE RN/RN2 RAS AL KHAIMAH DED NIL COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "NC RAS C",
         "PlanDescription": "NEXTCARE RN RAS AL KHAIMAH DED 20%M50 COPAY  NIL",
         "PlanActiveStatus": "Active"
