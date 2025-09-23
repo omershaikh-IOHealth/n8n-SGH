@@ -393,6 +393,11 @@
         "PlanActiveStatus": "Active"
       },
       {
+        "PlanCode": "AL MDALL D 1D0",
+        "PlanDescription": "ALMADALLAH QIC DED 20%MAX50 COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "AL MDALL D 20",
         "PlanDescription": "ALMADALLAH QIC COPAY 20%",
         "PlanActiveStatus": "Active"
@@ -415,6 +420,11 @@
       {
         "PlanCode": "AL MDALL D92",
         "PlanDescription": "ALMADALLAH QIC DED 20% MAX 92 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AL MDALL DD0",
+        "PlanDescription": "ALMADALLAH QIC DED 20%MAX20 COPAY 10%",
         "PlanActiveStatus": "Active"
       },
       {
