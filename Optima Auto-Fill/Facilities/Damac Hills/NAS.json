@@ -2223,6 +2223,11 @@
         "PlanActiveStatus": "Active"
       },
       {
+        "PlanCode": "D-NALGID20%C10",
+        "PlanDescription": "NAS RN+ARN+WN NLGI DED 20% M50 COPAY 10% PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "D-NALGID20%M50",
         "PlanDescription": "NAS RN+ARN+WN NLGI DED 20% M50 COPAY 10% PH NIL",
         "PlanActiveStatus": "Active"
