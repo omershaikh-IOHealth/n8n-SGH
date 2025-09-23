@@ -1248,6 +1248,11 @@
     "PayerId": "INS134",
     "Plans": [
       {
+        "PlanCode": "NC MED D20%M",
+        "PlanDescription": "NEXTCARE MEDGULF UAE DED 20% M50 LAB/RAD 20% PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "NC MED D20%P10%",
         "PlanDescription": "NEXTCARE MEDGULF UAE DED 20% COPAY NIL PH 10%",
         "PlanActiveStatus": "Active"
