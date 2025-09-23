@@ -5703,6 +5703,11 @@
         "PlanActiveStatus": "Active"
       },
       {
+        "PlanCode": "D-NACNQIC D15%",
+        "PlanDescription": "NAS EN+CN QATAR INS DED 15%M100  COPAY 15% M 200",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "D-NAQC20%P15",
         "PlanDescription": "NAS EN+CN QATAR INS (QIC) COPAY 20% PH 30%",
         "PlanActiveStatus": "Active"
@@ -6570,6 +6575,11 @@
       {
         "PlanCode": "D-NAS QIC PH",
         "PlanDescription": "NAS RN+SRN+WN QATAR INS (QIC) DED NIL COPAY NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-NAS QIC1050",
+        "PlanDescription": "NAS RN+SRN+WN QATAR INS (QIC) COPAY 10%MAX 50 PH 10%",
         "PlanActiveStatus": "Active"
       },
       {
@@ -13385,6 +13395,11 @@
       {
         "PlanCode": "NAG OR D500%",
         "PlanDescription": "NAS GN ORIENT DED 50 COPAY NIL PH 20%MAX 100",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NAG OR D50AED",
+        "PlanDescription": "NAS GN ORIENT DED 50 AED",
         "PlanActiveStatus": "Active"
       },
       {
