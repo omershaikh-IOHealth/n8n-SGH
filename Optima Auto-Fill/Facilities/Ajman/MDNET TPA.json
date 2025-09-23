@@ -1163,6 +1163,11 @@
         "PlanActiveStatus": "Active"
       },
       {
+        "PlanCode": "D-M N2  DI C50",
+        "PlanDescription": "MEDNET N2 DUBAI INS COPAY 50 AED",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "D-M N2  DI D0%",
         "PlanDescription": "MEDNET N2 DUBAI INS DED 20% (MAX-50) COPAY 10%",
         "PlanActiveStatus": "Active"
@@ -4253,6 +4258,11 @@
         "PlanActiveStatus": "Active"
       },
       {
+        "PlanCode": "M N2  DI %C0",
+        "PlanDescription": "MEDNET N2 DUBAI INS DED 50AED OP NIL LAB/RAD 50AED PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "M N2  DI D%MM",
         "PlanDescription": "MEDNET N2 DUBAI INS DED 40AED COPAY NIL",
         "PlanActiveStatus": "Active"
@@ -5840,6 +5850,11 @@
       {
         "PlanCode": "MED WAT  D20%C0",
         "PlanDescription": "MEDNET WATANIA DED 20%(MAX 50AED)  COPAY NIL PH10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MED WAT 0%C0",
+        "PlanDescription": "MEDNET WATANIA DED 50AED  COPAY NIL",
         "PlanActiveStatus": "Active"
       },
       {
