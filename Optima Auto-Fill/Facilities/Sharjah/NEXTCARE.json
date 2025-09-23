@@ -1633,6 +1633,11 @@
     "PayerId": "INS134",
     "Plans": [
       {
+        "PlanCode": "D-NC MED D49",
+        "PlanDescription": "NEXTCARE MEDGULF UAE DED 49 AED",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "D-NC MEDD20%C10",
         "PlanDescription": "NEXTCARE MEDGULF UAE DED 20% M75 COPAY L/R10%  PH 15%",
         "PlanActiveStatus": "Active"
@@ -8775,6 +8780,21 @@
       {
         "PlanCode": "NCARJUM INSD50",
         "PlanDescription": "NEXTCARE GN JUMEIRAH INT DED 50 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "NEXTMEDG TK BAH",
+    "PolicyGroupDescription": "NEXTCARE - MEDGULF TAKAFUL B.S.C. (C) BAH",
+    "RateListCode": "NEXTCARE",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS062",
+    "Plans": [
+      {
+        "PlanCode": "NC MED D49",
+        "PlanDescription": "NEXTCARE MEDGULF UAE DED 49 AED",
         "PlanActiveStatus": "Active"
       }
     ]
