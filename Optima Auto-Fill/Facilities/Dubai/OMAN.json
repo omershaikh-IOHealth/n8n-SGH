@@ -1808,6 +1808,11 @@
         "PlanActiveStatus": "Active"
       },
       {
+        "PlanCode": "OM SN D2%M",
+        "PlanDescription": "OMAN STANDARD DED 20% MAX 25 LAB/RAD/PH 20% OP NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "OM SN D2%M25",
         "PlanDescription": "OMAN STANDARD DED 20% MAX 25 LAB/RAD 20%  OP/PH NIL",
         "PlanActiveStatus": "Active"
