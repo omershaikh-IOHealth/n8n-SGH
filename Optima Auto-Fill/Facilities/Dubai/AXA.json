@@ -1403,6 +1403,11 @@
         "PlanActiveStatus": "Active"
       },
       {
+        "PlanCode": "AXA 1 P2 610",
+        "PlanDescription": "AXA 1 PRIVILEGE   DED 20%M50 COPAY NIL PH 5% (2000 LIMIT)",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "AXA 1D10%",
         "PlanDescription": "AXA 1 DED 10% L/R 15% PH 30%",
         "PlanActiveStatus": "Active"
