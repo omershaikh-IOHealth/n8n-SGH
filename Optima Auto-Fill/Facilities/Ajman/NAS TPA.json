@@ -7693,6 +7693,11 @@
         "PlanActiveStatus": "Active"
       },
       {
+        "PlanCode": "D-NAUNB C20",
+        "PlanDescription": "NAS GN UNB TAKAFUL DED 20% (MAX-50) COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "D-NAUNB D20% C",
         "PlanDescription": "NAS EN+CN+GN ORIENT UNB TAKAFUL DED 20% COPAY 20% PH 30%",
         "PlanActiveStatus": "Active"
