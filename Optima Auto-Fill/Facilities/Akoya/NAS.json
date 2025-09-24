@@ -6438,6 +6438,11 @@
         "PlanActiveStatus": "Active"
       },
       {
+        "PlanCode": "NAS Q D20%X",
+        "PlanDescription": "NAS CN QIC UAE DED 20% M 50 AED COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "NAS Q D20AED",
         "PlanDescription": "NAS CN QIC UAE DED 20AED  COPAY NIL PH 20%M100",
         "PlanActiveStatus": "Active"
