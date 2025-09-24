@@ -616,6 +616,11 @@
         "PlanCode": "NGI- C10%",
         "PlanDescription": "NGI- NATIONAL GEN.INSURANCE  COPAY 10% PH 20%",
         "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NGI- D20%C15%",
+        "PlanDescription": "NGI- NATIONAL GEN.INSURANCE D20% M 50  COPAY 15% PH 15%",
+        "PlanActiveStatus": "Active"
       }
     ]
   },
