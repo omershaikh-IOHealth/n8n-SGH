@@ -7388,6 +7388,11 @@
         "PlanActiveStatus": "Active"
       },
       {
+        "PlanCode": "NAS A C20%P25%",
+        "PlanDescription": "NAS GN ABU DHABI NAT TAKAFUL DED20%COPAY 20%PH 25%",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "NAS A D20 M75",
         "PlanDescription": "NAS GN ABU DHABI NAT TAKAFUL DED20%M75 CPAY15%M100PH 15%M100",
         "PlanActiveStatus": "Active"
