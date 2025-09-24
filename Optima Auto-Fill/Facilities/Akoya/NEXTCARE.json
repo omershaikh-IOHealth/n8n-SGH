@@ -6198,6 +6198,11 @@
         "PlanActiveStatus": "Active"
       },
       {
+        "PlanCode": "NC UN D20%M",
+        "PlanDescription": "NEXTCARE UNION INS DED 20% M 50 LAB/RAD 10% PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "NC UN D20%P20%",
         "PlanDescription": "NEXTCARE UNION INS DED 20% COPAY 10% PH 20%",
         "PlanActiveStatus": "Active"
