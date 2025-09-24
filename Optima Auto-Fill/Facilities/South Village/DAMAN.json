@@ -753,6 +753,11 @@
         "PlanActiveStatus": "Active"
       },
       {
+        "PlanCode": "DAM N2 D20%CM",
+        "PlanDescription": "DAMAN NET-2 DED 20% M 50 COPAY 20% PH 20% M 100",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "DAM N2 D20%D",
         "PlanDescription": "DAMAN NET-2 DED 20% COPAY 10% PH 10%",
         "PlanActiveStatus": "Active"
