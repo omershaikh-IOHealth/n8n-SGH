@@ -278,6 +278,11 @@
         "PlanActiveStatus": "Active"
       },
       {
+        "PlanCode": "NC  AL AO D0C50",
+        "PlanDescription": "NEXTCARE ALLIANZ ARAB ORIENT DED 0 COPAY 50 AED",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "NC  AL AO D0P30",
         "PlanDescription": "NEXTCARE ALLIANZ ARAB ORIENT DED 0 COPAY NIL PH 30%",
         "PlanActiveStatus": "Active"
