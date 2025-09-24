@@ -5045,6 +5045,21 @@
     ]
   },
   {
+    "PolicyGroupCode": "NC-NEW- REF",
+    "PolicyGroupDescription": "NEXTCARE- THE NEW INDIA - REF CASES - 1.3 FACTOR",
+    "RateListCode": "",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS046",
+    "Plans": [
+      {
+        "PlanCode": "NEXTCR NEW INDI",
+        "PlanDescription": "NEXTCARE- THE NEW INDIA DED 0 COPAY NIL - REFERRED CASES 1.3",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
     "PolicyGroupCode": "NC-SALAMA - REF",
     "PolicyGroupDescription": "NEXTCARE-ISLAMIC ARAB INSURANCE COM - REF CASES - 1.3 FACTOR",
     "RateListCode": "",
