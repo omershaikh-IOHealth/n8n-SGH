@@ -496,6 +496,11 @@
         "PlanCode": "MD AS DM575 D",
         "PlanDescription": "MEDNET AMERICAN  DED 20% MAX 75 OP 10% LAB/RAD 10%M100 PH10%",
         "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MD AS M575",
+        "PlanDescription": "MEDNET AMERICAN  DED 20% MAX 100 COPAY 20%M100 PH20%",
+        "PlanActiveStatus": "Active"
       }
     ]
   },
