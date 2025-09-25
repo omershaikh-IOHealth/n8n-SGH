@@ -3003,8 +3003,18 @@
     "PayerId": "TPA004",
     "Plans": [
       {
+        "PlanCode": "NAS GOP D0",
+        "PlanDescription": "NAS GOP BASED DED NIL COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "NAS GOP D0C0",
-        "PlanDescription": "NAS GOP BASED DED 0 COPAY NIL",
+        "PlanDescription": "NAS GOP BASED DED 56.93 AED COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NAS GOP DC0",
+        "PlanDescription": "NAS GOP BASED DED 56.93 AED COPAY NIL",
         "PlanActiveStatus": "Active"
       }
     ]
