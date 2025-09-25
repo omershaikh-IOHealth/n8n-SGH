@@ -1441,6 +1441,11 @@
         "PlanCode": "MEDNET AD20%M75",
         "PlanDescription": "MEDNET ALICO GOLD DED 20% (MAX-75) COPAY NIL",
         "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MEDNET AD2060",
+        "PlanDescription": "MEDNET ALICO  DED 20% (MAX-30) COPAY NIL",
+        "PlanActiveStatus": "Active"
       }
     ]
   },
