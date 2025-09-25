@@ -3136,6 +3136,11 @@
         "PlanCode": "D-MED UNC0",
         "PlanDescription": "MEDNET ORIENT UNB GREEN  DED NIL COPAY NIL",
         "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MED UNC050",
+        "PlanDescription": "MEDNET ORIENT UNB GREEN  DED 20%MAX 50 COPAY NIL",
+        "PlanActiveStatus": "Active"
       }
     ]
   },
@@ -5685,6 +5690,11 @@
       {
         "PlanCode": "M ALICO D2010",
         "PlanDescription": "MEDNET-METLIFE DED 50  COPAY NIL PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "M ALICO D201100",
+        "PlanDescription": "MEDNET-METLIFE DED 100AED  COPAY NIL PH NIL",
         "PlanActiveStatus": "Active"
       },
       {
