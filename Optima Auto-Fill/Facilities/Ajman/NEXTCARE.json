@@ -16708,6 +16708,11 @@
         "PlanActiveStatus": "Active"
       },
       {
+        "PlanCode": "NC  AXA GRNX",
+        "PlanDescription": "NEXTCARE GN AXA GREEN COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "NC AXA 205010",
         "PlanDescription": "NEXTCARE GN AXA GREEN DED 20%(MAX 50)L/R 10%  PH 15%",
         "PlanActiveStatus": "Active"
