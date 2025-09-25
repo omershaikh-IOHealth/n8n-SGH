@@ -510,6 +510,21 @@
     ]
   },
   {
+    "PolicyGroupCode": "AAFIYA-APN EDG",
+    "PolicyGroupDescription": "AAFIYA - TAKAFUL EMARAT - APN EDGE",
+    "RateListCode": "AAFIYA - PL&PR",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS022",
+    "Plans": [
+      {
+        "PlanCode": "AAF TE E D20%M",
+        "PlanDescription": "AAFIYA EDGE TAKAFUL EMARAT DED20% M 50 COPAY 10% PH10%",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
     "PolicyGroupCode": "AAFIYA-APN EDGE",
     "PolicyGroupDescription": "AAFIYA - DUBAI NAT0 INSURANCE AND REINS - APN EDGE",
     "RateListCode": "AAFIYA - PL&PR",
@@ -1160,6 +1175,11 @@
       {
         "PlanCode": "D-AAF TAFU ED 0",
         "PlanDescription": "AAFIYA APN EDGE TAKAFUL EMARAT  DED 0 CO NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAAF TE E D20%M",
+        "PlanDescription": "AAFIYA EDGE TAKAFUL EMARAT DED20% M 50 COPAY 10% PH10%",
         "PlanActiveStatus": "Active"
       }
     ]
