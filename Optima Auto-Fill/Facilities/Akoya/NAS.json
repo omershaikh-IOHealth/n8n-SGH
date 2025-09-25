@@ -2698,6 +2698,11 @@
     "PayerId": "INS041",
     "Plans": [
       {
+        "PlanCode": "NAGN F D20M50",
+        "PlanDescription": "NAS GN FIDELITY DED 20% MAX 50 COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "NAS UN D0%M5",
         "PlanDescription": "NAS GN UNITED FIDELITY DED 50AED   COPAY NIL PH 20%",
         "PlanActiveStatus": "Active"
