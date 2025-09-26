@@ -2308,6 +2308,11 @@
         "PlanActiveStatus": "Active"
       },
       {
+        "PlanCode": "AXA 4 D20%",
+        "PlanDescription": "AXA 4 DED 20%COPAY 20% LAB/RAD 10% PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "AXA 4 D20%C20%",
         "PlanDescription": "AXA 4 DED 20% COPAY 20%",
         "PlanActiveStatus": "Active"
