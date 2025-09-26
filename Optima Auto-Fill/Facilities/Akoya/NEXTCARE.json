@@ -2438,6 +2438,11 @@
         "PlanActiveStatus": "Active"
       },
       {
+        "PlanCode": "NC  GARG DD0C0",
+        "PlanDescription": "NEXTCARE-ORIENT GARGASH DED 1 AED COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "NC  GARGD20M50",
         "PlanDescription": "NEXTCARE-ORIENT GARGASH DED 20% M50 COPAY NIL",
         "PlanActiveStatus": "Active"
