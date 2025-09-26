@@ -4933,6 +4933,11 @@
     "PayerId": "INS014",
     "Plans": [
       {
+        "PlanCode": "NAS GN RA20%",
+        "PlanDescription": "NAS GN RAK INS DED 20%MAX 50  COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "NAS GN RAK C15%",
         "PlanDescription": "NAS GN RAK INS DED 15% COPAY 15%",
         "PlanActiveStatus": "Active"
