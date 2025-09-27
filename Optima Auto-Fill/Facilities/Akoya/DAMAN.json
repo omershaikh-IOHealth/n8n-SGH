@@ -868,6 +868,11 @@
         "PlanActiveStatus": "Active"
       },
       {
+        "PlanCode": "DAM N2 D50C",
+        "PlanDescription": "DAMAN NET-2 DED 50 COPAY 10 AED PH 30%M 100",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "DAM N2 D50C0",
         "PlanDescription": "DAMAN NET-2 DED 50 COPAY NIL",
         "PlanActiveStatus": "Active"
