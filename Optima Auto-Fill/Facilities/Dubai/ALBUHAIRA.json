@@ -68,6 +68,11 @@
         "PlanActiveStatus": "Active"
       },
       {
+        "PlanCode": "ABNIC C20%MC10%",
+        "PlanDescription": "AL BUHAIRA  DED 20% M 50 COPAY 20% PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "ABNIC C20%P10%",
         "PlanDescription": "AL BUHAIRA  DED 20% COPAY 20% PH 10%",
         "PlanActiveStatus": "Active"
