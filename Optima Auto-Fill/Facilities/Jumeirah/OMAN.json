@@ -43,6 +43,11 @@
         "PlanActiveStatus": "Active"
       },
       {
+        "PlanCode": "OM PRE C20%X",
+        "PlanDescription": "OMAN INSURANCE  COPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "OM PRE COD",
         "PlanDescription": "OMAN INSURANCE  COPAY 15% L/R 10%  PH 10%",
         "PlanActiveStatus": "Active"
