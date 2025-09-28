@@ -778,6 +778,11 @@
         "PlanActiveStatus": "Active"
       },
       {
+        "PlanCode": "N CN C D20M50X",
+        "PlanDescription": "NEURON CN CIGNA DED 20% MAX 50 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "N CN C D20M75",
         "PlanDescription": "NEURON CIGNA DED 20% MAX 75 COPAY NIL PH 20%",
         "PlanActiveStatus": "Active"
