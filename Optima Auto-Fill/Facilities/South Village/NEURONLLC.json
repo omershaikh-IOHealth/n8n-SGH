@@ -508,6 +508,11 @@
         "PlanActiveStatus": "Active"
       },
       {
+        "PlanCode": "NEU RAK C15M50",
+        "PlanDescription": "NEURON RAK INSURANCE COPAY 15%M 50 COPAY 15%M 200 PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "NEU RAK C20%",
         "PlanDescription": "NEURON RAK INSURANCE DED 20% COPAY 20%",
         "PlanActiveStatus": "Active"
