@@ -248,6 +248,11 @@
         "PlanActiveStatus": "Active"
       },
       {
+        "PlanCode": "OM A DP20%M25",
+        "PlanDescription": "OMAN INSURANCE EDGE DED 20% MAX 25 LAB/RAD 20%PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "OM A DP20%M50",
         "PlanDescription": "OMAN INSURANCE EDGE DED 20% MAX 50 OP//LAB/RAD 10%",
         "PlanActiveStatus": "Active"
