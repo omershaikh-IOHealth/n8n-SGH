@@ -6278,6 +6278,11 @@
         "PlanActiveStatus": "Active"
       },
       {
+        "PlanCode": "NAS QICD20",
+        "PlanDescription": "NAS GN QIC UAE DED 20%(MAX-AED 100)  COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "NAS QICD20%C0",
         "PlanDescription": "NAS GN QIC UAE DED 20%(MAX-AED 100)  COPAY 10%",
         "PlanActiveStatus": "Active"
