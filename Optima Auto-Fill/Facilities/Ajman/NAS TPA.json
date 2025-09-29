@@ -1428,6 +1428,11 @@
         "PlanActiveStatus": "Active"
       },
       {
+        "PlanCode": "D-NAADN  C %M",
+        "PlanDescription": "NAS RN+SRN+WN ADNIC DED10%M100 COPAY 10% PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "D-NAADN  C 10%M",
         "PlanDescription": "NAS RN+SRN+WN ADNIC COPAY 10% PH 30%",
         "PlanActiveStatus": "Active"
