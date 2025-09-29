@@ -3828,6 +3828,11 @@
         "PlanActiveStatus": "Active"
       },
       {
+        "PlanCode": "NXT DIC  C2%",
+        "PlanDescription": "NEXTCARE DUBAI INS COPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "NXT DIC  C2%55",
         "PlanDescription": "NEXTCARE DUBAI INS COPAY 20% MAX 55",
         "PlanActiveStatus": "Active"
