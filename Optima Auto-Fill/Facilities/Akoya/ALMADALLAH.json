@@ -133,6 +133,11 @@
     "PayerId": "INS019",
     "Plans": [
       {
+        "PlanCode": "AL MDALLA 050",
+        "PlanDescription": "ALMADALLAH QIC DED 20 AED COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "AL MDALLA D050",
         "PlanDescription": "ALMADALLAH QIC DED 20% MAX 50 COPAY NIL",
         "PlanActiveStatus": "Active"
