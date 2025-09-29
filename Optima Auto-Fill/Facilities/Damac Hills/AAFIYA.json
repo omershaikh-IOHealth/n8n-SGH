@@ -705,6 +705,21 @@
     ]
   },
   {
+    "PolicyGroupCode": "DAAF TAKAF ESS",
+    "PolicyGroupDescription": "AAFIYA - TAKAFUL EMARAT - INSURANCE - ESSETIAL NETWORK",
+    "RateListCode": "AAFIYA ESSENTIA",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS022",
+    "Plans": [
+      {
+        "PlanCode": "DAF TK ESS D20%",
+        "PlanDescription": "AAFIYA TAKAFUL ESSENTIAL D20%M50 AED",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
     "PolicyGroupCode": "DAAF TAKAF GLD",
     "PolicyGroupDescription": "AAFIYA - TAKAFUL EMARAT - INSURANCE - GOLD NETWORK..",
     "RateListCode": "AAFIYA - GOLD",
