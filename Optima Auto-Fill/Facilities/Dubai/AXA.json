@@ -2813,6 +2813,11 @@
     "PayerId": "INS010",
     "Plans": [
       {
+        "PlanCode": "AXA PP C20%0",
+        "PlanDescription": "AXA PAPER CLAIM DED NIL COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "AXA PP C20%M100",
         "PlanDescription": "AXA PAPER CLAIM COPAY 20% MAX 100",
         "PlanActiveStatus": "Active"
