@@ -2908,6 +2908,11 @@
     "PayerId": "INS027",
     "Plans": [
       {
+        "PlanCode": "NAS ABT  0C0",
+        "PlanDescription": "NAS CN ABU DHABI NAT TAKAFUL DED 20%MAX 50 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "NAS ABT  C20%",
         "PlanDescription": "NAS CN ABU DHABI NAT TAKAFUL DED 20% COPAY 20% PH 20%",
         "PlanActiveStatus": "Active"
