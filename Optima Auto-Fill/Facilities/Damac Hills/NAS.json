@@ -10593,6 +10593,11 @@
     "PayerId": "INS019",
     "Plans": [
       {
+        "PlanCode": "NAS Q D100 AED",
+        "PlanDescription": "NAS CN QIC D100 AED",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "NAS Q D20%MAX50",
         "PlanDescription": "NAS EN QATAR INS UAE DED 25 COPAY NIL",
         "PlanActiveStatus": "Active"
