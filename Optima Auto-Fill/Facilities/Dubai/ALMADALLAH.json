@@ -669,7 +669,12 @@
       },
       {
         "PlanCode": "ALIRAN MDA20",
-        "PlanDescription": "ALMADALLAH IRAN  DED 20%MAX50 COPAY 20%",
+        "PlanDescription": "ALMADALLAH IRAN  DED 20% MAX50 COPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ALIRAN MDA20M",
+        "PlanDescription": "ALMADALLAH IRAN  DED 20% MAX25  COPAY 20%",
         "PlanActiveStatus": "Active"
       },
       {
