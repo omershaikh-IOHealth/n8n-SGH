@@ -78,6 +78,11 @@
         "PlanActiveStatus": "Active"
       },
       {
+        "PlanCode": "D-FMC QIC %",
+        "PlanDescription": "FMC QIC  FARID GN 1,2,3 DED 20 M 50 OP 20%M50 OP NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "D-FMC QIC 0",
         "PlanDescription": "FMC QIC  FARID GN 1,2,3 DED0 COPAY 0",
         "PlanActiveStatus": "Active"
