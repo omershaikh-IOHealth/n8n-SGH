@@ -1613,6 +1613,11 @@
         "PlanActiveStatus": "Active"
       },
       {
+        "PlanCode": "D-MD ML 20",
+        "PlanDescription": "MEDNET -METLIFE DED 10% MAX 75 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "D-MD ML 20% M25",
         "PlanDescription": "MEDNET -METLIFE GOLD DED 20% MAX 25",
         "PlanActiveStatus": "Active"
