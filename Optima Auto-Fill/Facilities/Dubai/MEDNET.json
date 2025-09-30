@@ -3668,6 +3668,11 @@
         "PlanActiveStatus": "Active"
       },
       {
+        "PlanCode": "MD ALICO SIS",
+        "PlanDescription": "MEDNET ALICO (SILVER) DED 10%MAX 75 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "MD ALICOS201020",
         "PlanDescription": "MEDNET ALICO (SILVER) DED 20% MAX 100 L/R 20%100 PH 20%",
         "PlanActiveStatus": "Active"
