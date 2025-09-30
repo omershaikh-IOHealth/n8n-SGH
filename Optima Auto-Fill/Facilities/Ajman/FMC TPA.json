@@ -303,6 +303,11 @@
         "PlanActiveStatus": "Active"
       },
       {
+        "PlanCode": "FMC DXB D45 AED",
+        "PlanDescription": "FMC DUBAI INS FARID DED 45 AED  L&R 20% M 10 PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "FMC DXB D50",
         "PlanDescription": "FMC DUBAI INS FARID GN 1,2,3 DED 50 COPAY NIL PH 30%",
         "PlanActiveStatus": "Active"
