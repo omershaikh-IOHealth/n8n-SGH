@@ -5008,6 +5008,11 @@
         "PlanActiveStatus": "Active"
       },
       {
+        "PlanCode": "NC NLGI D20%MX",
+        "PlanDescription": "NEXTCARE NLGI DED 20% M 100 COPAY 20% PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "NC NLGI D25",
         "PlanDescription": "NEXTCARE NLGI DED 25 COPAY NIL",
         "PlanActiveStatus": "Active"
