@@ -1301,6 +1301,11 @@
         "PlanCode": "MDT TE DED 75",
         "PlanDescription": "MEDNET TAKAFUL EMARAT DED 75 COPAY NIL",
         "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MDT TE DED NIL",
+        "PlanDescription": "MEDNET TAKAFUL EMARAT DED NIL COPAY NIL",
+        "PlanActiveStatus": "Active"
       }
     ]
   },
