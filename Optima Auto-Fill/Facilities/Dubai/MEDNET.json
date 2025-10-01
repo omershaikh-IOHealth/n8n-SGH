@@ -2458,6 +2458,11 @@
         "PlanActiveStatus": "Active"
       },
       {
+        "PlanCode": "MDT RAK D20X%P",
+        "PlanDescription": "MEDNET RAK INS DED 20% M 75  L+ R 20%  PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "MDT RAK D25",
         "PlanDescription": "MEDNET RAK INS DED 25 COPAY NIL",
         "PlanActiveStatus": "Active"
