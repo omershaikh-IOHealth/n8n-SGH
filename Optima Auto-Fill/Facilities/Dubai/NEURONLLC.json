@@ -2093,6 +2093,11 @@
     "PayerId": "INS137",
     "Plans": [
       {
+        "PlanCode": "N CI C20%D 183",
+        "PlanDescription": "NEURON CN/GN+ CIGNA DED 183.63 AED COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "N CI C20%M100",
         "PlanDescription": "NEURON CN/GN+ CIGNA COPAY 20% MAX 100 PH 20%M100",
         "PlanActiveStatus": "Active"
