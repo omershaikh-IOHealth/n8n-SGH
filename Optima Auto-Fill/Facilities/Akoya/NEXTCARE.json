@@ -1308,6 +1308,11 @@
         "PlanActiveStatus": "Active"
       },
       {
+        "PlanCode": "NC MEDUA D10%Q",
+        "PlanDescription": "NEXTCARE MEDGULF UAE DED 10%  RAD 20% PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "NC MEDUA D20%",
         "PlanDescription": "NEXTCARE MEDGULF UAE DED 20% COPAY 10%",
         "PlanActiveStatus": "Active"
