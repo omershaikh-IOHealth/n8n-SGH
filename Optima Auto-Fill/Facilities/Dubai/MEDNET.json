@@ -3733,6 +3733,11 @@
         "PlanActiveStatus": "Active"
       },
       {
+        "PlanCode": "MD ALIC0100",
+        "PlanDescription": "MEDNET ALICO (VIP &GOLD) DED 20% MAX 100 COPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "MD ALICO",
         "PlanDescription": "MEDNET ALICO (VIP &GOLD) COPAY 10%",
         "PlanActiveStatus": "Active"
