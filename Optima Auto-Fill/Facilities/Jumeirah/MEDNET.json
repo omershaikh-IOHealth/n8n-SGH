@@ -1768,6 +1768,11 @@
         "PlanActiveStatus": "Active"
       },
       {
+        "PlanCode": "MDTALIC  50AED",
+        "PlanDescription": "MEDNET METLIFE DED 50  RAD 50 PH 20%M150",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "MDTALIC 10 20",
         "PlanDescription": "MEDNET METLIFE DED 10%MAX 203 COPAY 10%M203 PH 10%M203",
         "PlanActiveStatus": "Active"
