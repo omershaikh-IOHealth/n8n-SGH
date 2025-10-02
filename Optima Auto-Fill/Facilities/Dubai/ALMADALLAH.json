@@ -663,6 +663,11 @@
     "PayerId": "INS043",
     "Plans": [
       {
+        "PlanCode": "ALIRAN MD10",
+        "PlanDescription": "ALMADALLAH IRAN  COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "ALIRAN MDA CP5",
         "PlanDescription": "ALMADALLAH IRAN  DED 20%MAX50 COPAY 5%",
         "PlanActiveStatus": "Active"
