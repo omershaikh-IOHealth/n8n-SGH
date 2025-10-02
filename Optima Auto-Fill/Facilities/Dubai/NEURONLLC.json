@@ -2323,6 +2323,11 @@
         "PlanActiveStatus": "Active"
       },
       {
+        "PlanCode": "NE C DED %MX",
+        "PlanDescription": "NEURON CN/GN+ CIGNA DED 20% MAX 50 OP NIL L/R/PH 20%M50",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "NE C DED 0%MX",
         "PlanDescription": "NEURON CN/GN+ CIGNA DED 20% MAX 50 OP 0 L/R/PH 10%",
         "PlanActiveStatus": "Active"
