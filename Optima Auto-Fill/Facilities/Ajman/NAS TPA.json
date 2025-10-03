@@ -9028,6 +9028,11 @@
         "PlanActiveStatus": "Active"
       },
       {
+        "PlanCode": "D-NAS GND20M50A",
+        "PlanDescription": "NAS INSURANCE HOUSE GN DED 20% M50 COPAY 10% PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "D-NAS IH C20%50",
         "PlanDescription": "NAS INSURANCE HOUSE SRN/WN DED 20%M50 OP 0 L/R20% PH 20%",
         "PlanActiveStatus": "Active"
@@ -19915,6 +19920,11 @@
       {
         "PlanCode": "NAS GN D 20M50",
         "PlanDescription": "NAS INSURANCE HOUSE GN DED 20% M50 COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NAS GN D20M50A",
+        "PlanDescription": "NAS INSURANCE HOUSE GN DED 20% M50 COPAY 10% PH 10%",
         "PlanActiveStatus": "Active"
       },
       {
