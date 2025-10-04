@@ -5718,6 +5718,11 @@
         "PlanActiveStatus": "Active"
       },
       {
+        "PlanCode": "NCRRAK INSD20%M",
+        "PlanDescription": "NEXTCARE RAK NATIONAL INS D 20% M 50 LAB/RAD 20% PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "NCRRAK INSD25",
         "PlanDescription": "NEXTCARE RAK NATIONAL INS  DED 25",
         "PlanActiveStatus": "Active"
