@@ -8,6 +8,11 @@
     "PayerId": "INS012",
     "Plans": [
       {
+        "PlanCode": "OIC COM D20%M",
+        "PlanDescription": "OMAN INS CO -COMP  DED 20%M75 COPAY NIL PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "OIC D",
         "PlanDescription": "OMAN INS CO -COMP  DED 10% OP NIL L/R/PH 10%",
         "PlanActiveStatus": "Active"
