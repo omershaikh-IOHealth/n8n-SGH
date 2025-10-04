@@ -4728,6 +4728,11 @@
         "PlanActiveStatus": "Active"
       },
       {
+        "PlanCode": "NAS UNB D50",
+        "PlanDescription": "NAS CN ORIENT UNB TAKAFULDED 50 AED PH 15%",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "NAS UNB NIL",
         "PlanDescription": "NAS CN ORIENT UNB TAKAFUL DED NIL COPAY NIL",
         "PlanActiveStatus": "Active"
