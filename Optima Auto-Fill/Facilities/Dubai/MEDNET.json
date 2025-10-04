@@ -3508,6 +3508,11 @@
         "PlanActiveStatus": "Active"
       },
       {
+        "PlanCode": "MD ALICO 0XP",
+        "PlanDescription": "MEDNET METLIFE SILVER DED 20%MAX 100  L/R 20%M100 OP20%PH20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "MD ALICO 50S",
         "PlanDescription": "MEDNET METLIFE SILVER DED 50AED  COPAY NIL PH 20%",
         "PlanActiveStatus": "Active"
