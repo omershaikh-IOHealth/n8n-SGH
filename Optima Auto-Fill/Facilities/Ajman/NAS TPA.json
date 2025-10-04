@@ -7178,6 +7178,11 @@
     "PayerId": "INS016",
     "Plans": [
       {
+        "PlanCode": "DNAS SUK D20%M",
+        "PlanDescription": "NAS GN SUKOON TAKAFUL (ASCANA) DED 20% M50",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "DNAS SUKD0",
         "PlanDescription": "NAS GN SUKOON TAKAFUL (ASCANA) DED 20% M75 COPAY NIL",
         "PlanActiveStatus": "Active"
@@ -18500,6 +18505,11 @@
       {
         "PlanCode": "NAS SUK  D2",
         "PlanDescription": "NAS GN SUKOON TAKAFUL (ASCANA) DED 20% (MAX-100 ) COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NAS SUK D20%M",
+        "PlanDescription": "NAS GN SUKOON TAKAFUL (ASCANA) DED 20% M50",
         "PlanActiveStatus": "Active"
       },
       {
