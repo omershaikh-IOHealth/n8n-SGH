@@ -583,6 +583,11 @@
         "PlanActiveStatus": "Active"
       },
       {
+        "PlanCode": "AXA 1 D10%C0%",
+        "PlanDescription": "AXA 1 DED 10%  COPAY 10% PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "AXA 1 D10%C10%",
         "PlanDescription": "AXA 1 DED 10%  COPAY 10%",
         "PlanActiveStatus": "Active"
