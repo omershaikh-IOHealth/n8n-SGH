@@ -303,6 +303,11 @@
         "PlanActiveStatus": "Active"
       },
       {
+        "PlanCode": "N GN C D10",
+        "PlanDescription": "NEURON GN CIGNA DED 10% M100 COPAY NIL PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "N GN C D10%M75",
         "PlanDescription": "NEURON GN CIGNA DED 10% M75 COPAY NIL",
         "PlanActiveStatus": "Active"
@@ -1610,6 +1615,11 @@
       {
         "PlanCode": "NEUNLGI 205100",
         "PlanDescription": "NEURON NLGI DED 20%MAX 100",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEUNLGI D0C0",
+        "PlanDescription": "NEURON NLGI DED NIL COPAY NIL",
         "PlanActiveStatus": "Active"
       }
     ]
