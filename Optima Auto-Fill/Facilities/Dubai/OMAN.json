@@ -203,6 +203,11 @@
         "PlanActiveStatus": "Active"
       },
       {
+        "PlanCode": "OIC P 10%10",
+        "PlanDescription": "OMAN PREMIUM/CN/CN+/EDGE COPAY 10% PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "OIC P 10%M100",
         "PlanDescription": "OMAN PREMIUM/CN/CN+ DED 10% MAX 100 COPAY 10%",
         "PlanActiveStatus": "Active"
