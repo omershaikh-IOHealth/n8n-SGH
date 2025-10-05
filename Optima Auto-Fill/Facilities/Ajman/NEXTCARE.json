@@ -16888,6 +16888,11 @@
         "PlanActiveStatus": "Active"
       },
       {
+        "PlanCode": "NC UNI  C",
+        "PlanDescription": "NEXTCARE RN UNION DED 20% COPAY NIL PH 15%",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "NC UNI  C  20%",
         "PlanDescription": "NEXTCARE RN UNION DED 20%(50) CO 20%(150) PH 10%",
         "PlanActiveStatus": "Active"
