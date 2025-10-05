@@ -1268,6 +1268,11 @@
         "PlanActiveStatus": "Active"
       },
       {
+        "PlanCode": "NEU NLGI D20 0",
+        "PlanDescription": "NEURON NLGI DED 20% COPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "NEU NLGI D20 50",
         "PlanDescription": "NEURON NLGI DED 20%MAX 50 COPAY NIL",
         "PlanActiveStatus": "Active"
