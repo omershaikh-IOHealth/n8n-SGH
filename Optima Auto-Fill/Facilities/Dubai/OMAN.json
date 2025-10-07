@@ -173,6 +173,11 @@
         "PlanActiveStatus": "Active"
       },
       {
+        "PlanCode": "OIC D20%M50CX",
+        "PlanDescription": "OMAN PREMIUM/CN/CN+ DED 20%M50 LAB/RAD/OP/PH10%M25",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "OIC D20%M50X",
         "PlanDescription": "OMAN PREMIUM/CN/CN+  DED 20% M 50 LAB/RAD 20% OP NIL",
         "PlanActiveStatus": "Active"
@@ -240,6 +245,11 @@
       {
         "PlanCode": "OM  PREM 0 75",
         "PlanDescription": "OMAN INSURANCE DED 10% MAX 75 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OM A D50AED",
+        "PlanDescription": "OMAN INS EDGE DED 50 AED LAB/RAD 10%M25",
         "PlanActiveStatus": "Active"
       },
       {
