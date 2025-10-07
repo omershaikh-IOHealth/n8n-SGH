@@ -683,6 +683,11 @@
         "PlanActiveStatus": "Active"
       },
       {
+        "PlanCode": "NE RA CN D15%M2",
+        "PlanDescription": "NEURON CN RAK INSURANCE DED15%M25 COPAY 10%M50  PH 15%",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "NE RA CN5",
         "PlanDescription": "NEURON CN RAK INSURANCE DED15%M50 COPAY 15%M200 PH 20%",
         "PlanActiveStatus": "Active"
