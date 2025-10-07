@@ -628,6 +628,11 @@
     "PayerId": "INS023",
     "Plans": [
       {
+        "PlanCode": "NC WAT D20%M50",
+        "PlanDescription": "NEXTCARE AL WATHBA  DED 20% M 60 LAB/RAD 15% PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "NC WAT D50 CO20",
         "PlanDescription": "NEXTCARE AL WATHBA  DED 50 COPAY NIL DN & OPT 20%",
         "PlanActiveStatus": "Active"
