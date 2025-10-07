@@ -1608,6 +1608,11 @@
         "PlanActiveStatus": "Active"
       },
       {
+        "PlanCode": "NEU DX D20%73CB",
+        "PlanDescription": "NEURON CN/GN+ DUBAI INSURANCE  DED 20% MAX 73 COPAY 20%M99",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "NEUDICD55C20%MB",
         "PlanDescription": "NEURON DIC COPAY 20%(MB)",
         "PlanActiveStatus": "Active"
