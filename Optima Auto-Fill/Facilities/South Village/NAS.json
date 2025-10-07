@@ -3906,6 +3906,11 @@
         "PlanCode": "NASEMTD20%C10%",
         "PlanDescription": "NAS GN TAKAFUL EMARAT DED 20% COPAY 10%",
         "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NASEMTDC10%",
+        "PlanDescription": "NAS GN TAKAFUL EMARAT DED 20%MAX 50  COPAY NIL",
+        "PlanActiveStatus": "Active"
       }
     ]
   },
