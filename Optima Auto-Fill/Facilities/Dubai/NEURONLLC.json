@@ -2658,6 +2658,16 @@
         "PlanActiveStatus": "Active"
       },
       {
+        "PlanCode": "NEU CIG C0%",
+        "PlanDescription": "NEURON CN/GN+ CIGNA DED 20% M50  COPAY 20% M100 PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEU CIG C0% D",
+        "PlanDescription": "NEURON CN/GN+ CIGNA DED 20% M50 OP 0 LAB/RAD20% M100 PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "NEU CIG C0P20%",
         "PlanDescription": "NEURON CN/GN+ CIGNA DED 0 COPAY NIL PH 20%",
         "PlanActiveStatus": "Active"
