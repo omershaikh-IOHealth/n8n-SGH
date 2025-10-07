@@ -6453,6 +6453,11 @@
         "PlanActiveStatus": "Active"
       },
       {
+        "PlanCode": "D-NAS QIC C20%M",
+        "PlanDescription": "NAS RN+SRN+WN QATAR INS (QIC) DED 10% M50 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "D-NAS QIC D10",
         "PlanDescription": "NAS RN+SRN+WN QATAR INS (QIC) DED 20%M50 OP 0 L/R 10% PH10%",
         "PlanActiveStatus": "Active"
