@@ -888,6 +888,11 @@
     "PayerId": "INS200",
     "Plans": [
       {
+        "PlanCode": "AM N5 D50AED",
+        "PlanDescription": "DAMAN NETWORK-5 DED 50 DG 20%M50 PH 20%M100",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "DA N5 DG20%C20",
         "PlanDescription": "DAMAN NETWORK-5 DED20% (MAX-50) DG (20MAX-50) PH 20%MX 100",
         "PlanActiveStatus": "Active"
