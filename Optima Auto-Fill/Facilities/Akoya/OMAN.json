@@ -108,6 +108,11 @@
         "PlanActiveStatus": "Active"
       },
       {
+        "PlanCode": "OM PRE D20%M300",
+        "PlanDescription": "OMAN INSURANCE PREMIUM DED 20% M300 COPAY10% PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "OM PRE D20%M50",
         "PlanDescription": "OMAN INSURANCE  DED 20% M50 COPAY NIL",
         "PlanActiveStatus": "Active"
