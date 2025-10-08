@@ -3448,6 +3448,11 @@
         "PlanActiveStatus": "Active"
       },
       {
+        "PlanCode": "NCNGID20%M50",
+        "PlanDescription": "NEXTCARE NGI DED 20% M50  LAB/RAD 10% PH 15%",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "NCNGID50C10P20",
         "PlanDescription": "NEXTCARE NGI DED 50 COPAY 10% PH 20%",
         "PlanActiveStatus": "Active"
