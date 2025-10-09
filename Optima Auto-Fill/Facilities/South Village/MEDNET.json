@@ -1498,6 +1498,11 @@
         "PlanActiveStatus": "Active"
       },
       {
+        "PlanCode": "MDTALIC C20%M",
+        "PlanDescription": "MEDNET METLIFE COPAY 20% M 150",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "MDTALIC C50",
         "PlanDescription": "MEDNET METLIFE DED 20% MAX 50 AED COPAY NIL",
         "PlanActiveStatus": "Active"
