@@ -6998,6 +6998,11 @@
     "PayerId": "INS008",
     "Plans": [
       {
+        "PlanCode": "NC  AOD10% NIL",
+        "PlanDescription": "NEXTCARE ARAB ORIENT DED 10% OP/LAB NIL RAD 10% PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "NC  AOIC",
         "PlanDescription": "NEXTCARE ARAB ORIENT DED 10%M50 OP/L 0 R 20%M200 PH 10%",
         "PlanActiveStatus": "Active"
