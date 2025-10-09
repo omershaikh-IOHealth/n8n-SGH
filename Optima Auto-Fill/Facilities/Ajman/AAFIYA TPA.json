@@ -426,6 +426,11 @@
         "PlanCode": "AAF INS ESSE C0",
         "PlanDescription": "AAFIYA APN ESSENTIAL INSURANCE HOUSE DED 0 COPAY 0",
         "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AAFIYA ESSNIN D",
+        "PlanDescription": "AAFIYA ESSENTIAL INS HOUSE DED 20% COPAY 10% PH 30%",
+        "PlanActiveStatus": "Active"
       }
     ]
   },
