@@ -3563,6 +3563,11 @@
         "PlanActiveStatus": "Active"
       },
       {
+        "PlanCode": "MD ALICO DX10",
+        "PlanDescription": "MEDNET ALICO (SILVER) DED20% MAX100 LAB20%M100 PH/OP 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "MD ALICO R50",
         "PlanDescription": "MEDNET ALICO (SILVER) DED 50 OP/L NIL R-50 PH 20%M150",
         "PlanActiveStatus": "Active"
