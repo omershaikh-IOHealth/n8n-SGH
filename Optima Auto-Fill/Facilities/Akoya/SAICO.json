@@ -63,6 +63,11 @@
         "PlanActiveStatus": "Active"
       },
       {
+        "PlanCode": "SAICO CO20%M50",
+        "PlanDescription": "SAICO INSURANCE DED 20% M50 COPAY NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "SAICO CO20PH10",
         "PlanDescription": "SAICO INSURANCE COMPANY COPAY 20% PH10%",
         "PlanActiveStatus": "Active"
