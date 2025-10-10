@@ -1468,6 +1468,11 @@
         "PlanActiveStatus": "Active"
       },
       {
+        "PlanCode": "OIC D20% M30",
+        "PlanDescription": "OMAN SIGNATURE DED 20% M30 COPAY NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "OM S C10%M25 PH",
         "PlanDescription": "OMAN INSURANCE STANDARD COPAY 10% MAX 25 PH 10% MAX 50 L&R",
         "PlanActiveStatus": "Active"
