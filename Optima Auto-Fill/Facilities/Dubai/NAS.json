@@ -2568,6 +2568,11 @@
         "PlanActiveStatus": "Active"
       },
       {
+        "PlanCode": "NAS DI GN C30%",
+        "PlanDescription": "NAS GN DUBAI INSURANCE COPAY 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "NAS DI GN D",
         "PlanDescription": "NAS GN DUBAI INSURANCE COPAY 10% M50 PH 20%",
         "PlanActiveStatus": "Active"
