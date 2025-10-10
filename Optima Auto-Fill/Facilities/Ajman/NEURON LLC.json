@@ -1038,6 +1038,11 @@
         "PlanActiveStatus": "Active"
       },
       {
+        "PlanCode": "D-NEU RAK C20%M",
+        "PlanDescription": "NEURON CN & GN+ RAK DED 20% M 200 COPAY 10% M 100 PH 15%",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "D-NEU RAK C20%X",
         "PlanDescription": "NEURON CN & GN+ RAK COPAY 20% MAX200 PH 20%",
         "PlanActiveStatus": "Active"
