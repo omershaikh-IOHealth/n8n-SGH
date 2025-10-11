@@ -1603,6 +1603,11 @@
         "PlanActiveStatus": "Active"
       },
       {
+        "PlanCode": "D-NAS AD D2100",
+        "PlanDescription": "NAS RN ADNIC DED 20% (MAX-100) COPAY 20% PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "D-NAS ADD50P20%",
         "PlanDescription": "NAS RN ADNIC DED50 COPAY 10 PH 20%",
         "PlanActiveStatus": "Active"
@@ -7510,6 +7515,11 @@
       {
         "PlanCode": "D-NAS TE D20%60",
         "PlanDescription": "NAS RN+SRN+WN TAKAFUL EMARAT DED 20%(MAX-60) L&R 10% PH15%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-NAS TE D20%M",
+        "PlanDescription": "NAS RN+SRN+WN TAKAFUL EMARAT DED 20%M60 COPAY 20%PH20%",
         "PlanActiveStatus": "Active"
       },
       {
