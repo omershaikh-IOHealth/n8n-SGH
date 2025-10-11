@@ -1591,6 +1591,11 @@
         "PlanCode": "NEU NLGI 50",
         "PlanDescription": "NEURON NLGI DED 20%MAX 50 COPAY NIL PH 20%",
         "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEUNLGI D0C0C",
+        "PlanDescription": "NEURON CN NLGI DED NIL COPAY NIL",
+        "PlanActiveStatus": "Active"
       }
     ]
   },
