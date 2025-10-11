@@ -713,6 +713,11 @@
     "PayerId": "INS022",
     "Plans": [
       {
+        "PlanCode": "DAF TK ESS C20%",
+        "PlanDescription": "AAFIYA TAKAFUL ESSENTIAL c20%M50 AED",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "DAF TK ESS D20%",
         "PlanDescription": "AAFIYA TAKAFUL ESSENTIAL D20%M50 AED",
         "PlanActiveStatus": "Active"
