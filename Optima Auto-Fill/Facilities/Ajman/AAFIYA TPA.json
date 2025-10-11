@@ -573,6 +573,11 @@
         "PlanActiveStatus": "Active"
       },
       {
+        "PlanCode": "AAF T ES D2 C 0",
+        "PlanDescription": "AAFIYA ESSENTIAL TAKAFUL EMARAT DED 20%M 50  COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "DAAF TAKAFUL",
         "PlanDescription": "AAAFIYA APN ESSENTIAL TAKAFUL EMARAT DED 20%M 50 COPAY 10%",
         "PlanActiveStatus": "Active"
@@ -1205,6 +1210,11 @@
       {
         "PlanCode": "D-AAF TAFU ES 0",
         "PlanDescription": "AAFIYA APN ESSENTIAL TAKAFUL EMARAT  DED 0 CO NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAAF TAKAFUL D",
+        "PlanDescription": "AAAFIYA APN ESSENTIAL TAK EMARAT DED 20%M 50 C 10% PH 20%",
         "PlanActiveStatus": "Active"
       },
       {
