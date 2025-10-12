@@ -9553,6 +9553,11 @@
         "PlanActiveStatus": "Active"
       },
       {
+        "PlanCode": "NAS NT D205P",
+        "PlanDescription": "NAS GN NOOR TAKAFUL DED 20% MAX 75  COPAY 10% PH 15%",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "NAS NT D25C0",
         "PlanDescription": "NAS GN NOOR TAKAFUL DED 25 COPAY NIL",
         "PlanActiveStatus": "Active"
