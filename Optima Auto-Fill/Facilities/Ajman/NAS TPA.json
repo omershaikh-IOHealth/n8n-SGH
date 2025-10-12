@@ -6113,6 +6113,11 @@
         "PlanActiveStatus": "Active"
       },
       {
+        "PlanCode": "D-NAS QIC 75",
+        "PlanDescription": "NAS GN  QATAR INS (QIC) DED 20%M75 COPAY 20%MAX75 PH 15%M100",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "D-NAS QIC C10%",
         "PlanDescription": "NAS EN+GN+CN QATAR INS (QIC) COPAY 10%",
         "PlanActiveStatus": "Active"
@@ -17510,6 +17515,11 @@
       {
         "PlanCode": "NAS QIC D25P10%",
         "PlanDescription": "NAS EN+GN+CN QATAR INS (QIC) DED 25 COPAY NIL PH 10%100",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NAS QIC D275",
+        "PlanDescription": "NAS GN  QIC DED 20% (MAX-75) COPAY 20%M75 PH 15%M100",
         "PlanActiveStatus": "Active"
       },
       {
