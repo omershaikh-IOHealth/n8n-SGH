@@ -5758,6 +5758,11 @@
         "PlanActiveStatus": "Active"
       },
       {
+        "PlanCode": "NASITIH10%C20",
+        "PlanDescription": "NAS GN AL ITT AL WAT DED 20% COPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "NASITIHAD10%C20",
         "PlanDescription": "NAS GN AL ITT AL WAT DED 10% COPAY 20% PH 20%",
         "PlanActiveStatus": "Active"
