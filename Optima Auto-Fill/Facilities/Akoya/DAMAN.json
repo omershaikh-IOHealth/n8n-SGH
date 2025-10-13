@@ -743,6 +743,11 @@
         "PlanActiveStatus": "Active"
       },
       {
+        "PlanCode": "DAM N2 D20 30",
+        "PlanDescription": "DAMAN NET-2 DED 20%MAX 50 OP NIL LAB/RAD20%M30  PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "DAM N2 D20 C",
         "PlanDescription": "DAMAN NET-2 DED 50 COPAY 30  PH 30%MAX 200",
         "PlanActiveStatus": "Active"
@@ -850,6 +855,11 @@
       {
         "PlanCode": "DAM N2 D2P",
         "PlanDescription": "DAMAN NET-2 DED 20%MAX 50 COPAY NIL PH 20%M100",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N2 D2P100",
+        "PlanDescription": "DAMAN NET-2 DED 20%MAX 100 COPAY NIL",
         "PlanActiveStatus": "Active"
       },
       {
