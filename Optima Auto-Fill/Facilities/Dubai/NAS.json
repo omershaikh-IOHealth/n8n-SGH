@@ -4558,6 +4558,11 @@
     "PayerId": "INS016",
     "Plans": [
       {
+        "PlanCode": "NAS SUK T 0",
+        "PlanDescription": "NAS -SUKOON TAKAFUL (ASCANA) COPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "NAS SUK TAK 0",
         "PlanDescription": "NAS -SUKOON TAKAFUL (ASCANA) DED NIL COPAY NIL",
         "PlanActiveStatus": "Active"
