@@ -2961,6 +2961,11 @@
         "PlanCode": "AXA 2P D20%50B",
         "PlanDescription": "AXA 2PRIVILEGE  BLACK CARD DED 20%50 COPAY NIL (5000 LIMIT",
         "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 2P D20%B",
+        "PlanDescription": "AXA 2PRIVILEGE  BLACK DED 20%50 COPAY NIL PH 20% (5000 LIMIT",
+        "PlanActiveStatus": "Active"
       }
     ]
   },
