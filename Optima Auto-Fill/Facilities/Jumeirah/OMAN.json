@@ -123,6 +123,11 @@
         "PlanActiveStatus": "Active"
       },
       {
+        "PlanCode": "OMAN  D20CM70",
+        "PlanDescription": "OMAN BUPA DED 20% MAX70 LAB/RAD 20% OP NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "OMAN  D20M50",
         "PlanDescription": "OMAN BUPA DED 20% MAX 50  OP NIL",
         "PlanActiveStatus": "Active"
