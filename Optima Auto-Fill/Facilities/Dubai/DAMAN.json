@@ -1538,6 +1538,11 @@
         "PlanActiveStatus": "Active"
       },
       {
+        "PlanCode": "DAM N2 D0M50",
+        "PlanDescription": "DAMAN NET-2 DED 20% DG (L/R) 20% OP/PH NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "DAM N2 D0P20%",
         "PlanDescription": "DAMAN NET-2 DED 0 COPAY NIL PH 20%",
         "PlanActiveStatus": "Active"
