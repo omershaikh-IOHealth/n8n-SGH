@@ -1693,6 +1693,11 @@
         "PlanActiveStatus": "Active"
       },
       {
+        "PlanCode": "NE G RA D20 200",
+        "PlanDescription": "NEURON CN/GN+ RAK INSURANCE DED20%M200 COPAY10%M100 PH15%",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "NE G RA D20C",
         "PlanDescription": "NEURON CN/GN+ RAK INSURANCE DED/L/R 20%M300 OP15%M200  PH20%",
         "PlanActiveStatus": "Active"
