@@ -673,6 +673,11 @@
         "PlanActiveStatus": "Active"
       },
       {
+        "PlanCode": "MDT DI D%C20P",
+        "PlanDescription": "MEDNET DUBAI INS DED 10%M150  OP NIL LAB/RAD/PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "MDT DI D0",
         "PlanDescription": "MEDNET DUBAI INS DED NIL COPAY NIL",
         "PlanActiveStatus": "Active"
