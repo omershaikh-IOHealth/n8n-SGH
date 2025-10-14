@@ -1,5 +1,20 @@
 [
   {
+    "PolicyGroupCode": "ASPI - ALLI- GN",
+    "PolicyGroupDescription": "ASPIRE SOLUTION - ALLIANCE INSURANCE COMPANY - GOLD",
+    "RateListCode": "ASPIRE SOLUTION",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS025",
+    "Plans": [
+      {
+        "PlanCode": "ASPIRE ALLIANCE",
+        "PlanDescription": "ASPIRE ALLAINCE GOLD COPAY 10%",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
     "PolicyGroupCode": "D-ASPIRE-ABN-CN",
     "PolicyGroupDescription": "ASPIRE SOLUTION- ALBUHAIRA NATIONAL INSURANCE - CN & CN+",
     "RateListCode": "ALBUHAIRA - CN",
@@ -37,6 +52,11 @@
     "PolicGroupActiveStatus": "Active",
     "PayerId": "INS025",
     "Plans": [
+      {
+        "PlanCode": "D-ASPIRE ALCOP",
+        "PlanDescription": "ASPIRE ALLIANCE GOLD  COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
       {
         "PlanCode": "D-ASPIRE ALLIA",
         "PlanDescription": "ASPIRE ALLIANCE GOLD  DED NIL COPAY NIL",
