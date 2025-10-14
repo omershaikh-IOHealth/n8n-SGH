@@ -263,6 +263,11 @@
         "PlanActiveStatus": "Active"
       },
       {
+        "PlanCode": "NAS ADN D2050",
+        "PlanDescription": "NAS GN ADNIC DED 20% MAX 50 COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "NAS ADN D20C0",
         "PlanDescription": "NAS GN ADNIC DED 20 COPAY NIL",
         "PlanActiveStatus": "Active"
