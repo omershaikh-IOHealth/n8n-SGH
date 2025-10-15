@@ -3743,6 +3743,11 @@
         "PlanActiveStatus": "Active"
       },
       {
+        "PlanCode": "NEXTCAR D 100C",
+        "PlanDescription": "NEXTCARE AL BUHAIRA DED 100 LAB/RAD 50 PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "NEXTCAR D 50",
         "PlanDescription": "NEXTCARE AL BUHAIRA DED 50 COPAY NIL",
         "PlanActiveStatus": "Active"
