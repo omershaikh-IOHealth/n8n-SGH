@@ -5603,6 +5603,11 @@
         "PlanActiveStatus": "Active"
       },
       {
+        "PlanCode": "NAS SAL CN20%M",
+        "PlanDescription": "NAS GN SALAMA DED 20% M 100 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "NAS SAL D",
         "PlanDescription": "NAS GN SALAMA DED 20% M 20  COPAY 10%",
         "PlanActiveStatus": "Active"
