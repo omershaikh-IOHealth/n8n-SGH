@@ -1418,6 +1418,11 @@
         "PlanActiveStatus": "Active"
       },
       {
+        "PlanCode": "MEDNET A060",
+        "PlanDescription": "MEDNET ALICO  DED 20% COPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "MEDNET AD",
         "PlanDescription": "MEDNET ALICO  DED NIL COPAY NIL",
         "PlanActiveStatus": "Active"
