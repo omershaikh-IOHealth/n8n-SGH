@@ -9378,6 +9378,11 @@
     "PayerId": "INS018",
     "Plans": [
       {
+        "PlanCode": "N GN NT C10%M50",
+        "PlanDescription": "NAS GN NOOR TAKAFUL COPAY 10% M 50",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "N GN NT D",
         "PlanDescription": "NAS GN NOOR TAKAFUL DED 20%M 50 COPAY NIL PH 25%",
         "PlanActiveStatus": "Active"
