@@ -2356,6 +2356,11 @@
         "PlanCode": "NAS UNB C15%M75",
         "PlanDescription": "NAS CN ORIENT UNB TAKAFUL COPAY 15% M75",
         "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NAS UNB D50AED",
+        "PlanDescription": "NAS CN ORIENT UNB TAKAFUL DED 50 COPAY NIL PH 15%",
+        "PlanActiveStatus": "Active"
       }
     ]
   },
@@ -3970,6 +3975,11 @@
       {
         "PlanCode": "NAS ABT D20 2",
         "PlanDescription": "NAS GN ABU DHABI NATIONAL TAKAFUL DED 10%M50 COPAY NIL PH20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NAS ABT D20%M",
+        "PlanDescription": "NAS GN ABU DHABI NAT TAKAFUL DED 20%M50 COPAY 20%PH 20%",
         "PlanActiveStatus": "Active"
       },
       {
