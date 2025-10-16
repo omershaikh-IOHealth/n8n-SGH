@@ -8808,6 +8808,11 @@
         "PlanActiveStatus": "Active"
       },
       {
+        "PlanCode": "D-NAS ALL D20%M",
+        "PlanDescription": "NAS RN+SRN+WN ALLI D20%(MAX 50) COPAY 10% PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "D-NAS ALLI D10",
         "PlanDescription": "NAS ALLIANCE RN DED 10%MAX 50  COPAY NIL",
         "PlanActiveStatus": "Active"
@@ -9485,6 +9490,11 @@
       {
         "PlanCode": "D-NADI D10 M100",
         "PlanDescription": "NAS DUBAI INSURANCE GN DED 20% M100 COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-NADI D1100",
+        "PlanDescription": "NAS DUBAI INSURANCE GN DED 20% M100 COPAY 10% PH 20%",
         "PlanActiveStatus": "Active"
       },
       {
