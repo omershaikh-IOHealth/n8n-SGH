@@ -728,6 +728,11 @@
         "PlanActiveStatus": "Active"
       },
       {
+        "PlanCode": "OMAN D10%M5C",
+        "PlanDescription": "OMAN PREMIUM/CN/CN+ DED 10% MAX 55 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "OMAN D10%M5X",
         "PlanDescription": "OMAN PREMIUM/CN/CN+ DED 10% MAX 50 OP/L/R10%MAX 100 PH NIL",
         "PlanActiveStatus": "Active"
@@ -2340,6 +2345,11 @@
       {
         "PlanCode": "OM BU D10%M50C0",
         "PlanDescription": "OMAN BUPA PRIMIER DED 10% MAX 50 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OM BU D10%M55C0",
+        "PlanDescription": "OMAN BUPA PRIMIER DED 10% MAX 55 COPAY NIL",
         "PlanActiveStatus": "Active"
       },
       {
