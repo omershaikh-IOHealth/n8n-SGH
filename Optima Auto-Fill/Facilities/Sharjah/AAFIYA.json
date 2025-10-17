@@ -325,6 +325,21 @@
     ]
   },
   {
+    "PolicyGroupCode": "AAF TE APN ESSE",
+    "PolicyGroupDescription": "AAFIYA - TAKAFUL EMARAT - APN ESSENTIAL",
+    "RateListCode": "AAFIYA - PL&PR",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS022",
+    "Plans": [
+      {
+        "PlanCode": "AF TK ES D20%M",
+        "PlanDescription": "AAFIYA TAKAFUL ESSENTIAL D20%M50 COPAY 20%PH 20%",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
     "PolicyGroupCode": "AAF TE APN PR",
     "PolicyGroupDescription": "AAFIYA - TAKAFUL EMARAT - APN PREMIER NETWORK",
     "RateListCode": "AAFIYA - PL&PR",
@@ -713,8 +728,13 @@
     "PayerId": "INS022",
     "Plans": [
       {
+        "PlanCode": "DAF TK ES D20%M",
+        "PlanDescription": "AAFIYA TAKAFUL ESSENTIAL D20%M50 COPAY 20%PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "DAF TK ESS C20%",
-        "PlanDescription": "AAFIYA TAKAFUL ESSENTIAL c20%M50 AED",
+        "PlanDescription": "AAFIYA TAKAFUL ESSENTIAL C 20%M50 AED",
         "PlanActiveStatus": "Active"
       },
       {
