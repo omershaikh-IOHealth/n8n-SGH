@@ -138,6 +138,11 @@
         "PlanActiveStatus": "Active"
       },
       {
+        "PlanCode": "D-MSH ABU D20%M",
+        "PlanDescription": "MSH PREM/ENH ABU DHABI NAT TAKAFUL DED 20% M 50",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "D-MSH ABU D2050",
         "PlanDescription": "MSH PREM/ENH ABU DHABI NAT. TAKAFUL DED 20%M50 L/R/P 20%",
         "PlanActiveStatus": "Active"
