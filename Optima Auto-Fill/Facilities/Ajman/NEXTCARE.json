@@ -1048,6 +1048,11 @@
         "PlanActiveStatus": "Active"
       },
       {
+        "PlanCode": "D-NCLB D20%M100",
+        "PlanDescription": "NEXTCARE RN ALBUHAIRA DED 20% (MAX-100) COPAY 20% PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "D-NCLB D20%M60",
         "PlanDescription": "NEXTCARE RN ALBUHAIRA DED 20%M60 LAB/RAD 10% PH 15% OP NIL",
         "PlanActiveStatus": "Active"
