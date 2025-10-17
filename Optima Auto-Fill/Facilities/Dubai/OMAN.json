@@ -278,6 +278,11 @@
         "PlanActiveStatus": "Active"
       },
       {
+        "PlanCode": "OM A DP20%MP",
+        "PlanDescription": "OMAN INS EDGE DED 20% MAX 50 COPAY 10% M 50 PH 10%M50",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "OM BUPA D20 PH",
         "PlanDescription": "OMAN INSURANCE DED 20% COPAY 20% PH NIL",
         "PlanActiveStatus": "Active"
