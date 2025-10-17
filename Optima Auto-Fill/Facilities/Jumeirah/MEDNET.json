@@ -1916,6 +1916,11 @@
         "PlanCode": "MDT AMERC20S",
         "PlanDescription": "MEDNET AMERICAN LIFE INS.  DED 20% 50 COPAY NIL",
         "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MDT AMERD",
+        "PlanDescription": "MEDNET AMERICAN LIFE INS.  DED 50AED COPAY NIL",
+        "PlanActiveStatus": "Active"
       }
     ]
   }
