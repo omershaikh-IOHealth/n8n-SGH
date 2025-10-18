@@ -1738,6 +1738,11 @@
         "PlanActiveStatus": "Active"
       },
       {
+        "PlanCode": "AXA2 50C0",
+        "PlanDescription": "AXA 2 DED 50 COPAY NIL PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "AXA262C0",
         "PlanDescription": "AXA 2 DED 62 COPAY NIL",
         "PlanActiveStatus": "Active"
@@ -2835,7 +2840,7 @@
     "RateListCode": "",
     "PolicyGroupCustomerType": "Insurance Company",
     "PolicGroupActiveStatus": "Active",
-    "PayerId": "INS020",
+    "PayerId": "INS010",
     "Plans": [
       {
         "PlanCode": "AXA REFERED",
