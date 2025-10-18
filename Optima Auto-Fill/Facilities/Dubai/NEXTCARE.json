@@ -8628,6 +8628,11 @@
         "PlanActiveStatus": "Active"
       },
       {
+        "PlanCode": "NEXTCAGOP369.89",
+        "PlanDescription": "NEXTCARE - GOP BASED DED 369.89 AED",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "NEXTCAGOP500",
         "PlanDescription": "NEXTCARE - GOP BASED DED 500",
         "PlanActiveStatus": "Active"
