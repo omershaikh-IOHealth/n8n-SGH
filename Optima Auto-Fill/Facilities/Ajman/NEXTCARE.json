@@ -2033,6 +2033,11 @@
         "PlanActiveStatus": "Active"
       },
       {
+        "PlanCode": "D-NCOIC  D20C20",
+        "PlanDescription": "NEXTCARE RN2 ARAB ORIENT D 20% ( M-50) C 20%M100 PH20%(M100)",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "D-NCOIC D 20%0",
         "PlanDescription": "NEXTCARE RN ARAB ORIENT DED 20%M75 OP NIL L&R 20% PH 30%",
         "PlanActiveStatus": "Active"
@@ -10415,6 +10420,11 @@
       {
         "PlanCode": "NCOIC  D0C010",
         "PlanDescription": "NEXTCARE RN ARAB ORIENT MB PLAN DED 0 COPAY 20% PH 20%M100",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NCOIC  D20C20",
+        "PlanDescription": "NEXTCARE RN ARAB ORIENT D 20%M-50 L/R 20%M100 PH20%(M100)",
         "PlanActiveStatus": "Active"
       }
     ]
