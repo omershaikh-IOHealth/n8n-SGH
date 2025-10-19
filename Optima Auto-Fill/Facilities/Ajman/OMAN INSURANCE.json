@@ -2741,6 +2741,11 @@
         "PlanCode": "OMAN E DD50",
         "PlanDescription": "OMAN INSURANCE EDGE DED 50AED COPAY NIL PH 20%MAX 100",
         "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN EDGE 10",
+        "PlanDescription": "OMAN INSURANCE EDGE  DED 10%M50 COPAY 10%M50 PH 10%M50",
+        "PlanActiveStatus": "Active"
       }
     ]
   },
