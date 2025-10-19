@@ -528,6 +528,11 @@
         "PlanActiveStatus": "Active"
       },
       {
+        "PlanCode": "NC AL AO10%",
+        "PlanDescription": "NEXTCARE ALLIANZ ARAB ORIENT COPAY 10%MAX 147AED",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "NC AL AOD25",
         "PlanDescription": "NEXTCARE ALLIANZ ARAB ORIENT COPAY 25% MAX 376",
         "PlanActiveStatus": "Active"
