@@ -268,6 +268,11 @@
         "PlanActiveStatus": "Active"
       },
       {
+        "PlanCode": "N GN C C20 1000",
+        "PlanDescription": "NEURON GN CIGNA COPAY 20%MAX 1000 PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "N GN C C20%",
         "PlanDescription": "NEURON GN CIGNA DED 20%M200  COPAY 20% M200 PH 10%M200",
         "PlanActiveStatus": "Active"
