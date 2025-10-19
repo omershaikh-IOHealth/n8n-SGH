@@ -1456,6 +1456,11 @@
         "PlanCode": "MEDNET AD2060",
         "PlanDescription": "MEDNET ALICO  DED 20% (MAX-30) COPAY NIL",
         "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MEDNET DED 50",
+        "PlanDescription": "MEDNET ALICO VIP DED 50 COPAY NIL",
+        "PlanActiveStatus": "Active"
       }
     ]
   },
@@ -1540,11 +1545,6 @@
       {
         "PlanCode": "MEDNET DED 100",
         "PlanDescription": "MEDNET DED 100 CO NIL",
-        "PlanActiveStatus": "Active"
-      },
-      {
-        "PlanCode": "MEDNET DED 50",
-        "PlanDescription": "MEDNET DED 50 CO NIL",
         "PlanActiveStatus": "Active"
       },
       {
