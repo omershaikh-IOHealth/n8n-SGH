@@ -1118,6 +1118,11 @@
         "PlanActiveStatus": "Active"
       },
       {
+        "PlanCode": "D-ADBRZ D0%C20",
+        "PlanDescription": "ADNIC BRONZE DED 20% OP NIL LAB/RAD/PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "D-ADBRZ D10% C0",
         "PlanDescription": "ADNIC BRONZE DED 20%(MAX-30) COPAY NIL PH 20%",
         "PlanActiveStatus": "Active"
