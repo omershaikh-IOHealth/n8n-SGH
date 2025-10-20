@@ -1596,6 +1596,11 @@
         "PlanCode": "MDTS HAYAH D0",
         "PlanDescription": "MEDNET HAYAH INSURANCE DED NIL COPAY NIL",
         "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MDTS HAYAH0",
+        "PlanDescription": "MEDNET HAYAH INSURANCE DED 20%MAX 50 COPAY NIL",
+        "PlanActiveStatus": "Active"
       }
     ]
   },
