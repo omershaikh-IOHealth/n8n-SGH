@@ -4188,6 +4188,16 @@
         "PlanActiveStatus": "Active"
       },
       {
+        "PlanCode": "NAS GN D 25",
+        "PlanDescription": "NAS GN ARAB ORIENT INS PJSC DED 25AED  COPAY NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NAS GN D 30",
+        "PlanDescription": "NAS GN ARAB ORIENT PJSC DED 30AED  COPAY NIL PH 30%M1000",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "NAS GN D1",
         "PlanDescription": "NAS GN ARAB ORIENT INS PJSC DED 20%MAX 100 COPAY 20%MAX 100",
         "PlanActiveStatus": "Active"
