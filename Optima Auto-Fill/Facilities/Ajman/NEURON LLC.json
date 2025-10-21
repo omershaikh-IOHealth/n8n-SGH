@@ -923,6 +923,11 @@
         "PlanActiveStatus": "Active"
       },
       {
+        "PlanCode": "D-NEU QIC  %",
+        "PlanDescription": "NEURON CN&GN+ QATAR INS (QIC) DED 20%M75 OP NIL L/R /PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "D-NEU QIC  C10%",
         "PlanDescription": "NEURON CN&GN+ QATAR INS (QIC) COPAY 10%MAX 500",
         "PlanActiveStatus": "Active"
