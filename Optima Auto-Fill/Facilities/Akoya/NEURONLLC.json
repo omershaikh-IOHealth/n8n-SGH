@@ -883,6 +883,11 @@
         "PlanActiveStatus": "Active"
       },
       {
+        "PlanCode": "N CN C 20",
+        "PlanDescription": "NEURON CIGNA DED 20% COPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "N CN C C",
         "PlanDescription": "NEURON CIGNA COPAY 10%",
         "PlanActiveStatus": "Active"
