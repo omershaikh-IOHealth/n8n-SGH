@@ -110,31 +110,6 @@
     ]
   },
   {
-    "PolicyGroupCode": "NC - YAS TAK",
-    "PolicyGroupDescription": "NEXTCARE - YAS TAKAFUL P.J.S.C.",
-    "RateListCode": "NEXTCARE",
-    "PolicyGroupCustomerType": "Insurance Company",
-    "PolicGroupActiveStatus": "Active",
-    "PayerId": "INS031",
-    "Plans": [
-      {
-        "PlanCode": "NC YAS D10%C0",
-        "PlanDescription": "NEXTCARE YAS DED 10% COPAY NIL",
-        "PlanActiveStatus": "Active"
-      },
-      {
-        "PlanCode": "NC YAS D50C0",
-        "PlanDescription": "NEXTCARE YAS DED 50 COPAY NIL",
-        "PlanActiveStatus": "Active"
-      },
-      {
-        "PlanCode": "NC YAS DX",
-        "PlanDescription": "NEXTCARE YAS DED 20% MAX 50 OP 20% PH 10%",
-        "PlanActiveStatus": "Active"
-      }
-    ]
-  },
-  {
     "PolicyGroupCode": "NC -SGH- ADNIC",
     "PolicyGroupDescription": "NEXTCARE - ADNIC - STAFF POLICY (RN2)",
     "RateListCode": "NEXTCARE - RNE",
@@ -9280,6 +9255,11 @@
       {
         "PlanCode": "NEXCARDCD25",
         "PlanDescription": "NEXTCARE DUBAI NATIONAL INS & REINS DED 25 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEXCARE C20%M20",
+        "PlanDescription": "NEXTCARE GN/GN+ DUBAI NATIONAL INS & REINS COPAY 20% M 200",
         "PlanActiveStatus": "Active"
       },
       {
