@@ -3603,6 +3603,11 @@
         "PlanActiveStatus": "Active"
       },
       {
+        "PlanCode": "D-NAFIDE D20%MD",
+        "PlanDescription": "NAS GN FIDELITY UNITED DED20% MAX 50 COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "D-NAFIDE D20M25",
         "PlanDescription": "NAS GN FIDELITY UNITED DED20% MAX 25 COPAY NIL",
         "PlanActiveStatus": "Active"
