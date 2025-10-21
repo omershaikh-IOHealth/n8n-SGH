@@ -1108,6 +1108,11 @@
         "PlanActiveStatus": "Active"
       },
       {
+        "PlanCode": "D-M   DI D15%75",
+        "PlanDescription": "MEDNET N2 DUBAI INS DED 15%M75 COPAY 15%M75 PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "D-M   DI D1575",
         "PlanDescription": "MEDNET N2 DUBAI INS DED 15%M75 OP 15%M75 L/R/PH NIL",
         "PlanActiveStatus": "Active"
