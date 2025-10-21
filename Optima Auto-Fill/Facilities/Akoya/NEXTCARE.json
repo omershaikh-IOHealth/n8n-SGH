@@ -818,6 +818,11 @@
         "PlanActiveStatus": "Active"
       },
       {
+        "PlanCode": "NC ARABI DED20%",
+        "PlanDescription": "NEXTCARE ARABIA INS DED20% M 50 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "NC ARABIA D100",
         "PlanDescription": "NEXTCARE ARABIA INS DED 100 COPAY NIL DN 20%",
         "PlanActiveStatus": "Active"
