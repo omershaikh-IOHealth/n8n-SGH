@@ -3031,6 +3031,11 @@
         "PlanCode": "D-MDFID D20%M50",
         "PlanDescription": "MEDNET SC/ GREEN UNITED FID DED 20%(50) OP10% PH20%",
         "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MDFID NIL",
+        "PlanDescription": "MEDNETGREEN UNITED FIDILITY",
+        "PlanActiveStatus": "Active"
       }
     ]
   },
@@ -5836,7 +5841,7 @@
   },
   {
     "PolicyGroupCode": "MED UNITED",
-    "PolicyGroupDescription": "MEDNET - FIDELITY UNITED INSURANCE COMPANY-SILVER CLASSIC",
+    "PolicyGroupDescription": "MEDNET - FIDELITY UNITED INSURANCE COMPANY-green",
     "RateListCode": "MEDNET-SL+GRN",
     "PolicyGroupCustomerType": "Insurance Company",
     "PolicGroupActiveStatus": "Active",
