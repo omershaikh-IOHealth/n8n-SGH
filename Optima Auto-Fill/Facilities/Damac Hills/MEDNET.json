@@ -2600,6 +2600,21 @@
     ]
   },
   {
+    "PolicyGroupCode": "DMDT UF-GRN",
+    "PolicyGroupDescription": "MEDNET - UNITED FEDILITY - GREEN",
+    "RateListCode": "MEDNET-SL+GRN",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS028",
+    "Plans": [
+      {
+        "PlanCode": "D-MDFID NIL",
+        "PlanDescription": "MEDNETGREEN UNITED FIDILITY DED 0  COPAY NIL",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
     "PolicyGroupCode": "DMDT UNB - EM",
     "PolicyGroupDescription": "MEDNET - ORIENT UNB TAKAFUL - EMERALD",
     "RateListCode": "MEDNET-SR+EM",
@@ -3030,11 +3045,6 @@
       {
         "PlanCode": "D-MDFID D20%M50",
         "PlanDescription": "MEDNET SC/ GREEN UNITED FID DED 20%(50) OP10% PH20%",
-        "PlanActiveStatus": "Active"
-      },
-      {
-        "PlanCode": "D-MDFID NIL",
-        "PlanDescription": "MEDNETGREEN UNITED FIDILITY",
         "PlanActiveStatus": "Active"
       }
     ]
