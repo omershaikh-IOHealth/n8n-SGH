@@ -2903,6 +2903,11 @@
         "PlanActiveStatus": "Active"
       },
       {
+        "PlanCode": "D-DAM N5 D 25%",
+        "PlanDescription": "DAMAN NETWORK-5 COPAY 25% M 2000",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "D-DAM N5 D 25C0",
         "PlanDescription": "DAMAN NETWORK-5 DED 25 COPAY NIL PH NIL",
         "PlanActiveStatus": "Active"
