@@ -783,6 +783,11 @@
     "PayerId": "INS010",
     "Plans": [
       {
+        "PlanCode": "AXA 3 0%M75",
+        "PlanDescription": "AXA 3 COPAY 20% PH NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "AXA 3 C20%",
         "PlanDescription": "AXA 3 COPAY 20%",
         "PlanActiveStatus": "Active"
