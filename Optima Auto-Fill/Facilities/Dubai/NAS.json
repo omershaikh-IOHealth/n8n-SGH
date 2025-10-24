@@ -12583,6 +12583,11 @@
         "PlanActiveStatus": "Active"
       },
       {
+        "PlanCode": "NASQIC D10%M35",
+        "PlanDescription": "NAS QIC GN UAE DED 20% M35 COPAY  NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "NASQIC D10%M50%",
         "PlanDescription": "NAS QIC GN UAE DED 10% M50 COPAY NIL L/R 20% PH 10%",
         "PlanActiveStatus": "Active"
@@ -12620,6 +12625,11 @@
       {
         "PlanCode": "NASQIC D20%C0",
         "PlanDescription": "NAS QIC GN UAE DED 20% M100  OP NIL PH 20% M100",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NASQIC D20%M35",
+        "PlanDescription": "NAS QIC GN UAE DED 20% M35 COPAY  NIL",
         "PlanActiveStatus": "Active"
       },
       {
