@@ -1618,6 +1618,11 @@
         "PlanActiveStatus": "Active"
       },
       {
+        "PlanCode": "MD AMER D20%",
+        "PlanDescription": "MEDNET AMERICAN LIFE INS DED 20%M75 COPAY 10%M100 PH10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "MD AMER R20",
         "PlanDescription": "MEDNET ALICO  DED 20%M100 OP 0 L 20%M100R20%M100 PH 50",
         "PlanActiveStatus": "Active"
