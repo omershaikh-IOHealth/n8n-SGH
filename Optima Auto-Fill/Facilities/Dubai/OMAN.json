@@ -2233,6 +2233,11 @@
         "PlanActiveStatus": "Active"
       },
       {
+        "PlanCode": "NOM BU20%300",
+        "PlanDescription": "OMAN BUPA PREMIUM DED 20%M300 L/R10% PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "NOM BU20105",
         "PlanDescription": "OMAN BUPA PREMIUM DED 20%M105 COPAY NIL",
         "PlanActiveStatus": "Active"
