@@ -5128,6 +5128,11 @@
         "PlanActiveStatus": "Active"
       },
       {
+        "PlanCode": "NCRRAK INSD0",
+        "PlanDescription": "NEXTCARE RAK NATIONAL INS  DED NIL COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "NCRRAK INSD100",
         "PlanDescription": "NEXTCARE RAK NATIONAL INS  DED100",
         "PlanActiveStatus": "Active"
