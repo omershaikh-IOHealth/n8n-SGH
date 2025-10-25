@@ -1618,6 +1618,11 @@
     "PayerId": "INS044",
     "Plans": [
       {
+        "PlanCode": "NEU NLGI 20%M",
+        "PlanDescription": "NEURON NLGI DED 20%MAX 50 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "NEU NLGIC10M25",
         "PlanDescription": "NEURON NLGI COPAY 10%M25",
         "PlanActiveStatus": "Active"
