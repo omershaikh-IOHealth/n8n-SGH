@@ -1558,6 +1558,11 @@
     "PayerId": "INS053",
     "Plans": [
       {
+        "PlanCode": "NC AO D20%M74",
+        "PlanDescription": "NEXTCARE  ARAB ORIENT DED 20%M 74 COPAY 0 PH 20%M74",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "NC OIC WW D50",
         "PlanDescription": "NEXTCARE ORIENT INS WORLDWIDE DED 50 COPAY NIL PH 30%",
         "PlanActiveStatus": "Active"
