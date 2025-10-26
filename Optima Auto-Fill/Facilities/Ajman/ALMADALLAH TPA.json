@@ -391,6 +391,11 @@
         "PlanCode": "AL IRAN D20%X",
         "PlanDescription": "ALMADALLAH GN  IRAN COPAY 20%",
         "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "ALM IRAN D25C0",
+        "PlanDescription": "ALMADALLAH GN IRAN DED 25 COPAY NIL",
+        "PlanActiveStatus": "Active"
       }
     ]
   },
