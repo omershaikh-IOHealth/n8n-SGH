@@ -431,6 +431,11 @@
         "PlanCode": "AAFI INS D20%C1",
         "PlanDescription": "AAFIYA APN PLUS INSURANCE HOUSE DED 10% (MAX-50) CO 10%L",
         "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AAFI INS D20AED",
+        "PlanDescription": "AAFIYA ESS INSURANCE HOUSE DED 20 AED COPAY 10 AED PH30%",
+        "PlanActiveStatus": "Active"
       }
     ]
   },
