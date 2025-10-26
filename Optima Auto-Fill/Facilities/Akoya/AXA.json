@@ -1043,6 +1043,16 @@
     "PayerId": "INS010",
     "Plans": [
       {
+        "PlanCode": "AXA 4 C 30%",
+        "PlanDescription": "AXA 4  COPAY 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 4 C10%",
+        "PlanDescription": "AXA 4 COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "AXA 4 C20%",
         "PlanDescription": "AXA 4 COPAY 20%",
         "PlanActiveStatus": "Active"
