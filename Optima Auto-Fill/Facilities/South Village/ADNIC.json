@@ -233,6 +233,11 @@
         "PlanActiveStatus": "Active"
       },
       {
+        "PlanCode": "ADNIC D20%PH15%",
+        "PlanDescription": "ADNIC DED 20% M 50 COPAY NIL PH 15%",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "ADNIC D20%PH20%",
         "PlanDescription": "ADNIC DED 20% COPAY NIL PH20%",
         "PlanActiveStatus": "Active"
