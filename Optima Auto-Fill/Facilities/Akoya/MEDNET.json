@@ -841,6 +841,11 @@
         "PlanCode": "MD EFC D%C0",
         "PlanDescription": "MEDNET EMIRATES FLIGHT CATERING COPAY 10% PH 5%",
         "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MD EFC D%D",
+        "PlanDescription": "MEDNET EMIRATES FLIGHT CATERING DED 10%M80 COPAY NIL PH5%",
+        "PlanActiveStatus": "Active"
       }
     ]
   },
