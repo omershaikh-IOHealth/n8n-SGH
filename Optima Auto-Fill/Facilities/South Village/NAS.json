@@ -1118,6 +1118,11 @@
     "PayerId": "INS005",
     "Plans": [
       {
+        "PlanCode": "NAS DN CD20%0",
+        "PlanDescription": "NAS CN DUBAI INSURANCE DED 50AED COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "NASDI D",
         "PlanDescription": "NAS CN DUBAI INSURANCE DED 20%M50 COPAY 15%",
         "PlanActiveStatus": "Active"
