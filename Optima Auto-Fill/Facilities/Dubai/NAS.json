@@ -6543,6 +6543,16 @@
         "PlanActiveStatus": "Active"
       },
       {
+        "PlanCode": "NAS NL D",
+        "PlanDescription": "NAS CN NLGI DED 20%M400 COPAY 20%MAX 400 PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NAS NL D NIL",
+        "PlanDescription": "NAS CN NLGI DED NILl COPAY 20%MAX 400 PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "NAS NL D20%C15%",
         "PlanDescription": "NAS CN NLGI DED 20% MAX 50 COPAY 15% PH 15%",
         "PlanActiveStatus": "Active"
@@ -12210,6 +12220,11 @@
       {
         "PlanCode": "NAS QIC D",
         "PlanDescription": "NAS GN QIC UAE DED 20% MAX 100 COPAY  NIL PH 20%M50",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NAS QIC D%M25",
+        "PlanDescription": "NAS GN QIC UAE DED 10% MAX 25 COPAY 10%MAX 25",
         "PlanActiveStatus": "Active"
       },
       {
