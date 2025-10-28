@@ -1513,6 +1513,11 @@
         "PlanActiveStatus": "Active"
       },
       {
+        "PlanCode": "MDALIC30 50",
+        "PlanDescription": "MEDNET METLIFE ALICO COPAY 50%",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "MDALIC5 0",
         "PlanDescription": "MEDNET METLIFE ALICO DED 10% MAX 50 COPAY NIL",
         "PlanActiveStatus": "Active"
