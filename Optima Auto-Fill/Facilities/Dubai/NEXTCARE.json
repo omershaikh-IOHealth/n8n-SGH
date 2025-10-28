@@ -6508,6 +6508,11 @@
         "PlanActiveStatus": "Active"
       },
       {
+        "PlanCode": "NC RN UNB2C",
+        "PlanDescription": "NEXTCARE RNE UNB TAKAFUL  DED 20%M50 COPAY NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "NC RN UNBDC20%",
         "PlanDescription": "NEXTCARE RNE UNB TAKAFUL  DED 20% MAX 50 COPAY 20%",
         "PlanActiveStatus": "Active"
