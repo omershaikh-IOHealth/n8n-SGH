@@ -733,6 +733,11 @@
         "PlanActiveStatus": "Active"
       },
       {
+        "PlanCode": "MDT D1050C10%",
+        "PlanDescription": "MEDNET ARAB ORIENT INS DED 10%M 60 COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "MDT D25 C10",
         "PlanDescription": "MEDNET ARAB ORIENT INS DED 25 COPAY 10%",
         "PlanActiveStatus": "Active"
