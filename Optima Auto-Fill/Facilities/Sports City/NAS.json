@@ -2893,6 +2893,11 @@
         "PlanActiveStatus": "Active"
       },
       {
+        "PlanCode": "NAS TAK D20%75",
+        "PlanDescription": "NAS CN TAKAFUL EMARAT DED 20%M75 COPAY 10%  PH 15%",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "NAS TE D20%C20%",
         "PlanDescription": "NAS CN TAKAFUL EMARAT DED 20% COPAY 20%",
         "PlanActiveStatus": "Active"
