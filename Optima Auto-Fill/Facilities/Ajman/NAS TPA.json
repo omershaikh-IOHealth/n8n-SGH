@@ -13568,6 +13568,11 @@
     "PayerId": "INS008",
     "Plans": [
       {
+        "PlanCode": "D-NAS ORI D 20%",
+        "PlanDescription": "NAS RN WN SN  ORIENT INS  DED 20% (MAX-100)",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "NAAOI D15M50",
         "PlanDescription": "NAS RN+SRN+WN ARAB ORIENT DED15%M50 COPAY15%M50 PH 20%",
         "PlanActiveStatus": "Active"
