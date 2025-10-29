@@ -440,6 +440,21 @@
     ]
   },
   {
+    "PolicyGroupCode": "AAFIY INS ESSEN",
+    "PolicyGroupDescription": "AAFIYA - INSURANCE HOUSE   - APN ESSENTIAL",
+    "RateListCode": "AAFIYA ESSENTIA",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "",
+    "Plans": [
+      {
+        "PlanCode": "AF HOU ES D20%M",
+        "PlanDescription": "AAFIYA INSUR HOUSE ESSENTIAL DED 20AED OP 0 L/R 10AED  PH30%",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
     "PolicyGroupCode": "AAFIYA  OR UNB",
     "PolicyGroupDescription": "AAFIYA - ORIENT UNB TAKAFUL - ELITE NETWORK",
     "RateListCode": "AAFIYA",
