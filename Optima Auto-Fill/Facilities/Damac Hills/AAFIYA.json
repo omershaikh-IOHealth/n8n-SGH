@@ -445,7 +445,7 @@
     "RateListCode": "AAFIYA ESSENTIA",
     "PolicyGroupCustomerType": "Insurance Company",
     "PolicGroupActiveStatus": "Active",
-    "PayerId": "",
+    "PayerId": "INS034",
     "Plans": [
       {
         "PlanCode": "AF HOU ES D20%M",
@@ -830,6 +830,21 @@
       {
         "PlanCode": "D-AAF TK D2025",
         "PlanDescription": "AAFIYA APN PLUS AL SAGR  DED 20%M 25 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "DAAFAL SAG ESS",
+    "PolicyGroupDescription": "AAFIYA - AL SAGR NATIONAL INSURANCE COMPA - APN ESSENTIAL",
+    "RateListCode": "AAFIYA - PL&PR",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS011",
+    "Plans": [
+      {
+        "PlanCode": "D-AAF AL SGR",
+        "PlanDescription": "AAFIYA APN ESSENTIAL  AL SAGR  DED 20%M 25 COPAY NIL",
         "PlanActiveStatus": "Active"
       }
     ]
