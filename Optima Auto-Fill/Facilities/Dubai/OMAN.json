@@ -283,6 +283,11 @@
         "PlanActiveStatus": "Active"
       },
       {
+        "PlanCode": "OM A DP2100",
+        "PlanDescription": "OMAN INSU EDGE DED 50 COPAY NIL PH 10%MAX 25",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "OM BUPA D20 PH",
         "PlanDescription": "OMAN INSURANCE DED 20% COPAY 20% PH NIL",
         "PlanActiveStatus": "Active"
@@ -764,7 +769,7 @@
       },
       {
         "PlanCode": "OMAN D15%50",
-        "PlanDescription": "OMAN PREMIUM/CN/CN+ DED15%M50 50 CO 15%M50 PH 10%M50",
+        "PlanDescription": "OMAN PREMIUM/CN/CN+ DED15%M50  CO 15%M50 PH 10%M50",
         "PlanActiveStatus": "Active"
       },
       {
