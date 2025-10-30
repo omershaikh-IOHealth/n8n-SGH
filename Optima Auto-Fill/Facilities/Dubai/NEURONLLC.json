@@ -3278,6 +3278,11 @@
         "PlanActiveStatus": "Active"
       },
       {
+        "PlanCode": "NEURON DE D",
+        "PlanDescription": "NEURON DEWA COPAY 20%MAX 1000",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "NEURON DEWA 30",
         "PlanDescription": "NEURON DEWA DED 30 COPAY NIL DN 20% OP 50%",
         "PlanActiveStatus": "Active"
