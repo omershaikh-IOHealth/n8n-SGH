@@ -9893,6 +9893,11 @@
         "PlanActiveStatus": "Active"
       },
       {
+        "PlanCode": "NC AOIC D50X-10",
+        "PlanDescription": "NEXTCARE GN ARAB ORIENT DED50 OP NIL L/R 10%M50 PH10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "NC AOIC D75",
         "PlanDescription": "NEXTCARE GN+  ARAB ORT DED 20%M75 OP NIL L/R 10%M150 PH 10%",
         "PlanActiveStatus": "Active"
