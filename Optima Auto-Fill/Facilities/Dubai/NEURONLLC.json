@@ -1203,6 +1203,11 @@
         "PlanActiveStatus": "Active"
       },
       {
+        "PlanCode": "N G NLG D0",
+        "PlanDescription": "NEURON GN NLGI DED 20%MAX 55 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "N G NLG D00",
         "PlanDescription": "NEURON GN NLGI COPAY 10%",
         "PlanActiveStatus": "Active"
