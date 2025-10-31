@@ -903,6 +903,11 @@
         "PlanActiveStatus": "Active"
       },
       {
+        "PlanCode": "D OMAN 20%M50",
+        "PlanDescription": "OMAN SUKOON  INSURANCE SN20 % MAX 50AED",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "D OMAN EN",
         "PlanDescription": "OMAN INSURANCE EN D 50 AEDC20%",
         "PlanActiveStatus": "Active"
