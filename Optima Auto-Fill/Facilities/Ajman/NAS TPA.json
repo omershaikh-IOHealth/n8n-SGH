@@ -16711,6 +16711,11 @@
         "PlanCode": "NAS NT D10%C10%",
         "PlanDescription": "NAS EN+CN NOOR TAKAFUL DED 10% COPAY 10% PH 20%",
         "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NAS NT D50C0 CN",
+        "PlanDescription": "NAS EN+CN NOOR TAKAFUL DED 50 COPAY NIL",
+        "PlanActiveStatus": "Active"
       }
     ]
   },
