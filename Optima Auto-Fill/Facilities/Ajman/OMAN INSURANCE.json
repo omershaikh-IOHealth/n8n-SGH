@@ -2021,6 +2021,11 @@
         "PlanCode": "D-OM V C1ATG",
         "PlanDescription": "OMAN INSURANCE VITAL ATG DED  10% COPAY 10% PH 10%",
         "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-OM V C1ATG10%",
+        "PlanDescription": "OMAN INSURANCE VITAL ATG COPAY 10% PH 10% M 10",
+        "PlanActiveStatus": "Active"
       }
     ]
   },
