@@ -3588,6 +3588,11 @@
         "PlanActiveStatus": "Active"
       },
       {
+        "PlanCode": "NEU G QIC D20M",
+        "PlanDescription": "NEURON GN QIC DED 20%M25  COPAY NIL PH 20%M 25",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "NEU G QIC D2M",
         "PlanDescription": "NEURON GN QIC DED 20%M50 COPAY 10% PH 10%",
         "PlanActiveStatus": "Active"
