@@ -1,5 +1,20 @@
 [
   {
+    "PolicyGroupCode": "ALM - IRAN INS",
+    "PolicyGroupDescription": "ALMADALLAH - IRAN INSURANCE COMPANY",
+    "RateListCode": "ALM - GOVT PL",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS043",
+    "Plans": [
+      {
+        "PlanCode": "AL IRAN INS",
+        "PlanDescription": "ALMADALLAH IRAN INS DED 20% MAX 50 COPAY 15%",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
     "PolicyGroupCode": "ALM-DUBAI POLIC",
     "PolicyGroupDescription": "ALMADALLAH - DUBAI POLICE",
     "RateListCode": "ALM GOVT 2022",
