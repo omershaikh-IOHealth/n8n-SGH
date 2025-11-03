@@ -1836,6 +1836,11 @@
         "PlanCode": "NAS MED D50M100",
         "PlanDescription": "NAS CN MEDGULF DED 20% MAX 100 COPAY NIL",
         "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NAS MED D50M75",
+        "PlanDescription": "NAS CN MEDGULF DED 20% MAX 75 COPAY NIL",
+        "PlanActiveStatus": "Active"
       }
     ]
   },
