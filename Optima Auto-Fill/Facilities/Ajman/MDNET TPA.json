@@ -403,6 +403,11 @@
         "PlanActiveStatus": "Active"
       },
       {
+        "PlanCode": "D-M AMER D20%60",
+        "PlanDescription": "MEDNET ALICO GOLD DED 20%MAX 60 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "D-M AMER20100",
         "PlanDescription": "MEDNET AMER GOLD & SILVR PREMIUM DED 20%M100  COPAY 0 PH15%",
         "PlanActiveStatus": "Active"
@@ -3705,6 +3710,11 @@
       {
         "PlanCode": "M AMER",
         "PlanDescription": "MEDNET AMER GOLD & SILVR PREMIUM DED NIL COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "M AMER D20%60",
+        "PlanDescription": "MEDNET ALICO GOLD DED 20%MAX 55 COPAY NIL",
         "PlanActiveStatus": "Active"
       },
       {
