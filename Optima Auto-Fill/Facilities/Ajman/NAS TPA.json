@@ -10383,6 +10383,11 @@
         "PlanActiveStatus": "Active"
       },
       {
+        "PlanCode": "D-NAR ME D20%C",
+        "PlanDescription": "NAS RN+SRN+WN MEDGULF DED 20% COPAY 10% PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "D-NAR ME D2025",
         "PlanDescription": "NAS RN+SRN+WN MEDGULF DED 20% M25 COPAY NIL",
         "PlanActiveStatus": "Active"
@@ -11880,6 +11885,11 @@
       {
         "PlanCode": "NA WAT D200 GN",
         "PlanDescription": "NAS GN AL WATHBA NATIONAL INSURANCE DED 50 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NA WAT D25AED",
+        "PlanDescription": "NAS GN AL WATHBA DED 25 AED",
         "PlanActiveStatus": "Active"
       }
     ]
