@@ -1098,6 +1098,11 @@
         "PlanActiveStatus": "Active"
       },
       {
+        "PlanCode": "M N2 DI D20AED",
+        "PlanDescription": "MEDNET EXC N2 DUBAI INS DED 20 AED COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "M N2 DI D20M",
         "PlanDescription": "MEDNET EXC N2 DUBAI INS DED 20% MAX 50 COPAY NIL PH 20%",
         "PlanActiveStatus": "Active"
