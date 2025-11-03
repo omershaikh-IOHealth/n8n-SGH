@@ -333,6 +333,11 @@
     "PayerId": "INS022",
     "Plans": [
       {
+        "PlanCode": "AF TK ES C20%",
+        "PlanDescription": "AAFIYA TAKAFUL ESSENTIAL COPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "AF TK ES D20%M",
         "PlanDescription": "AAFIYA TAKAFUL ESSENTIAL D20%M50 COPAY 20%PH 20%",
         "PlanActiveStatus": "Active"
@@ -747,6 +752,11 @@
     "PolicGroupActiveStatus": "Active",
     "PayerId": "INS022",
     "Plans": [
+      {
+        "PlanCode": "D-AF TK ES C20%",
+        "PlanDescription": "AAFIYA TAKAFUL ESSENTIAL COPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
       {
         "PlanCode": "DAF TK ES D20%M",
         "PlanDescription": "AAFIYA TAKAFUL ESSENTIAL D20%M50 COPAY 20%PH 20%",
