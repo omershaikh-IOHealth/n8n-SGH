@@ -6885,7 +6885,7 @@
     "RateListCode": "NEXTCARE",
     "PolicyGroupCustomerType": "Insurance Company",
     "PolicGroupActiveStatus": "Active",
-    "PayerId": "TPA002",
+    "PayerId": "INS008",
     "Plans": [
       {
         "PlanCode": "NC  ORIENT BAHR",
@@ -7990,6 +7990,21 @@
       {
         "PlanCode": "NC TOK D50C0",
         "PlanDescription": "NEXTCARE TOKIO MARINE DED 50 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "NEXT- INS HOUSE",
+    "PolicyGroupDescription": "NEXTCARE - INSURANCE HOUSE - PSC",
+    "RateListCode": "NEXTCARE",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS034",
+    "Plans": [
+      {
+        "PlanCode": "NXT INS HS C10%",
+        "PlanDescription": "NEXTCARE GN INSURANCE  HOUSE COPAY 10% PH 20%",
         "PlanActiveStatus": "Active"
       }
     ]
@@ -9365,6 +9380,21 @@
       {
         "PlanCode": "NCRUNTINSD50C20",
         "PlanDescription": "NEXTCARE UNITED INS COM DED 50 CO20",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "NXT-INS HO- RNE",
+    "PolicyGroupDescription": "NEXTCARE - INSURANCE HOUSE - PSC - RNE",
+    "RateListCode": "NEXTCARE - RN",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS034",
+    "Plans": [
+      {
+        "PlanCode": "NXT INS C10% PH",
+        "PlanDescription": "NEXTCARE RNE INSURANCE  HOUSE COPAY 10% PH 20%",
         "PlanActiveStatus": "Active"
       }
     ]
