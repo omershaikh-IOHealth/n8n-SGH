@@ -12323,6 +12323,11 @@
         "PlanActiveStatus": "Active"
       },
       {
+        "PlanCode": "NAS ADN 20%50",
+        "PlanDescription": "NAS RN+SRN+WN ADNIC DED 20%(MAX 50) COPAY 20%PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "NAS ADN 2050",
         "PlanDescription": "NAS RN+SRN+WN ADNIC DED 20%(MAX 50) COPAY 20%M50 PH 20%",
         "PlanActiveStatus": "Active"
