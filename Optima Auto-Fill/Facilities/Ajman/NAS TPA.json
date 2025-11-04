@@ -15621,6 +15621,11 @@
         "PlanCode": "NAS METH C20%",
         "PlanDescription": "NAS GN METHAQ INS DED 20%(75) COPAY NIL",
         "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NAS METH D0C0",
+        "PlanDescription": "NAS GN METHAQ INS DED 0% COPAY 0%",
+        "PlanActiveStatus": "Active"
       }
     ]
   },
