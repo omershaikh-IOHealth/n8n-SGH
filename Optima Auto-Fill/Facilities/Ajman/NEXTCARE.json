@@ -12153,6 +12153,11 @@
         "PlanActiveStatus": "Active"
       },
       {
+        "PlanCode": "NC UNB D2",
+        "PlanDescription": "NEXTCARE GN ORIENT UNB TAKAFUL COPAY 15%MAX 50 PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "NC UNB D20% C0",
         "PlanDescription": "NEXTCARE GN ORIENT UNB TAKAFUL DED 20%(MAX-50)CO 0 PH 10%",
         "PlanActiveStatus": "Active"
