@@ -1213,6 +1213,11 @@
         "PlanActiveStatus": "Active"
       },
       {
+        "PlanCode": "NAS DN D0C0",
+        "PlanDescription": "NAS CN DUBAI INSURANCE DED NIL COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "NAS DN D20M30",
         "PlanDescription": "NAS CN DUBAI INSURANCE DED 20% MAX 30 COPAY nil",
         "PlanActiveStatus": "Active"
@@ -4195,6 +4200,11 @@
       {
         "PlanCode": "NAS WTB",
         "PlanDescription": "NAS GN AL WATHBA INS DED 20%MAX 50 COPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NAS WTB C15%100",
+        "PlanDescription": "NAS GN AL WATHBA INS DED 15%MAX 100 COPAY 15%",
         "PlanActiveStatus": "Active"
       },
       {
