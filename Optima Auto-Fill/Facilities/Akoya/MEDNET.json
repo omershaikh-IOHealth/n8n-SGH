@@ -1638,6 +1638,11 @@
         "PlanActiveStatus": "Active"
       },
       {
+        "PlanCode": "MD AMER20",
+        "PlanDescription": "MEDNET AMERICAN LIFE INS DED 20%M75  COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "MD AMER200C0",
         "PlanDescription": "MEDNET AMERICAN LIFE INS DED 20%M75  COPAY NIL PH 5%",
         "PlanActiveStatus": "Active"
