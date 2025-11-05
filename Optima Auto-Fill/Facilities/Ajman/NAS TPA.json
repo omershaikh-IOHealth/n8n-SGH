@@ -16528,6 +16528,11 @@
         "PlanActiveStatus": "Active"
       },
       {
+        "PlanCode": "NAS NLG D30",
+        "PlanDescription": "NAS RN+SRN+WN NLGI COPAY 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "NAS NLG D30C10%",
         "PlanDescription": "NAS RN+SRN+WN NLGI D30 C10%(MAX20) PH10%",
         "PlanActiveStatus": "Active"
