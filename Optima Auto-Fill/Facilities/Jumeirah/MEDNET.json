@@ -981,6 +981,11 @@
         "PlanCode": "MDT  NLGI D",
         "PlanDescription": "MEDNET NATIONAL LIFE GEN. INS  DED 20%M50 COPAY 20%",
         "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MDT  NLGI NIL",
+        "PlanDescription": "MEDNET NLGI   DED NIL COPAY NIL",
+        "PlanActiveStatus": "Active"
       }
     ]
   },
@@ -1385,6 +1390,21 @@
       {
         "PlanCode": "MDT UNB  D5NIL",
         "PlanDescription": "MEDNET ORIENT UNB TAKAFUL DED 20% M 50 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "MDT UNITED",
+    "PolicyGroupDescription": "MEDNET - UNITED FIDELITY INSURANCE",
+    "RateListCode": "MEDNET",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS041",
+    "Plans": [
+      {
+        "PlanCode": "MDT  UNITED",
+        "PlanDescription": "MEDNET UNITED FEDILITY   DED 20%M50 OP NIL L/R/PH 10%",
         "PlanActiveStatus": "Active"
       }
     ]
