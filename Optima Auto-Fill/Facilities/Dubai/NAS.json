@@ -338,6 +338,11 @@
         "PlanActiveStatus": "Active"
       },
       {
+        "PlanCode": "NAS ADD10%5020",
+        "PlanDescription": "NAS CN ADNIC DED 10% M 50 COPAY NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "NAS ADD10%50D",
         "PlanDescription": "NAS CN ADNIC DED 10% M 50 COPAY NIL",
         "PlanActiveStatus": "Active"
@@ -3728,6 +3733,11 @@
         "PlanActiveStatus": "Active"
       },
       {
+        "PlanCode": "NAS GME D20C0",
+        "PlanDescription": "NAS GN MEDGULF UAE DED 20% MAX 75 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "NAS GMED D20%M5",
         "PlanDescription": "NAS GN MEDGULF UAE DED 20% MAX 50 COPAY 10% PH 10%",
         "PlanActiveStatus": "Active"
@@ -5425,6 +5435,11 @@
       {
         "PlanCode": "NAS GF D20",
         "PlanDescription": "NAS GN FIDELITY UNITED DED 20% MAX 50 OP NIL L/R/PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NAS GF D20%100",
+        "PlanDescription": "NAS GN FIDELITY UNITED DED 20% MAX 100 COPAY NIL",
         "PlanActiveStatus": "Active"
       },
       {
@@ -9513,6 +9528,11 @@
         "PlanActiveStatus": "Active"
       },
       {
+        "PlanCode": "NAS N GN D20%M2",
+        "PlanDescription": "NAS GN NOOR TAKAFUL DED 20% MAX 50 COPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "NAS N GN D20%M5",
         "PlanDescription": "NAS GN NOOR TAKAFUL DED 20% MAX 50 COPAY NIL",
         "PlanActiveStatus": "Active"
@@ -11968,6 +11988,11 @@
         "PlanActiveStatus": "Active"
       },
       {
+        "PlanCode": "NAS Q C5050X PH",
+        "PlanDescription": "NAS GN QIC UAE  DED 50AED  COPAY 20%M50 PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "NAS Q C50C",
         "PlanDescription": "NAS GN QIC UAE  DED 20% COPAY 50%",
         "PlanActiveStatus": "Active"
@@ -11990,6 +12015,11 @@
       {
         "PlanCode": "NAS Q C50CM50",
         "PlanDescription": "NAS GN QIC UAE  DED 20%MAX 50 COPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NAS Q C50CPH",
+        "PlanDescription": "NAS GN QIC UAE  DED 20%MAX 50 COPAY 10% PH 20%",
         "PlanActiveStatus": "Active"
       },
       {
@@ -12293,6 +12323,11 @@
         "PlanActiveStatus": "Active"
       },
       {
+        "PlanCode": "NAS QIC D1M50",
+        "PlanDescription": "NAS GN QIC UAE DED 10% COPAY NIL PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "NAS QIC D2% 0",
         "PlanDescription": "NAS GN QIC UAE DED 20% MAX 100 OP/L NIL R 20%M100 PH 30%",
         "PlanActiveStatus": "Active"
@@ -12585,6 +12620,11 @@
       {
         "PlanCode": "NASQIC D/C5%",
         "PlanDescription": "NAS QIC GN UAE DED 5% COPAY 5% PH 5%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NASQIC D10% MC0",
+        "PlanDescription": "NAS GN QIC UAE DED 10% M 35 AED COPAY NIL",
         "PlanActiveStatus": "Active"
       },
       {
