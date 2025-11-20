@@ -2101,6 +2101,11 @@
         "PlanCode": "NAS CN OR C20M1",
         "PlanDescription": "NAS CN ARAB ORIENT INSURANCE PJSC DED 20%MAX 100 COPAY NIL",
         "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NAS CN OR C20M5",
+        "PlanDescription": "NAS CN ARAB ORIENT INSURANCE DED 20%MAX 50 CO NIL PH 20%M100",
+        "PlanActiveStatus": "Active"
       }
     ]
   },
@@ -6475,6 +6480,11 @@
       {
         "PlanCode": "NAS Q D15%50",
         "PlanDescription": "NAS CN QIC UAE DED 15% MAX 50 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NAS Q D15%50P",
+        "PlanDescription": "NAS CN QIC UAE DED 15% MAX 50 COPAY NIL PH 10%",
         "PlanActiveStatus": "Active"
       },
       {
