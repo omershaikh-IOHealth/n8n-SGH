@@ -2923,6 +2923,11 @@
         "PlanActiveStatus": "Active"
       },
       {
+        "PlanCode": "AXA 1P D50PH",
+        "PlanDescription": "AXA 1PRIVILEGE  BLACK CARD DED 50 PH 5%",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "AXA1B D 20",
         "PlanDescription": "AXA 1 COPAY 20% BLACK CARD (5000 AED )",
         "PlanActiveStatus": "Active"
