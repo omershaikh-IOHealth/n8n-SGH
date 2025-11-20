@@ -168,6 +168,11 @@
         "PlanActiveStatus": "Active"
       },
       {
+        "PlanCode": "D-SAICO D2",
+        "PlanDescription": "SAICO EMERALD & JADE NET-  DED20%M25 COPAY 20%M25 PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "D-SAICO D20%  C",
         "PlanDescription": "SAICO EMERALD & JADE NET-  DED 20% (MAX-25) COPAY 0",
         "PlanActiveStatus": "Active"
