@@ -753,6 +753,11 @@
     "PayerId": "INS002",
     "Plans": [
       {
+        "PlanCode": "D-ALDG SIL C10%",
+        "PlanDescription": "ALMADALLAH RN/SILVER DUBAI GOVT COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "D-ALDG SIL C20%",
         "PlanDescription": "ALMADALLAH RN/SILVER DUBAI GOVT COPAY 20%",
         "PlanActiveStatus": "Active"
