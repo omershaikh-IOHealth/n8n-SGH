@@ -5026,6 +5026,11 @@
         "PlanCode": "D-NAITHAD D 75",
         "PlanDescription": "NAS CN AL ITT AL WAT DED 75 COPAY NIL",
         "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-NAITHAD D20M5",
+        "PlanDescription": "NAS CN AL ITT AL WAT DED 20% M 50  COPAY NIL",
+        "PlanActiveStatus": "Active"
       }
     ]
   },
