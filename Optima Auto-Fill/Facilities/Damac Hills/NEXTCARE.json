@@ -258,6 +258,11 @@
         "PlanActiveStatus": "Active"
       },
       {
+        "PlanCode": "D-NCE D10%M25",
+        "PlanDescription": "NEXTCARE RN TAKAFUL EMARAT DED GP 10% (25) COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "D-NCE D10%P15%",
         "PlanDescription": "NEXTCARE RN TAKAFUL EMARAT DED GP 10% (25) COPAY 10% PH 15%",
         "PlanActiveStatus": "Active"
@@ -9015,6 +9020,11 @@
       {
         "PlanCode": "NC RAK C20%",
         "PlanDescription": "NEXTCARE GN RAK DED 20% MAX 40 COPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NC RAK NIL",
+        "PlanDescription": "NEXTCARE GN RAK DED NIL COPAY NIL",
         "PlanActiveStatus": "Active"
       }
     ]
