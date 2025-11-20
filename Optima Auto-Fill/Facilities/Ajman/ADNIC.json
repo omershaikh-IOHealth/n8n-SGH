@@ -733,6 +733,11 @@
         "PlanActiveStatus": "Active"
       },
       {
+        "PlanCode": "ADN PLT D20%CM3",
+        "PlanDescription": "ADNIC PLATINUM DED 20%(MAX-50) L&R20%(MAX30) PH30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "ADN PLT D20%CM5",
         "PlanDescription": "ADNIC PLATINUM DED 20%(MAX-50) L&R20%(MAX50) PH 20%M50",
         "PlanActiveStatus": "Active"
