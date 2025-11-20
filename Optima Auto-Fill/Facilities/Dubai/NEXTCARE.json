@@ -123,6 +123,11 @@
         "PlanActiveStatus": "Active"
       },
       {
+        "PlanCode": "NC G ADNIC 10",
+        "PlanDescription": "NEXTCARE ADNIC STAFF POLICY COPAY 10% RAD 20% PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "NC G ADNIC CO",
         "PlanDescription": "NEXTCARE ADNIC STAFF COPAY 30%",
         "PlanActiveStatus": "Active"
@@ -475,6 +480,11 @@
       {
         "PlanCode": "NC RN A D20XX",
         "PlanDescription": "NEXTCARE RNE ADNIC DED 20%M50 LAB/RAD 10% PH 20% OP NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NC RN A D50PH",
+        "PlanDescription": "NEXTCARE RNE ADNIC DED 50 COPAY NIL PH10%",
         "PlanActiveStatus": "Active"
       },
       {
@@ -4778,11 +4788,6 @@
         "PlanActiveStatus": "Active"
       },
       {
-        "PlanCode": "NCWAT C20%M",
-        "PlanDescription": "NEXTCARE WATANIA - DED 20% M 100 COPAY 20% PH 30%",
-        "PlanActiveStatus": "Active"
-      },
-      {
         "PlanCode": "NCWAT D0 C0",
         "PlanDescription": "NEXTCARE WATANIA - DED NIL",
         "PlanActiveStatus": "Active"
@@ -6085,6 +6090,11 @@
       {
         "PlanCode": "NC OUNB D125C0",
         "PlanDescription": "NEXTCARE ORIENT UNB DED 125 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NC OUNB D15%M50",
+        "PlanDescription": "NEXTCARE ORIENT UNB COPAY 15% M 50  PH 20%",
         "PlanActiveStatus": "Active"
       },
       {
@@ -10368,6 +10378,11 @@
         "PlanActiveStatus": "Active"
       },
       {
+        "PlanCode": "NCRMEDG INSD48",
+        "PlanDescription": "NEXTCARE MEDGULF DED 48.70 AED",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "NCRMEDG INSD75",
         "PlanDescription": "NEXTCARE MEDGULF DED 75 COPAY NIL PH 20%",
         "PlanActiveStatus": "Active"
@@ -11150,6 +11165,11 @@
       {
         "PlanCode": "NCRNOORD75C20%",
         "PlanDescription": "NEXTCARE NOOR TAKAFUL INS  DED 75 CO 20% PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NCWAT C20%M",
+        "PlanDescription": "NEXTCARE WATANIA - DED 20% M 100 COPAY 20% PH 30%",
         "PlanActiveStatus": "Active"
       },
       {
