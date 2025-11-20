@@ -118,6 +118,11 @@
         "PlanActiveStatus": "Active"
       },
       {
+        "PlanCode": "OIC D2 15PH30%",
+        "PlanDescription": "OMAN PREMIUM/CN/CN+  DED 20% M 50 LAB 15% OP NIL PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "OIC D20%",
         "PlanDescription": "OMAN PREMIUM/CN/CN+ DED 20% M50 OP/LAB/RAD/PH 10%M25",
         "PlanActiveStatus": "Active"
@@ -1345,6 +1350,11 @@
       {
         "PlanCode": "O SN D20%M100",
         "PlanDescription": "OMAN STANDARD DED 20% MAX 100 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "O SN D20%M100C",
+        "PlanDescription": "OMAN STANDARD DED 20% MAX 100 COPAY 20% M 100",
         "PlanActiveStatus": "Active"
       },
       {
@@ -2665,6 +2675,11 @@
       {
         "PlanCode": "OM BUPA D50XL",
         "PlanDescription": "OMAN BUPA PREMIUM DED 50 OP NIL LAB 50AED RAD 50ARD PH25%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OM BUPA DC0",
+        "PlanDescription": "OMAN BUPA PRIMIER DED 20% MAX 55 COPAY NIL",
         "PlanActiveStatus": "Active"
       },
       {
