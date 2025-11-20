@@ -373,6 +373,11 @@
         "PlanActiveStatus": "Active"
       },
       {
+        "PlanCode": "AL MDAL 20CL",
+        "PlanDescription": "ALMADALLAH QIC DED 20% 50 LAB/RAD 10% PH NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "AL MDALL 0",
         "PlanDescription": "ALMADALLAH QIC DED NIL COPAY NIL",
         "PlanActiveStatus": "Active"
