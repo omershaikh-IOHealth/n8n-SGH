@@ -1249,7 +1249,12 @@
       },
       {
         "PlanCode": "MDTSALD20% C0",
-        "PlanDescription": "MEDNET SALAMA INS DED 20% COPAY NIL",
+        "PlanDescription": "MEDNET SALAMA INS DED 20% M 50  COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MDTSALD20% M50",
+        "PlanDescription": "MEDNET SALAMA INS DED 20% M 50  COPAY NIL",
         "PlanActiveStatus": "Active"
       },
       {
@@ -1623,6 +1628,11 @@
         "PlanActiveStatus": "Active"
       },
       {
+        "PlanCode": "MD AMER 75",
+        "PlanDescription": "MEDNET AMERICAN LIFE INS DED 20%M75OP 0 L/R20%M100 PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "MD AMER D0C0",
         "PlanDescription": "MEDNET AMERICAN LIFE INS DED NIL COPAY NIL",
         "PlanActiveStatus": "Active"
@@ -1643,8 +1653,18 @@
         "PlanActiveStatus": "Active"
       },
       {
+        "PlanCode": "MD AMER20%M50",
+        "PlanDescription": "MEDNET AMERICAN LIFE DED 20%M50  OP20% L&R NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "MD AMER200C0",
         "PlanDescription": "MEDNET AMERICAN LIFE INS DED 20%M75  COPAY NIL PH 5%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MD AMER20M50",
+        "PlanDescription": "MEDNET AMERICAN LIFE INS DED 20%M50  COPAY NIL",
         "PlanActiveStatus": "Active"
       },
       {
