@@ -412,7 +412,7 @@
   {
     "PolicyGroupCode": "AXA - AXA-4",
     "PolicyGroupDescription": "AXA GULF - AXA-4 NETWORK",
-    "RateListCode": "AXA - CRYSTAL",
+    "RateListCode": "AXA - STAR&DIAM",
     "PolicyGroupCustomerType": "Insurance Company",
     "PolicGroupActiveStatus": "Active",
     "PayerId": "INS010",
@@ -565,6 +565,11 @@
       {
         "PlanCode": "AXA  AXA5 D25",
         "PlanDescription": "AXA AXA-5 DED 25 COINS NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA  AXA5 D30",
+        "PlanDescription": "AXA AXA-5 DED 30 COINS NIL",
         "PlanActiveStatus": "Active"
       },
       {
@@ -1412,7 +1417,7 @@
   {
     "PolicyGroupCode": "DAXA - AXA-4",
     "PolicyGroupDescription": "AXA GULF - AXA-4 NETWORK",
-    "RateListCode": "AXA - CRYSTAL",
+    "RateListCode": "AXA - STAR&DIAM",
     "PolicyGroupCustomerType": "Insurance Company",
     "PolicGroupActiveStatus": "Active",
     "PayerId": "INS010",
@@ -1517,7 +1522,7 @@
   {
     "PolicyGroupCode": "DAXA - AXA-4-XP",
     "PolicyGroupDescription": "AXA GULF - AXA-4 NETWORK-( XP & XI POLICY)",
-    "RateListCode": "AXA - CRYSTAL",
+    "RateListCode": "AXA - STAR&DIAM",
     "PolicyGroupCustomerType": "Insurance Company",
     "PolicGroupActiveStatus": "Active",
     "PayerId": "INS010",
