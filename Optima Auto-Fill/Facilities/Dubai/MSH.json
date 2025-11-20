@@ -363,6 +363,11 @@
         "PlanActiveStatus": "Active"
       },
       {
+        "PlanCode": "MSH D0 CO 0%",
+        "PlanDescription": "MSH INTERNATIONAL DED 0 COPAY 0",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "MSH D0 CO 20",
         "PlanDescription": "MSH INTERNATIONAL DED 0 CO 20%",
         "PlanActiveStatus": "Active"
