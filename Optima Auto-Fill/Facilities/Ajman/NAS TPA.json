@@ -5725,6 +5725,21 @@
     ]
   },
   {
+    "PolicyGroupCode": "DNAS ORIENTAL-G",
+    "PolicyGroupDescription": "D-NAS - THE ORIENTAL INSURANCE COMPANY LTD - GN",
+    "RateListCode": "NAS - GN",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS128",
+    "Plans": [
+      {
+        "PlanCode": "D-NAS OR",
+        "PlanDescription": "NAS GN ORIENTAL DED NIL COPAY NIL",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
     "PolicyGroupCode": "DNAS QIC - CN",
     "PolicyGroupDescription": "NAS - QATAR INSURANCE COMPANY (QIC) - EN+CN",
     "RateListCode": "NAS - EN&CN",
