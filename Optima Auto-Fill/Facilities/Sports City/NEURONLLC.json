@@ -608,6 +608,11 @@
         "PlanActiveStatus": "Active"
       },
       {
+        "PlanCode": "N CN C D20%",
+        "PlanDescription": "NEURON CIGNA DED 20% MAX 75 COPAY 20% PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "N CN C D20%M37",
         "PlanDescription": "NEURON CIGNA DED 20% MAX 37 OP NIL PH 10% LAB/RAD 20%",
         "PlanActiveStatus": "Active"
@@ -860,6 +865,11 @@
       {
         "PlanCode": "NRN CIGD50P30%",
         "PlanDescription": "NEURON CIGNA DED 50 COPAY NIL PH30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NRN CIGNA 20M75",
+        "PlanDescription": "NEURON CIGNA DED 20% M75 COPAY 20%",
         "PlanActiveStatus": "Active"
       },
       {
@@ -2080,6 +2090,11 @@
       {
         "PlanCode": "NEU QIC D50C0",
         "PlanDescription": "NEURON QIC DED 50 COPAY NIL DN 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEUROIC D20",
+        "PlanDescription": "NEURON QIC DED 15% MAX 75 COPAY NIL PH 20%",
         "PlanActiveStatus": "Active"
       },
       {
