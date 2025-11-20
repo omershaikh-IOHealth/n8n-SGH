@@ -206,6 +206,11 @@
         "PlanCode": "D-MED ADAM DX",
         "PlanDescription": "MEDNET ADAMJEE INS SILKROAD DED 10% COPAY 10%",
         "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-MED ADAM0",
+        "PlanDescription": "MEDNET ADAMJEE INS EMERALD DED 20%MAX 50 COPAY NIL",
+        "PlanActiveStatus": "Active"
       }
     ]
   },
@@ -405,6 +410,11 @@
       {
         "PlanCode": "D-M AMER D20%60",
         "PlanDescription": "MEDNET ALICO GOLD DED 20%MAX 60 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-M AMER DED20%",
+        "PlanDescription": "MEDNET AMERICAN SILVER   DED 20%M50 OP 10 L/R 10% PH10%",
         "PlanActiveStatus": "Active"
       },
       {
@@ -2613,6 +2623,11 @@
         "PlanActiveStatus": "Active"
       },
       {
+        "PlanCode": "D-M ALICOD P10",
+        "PlanDescription": "MEDNET-METLIFE DED 20% M 50 COPAY 10% PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "D-M ALICOD00",
         "PlanDescription": "MEDNET-METLIFE DED 20% M100 COPAY 10%",
         "PlanActiveStatus": "Active"
@@ -2750,11 +2765,6 @@
       {
         "PlanCode": "D-MEADAM D15C0",
         "PlanDescription": "MEDNET ADAMJEE INS SILK ROAD DED 15 COPAY NIL",
-        "PlanActiveStatus": "Active"
-      },
-      {
-        "PlanCode": "D-MEADAM D20 C0",
-        "PlanDescription": "MEDNET ADAM GREEN COPAY 20% MAX50  COPAY NIL",
         "PlanActiveStatus": "Active"
       },
       {
@@ -2958,6 +2968,11 @@
     "PayerId": "INS019",
     "Plans": [
       {
+        "PlanCode": "D-ME QIC D",
+        "PlanDescription": "MEDNET-  QATAR INS GREEN DED 20% (MAX-50) COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "D-ME QIC D  20%",
         "PlanDescription": "MEDNET-  QATAR INS GREEN DED 20% (MAX-50)COPAY NIL",
         "PlanActiveStatus": "Active"
@@ -2967,7 +2982,7 @@
   {
     "PolicyGroupCode": "DMEDNET QIC-E",
     "PolicyGroupDescription": "D-MEDNET  - QATAR INSURANCE COMPANY (QIC) - EMERALD",
-    "RateListCode": "MEDNET TPA",
+    "RateListCode": "MEDNET-SR&EMR",
     "PolicyGroupCustomerType": "Insurance Company",
     "PolicGroupActiveStatus": "Active",
     "PayerId": "INS019",
@@ -2975,6 +2990,16 @@
       {
         "PlanCode": "D-ME QIC D50",
         "PlanDescription": "MEDNET-  QATAR INS EMERALD  DED 20% (MAX-50)COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-ME QIC D50*",
+        "PlanDescription": "MEDNET-  QATAR INS EMERALD  DED 20% M50 COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-ME QIC D50C0",
+        "PlanDescription": "MEDNET-  QATAR INS EMERALD  COPAY 10%",
         "PlanActiveStatus": "Active"
       }
     ]
@@ -5875,6 +5900,21 @@
     ]
   },
   {
+    "PolicyGroupCode": "MEDNET QIC EME",
+    "PolicyGroupDescription": "MEDNET - QATAR INSURANCE COMPANY - EMERALD",
+    "RateListCode": "MEDNET-SR&EMR",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS019",
+    "Plans": [
+      {
+        "PlanCode": "ME QIC D50*",
+        "PlanDescription": "MEDNET-  QATAR INS EMERALD  DED 20% M50 COPAY 10%",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
     "PolicyGroupCode": "MEDNET WATANIA",
     "PolicyGroupDescription": "MEDNET - NATIONAL TAKAFUL COMPANY (WATANIA)",
     "RateListCode": "MEDNET TPA",
@@ -5915,6 +5955,11 @@
       {
         "PlanCode": "MED WAT D20%C0",
         "PlanDescription": "MEDNET WATANIA DED 20% COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MED WAT DC0",
+        "PlanDescription": "MEDNET WATANIA DED 50AED  COPAY NIL",
         "PlanActiveStatus": "Active"
       },
       {
