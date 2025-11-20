@@ -1908,6 +1908,11 @@
         "PlanActiveStatus": "Active"
       },
       {
+        "PlanCode": "D-NECIG C10%X",
+        "PlanDescription": "NEURON RN CIGNA DED  25 COPAY NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "D-NECIG D50PH10",
         "PlanDescription": "NEURON RN CIGNA DED 50 PH10%",
         "PlanActiveStatus": "Active"
