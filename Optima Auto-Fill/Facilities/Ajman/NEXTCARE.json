@@ -15788,6 +15788,11 @@
         "PlanActiveStatus": "Active"
       },
       {
+        "PlanCode": "NC MED COP30%",
+        "PlanDescription": "NEXTCARE RN MEDGULF COPAY30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "NC MED D 20% C",
         "PlanDescription": "NEXTCARE RN MEDGULF DED 20% (MAX-100) COPAY NIL",
         "PlanActiveStatus": "Active"
