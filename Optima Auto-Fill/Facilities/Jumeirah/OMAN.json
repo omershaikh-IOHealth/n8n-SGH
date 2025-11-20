@@ -48,6 +48,11 @@
         "PlanActiveStatus": "Active"
       },
       {
+        "PlanCode": "OM PRE C20%M50",
+        "PlanDescription": "OMAN INSURANCE  COPAY 20% MAX 50",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "OM PRE C20%X",
         "PlanDescription": "OMAN INSURANCE  COPAY 20%",
         "PlanActiveStatus": "Active"
@@ -415,6 +420,11 @@
       {
         "PlanCode": "OMAN D20%IP5%",
         "PlanDescription": "OMAN INSURANCE DED 20% COPAY NIL IP 5%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN D20%M50",
+        "PlanDescription": "OMAN INSURANCE DED 20% MAX50",
         "PlanActiveStatus": "Active"
       },
       {
@@ -1108,6 +1118,11 @@
         "PlanActiveStatus": "Active"
       },
       {
+        "PlanCode": "OM SN D20M50 C-",
+        "PlanDescription": "OMAN INSURANCE STANDARD DED 20% M50 L/R/PH 20% M50 OP",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "OM SN D20M50 C0",
         "PlanDescription": "OMAN INSURANCE STANDARD DED 20% M50 LAB/RAD 20% M50 OP NIL",
         "PlanActiveStatus": "Active"
@@ -1185,6 +1200,11 @@
       {
         "PlanCode": "OM SN DNIL 10",
         "PlanDescription": "OMAN STANDARD DED NIL LAB/RAD 10% M50 PH NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN SN D20%M50",
+        "PlanDescription": "OMAN INSURANCE SN DED 20% MAX50 LAB%RAD 10% MAX 200 PH NIL",
         "PlanActiveStatus": "Active"
       }
     ]
