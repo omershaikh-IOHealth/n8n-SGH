@@ -771,6 +771,11 @@
         "PlanCode": "AXA 2 D20% CPH2",
         "PlanDescription": "AXA 2 DED 20% MAX 50AED COPAY NIL PH 20%",
         "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AXA 2 D50AE C0%",
+        "PlanDescription": "AXA 2 DED 50 AED COPAY NILL",
+        "PlanActiveStatus": "Active"
       }
     ]
   },
