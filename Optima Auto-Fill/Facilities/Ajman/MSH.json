@@ -351,6 +351,11 @@
         "PlanCode": "MSH ABU D0",
         "PlanDescription": "MSH CN+/CN/PLAT ABU DHABI NAT. TAKAFUL DED0 COPAY 0",
         "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MSH ABU D20%M",
+        "PlanDescription": "MSH PREM/ENH ABU DHABI NAT TAKAFUL DED 20% M 50",
+        "PlanActiveStatus": "Active"
       }
     ]
   },
