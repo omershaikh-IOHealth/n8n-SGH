@@ -2623,6 +2623,11 @@
         "PlanActiveStatus": "Active"
       },
       {
+        "PlanCode": "D-DA N5  D10DG",
+        "PlanDescription": "DAMAN NETWORK-5  DED 10%  M 50 DG 10%PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "D-DA N5  D10P10",
         "PlanDescription": "DAMAN NETWORK-5  DED 10%  PH 10%",
         "PlanActiveStatus": "Active"
@@ -2775,6 +2780,11 @@
       {
         "PlanCode": "D-DAM   N5 10",
         "PlanDescription": "DAMAN NETWORK-5 DED 10%M 50 COPAY NIL  PH 20%M100",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-DAM   N5 10%M",
+        "PlanDescription": "DAMAN NETWORK-5 DED 10%M 50 COPAY NIL",
         "PlanActiveStatus": "Active"
       },
       {
