@@ -293,6 +293,11 @@
         "PlanActiveStatus": "Active"
       },
       {
+        "PlanCode": "NGI D20%C100%",
+        "PlanDescription": "NATIONAL GENERAL INSURANCE DED 20% MAX50 COPAY 10% PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "NGI D20%C10P20%",
         "PlanDescription": "NATIONAL GENERAL INSURANCE DED 20% MAX 100 COPAY 10% PH 20%",
         "PlanActiveStatus": "Active"
