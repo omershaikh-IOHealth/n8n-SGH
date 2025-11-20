@@ -951,6 +951,11 @@
         "PlanCode": "D-NAAL WAT",
         "PlanDescription": "NAS CN AL WATHBA DED 20% M 50 COPAY 20%M50 PH 10%M50",
         "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-NAAL WAT20%M5",
+        "PlanDescription": "NAS CN AL WATHBA DED 20% M 50 COPAY NIL",
+        "PlanActiveStatus": "Active"
       }
     ]
   },
@@ -2718,6 +2723,11 @@
     "PayerId": "INS008",
     "Plans": [
       {
+        "PlanCode": "D-NAAOIC CO20%M",
+        "PlanDescription": "NAS EN+CN+GN ARAB ORIENT COPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "D-NAAOICD2",
         "PlanDescription": "NAS CN ARAB ORIENT 20%MAX-50) COPAY NIL",
         "PlanActiveStatus": "Active"
@@ -2734,12 +2744,17 @@
     "Plans": [
       {
         "PlanCode": "D-NAAOIC  CO20%",
-        "PlanDescription": "NAS EN+CN+GN ARAB ORIENT CO 20%",
+        "PlanDescription": "NAS EN+CN+GN ARAB ORIENT COPAY 20%",
         "PlanActiveStatus": "Active"
       },
       {
         "PlanCode": "D-NAAOIC  D 20%",
         "PlanDescription": "NAS EN+CN+GN ARAB ORIENT DED 20% (MAX-100)",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-NAAOIC C20%M",
+        "PlanDescription": "NAS GN ARAB ORIENT COPAY 20%",
         "PlanActiveStatus": "Active"
       },
       {
@@ -3817,6 +3832,11 @@
     "PolicGroupActiveStatus": "Active",
     "PayerId": "INS024",
     "Plans": [
+      {
+        "PlanCode": "D-NAITTI",
+        "PlanDescription": "NAS GN AL ITTIHAD ALWATANI COPAY 40%",
+        "PlanActiveStatus": "Active"
+      },
       {
         "PlanCode": "D-NAITTI   D20%",
         "PlanDescription": "NAS EN+CN+GN AL ITTIHAD ALWATANI DED 20% (MAX-100) COPAY 20%",
@@ -5073,6 +5093,11 @@
         "PlanActiveStatus": "Active"
       },
       {
+        "PlanCode": "D-NAS NLGI C30%",
+        "PlanDescription": "NAS RN+SRN+WN NLGI COPAY 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "D-NAS NLGI D10%",
         "PlanDescription": "NAS RN+SRN+WN NLGI DED 10%(MAX 25) COPAY 10% PH 10%",
         "PlanActiveStatus": "Active"
@@ -5803,6 +5828,11 @@
         "PlanActiveStatus": "Active"
       },
       {
+        "PlanCode": "D-NAS QI",
+        "PlanDescription": "NAS EN+CN QATAR INS (QIC) DED 20%MAX 50 COPAY 20% PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "D-NAS QIC  D20%",
         "PlanDescription": "NAS EN+CN+GN QATAR INS DED 20% (MAX-20) CO 10%",
         "PlanActiveStatus": "Active"
@@ -5890,6 +5920,11 @@
       {
         "PlanCode": "D-NAQIC 10% C",
         "PlanDescription": "NAS EN+GN+CN QATAR INS (QIC) DED 10% (MAX-50) COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-NAQIC 20",
+        "PlanDescription": "NAS EN+GN+  QATAR INS (QIC) DED 20%M100 COPAY 0 PH  20%M200",
         "PlanActiveStatus": "Active"
       },
       {
@@ -6250,6 +6285,11 @@
       {
         "PlanCode": "D-NAQIC   C 40",
         "PlanDescription": "NAS RN+SRN+WN QATAR INS (QIC) DED 20%M 40 L/R 15% PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-NAQIC   C25%",
+        "PlanDescription": "NAS RN+SRN+WN QATAR INS (QIC) COPAY 25%",
         "PlanActiveStatus": "Active"
       },
       {
@@ -16923,6 +16963,11 @@
         "PlanActiveStatus": "Active"
       },
       {
+        "PlanCode": "NAS NT",
+        "PlanDescription": "NAS RN+SRN+WN NOOR TAKAFUL COPAY 10%MAX 50",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "NAS NT  C   20%",
         "PlanDescription": "NAS RN+SRN+WN NOOR TAKAFUL D20%(MAX50) COPAY 20%",
         "PlanActiveStatus": "Active"
@@ -17750,6 +17795,11 @@
       {
         "PlanCode": "NAQICD2051020",
         "PlanDescription": "NAS RN+SRN+WN QATAR INS (QIC) D 20% M50 COPAY 10%20 PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NAQICD20M10",
+        "PlanDescription": "NAS RN  QATAR (QIC) DED 20% M10 AED COPAY NIL PH10%",
         "PlanActiveStatus": "Active"
       },
       {
