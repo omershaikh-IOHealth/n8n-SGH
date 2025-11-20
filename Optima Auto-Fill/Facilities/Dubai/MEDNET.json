@@ -1958,6 +1958,11 @@
         "PlanActiveStatus": "Active"
       },
       {
+        "PlanCode": "MD INS H D020C",
+        "PlanDescription": "MEDNET INS HOUSE DED 20% 50 COPAY 10% PH NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "MD INS H D10",
         "PlanDescription": "MEDNET INS HOUSE COPAY 10%",
         "PlanActiveStatus": "Active"
@@ -3075,6 +3080,11 @@
       {
         "PlanCode": "MED ARABIA D0C0",
         "PlanDescription": "MEDNET ARABIA INSURANCE COMPANY DED NIL COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MED ARABIA D20%",
+        "PlanDescription": "MEDNET ARABIA INSURANCE  DED 20%MAX 50 L/R 20% PH 30%",
         "PlanActiveStatus": "Active"
       },
       {
