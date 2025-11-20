@@ -28,6 +28,11 @@
         "PlanActiveStatus": "Active"
       },
       {
+        "PlanCode": "GLOENAY CD0%",
+        "PlanDescription": "GLOBEMED ENAYA KWT - DED 15% COPAY 15% PH 15%",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "GLOENAY CD10%",
         "PlanDescription": "GLOBEMED ENAYA KWT - DED 10% COPAY 10%",
         "PlanActiveStatus": "Active"
