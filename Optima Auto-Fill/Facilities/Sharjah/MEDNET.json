@@ -4518,6 +4518,11 @@
         "PlanActiveStatus": "Active"
       },
       {
+        "PlanCode": "ME3 COPAY10%",
+        "PlanDescription": "MEDNET N3 DUBAI INS COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "ME3 D10%",
         "PlanDescription": "MEDNET N3 DUBAI INS DED 10% COPAY NIL L/R/ PH 10%",
         "PlanActiveStatus": "Active"
