@@ -333,6 +333,11 @@
     "PayerId": "INS022",
     "Plans": [
       {
+        "PlanCode": "AF TK ES C10%",
+        "PlanDescription": "AAFIYA TAKAFUL ESSENTIAL COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "AF TK ES C20%",
         "PlanDescription": "AAFIYA TAKAFUL ESSENTIAL COPAY 20%",
         "PlanActiveStatus": "Active"
@@ -340,6 +345,21 @@
       {
         "PlanCode": "AF TK ES D20%M",
         "PlanDescription": "AAFIYA TAKAFUL ESSENTIAL D20%M50 COPAY 20%PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AF TK ES D20%M*",
+        "PlanDescription": "AAFIYA TAKAFUL ESSENTIAL D20%M50 COPAY NIL PH NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AF TK ES D20%M-",
+        "PlanDescription": "AAFIYA TAKAFUL ESSENTIAL D20%M50 COPAY NIL PH NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AF TK ES D2M",
+        "PlanDescription": "AAFIYA TAKAFUL ESSENTIAL DED 20%M25 COPAY NIL",
         "PlanActiveStatus": "Active"
       }
     ]
@@ -530,6 +550,21 @@
       {
         "PlanCode": "AAF NT D75C0",
         "PlanDescription": "AAFIYA NOOR TAKAFUL DED 75 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
+    "PolicyGroupCode": "AAFIYA-APN ESS",
+    "PolicyGroupDescription": "AAFIYA - DUBAI NAT INSURANCE AND REINS - APN ESSENTIAL",
+    "RateListCode": "AAFIYA ESSENTIA",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS007",
+    "Plans": [
+      {
+        "PlanCode": "AAF  DUBI ESS D",
+        "PlanDescription": "AAFIYA APN ESS DUBAI NAT INS  DED20%M 25 COPAY NIL",
         "PlanActiveStatus": "Active"
       }
     ]
@@ -755,6 +790,11 @@
       {
         "PlanCode": "D-AF TK ES C20%",
         "PlanDescription": "AAFIYA TAKAFUL ESSENTIAL COPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAF TK ES",
+        "PlanDescription": "AAFIYA TAKAFUL ESSENTIAL DED 20%M25 COPAY NIL",
         "PlanActiveStatus": "Active"
       },
       {
