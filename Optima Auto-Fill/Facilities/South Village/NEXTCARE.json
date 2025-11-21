@@ -4043,6 +4043,11 @@
     "PayerId": "INS005",
     "Plans": [
       {
+        "PlanCode": "NXT DI C10%",
+        "PlanDescription": "NEXTCARE DUBAI INS DED 10%MAX 50  COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "NXT DIC  C10%",
         "PlanDescription": "NEXTCARE DUBAI INS DED 10% COPAY 10%",
         "PlanActiveStatus": "Active"
