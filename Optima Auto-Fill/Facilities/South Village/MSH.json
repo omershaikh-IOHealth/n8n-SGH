@@ -133,6 +133,11 @@
         "PlanActiveStatus": "Active"
       },
       {
+        "PlanCode": "MSH QIC D15 M",
+        "PlanDescription": "MSH QIC DED 15%MAX100 COPAY NIL PH  10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "MSH QIC D20",
         "PlanDescription": "MSH QIC DED 20%MAX100 OP NIL LAB/RAD/PH 20%",
         "PlanActiveStatus": "Active"
