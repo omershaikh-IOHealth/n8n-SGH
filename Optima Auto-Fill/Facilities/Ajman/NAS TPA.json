@@ -208,6 +208,11 @@
     "PayerId": "INS047",
     "Plans": [
       {
+        "PlanCode": "D-NAADA COP 10%",
+        "PlanDescription": "NAS RN ADAMJEEN  COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "D-NAADA D20% C0",
         "PlanDescription": "NAS RN ADAMJEEN DED 20%-( MAX 50)  COPAY NIL",
         "PlanActiveStatus": "Active"
@@ -10767,6 +10772,11 @@
     "PolicGroupActiveStatus": "Active",
     "PayerId": "INS047",
     "Plans": [
+      {
+        "PlanCode": "NAADA COP 10%",
+        "PlanDescription": "NAS RN ADAMJEEN  COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
       {
         "PlanCode": "NAS ADA D20% C0",
         "PlanDescription": "NAS RN ADAMJEEN DED 20%-( MAX 50)  COPAY NIL",
