@@ -368,11 +368,6 @@
         "PlanActiveStatus": "Active"
       },
       {
-        "PlanCode": "D-INA NLG C20%",
-        "PlanDescription": "INAYAH NLGI SIL DIM 20%(MAX-100)COPAY 10%(100) PH 20%(75)",
-        "PlanActiveStatus": "Active"
-      },
-      {
         "PlanCode": "D-INA NLG DN20%",
         "PlanDescription": "INAYAH NLGI DIA    DN 20%",
         "PlanActiveStatus": "Active"
@@ -540,6 +535,11 @@
       {
         "PlanCode": "D-INA NLG C 10%",
         "PlanDescription": "INAYAH SILVER copay 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "D-INA NLG C20%",
+        "PlanDescription": "INAYAH NLGI SIL  20%(MAX25) COPAY NIL PH 20%",
         "PlanActiveStatus": "Active"
       },
       {
@@ -1093,6 +1093,11 @@
     "PayerId": "INS044",
     "Plans": [
       {
+        "PlanCode": "D-INA NLG C20%S",
+        "PlanDescription": "INAYAH NLGI SIL 20%(MAX25) COPAY NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "INA NLG   C20%",
         "PlanDescription": "INAYAH NLGI SIL  20%(MAX-50)COPAY 10%PH 10%",
         "PlanActiveStatus": "Active"
@@ -1110,6 +1115,11 @@
       {
         "PlanCode": "INA NLG C 10%",
         "PlanDescription": "INAYAH SILVER copay 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "INA NLG C20%S",
+        "PlanDescription": "INAYAH NLGI SIL 20%(MAX25) COPAY NIL PH 20%",
         "PlanActiveStatus": "Active"
       },
       {
