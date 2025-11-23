@@ -3533,6 +3533,11 @@
         "PlanActiveStatus": "Active"
       },
       {
+        "PlanCode": "NAS ABT D0C0PH",
+        "PlanDescription": "NAS GN ABU DHABI NAT TAKAFUL DED 0 COPAY 0 PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "NAS ABT D30C0",
         "PlanDescription": "NAS GN ABU DHABI NAT TAKAFUL DED 30 COPAY NIL",
         "PlanActiveStatus": "Active"
