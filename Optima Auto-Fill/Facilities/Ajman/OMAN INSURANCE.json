@@ -259,7 +259,7 @@
       },
       {
         "PlanCode": "D-OM B D50  C50",
-        "PlanDescription": "OMAN INSURANCE BUPA DED 50 COPAY 50 PH 15%",
+        "PlanDescription": "OMAN INSURANCE EDGE COPAY 10%MAX 50",
         "PlanActiveStatus": "Active"
       },
       {
@@ -2735,6 +2735,11 @@
       {
         "PlanCode": "OMAN E D5030",
         "PlanDescription": "OMAN INSURANCE EDGE DED 50 L/R 30",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OMAN E D50AED",
+        "PlanDescription": "OMAN INSURANCE EDGE DED 50AED  COPAY NIL",
         "PlanActiveStatus": "Active"
       },
       {
