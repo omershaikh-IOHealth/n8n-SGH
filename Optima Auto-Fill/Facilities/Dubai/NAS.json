@@ -8418,6 +8418,11 @@
         "PlanActiveStatus": "Active"
       },
       {
+        "PlanCode": "N GNLI D20%M502",
+        "PlanDescription": "NAS GN NLGI DED 20% MAX 50 COPAY 20% MAX 100",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "N GNLI D20C10%",
         "PlanDescription": "NAS GN NLGI DED 20% MAX 50 COPAY 10% MAX 50 PH% 20% M100",
         "PlanActiveStatus": "Active"
