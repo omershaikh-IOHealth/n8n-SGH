@@ -2313,6 +2313,11 @@
     "PayerId": "INS139",
     "Plans": [
       {
+        "PlanCode": "NC NT  D20%M75",
+        "PlanDescription": "NEXTCARE ORIENT TAK DED 20%(MAX-AED75) COPAY NIL PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "NC OUNB C10%",
         "PlanDescription": "NEXTCARE ORIENT UNB DED 10% COPAY 10%",
         "PlanActiveStatus": "Active"
