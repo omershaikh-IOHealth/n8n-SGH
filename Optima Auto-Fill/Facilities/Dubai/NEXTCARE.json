@@ -8648,6 +8648,11 @@
         "PlanActiveStatus": "Active"
       },
       {
+        "PlanCode": "NEXTCAR D327GOP",
+        "PlanDescription": "NEXTCARE DED 327.67 GOP BASED (GOP Attachment mandatory)",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "NEXTCARE GOP",
         "PlanDescription": "NEXTCARE - GOP BASED COPAY 20%",
         "PlanActiveStatus": "Active"
