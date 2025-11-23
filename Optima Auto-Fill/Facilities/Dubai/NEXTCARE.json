@@ -3393,6 +3393,11 @@
         "PlanActiveStatus": "Active"
       },
       {
+        "PlanCode": "NC NI 20%M50C10",
+        "PlanDescription": "NEXTCARE NEW INDIA ASSURANCE DED 20% MAX 50 COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "NC NI D10",
         "PlanDescription": "NEXTCARE NEW INDIA ASSURANCE DED 10%M50 OP NIL L/R /PH10%",
         "PlanActiveStatus": "Active"
