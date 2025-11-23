@@ -1858,6 +1858,11 @@
     "PayerId": "SP0062",
     "Plans": [
       {
+        "PlanCode": "MD EMIRATES D0",
+        "PlanDescription": "MEDNET EMIRATES  FLIGHT CAT  COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "MED EKFC",
         "PlanDescription": "MEDNET EMIRATES FLIGHT DED 20%M80 COPAY NIL PH 10%",
         "PlanActiveStatus": "Active"
