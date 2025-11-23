@@ -810,6 +810,21 @@
     ]
   },
   {
+    "PolicyGroupCode": "MDT EKFC",
+    "PolicyGroupDescription": "MEDNET - EMIRATES FLIGHT CATERING CO. (LLC)",
+    "RateListCode": "MEDNET",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "SP0062",
+    "Plans": [
+      {
+        "PlanCode": "MDT EMI C10%",
+        "PlanDescription": "MEDNET EMIRATES FLIGHT CAT  COPAY 10%",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
     "PolicyGroupCode": "MDT EXPACARE",
     "PolicyGroupDescription": "MEDNET Expacare",
     "RateListCode": "MEDNET",
