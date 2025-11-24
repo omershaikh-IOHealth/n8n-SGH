@@ -1678,6 +1678,11 @@
         "PlanActiveStatus": "Active"
       },
       {
+        "PlanCode": "NAS ASD0C2100",
+        "PlanDescription": "NAS GN AL SAGR INS DED 20%M100 COPAY 20%M200 PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "NAS ASD20% M 10",
         "PlanDescription": "NAS GN AL SAGR INS DED 20%M 100 L/R 20%PH 20%",
         "PlanActiveStatus": "Active"
