@@ -728,6 +728,11 @@
         "PlanActiveStatus": "Active"
       },
       {
+        "PlanCode": "D-OMAN AD D0C0",
+        "PlanDescription": "OMAN INSURANCE ADVANCE DED NIL COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "D-OMAN ADN D20",
         "PlanDescription": "OMAN ADVANCE DED 20% MAX 25 C0",
         "PlanActiveStatus": "Active"
