@@ -913,6 +913,11 @@
         "PlanActiveStatus": "Active"
       },
       {
+        "PlanCode": "NAS BUH D500%",
+        "PlanDescription": "NAS GN AL BUHAIRA DED 20%MAX 50 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "NAS BUH D50C0",
         "PlanDescription": "NAS GN AL BUHAIRA DED 50 COPAY NIL",
         "PlanActiveStatus": "Active"
