@@ -2323,6 +2323,11 @@
         "PlanActiveStatus": "Active"
       },
       {
+        "PlanCode": "D-NEU CIG DC10%",
+        "PlanDescription": "NEURON CN&GN+ CIGNA DED 10% COPAY 10% M50",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "D-NEU CIG DED0",
         "PlanDescription": "NEURON CN&GN+ CIGNA DED 0 COPAY 10% L/R 10%M50",
         "PlanActiveStatus": "Active"
