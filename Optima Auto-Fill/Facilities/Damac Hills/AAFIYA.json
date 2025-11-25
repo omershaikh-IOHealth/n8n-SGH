@@ -343,6 +343,11 @@
         "PlanActiveStatus": "Active"
       },
       {
+        "PlanCode": "AF TK ES D10AED",
+        "PlanDescription": "AAFIYA TAKAFUL ESS DED 10 COPAY 20% M 100 PH 30%M100",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "AF TK ES D20%M",
         "PlanDescription": "AAFIYA TAKAFUL ESSENTIAL D20%M50 COPAY 20%PH 20%",
         "PlanActiveStatus": "Active"
@@ -355,6 +360,11 @@
       {
         "PlanCode": "AF TK ES D20%M-",
         "PlanDescription": "AAFIYA TAKAFUL ESSENTIAL D20%M50 COPAY NIL PH NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "AF TK ES D20AED",
+        "PlanDescription": "AAFIYA TAKAFUL ESSENTIAL D 20 COPAY 20% M 100 PH 30%M100",
         "PlanActiveStatus": "Active"
       },
       {
