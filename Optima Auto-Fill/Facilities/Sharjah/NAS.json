@@ -6536,6 +6536,11 @@
         "PlanCode": "NAS AOIC G20S10",
         "PlanDescription": "NAS RN+SRN+WN ARAB ORIENT GP 20 SP 10 CO 0 L&R 10AED PH 30%",
         "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NAS OI C15M50",
+        "PlanDescription": "NAS RN+SRN+WN ARAB ORIENT DED15%M50 COPAY 10  PH20%",
+        "PlanActiveStatus": "Active"
       }
     ]
   },
