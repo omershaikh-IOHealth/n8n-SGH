@@ -413,11 +413,6 @@
         "PlanActiveStatus": "Active"
       },
       {
-        "PlanCode": "D-AAF TK 20",
-        "PlanDescription": "AAFIYA APN PLUS TAKAFUL EMARAT DED 20%MAX 50 COPAY NIL",
-        "PlanActiveStatus": "Active"
-      },
-      {
         "PlanCode": "DAAF TK D25C20%",
         "PlanDescription": "AAFIYA APN PLUS TAKAFUL EMARAT DED 20%(50) L/R/P/ 10%",
         "PlanActiveStatus": "Active"
@@ -867,6 +862,11 @@
     "PolicGroupActiveStatus": "Active",
     "PayerId": "INS022",
     "Plans": [
+      {
+        "PlanCode": "D-AAF TK 20",
+        "PlanDescription": "AAFIYA APN PLUS TAKAFUL EMARAT DED 20%MAX 50 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
       {
         "PlanCode": "DAF TK D20%  C0",
         "PlanDescription": "AAFIYA APN PLUS TAKAFUL EMARAT DED 50 L/R/P 10%",
