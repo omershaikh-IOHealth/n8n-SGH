@@ -6281,6 +6281,11 @@
         "PlanCode": "D-NAS QICD9.54",
         "PlanDescription": "NAS EN+GN+CN QATAR INS (QIC) DED 9.54 COPAY NIL PH NIL",
         "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NAS QI0D",
+        "PlanDescription": "NAS GN QATAR INS (QIC) DED 10%MAX 100 COPAY 10% PH 10%",
+        "PlanActiveStatus": "Active"
       }
     ]
   },
