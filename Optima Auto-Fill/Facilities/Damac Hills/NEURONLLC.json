@@ -903,6 +903,11 @@
     "PayerId": "INS007",
     "Plans": [
       {
+        "PlanCode": "D-NEDI NAT - RN",
+        "PlanDescription": "NEURON RN DUBAI NAT. INS & REINSURANCE COPAY 10% M50%",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "D-NEDI NAT G RN",
         "PlanDescription": "NEURON RN DUBAI NAT. INS & REINSURANCE COPAY 20% PH30%",
         "PlanActiveStatus": "Active"
@@ -2465,6 +2470,11 @@
       {
         "PlanCode": "NEURON  BD0 RN",
         "PlanDescription": "NEURON RN DUBAI NAT. DED 20% MAX 50 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NEURON  D10 RN",
+        "PlanDescription": "NEURON RN DUBAI NAT. DED 10% MAX 50 COPAY NIL",
         "PlanActiveStatus": "Active"
       }
     ]
