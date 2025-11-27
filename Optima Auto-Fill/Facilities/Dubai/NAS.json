@@ -6543,6 +6543,11 @@
         "PlanActiveStatus": "Active"
       },
       {
+        "PlanCode": "NAS CNL DC10",
+        "PlanDescription": "NAS CN NLGI DED 10% COPAY 10% MAX 200 PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "NAS CNLD20",
         "PlanDescription": "NAS CN NLGI DED 20% MAX 100  COPAY NIL",
         "PlanActiveStatus": "Active"
