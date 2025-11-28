@@ -338,6 +338,11 @@
         "PlanActiveStatus": "Active"
       },
       {
+        "PlanCode": "MD AS 20 PH",
+        "PlanDescription": "MEDNET AMERICAN LIFE DED 20% MAX 75 COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "MD AS D",
         "PlanDescription": "MEDNET AMERICAN LIFE DED 20% MAX 50 COPAY 10%",
         "PlanActiveStatus": "Active"
