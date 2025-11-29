@@ -1253,6 +1253,11 @@
         "PlanActiveStatus": "Active"
       },
       {
+        "PlanCode": "AAF TAFU D10%M5",
+        "PlanDescription": "AAFIYA APN PLUS TAKAFUL EM DED 20%MAX 50  COPAY/PH/LAB 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "AAF TAFU D20500",
         "PlanDescription": "AAFIYA APN PLUS TAKAFUL EMARAT  DED 20%MAX 50 CO NIL",
         "PlanActiveStatus": "Active"
