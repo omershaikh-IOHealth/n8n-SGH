@@ -5813,6 +5813,11 @@
         "PlanActiveStatus": "Active"
       },
       {
+        "PlanCode": "D-NAQIC  D2050C",
+        "PlanDescription": "NAS EN+CN QATAR INS (QIC) DED 20%M50 COPAY 5%",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "D-NAQIC 15 50",
         "PlanDescription": "NAS CN QATAR INS (QIC) DED 15%(MAX-50)  COPAY NIL",
         "PlanActiveStatus": "Active"
@@ -18835,6 +18840,11 @@
       {
         "PlanCode": "NAS TE D50 C15%",
         "PlanDescription": "NAS EN+CN+GN TAKAFUL EMARAT DED 50 COPAY 15%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NAS TE D50 P15%",
+        "PlanDescription": "NAS EN+CN+GN TAKAFUL EMARAT DED 50 COPAY NILL PH 15%",
         "PlanActiveStatus": "Active"
       },
       {
