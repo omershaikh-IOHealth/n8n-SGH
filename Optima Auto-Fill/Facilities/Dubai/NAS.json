@@ -11098,6 +11098,11 @@
         "PlanActiveStatus": "Active"
       },
       {
+        "PlanCode": "NASITHD D50P15%",
+        "PlanDescription": "NAS GN AL ITT AL WAT DED 50 PH15%",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "NASITHD MC2",
         "PlanDescription": "NAS GN AL ITT AL WAT DED 20% MAX 50  COPAY 15%  PH 15%",
         "PlanActiveStatus": "Active"
