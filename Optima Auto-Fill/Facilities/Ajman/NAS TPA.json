@@ -18093,6 +18093,11 @@
         "PlanActiveStatus": "Active"
       },
       {
+        "PlanCode": "NAS QIC D35PH",
+        "PlanDescription": "NAS RN+SRN+WN QATAR INS (QIC) DED 35 CO NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "NAS QIC D5",
         "PlanDescription": "NAS RN+SRN+WN QATAR INS (QIC) DED 5 COPAY NIL",
         "PlanActiveStatus": "Active"
