@@ -13138,6 +13138,11 @@
         "PlanActiveStatus": "Active"
       },
       {
+        "PlanCode": "NAS R AL D25AED",
+        "PlanDescription": "NAS RN+SRN+WN AL BUHAIRA DED 25 COPAY 10% M 50 PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "NAS R AL D30%",
         "PlanDescription": "NAS RN+SRN+WN AL BUHAIRA DED 30% COPAY 20% PH 30%",
         "PlanActiveStatus": "Active"
