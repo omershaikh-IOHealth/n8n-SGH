@@ -4748,6 +4748,11 @@
     "PayerId": "INS149",
     "Plans": [
       {
+        "PlanCode": "M UN FE D20%50",
+        "PlanDescription": "MEDNET SILVER PREMIUM  UNITED FEDELITY  DED 20%M50 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "M UNITED FE SC",
         "PlanDescription": "MEDNET SILVER PREMIUM  UNITED FEDELITY  DED NIL COPAY NIL",
         "PlanActiveStatus": "Active"
