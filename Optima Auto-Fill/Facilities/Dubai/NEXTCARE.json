@@ -1571,6 +1571,11 @@
         "PlanCode": "NC WATHB DED 35",
         "PlanDescription": "NEXTCARE AL WATHBA INS DED 35 COPAY NIL",
         "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NC WATHBD20%50",
+        "PlanDescription": "NEXTCARE AL WATHBA INS DED 20%M50 OP 0 LAB/RAD 20% PH 10%",
+        "PlanActiveStatus": "Active"
       }
     ]
   },
