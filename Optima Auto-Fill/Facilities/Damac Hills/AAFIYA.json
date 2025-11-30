@@ -333,6 +333,11 @@
     "PayerId": "INS022",
     "Plans": [
       {
+        "PlanCode": "AAF TK ED20%M50",
+        "PlanDescription": "AAFIYA APN ESSE TAKAFUL EMARAT DED 20% MAX 50 CO 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "AF TK ES C10%",
         "PlanDescription": "AAFIYA TAKAFUL ESSENTIAL COPAY 10%",
         "PlanActiveStatus": "Active"
