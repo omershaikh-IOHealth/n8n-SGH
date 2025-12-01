@@ -360,6 +360,21 @@
     ]
   },
   {
+    "PolicyGroupCode": "AXA - AXA-2 XP",
+    "PolicyGroupDescription": "AXA GULF - AXA-2 NETWORK - XP POLICY",
+    "RateListCode": "AXA",
+    "PolicyGroupCustomerType": "Insurance Company",
+    "PolicGroupActiveStatus": "Active",
+    "PayerId": "INS010",
+    "Plans": [
+      {
+        "PlanCode": "AXA-2 C20% D",
+        "PlanDescription": "AXA NETWORK-2 XP DED 20% MAX 50 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      }
+    ]
+  },
+  {
     "PolicyGroupCode": "AXA - AXA-3",
     "PolicyGroupDescription": "AXA GULF - AXA-3 NETWORK",
     "RateListCode": "AXA",
