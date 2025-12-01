@@ -4013,6 +4013,11 @@
         "PlanActiveStatus": "Active"
       },
       {
+        "PlanCode": "MD ALICO D5ED",
+        "PlanDescription": "MEDNET METLIFE (VIP & GOLD) DED 50AED L/R 50AED PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "MD ALICO D75",
         "PlanDescription": "MEDNET ALICO (VIP &GOLD) DED 75 PH 5%",
         "PlanActiveStatus": "Active"
