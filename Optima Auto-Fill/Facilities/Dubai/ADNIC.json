@@ -43,6 +43,11 @@
         "PlanActiveStatus": "Active"
       },
       {
+        "PlanCode": "AD PL D%M100",
+        "PlanDescription": "ADNIC DED 20% MAX 100 OP NIL LAB/RAD/PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "AD PL D20%M100",
         "PlanDescription": "ADNIC DED 20% MAX 100 COPAY 10% PH 10%",
         "PlanActiveStatus": "Active"
