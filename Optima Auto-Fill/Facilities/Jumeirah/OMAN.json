@@ -278,6 +278,11 @@
         "PlanActiveStatus": "Active"
       },
       {
+        "PlanCode": "OMAN D0%100",
+        "PlanDescription": "OMAN INSURANCE DED 20% MAX 50 OP NIL LAB 10% RAD 10AED PH10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "OMAN D0C0P20%",
         "PlanDescription": "OMAN BUPA DED 0 COPAY NIL",
         "PlanActiveStatus": "Active"
