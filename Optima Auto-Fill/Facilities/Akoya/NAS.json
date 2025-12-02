@@ -5208,6 +5208,11 @@
         "PlanActiveStatus": "Active"
       },
       {
+        "PlanCode": "NAS NT D 50",
+        "PlanDescription": "NAS GN NOOR TAKAFUL DED 20%M50  COPAY NIL PH 20%MAX 200",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "NAS NT D0C0",
         "PlanDescription": "NAS GN NOOR TAKAFUL DED 0 COPAY NIL",
         "PlanActiveStatus": "Active"
@@ -7120,6 +7125,11 @@
       {
         "PlanCode": "NAS-GN QICDC20",
         "PlanDescription": "NAS GN QIC UAE COPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NAS-GNIC50C10",
+        "PlanDescription": "NAS GN QIC DED 50 OP/LAB/RAD 10AED PH 20%MAX 100",
         "PlanActiveStatus": "Active"
       },
       {
