@@ -9728,6 +9728,11 @@
         "PlanActiveStatus": "Active"
       },
       {
+        "PlanCode": "D-NAI D0C0",
+        "PlanDescription": "NAS SRN/RN DUBAI INSURANCE DED 0 COPAY 0",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "D-NAS D",
         "PlanDescription": "NAS DUBAI INSURANCE WN  DED 25AED  COPAY NIL",
         "PlanActiveStatus": "Active"
