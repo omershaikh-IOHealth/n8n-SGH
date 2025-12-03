@@ -2278,6 +2278,11 @@
     "PayerId": "INS033",
     "Plans": [
       {
+        "PlanCode": "NC EMI COPAY20%",
+        "PlanDescription": "NEXTCARE EMIRATES INS COPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "NC EMI D0C0",
         "PlanDescription": "NEXTCARE EMIRATES INS DED NIL COPAY NIL",
         "PlanActiveStatus": "Active"
@@ -5725,6 +5730,11 @@
       {
         "PlanCode": "NC DED50 CO20",
         "PlanDescription": "NC RAKNIC DED 50 CO 20% PH & INV",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NC EMIS COP20%",
+        "PlanDescription": "NEXTCARE EMIRATES NAT GN COPAY20%",
         "PlanActiveStatus": "Active"
       },
       {
