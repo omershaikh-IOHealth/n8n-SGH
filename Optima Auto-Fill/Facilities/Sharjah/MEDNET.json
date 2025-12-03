@@ -5791,6 +5791,11 @@
         "PlanCode": "MD WAT D2050",
         "PlanDescription": "MEDNET EMERALD WATANIA DED 20% MAX 50 COPAY NIL",
         "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "MD WAT D2050C",
+        "PlanDescription": "MEDNET EMERALD WATANIA  COPAY 10%",
+        "PlanActiveStatus": "Active"
       }
     ]
   },
