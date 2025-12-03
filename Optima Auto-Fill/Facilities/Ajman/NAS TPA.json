@@ -17278,6 +17278,11 @@
         "PlanActiveStatus": "Active"
       },
       {
+        "PlanCode": "NAS NT D20C 0",
+        "PlanDescription": "NAS RN+SRN+WN NOOR TAKAFUL DED 25AED COPAY NIL PH 10%M100",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "NAS NT D20C0",
         "PlanDescription": "NAS RN+SRN+WN NOOR TAKAFUL DED 20 COPAY NIL",
         "PlanActiveStatus": "Active"
