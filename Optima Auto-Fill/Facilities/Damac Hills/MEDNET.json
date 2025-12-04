@@ -1788,6 +1788,11 @@
         "PlanActiveStatus": "Active"
       },
       {
+        "PlanCode": "D-MD NLGI D50X",
+        "PlanDescription": "MEDNET NLGI-GRN DED 20% 50AED  COPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "D-MD NLGI DX50X",
         "PlanDescription": "MEDNET NLGI-GRN DED 20% 50AED  COPAY NIL",
         "PlanActiveStatus": "Active"
