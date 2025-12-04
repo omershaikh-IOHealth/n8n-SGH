@@ -14931,6 +14931,11 @@
         "PlanCode": "NC FUD20M50",
         "PlanDescription": "NEXTCARE GN FIDELITY UNITED DED 20% M50  COPAY L/R/PH 20",
         "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NC FUT  D1",
+        "PlanDescription": "NEXTCARE GN UNITED FIDELITY DED NIL COPAY NIL",
+        "PlanActiveStatus": "Active"
       }
     ]
   },
