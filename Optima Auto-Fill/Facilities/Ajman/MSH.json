@@ -28,6 +28,11 @@
         "PlanActiveStatus": "Active"
       },
       {
+        "PlanCode": "D-MS QIC EN DC0",
+        "PlanDescription": "MSH QIC INS ENH DED 20%MAX 50 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "D-MS QIC PD",
         "PlanDescription": "MSH QIC INS  DED 20% COPAY 20%",
         "PlanActiveStatus": "Active"
