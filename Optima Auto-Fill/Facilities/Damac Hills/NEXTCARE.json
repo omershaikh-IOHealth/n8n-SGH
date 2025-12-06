@@ -5667,7 +5667,7 @@
   {
     "PolicyGroupCode": "NC AXA- RN",
     "PolicyGroupDescription": "NEXTCARE - HAYAH INSURANCE CO P.J.S.C- RNE/RN (AXA GREEN)",
-    "RateListCode": "NEXTCARE - RNE",
+    "RateListCode": "NEXTCARE - RN",
     "PolicyGroupCustomerType": "Insurance Company",
     "PolicGroupActiveStatus": "Active",
     "PayerId": "INS009",
