@@ -1238,6 +1238,16 @@
         "PlanActiveStatus": "Active"
       },
       {
+        "PlanCode": "O SN C15DXX 75",
+        "PlanDescription": "OMAN STANDARD DED 15%MAX 75 COPAY NIL PH 15%MAX 75",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "O SN C15XX 75",
+        "PlanDescription": "OMAN STANDARD DED 15%MAX 75 COPAY 15%M75 PH 15%MAX 75",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "O SN C2%M50",
         "PlanDescription": "OMAN STANDARD COPAY 10%",
         "PlanActiveStatus": "Active"
