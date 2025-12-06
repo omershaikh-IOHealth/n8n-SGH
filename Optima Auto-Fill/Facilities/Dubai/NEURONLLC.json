@@ -3523,6 +3523,11 @@
         "PlanActiveStatus": "Active"
       },
       {
+        "PlanCode": "NEU METC10%",
+        "PlanDescription": "NEURON CN/GN+ NOOR TAKAFUL COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "NEU NOO D25P20%",
         "PlanDescription": "NEURON CN/GN+ NOOR TAKAFUL DED 25 COPAY NIL PH 20%",
         "PlanActiveStatus": "Active"
