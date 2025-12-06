@@ -14553,6 +14553,11 @@
         "PlanActiveStatus": "Active"
       },
       {
+        "PlanCode": "NAS D2050 RN",
+        "PlanDescription": "NAS DUBAI INSURANCE RN  DED 50AED  COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "NAS DI",
         "PlanDescription": "NAS DUBAI INSURANCE SRN+RN+SRN DED 50 OP0 L/R 10 PH 0",
         "PlanActiveStatus": "Active"
@@ -19205,6 +19210,11 @@
       {
         "PlanCode": "NAS UNB  D 50",
         "PlanDescription": "NAS GN ORIENT UNB DED 50AED COPAY NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "NAS UNB 0CC20",
+        "PlanDescription": "NAS GN ORIENT UNB MAT DED 20% (MAX-50) COPAY NIL",
         "PlanActiveStatus": "Active"
       },
       {
