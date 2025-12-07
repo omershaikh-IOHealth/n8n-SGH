@@ -6713,6 +6713,11 @@
         "PlanActiveStatus": "Active"
       },
       {
+        "PlanCode": "D-NAS QICX2075C",
+        "PlanDescription": "NAS RN+SRN+WN QATAR INS (QIC) DED 20%M 75 COPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "D-NAS QID2201",
         "PlanDescription": "NAS RN+SRN+WN QATAR INS  DED 20%M50 COPAY 20%M10 PH 30%",
         "PlanActiveStatus": "Active"
