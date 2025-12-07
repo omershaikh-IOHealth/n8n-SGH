@@ -2698,6 +2698,11 @@
     "PayerId": "INS041",
     "Plans": [
       {
+        "PlanCode": "NAS UN D0C0PH",
+        "PlanDescription": "NAS CN UNITED FIDELITY DED 0 COPAY NIL PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "NAS UN D0C0X",
         "PlanDescription": "NAS CN UNITED FIDELITY COPAY 10%",
         "PlanActiveStatus": "Active"
