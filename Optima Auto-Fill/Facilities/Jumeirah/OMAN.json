@@ -973,6 +973,11 @@
         "PlanActiveStatus": "Active"
       },
       {
+        "PlanCode": "OM SN D 15%",
+        "PlanDescription": "OMAN INSURANCE STANDARD DED 15% COPAY NIL PH 20%MAX 200",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "OM SN D0 20",
         "PlanDescription": "OMAN INSURANCE STANDARD DED 0% COPAY 20%",
         "PlanActiveStatus": "Active"
