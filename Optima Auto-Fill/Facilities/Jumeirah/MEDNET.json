@@ -808,6 +808,11 @@
         "PlanActiveStatus": "Active"
       },
       {
+        "PlanCode": "MDT N2 D20M50",
+        "PlanDescription": "MEDNET EXCLUSIVE N2 DUBAI CARE DED20%M50 COP NIL PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "MDT N2 D50",
         "PlanDescription": "MEDNET EXCLUSIVE N2 DUBAI CARE DED 50 COPAY NIL",
         "PlanActiveStatus": "Active"
