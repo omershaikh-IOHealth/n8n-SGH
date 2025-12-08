@@ -2428,6 +2428,11 @@
         "PlanActiveStatus": "Active"
       },
       {
+        "PlanCode": "D-NAS SA D 200",
+        "PlanDescription": "NAS RN+SRN+WN AL SAGR DED 20%M100  COPAY 20%M200 PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "D-NAS SA D RN",
         "PlanDescription": "NAS RN  AL SAGR DED 20%M100  COPAY 10%MAX 100",
         "PlanActiveStatus": "Active"
