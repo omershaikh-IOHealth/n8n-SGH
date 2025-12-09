@@ -7878,6 +7878,11 @@
         "PlanActiveStatus": "Active"
       },
       {
+        "PlanCode": "NAS WTBA D2050C",
+        "PlanDescription": "NAS GN AL WATHBA INS DED 20%MAX 50 COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "NAS WTBA D40",
         "PlanDescription": "NAS AL WATHBA DED 40",
         "PlanActiveStatus": "Active"
