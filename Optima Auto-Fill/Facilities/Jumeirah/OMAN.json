@@ -83,6 +83,11 @@
         "PlanActiveStatus": "Active"
       },
       {
+        "PlanCode": "OM SN C20%300",
+        "PlanDescription": "OMAN INSURANCE DED 20% M 300 LAB/RAD 10% PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "OM SN DX",
         "PlanDescription": "OMAN INSURANCE COPAY 20%MAX 50",
         "PlanActiveStatus": "Active"
