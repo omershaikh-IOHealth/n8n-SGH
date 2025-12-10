@@ -898,6 +898,11 @@
         "PlanActiveStatus": "Active"
       },
       {
+        "PlanCode": "DAM N2 D50 30",
+        "PlanDescription": "DAMAN NET-2 DED 50 OP NIL LAB/RAD 30AED  PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "DAM N2 D50 C30",
         "PlanDescription": "DAMAN NET-2 DED 50 OP /LAB & RAD 30",
         "PlanActiveStatus": "Active"
