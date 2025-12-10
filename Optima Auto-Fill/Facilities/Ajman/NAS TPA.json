@@ -10618,6 +10618,11 @@
         "PlanActiveStatus": "Active"
       },
       {
+        "PlanCode": "NAS ALAIN D50",
+        "PlanDescription": "NAS CN AL AIN AHLIA DED 50AED COPAY NIL PH 20%MAX 100",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "NAS ALAIN DED50",
         "PlanDescription": "NAS CN AL AIN AHLIA DED 50AED COPAY NIL",
         "PlanActiveStatus": "Active"
