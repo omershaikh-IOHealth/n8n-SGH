@@ -138,6 +138,11 @@
         "PlanActiveStatus": "Active"
       },
       {
+        "PlanCode": "D-MEEKFC D10500",
+        "PlanDescription": "MEDNET EMIRATES FLIGHT DED 10%M500 COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "D-MEEKFC D2",
         "PlanDescription": "MEDNET EMIRATES FLIGHT DED 20%M80 COPAY NIL PH 5%",
         "PlanActiveStatus": "Active"
