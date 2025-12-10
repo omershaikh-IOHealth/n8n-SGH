@@ -778,6 +778,11 @@
         "PlanActiveStatus": "Active"
       },
       {
+        "PlanCode": "INA NLG D% C0",
+        "PlanDescription": "INAYAH NLGI CHROME DED 20%(MAX-15) COPAY 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "INA NLG D0",
         "PlanDescription": "INAYAH NLGI CHROME DED 0 COPAY 0",
         "PlanActiveStatus": "Active"
