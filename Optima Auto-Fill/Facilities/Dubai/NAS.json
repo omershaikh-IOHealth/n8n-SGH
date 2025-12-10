@@ -363,6 +363,11 @@
         "PlanActiveStatus": "Active"
       },
       {
+        "PlanCode": "NAS ADN D D50",
+        "PlanDescription": "NAS CN ADNIC DED 20%M50 OP NIL LAB/RAD 20%  PH 20%",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "NAS ADN D0C0",
         "PlanDescription": "NAS CN ADNIC DED NIL COPAY NIL",
         "PlanActiveStatus": "Active"
