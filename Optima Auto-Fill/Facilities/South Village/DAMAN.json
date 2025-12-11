@@ -896,6 +896,11 @@
         "PlanCode": "DAM N2 DC0",
         "PlanDescription": "DAMAN NET-2 DED 25AED  COPAY NIL PH 20%MAX 50",
         "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "DAM N22C0 10",
+        "PlanDescription": "DAMAN NET-2 DED 10% MAX 50 COPAY NIL PH NIL",
+        "PlanActiveStatus": "Active"
       }
     ]
   },
