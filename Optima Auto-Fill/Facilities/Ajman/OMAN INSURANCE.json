@@ -3383,6 +3383,11 @@
     "PayerId": "INS012",
     "Plans": [
       {
+        "PlanCode": "OM SI C1",
+        "PlanDescription": "OMAN INSURANCE VITAL ATG DED 20  OP 0 L/R 20%M50 PH 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "OM SI C1A5",
         "PlanDescription": "OMAN INSURANCE VITAL ATG DED 35  COPAY NIL",
         "PlanActiveStatus": "Active"
