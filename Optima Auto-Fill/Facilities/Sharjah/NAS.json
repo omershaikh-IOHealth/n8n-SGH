@@ -8783,6 +8783,11 @@
     "PayerId": "INS016",
     "Plans": [
       {
+        "PlanCode": "NAS SK C10 50",
+        "PlanDescription": "NAS RN SUKOON TAKAFL INS DED NIL COPAY NIL PH NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "NAS SUK 20%M50",
         "PlanDescription": "NAS SRN SUKOON TAKAFL COPAY 20% M50 10%LAB,RAD&PHARM",
         "PlanActiveStatus": "Active"
