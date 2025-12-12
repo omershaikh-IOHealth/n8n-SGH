@@ -2598,6 +2598,11 @@
         "PlanActiveStatus": "Active"
       },
       {
+        "PlanCode": "D-M ALICO D65",
+        "PlanDescription": "MEDNET-METLIFE DED 20%MAX 65 COPAY NIL",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "D-M ALICO D75",
         "PlanDescription": "MEDNET-METLIFE DED 20%MAX 75 COPAY NIL",
         "PlanActiveStatus": "Active"
