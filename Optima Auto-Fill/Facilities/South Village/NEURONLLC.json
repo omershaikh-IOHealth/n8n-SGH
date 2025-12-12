@@ -283,6 +283,11 @@
         "PlanActiveStatus": "Active"
       },
       {
+        "PlanCode": "N GN C D30",
+        "PlanDescription": "NEURON GN CIGNA DED 30% COPAY 30%",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "N GN C D50P5%",
         "PlanDescription": "NEURON GN CIGNA DED50AED COPAY  NIL PH 5%",
         "PlanActiveStatus": "Active"
