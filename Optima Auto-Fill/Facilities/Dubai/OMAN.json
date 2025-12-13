@@ -11,11 +11,6 @@
         "PlanCode": "OIC COM D20M100",
         "PlanDescription": "OMAN INS CO -COMP  DED 20% M100 L/R/OP /PH 10%M100",
         "PlanActiveStatus": "Active"
-      },
-      {
-        "PlanCode": "OM IN D0%50C0",
-        "PlanDescription": "OMAN INSURANCE PREMIUM (IND)  DED 20% M 50 L/PH 10% R10A",
-        "PlanActiveStatus": "Active"
       }
     ]
   },
@@ -330,6 +325,11 @@
       {
         "PlanCode": "OM CN D25C10%",
         "PlanDescription": "OMAN PREMIUM/CN/CN+ DED 25 COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
+        "PlanCode": "OM IN D0%50C0",
+        "PlanDescription": "OMAN INS PREMIUM DED 20% M50 L/PH 10% RAD 10 AED",
         "PlanActiveStatus": "Active"
       },
       {
