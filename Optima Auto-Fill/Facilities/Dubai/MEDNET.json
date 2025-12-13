@@ -333,6 +333,11 @@
     "PayerId": "INS013",
     "Plans": [
       {
+        "PlanCode": "MD ALICO D20%75",
+        "PlanDescription": "MEDNET ALICO (SILVER) DED 20% MAX 75 COPAY 20%M100  PH 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "MD AME 201005",
         "PlanDescription": "MEDNET ALICO SILVER PREMIUM D 20% M 100 L/R 100 P 50",
         "PlanActiveStatus": "Active"
