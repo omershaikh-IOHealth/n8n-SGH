@@ -3758,6 +3758,11 @@
         "PlanActiveStatus": "Active"
       },
       {
+        "PlanCode": "NAS MED D20%C10",
+        "PlanDescription": "NAS GN MEDGULF UAE DED 20% MAX 50 COPAY 10% PH 15%",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "NAS MED D20%M5P",
         "PlanDescription": "NAS GN MEDGULF UAE DED 20% MAX 50 COPAY 20% PH 10%",
         "PlanActiveStatus": "Active"
