@@ -1593,6 +1593,11 @@
         "PlanActiveStatus": "Active"
       },
       {
+        "PlanCode": "D-NAS A D 20%C0",
+        "PlanDescription": "NAS RN+SRN+WN ADNIC DED 20%(MAX 50) COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "D-NAS AD CO 0",
         "PlanDescription": "NAS RN ADNIC DED0 COPAY NIL",
         "PlanActiveStatus": "Active"
