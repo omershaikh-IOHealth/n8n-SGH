@@ -413,6 +413,11 @@
     "PayerId": "INS022",
     "Plans": [
       {
+        "PlanCode": "AAF TK D20%MC10",
+        "PlanDescription": "AAFIYA APN PLUS TAKAFUL EMARAT DED 20% M50 COPAY 10%",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "AAF TK D20%P20%",
         "PlanDescription": "AAFIYA APN PLUS TAKAFUL EMARAT DED 20%(25) COPAY NIL PH 20%",
         "PlanActiveStatus": "Active"
