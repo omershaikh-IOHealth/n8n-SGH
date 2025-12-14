@@ -403,6 +403,11 @@
         "PlanActiveStatus": "Active"
       },
       {
+        "PlanCode": "D-M AMER 20%25",
+        "PlanDescription": "MEDNET AMERICAN SILVER   DED 20% M25 COPAY NILL",
+        "PlanActiveStatus": "Active"
+      },
+      {
         "PlanCode": "D-M AMER 20%M",
         "PlanDescription": "MEDNET AMERICAN SILVER   DED 20%M50 COPAY 5% PH 5%",
         "PlanActiveStatus": "Active"
